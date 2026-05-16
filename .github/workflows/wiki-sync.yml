@@ -1,0 +1,45 @@
+name: Sync Wiki
+on:
+  push:
+    paths: ['MEMORY.md', 'memory/*.md']
+  schedule:
+    - cron: '0 6 * * 0'  # Sunday 6 AM
+  workflow_dispatch:
+
+jobs:
+  sync-wiki:
+    runs-on: self-hosted
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Build wiki content
+        run: |
+          mkdir -p wiki-output
+          # Copy MEMORY.md as wiki Home
+          Copy-Item "MEMORY.md" "wiki-output/Home.md"
+          
+          # Copy daily notes as wiki pages
+          Get-ChildItem "memory/*.md" -Exclude "README.md","INDEX.md","consolidation-*" | ForEach-Object {
+            $name = [System.IO.Path]::GetFileNameWithoutExtension($_.Name)
+            Copy-Item $_.FullName "wiki-output/$name.md"
+          }
+          
+          # Build _Sidebar
+          "## Than Thong Wiki" | Out-File "wiki-output/_Sidebar.md"
+          "***" | Out-File "wiki-output/_Sidebar.md" -Append
+          Get-ChildItem "memory/*.md" -Exclude "README.md","INDEX.md","consolidation-*" | Sort-Object Name | ForEach-Object {
+            $name = [System.IO.Path]::GetFileNameWithoutExtension($_.Name)
+            "- [$name]($name)" | Out-File "wiki-output/_Sidebar.md" -Append
+          }
+          
+      - name: Push to wiki
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          cd wiki-output
+          git init
+          git add .
+          git -c user.name="than-thong-bot" -c user.email="bot@than-thong" commit -m "Wiki sync $(Get-Date -Format yyyy-MM-dd)"
+          git remote add origin https://github.com/namt70272-bit/than-thong-workspace.wiki.git
+          git push origin master --force
+          echo "Wiki synced: $(Get-ChildItem | Measure-Object).Count pages"

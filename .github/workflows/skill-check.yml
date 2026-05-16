@@ -1,0 +1,47 @@
+name: Check Skill Updates
+on:
+  schedule:
+    - cron: '0 8 * * 1'  # Monday 8 AM
+  workflow_dispatch:
+
+jobs:
+  check-skills:
+    runs-on: self-hosted
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Check awesome-skills updates
+        run: |
+          # Check if refs/awesome-skills was updated
+          $lastCheck = "memory/.skill-check.json"
+          $lastDate = if (Test-Path $lastCheck) { (Get-Content $lastCheck | ConvertFrom-Json).lastCheck } else { "1970-01-01" }
+          
+          # Clone awesome-skills catalog for diff
+          git clone --depth 1 https://github.com/volt-ai/awesome-agent-skills.git $env:TEMP\awesome-skills-check 2>&1 | Out-Null
+          
+          $newSkills = @()
+          $catalog = Get-ChildItem "$env:TEMP\awesome-skills-check" -Recurse -Filter "*.md" | Where-Object { $_.Name -match "SKILL.md|README.md" }
+          foreach ($s in $catalog) {
+            $relPath = $s.FullName.Replace("$env:TEMP\awesome-skills-check\", "")
+            if ($s.LastWriteTime -gt [datetime]$lastDate) {
+              $newSkills += $relPath
+            }
+          }
+          
+          if ($newSkills.Count -gt 0) {
+            echo "=== NEW/UPDATED SKILLS: $($newSkills.Count) ==="
+            foreach ($s in $newSkills) { echo "  - $s" }
+            
+            # Create issue to notify
+            $body = "New skills detected:"
+            foreach ($s in $newSkills) { $body += "`n- $s" }
+            gh issue create --title "New skills available" --body "$body"
+          } else {
+            echo "No new skills since $lastDate"
+          }
+          
+          # Save check time
+          @{ lastCheck = (Get-Date -Format "yyyy-MM-dd") } | ConvertTo-Json | Out-File $lastCheck -Encoding utf8
+          
+          # Cleanup
+          Remove-Item "$env:TEMP\awesome-skills-check" -Recurse -Force -ErrorAction SilentlyContinue

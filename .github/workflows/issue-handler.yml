@@ -1,0 +1,58 @@
+name: Issue Handler
+on:
+  issues:
+    types: [opened, labeled]
+  workflow_dispatch:
+    inputs:
+      issue_title:
+        description: 'Issue title'
+        required: true
+      issue_body:
+        description: 'Issue body'
+        required: false
+
+jobs:
+  handle-issue:
+    runs-on: self-hosted
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Classify issue
+        id: classify
+        run: |
+          $title = "${{ github.event.issue.title || inputs.issue_title }}"
+          $body = "${{ github.event.issue.body || inputs.issue_body }}"
+          
+          if ($title -match "(bug|fix|error|sai|lỗi|hỏng)") {
+            echo "type=bug" >> $env:GITHUB_OUTPUT
+          } elseif ($title -match "(feature|feat|them|add|new|mới)") {
+            echo "type=feature" >> $env:GITHUB_OUTPUT
+          } elseif ($title -match "(update|nâng|upgrade|cập nhật)") {
+            echo "type=update" >> $env:GITHUB_OUTPUT
+          } elseif ($title -match "(hỏi|question|?|how|cách)") {
+            echo "type=question" >> $env:GITHUB_OUTPUT
+          } else {
+            echo "type=other" >> $env:GITHUB_OUTPUT
+          }
+      
+      - name: Auto-label
+        if: github.event_name == 'issues'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          $label = "${{ steps.classify.outputs.type }}"
+          gh issue edit ${{ github.event.issue.number }} --add-label $label
+          
+      - name: Auto-comment
+        if: github.event_name == 'issues'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          $type = "${{ steps.classify.outputs.type }}"
+          $comment = switch ($type) {
+            "bug" { "Phát hiện bug. Than Thong se kiem tra va fix." }
+            "feature" { "Yeu cau feature moi. Se duoc phan tich va len ke hoach." }
+            "question" { "Cau hoi da duoc ghi nhan. Dang tra loi..." }
+            default { "Issue da duoc tiep nhan. Phan loai: $type" }
+          }
+          gh issue comment ${{ github.event.issue.number }} --body "👁️ $comment"

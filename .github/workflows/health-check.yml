@@ -1,0 +1,70 @@
+name: Health Check
+on:
+  schedule:
+    - cron: '0 7 * * *'  # Daily 7 AM
+  workflow_dispatch:
+
+jobs:
+  health:
+    runs-on: self-hosted
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Check syntax errors
+        continue-on-error: true
+        run: |
+          $issues = @()
+          Get-ChildItem -Recurse -Filter "*.py" | ForEach-Object {
+            try { python -c "import ast; ast.parse(open('$($_.FullName)','r',encoding='utf-8').read())" 2>&1 | Out-Null }
+            catch { $issues += $_.Name }
+          }
+          if ($issues.Count -gt 0) {
+            echo "SYNTAX ERRORS: $($issues -join ', ')"
+            echo "has_issues=true" >> $env:GITHUB_OUTPUT
+          } else {
+            echo "All .py files OK"
+            echo "has_issues=false" >> $env:GITHUB_OUTPUT
+          }
+      
+      - name: Check pip
+        continue-on-error: true
+        run: |
+          pip check 2>&1 | Out-File $env:TEMP\pip-check.txt
+          $issues = Get-Content $env:TEMP\pip-check.txt | Where-Object { $_ -match "incompatible|conflict" }
+          if ($issues.Count -gt 0) {
+            echo "PIP ISSUES:"
+            $issues
+          }
+      
+      - name: Check runner service
+        run: |
+          $svc = Get-Service -Name "GitHubActionsRunner" -ErrorAction SilentlyContinue
+          if ($svc.Status -eq "Running") {
+            echo "Runner service: OK"
+          } else {
+            echo "WARN: Runner service not running (Status: $($svc.Status))"
+          }
+      
+      - name: Check disk space
+        run: |
+          $drives = Get-PSDrive -PSProvider FileSystem
+          foreach ($d in $drives) {
+            $pct = [math]::Round(($d.Used + 1MB) / ($d.Free + $d.Used + 1MB) * 100, 1)
+            if ($pct -gt 90) {
+              echo "WARN: $($d.Name): $pct% used"
+            } else {
+              echo "$($d.Name): $pct% used"
+            }
+          }
+      
+      - name: Check GitHub token expiry
+        run: |
+          $expiry = C:\Users\ACER\AppData\Local\gh-cli\bin\gh.exe api user --jq '.updated_at' 2>&1
+          echo "Token last updated: $expiry"
+      
+      - name: Create issue if problems found
+        if: failure()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh issue create --title "Health check: issues detected $(Get-Date -Format yyyy-MM-dd)" --body "Health check found problems. Check the workflow logs for details."

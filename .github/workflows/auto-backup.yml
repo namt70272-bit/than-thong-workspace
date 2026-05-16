@@ -1,0 +1,22 @@
+name: Auto Backup
+on:
+  schedule:
+    - cron: '0 22 * * *'  # Daily 10 PM
+  workflow_dispatch:
+
+jobs:
+  backup:
+    runs-on: self-hosted
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Run memory consolidation
+        run: python tools-internal/scripts/memory_consolidator.py --cron
+        
+      - name: Commit and push changes
+        run: |
+          cd "E:\KY-DATA\OpenClaw\runtime-mirror\.openclaw\workspace"
+          git add -A
+          git commit --allow-empty -m "auto-backup: $(Get-Date -Format yyyy-MM-dd HH:mm)" 2>&1 | Out-Null
+          git push 2>&1
+          echo "Backup pushed: $(Get-Date)"

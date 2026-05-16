@@ -1,0 +1,55 @@
+name: Release
+on:
+  push:
+    tags: ['v*']
+  workflow_dispatch:
+    inputs:
+      version:
+        description: 'Version tag (e.g. v1.2.3)'
+        required: true
+
+jobs:
+  release:
+    runs-on: self-hosted
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Run full test suite
+        run: python run_tests.py --unit
+      
+      - name: Build release bundle
+        run: |
+          $version = "${{ github.ref_name || inputs.version }}"
+          $outDir = "release\than-thong-$version"
+          mkdir $outDir -Force | Out-Null
+          
+          # Core scripts
+          Copy-Item "tools-internal\scripts\*.py" "$outDir\scripts\" -Recurse
+          Copy-Item "run_tests.py" "$outDir\"
+          Copy-Item "tests\" "$outDir\tests\" -Recurse
+          Copy-Item ".github\workflows\" "$outDir\workflows\" -Recurse
+          
+          # Build README
+          @"
+          Than Thong v$version
+          =====================
+          Release date: $(Get-Date -Format yyyy-MM-dd)
+          
+          Contains:
+          - Core Thần Thông scripts ($(Get-ChildItem tools-internal/scripts/*.py | Measure-Object).Count .py files)
+          - CI/CD workflows ($(Get-ChildItem .github/workflows/*.yml | Measure-Object).Count workflows)
+          - Test suite ($(Get-ChildItem tests/ -Recurse -Filter *.py | Measure-Object).Count tests)
+          - GitHub Actions self-hosted runner config
+          "@ | Out-File "$outDir\README.txt" -Encoding utf8
+          
+          # Zip
+          Compress-Archive -Path "release\than-thong-$version" -DestinationPath "release\than-thong-$version.zip" -Force
+          echo "artifact=release\than-thong-$version.zip" >> $env:GITHUB_OUTPUT
+          echo "version=$version" >> $env:GITHUB_OUTPUT
+      
+      - name: Create GitHub Release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          $version = "${{ github.ref_name || inputs.version }}"
+          gh release create $version "release\than-thong-$version.zip" --title "Than Thong $version" --notes "Auto-build from workflow."
