@@ -16,19 +16,21 @@ jobs:
         run: python -m pytest tests/ -v
         
       - name: Syntax check
-        run: |
-          python -c "
-          import os, ast
-          errors = []
-          for root, dirs, files in os.walk('.'):
-            for f in files:
-              if f.endswith('.py'):
-                try:
-                  ast.parse(open(os.path.join(root,f), 'r', encoding='utf-8', errors='replace').read())
-                except SyntaxError as e:
-                  errors.append(f'{f}: {e}')
-          if errors:
-            for e in errors: print(f'SYNTAX ERROR: {e}')
-            exit(1)
-          print('ALL .py files pass syntax check')
-          "
+        run: python -c "
+import os, ast
+errors = []
+for root, dirs, files in os.walk('.'):
+  for f in files:
+    if f.endswith('.py'):
+      try:
+        ast.parse(open(os.path.join(root,f), 'r', encoding='utf-8', errors='replace').read())
+      except SyntaxError as e:
+        errors.append(f'{f}: {e}')
+if errors:
+  for e in errors: print(f'SYNTAX ERROR: {e}')
+  exit(1)
+print('ALL .py files pass syntax check')
+"
+      
+      - name: Ruff lint check
+        run: ruff check . --ignore E501 --exit-zero 2>&1 | tail -20

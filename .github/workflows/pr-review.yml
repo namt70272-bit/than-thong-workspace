@@ -33,6 +33,9 @@ print('ALL .py files pass syntax check')
       - name: Pip check
         run: pip check || echo "Pip conflicts detected (non-critical)"
       
+      - name: Ruff lint check
+        run: ruff check . --ignore E501 --exit-zero 2>&1 | tail -30
+      
       - name: Compliance check
         run: |
           python -c "

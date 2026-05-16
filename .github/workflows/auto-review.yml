@@ -1,0 +1,94 @@
+name: Auto Review by Local LLM
+on:
+  pull_request:
+    paths: ['**.py', '**.md', '**/workflows/**']
+  workflow_dispatch:
+
+jobs:
+  llm-review:
+    runs-on: self-hosted
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Run tests
+        run: python -m pytest tests/ -v
+      
+      - name: Syntax + Ruff check
+        run: |
+          python -c "
+import os, ast
+errors = []
+for root, dirs, files in os.walk('.'):
+  for f in files:
+    if f.endswith('.py'):
+      try: ast.parse(open(os.path.join(root,f), 'r', encoding='utf-8', errors='replace').read())
+      except SyntaxError as e: errors.append(f'{f}: {e}')
+if errors:
+  for e in errors: print(f'SYNTAX ERROR: {e}')
+  exit(1)
+print('ALL .py files pass syntax check')
+"
+          ruff check . --ignore E501 --exit-zero 2>&1 | tail -10
+      
+      - name: AI Review
+        id: ai-review
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          $diff = git diff origin/master --name-only 2>$null
+          if (-not $diff) {
+            $diff = git diff --name-only HEAD~1
+          }
+          echo "=== Changed files ==="
+          $diff
+          
+          # Build review prompt from diff
+          $codeBlock = ""
+          foreach ($file in $diff) {
+            if ($file -match "\.(py|md|yml|yaml|ps1|cmd)$") {
+              $content = Get-Content $file -Raw -ErrorAction SilentlyContinue
+              if ($content) {
+                $codeBlock += "`n=== $file ===`n$($content.Substring(0, [Math]::Min($content.Length, 3000)))`n"
+              }
+            }
+          }
+          
+          if ($codeBlock -eq "") {
+            echo "No reviewable files changed"
+            echo "review_comment=No code changes to review." >> $env:GITHUB_OUTPUT
+            exit 0
+          }
+          
+          # Call local LLM
+          $prompt = @"
+You are a code reviewer. Review the following code changes and provide brief feedback.
+
+$codeBlock
+
+Provide a short review (2-3 sentences) in Vietnamese. Focus on bugs, security, or obvious issues.
+If everything looks fine, just say "OK".
+"@
+          
+          $body = @{
+            model = "qwen2.5-coder:7b"
+            prompt = $prompt
+            stream = $false
+            options = @{ temperature = 0.1; num_predict = 512 }
+          } | ConvertTo-Json
+          
+          $response = Invoke-RestMethod -Uri "http://localhost:11434/api/generate" -Method Post -Body $body -ContentType "application/json"
+          $review = $response.response
+          
+          echo "=== AI Review ==="
+          echo $review
+          echo "review_comment=$review" >> $env:GITHUB_OUTPUT
+      
+      - name: Post review to PR
+        if: github.event_name == 'pull_request'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          $comment = "${{ steps.ai-review.outputs.review_comment }}"
+          if ($comment -and $comment -ne "No code changes to review.") {
+            gh pr comment ${{ github.event.pull_request.number }} --body "👁️ **AI Review (local):**`n$comment"
+          }

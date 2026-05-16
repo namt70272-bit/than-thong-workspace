@@ -1,0 +1,28 @@
+target-version = "py311"
+line-length = 120
+
+# Chỉ warning, không block CI
+ignore = [
+    "E501",    # line too long
+    "F401",    # imported but unused (nhiều script import động)
+    "E402",    # module level import not at top
+    "D100",    # missing docstring (script không cần)
+    "D101",
+    "D102",
+    "D103",
+]
+
+# Chỉ check file thật sự quan trọng
+include = ["*.py"]
+
+# Bỏ qua thư mục không cần check
+exclude = [
+    ".git",
+    ".github",
+    "runner",
+    "__pycache__",
+    "_work",
+]
+
+# Check chính
+select = ["E", "F", "W", "I", "N", "UP", "YTT"]
