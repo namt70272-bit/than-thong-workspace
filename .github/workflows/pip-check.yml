@@ -1,0 +1,17 @@
+name: Pip Dependency Check
+on:
+  push:
+    paths: ['requirements*.txt', 'setup.py', 'setup.cfg', 'pyproject.toml']
+  schedule:
+    - cron: '0 6 * * 1'  # Monday 6 AM
+  workflow_dispatch:
+
+jobs:
+  pip-check:
+    runs-on: self-hosted
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check pip dependencies
+        run: pip check
+      - name: Report outdated packages
+        run: pip list --outdated --format=columns

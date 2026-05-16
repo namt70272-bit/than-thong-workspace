@@ -1,0 +1,26 @@
+name: Auto Test
+on:
+  push:
+    paths: ['**.py', '**.md', 'tests/**', 'run_tests.py']
+  pull_request:
+    paths: ['**.py', 'tests/**']
+  workflow_dispatch:
+
+jobs:
+  test:
+    runs-on: self-hosted
+    steps:
+      - uses: actions/checkout@v4
+      - name: Run pytest
+        run: python -m pytest tests/ -v
+      - name: Syntax check all .py files
+        run: |
+          $errors = 0
+          Get-ChildItem -Recurse -Filter *.py | ForEach-Object {
+            try { [System.Reflection.Missing]::Value = [System.Text.Encoding]::UTF8.GetString([System.IO.File]::ReadAllBytes($_.FullName)) | Out-Null; python -c "import ast; ast.parse(open('$($_.FullName)','r',encoding='utf-8').read())" 2>&1 | Out-Null }
+            catch { Write-Host "SYNTAX ERROR: $($_.Name)"; $errors++ }
+          }
+          if ($errors -gt 0) { exit 1 }
+          Write-Host "All .py files pass syntax check"
+      - name: Run memory consolidation
+        run: python tools-internal/scripts/memory_consolidator.py --cron

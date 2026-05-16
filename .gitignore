@@ -1,0 +1,23 @@
+# Workspace .gitignore
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+*.egg-info/
+dist/
+build/
+*.db
+*.sqlite
+*.sqlite3
+n8n-db2.sqlite
+.env
+.env.*
+*.log
+tmp/
+%TMPDIR%/
+tools-internal/records/*.json
+!tools-internal/records/.gitkeep
+reports/*.json
+reports/*.jsonl
+reports/*.png
+memory/.consolidator-state.json
