@@ -111,3 +111,22 @@ Xem báo cáo đầy đủ: `memory/consolidation-2026-05-16.md`
 | `pip-check.yml` | Weekly | pip dependency check |
 
 Tổng: **11 workflows** — tất cả đều chạy trên self-hosted runner, không tốn phí.
+
+## Local AI Stack (2026-05-16)
+
+| Tool | Trạng thái | Data path |
+|---|---|---|
+| **Ollama** v0.23.0 | Running (native) | `E:\KY-DATA\Models\ollama` |
+| **Qdrant** v1.18.0 | Running (Docker) | `E:\KY-DATA\Data\qdrant_storage` |
+| **Ruff** v0.15.13 | Installed (pip) | — |
+
+### Ollama models
+- `bge-m3:latest` (1.2 GB) — embedding cho vector search
+- `gemma3:1b-it-qat` (1.0 GB) — local LLM nhẹ
+- `qwen2.5-coder:7b` (4.7 GB) — code LLM
+
+### Workspace RAG
+- Script: `tools-internal/scripts/workspace_rag.py`
+- Indexed: 50 documents (daily notes + MEMORY.md + scripts + workflows)
+- Qdrant collection: `workspace-knowledge` (1024-dim, cosine)
+- Usage: `--index` (re-index), `--query "..."` (search), `--ask "..."` (Q&A)
