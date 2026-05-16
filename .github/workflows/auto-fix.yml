@@ -1,0 +1,46 @@
+name: Auto Fix
+on:
+  push:
+    paths: ['**.py']
+  workflow_dispatch:
+
+jobs:
+  auto-fix:
+    runs-on: self-hosted
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Detect syntax errors
+        id: detect
+        run: |
+          python -c "
+import os, ast
+errors = {}
+for root, dirs, files in os.walk('.'):
+  for f in files:
+    if f.endswith('.py'):
+      try:
+        ast.parse(open(os.path.join(root,f), 'r', encoding='utf-8', errors='replace').read())
+      except SyntaxError as e:
+        errors[f] = str(e)
+import json
+print(json.dumps(errors))
+" > $env:TEMP\syntax-errors.json 2>&1
+          $count = (Get-Content $env:TEMP\syntax-errors.json | ConvertFrom-Json).Count
+          echo "errors=$count" >> $env:GITHUB_OUTPUT
+          
+      - name: Create fix PR
+        if: steps.detect.outputs.errors != '0'
+        run: |
+          $json = Get-Content $env:TEMP\syntax-errors.json | ConvertFrom-Json
+          $files = $json.PSObject.Properties.Name
+          $branch = "auto-fix/syntax-$(Get-Date -Format yyyyMMdd-HHmmss)"
+          git checkout -b $branch
+          foreach ($file in $files) {
+            $content = Get-Content $file
+            $content -replace '\xEF\xBB\xBF', '' | Set-Content $file
+            git add $file
+          }
+          git commit -m "auto-fix: strip BOM from syntax error files" --allow-empty
+          git push origin $branch
+          gh pr create --base master --head $branch --title "Auto-fix: syntax errors" --body "Syntax errors detected on push. Auto-fix applied: stripped BOM markers."

@@ -1,0 +1,38 @@
+name: Deploy
+on:
+  push:
+    branches: [master]
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    runs-on: self-hosted
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Run tests
+        run: python -m pytest tests/ -v
+        
+      - name: Syntax check
+        run: python -c "
+import os, ast
+errors = []
+for root, dirs, files in os.walk('.'):
+  for f in files:
+    if f.endswith('.py'):
+      try:
+        ast.parse(open(os.path.join(root,f), 'r', encoding='utf-8', errors='replace').read())
+      except SyntaxError as e:
+        errors.append(f'{f}: {e}')
+if errors:
+  for e in errors: print(f'SYNTAX ERROR: {e}')
+  exit(1)
+print('ALL .py files pass syntax check')
+"
+      
+      - name: Deploy to workspace
+        run: |
+          cd "E:\KY-DATA\OpenClaw\runtime-mirror\.openclaw\workspace"
+          git pull origin master
+          git log --oneline -3
+          echo "Deploy OK: $(date)"
