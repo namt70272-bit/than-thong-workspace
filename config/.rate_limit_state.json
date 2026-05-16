@@ -1,0 +1,37 @@
+{
+  "version": 1,
+  "created": "2026-05-12T11:39:59+0700",
+  "updated": "2026-05-12T11:39:59+0700",
+  "config": {
+    "max_calls_per_minute": 30,
+    "model_limits": {},
+    "source_limits": {},
+    "billing": {
+      "daily_budget_cents": 0,
+      "currency": "USD"
+    }
+  },
+  "buckets": {
+    "global": {
+      "calls": [],
+      "remaining": 30
+    }
+  },
+  "billing": {
+    "today_spent_cents": 0,
+    "last_reset": "2026-05-12",
+    "total_calls_today": 0,
+    "total_calls_alltime": 0
+  },
+  "circuit_breaker": {
+    "consecutive_failures": 0,
+    "last_failure": null,
+    "until": null,
+    "state": "closed"
+  },
+  "stats": {
+    "last_hour_calls": 0,
+    "last_hour_start": 1778560799.7023573
+  },
+  "alerts": []
+}

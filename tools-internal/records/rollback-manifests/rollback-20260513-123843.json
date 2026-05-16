@@ -1,0 +1,10 @@
+{
+  "createdAt": "20260513-123843",
+  "files": [
+    "E:\\KY-DATA\\OpenClaw\\runtime-mirror\\.openclaw\\workspace\\references\\compliance\\billing-wave1-compliance-a0-summary.md",
+    "E:\\KY-DATA\\OpenClaw\\runtime-mirror\\.openclaw\\workspace\\references\\documentation\\billing-wave1-docs-a0-summary.md",
+    "E:\\KY-DATA\\OpenClaw\\runtime-mirror\\.openclaw\\workspace\\references\\automation\\billing-wave1-automation-a0-summary.md",
+    "E:\\KY-DATA\\OpenClaw\\runtime-mirror\\.openclaw\\workspace\\references\\memory-knowledge\\billing-wave1-memory-a0-summary.md"
+  ],
+  "note": "Remove or restore these files if import wave must be rolled back."
+}

@@ -1,0 +1,61 @@
+{
+  "System": {
+    "port": 9876,
+    "online": true,
+    "status": "UP",
+    "script": "agent_mcp_server.py",
+    "description": "System tools (skills, scripts, status)",
+    "url": "http://127.0.0.1:9876/mcp",
+    "init_ok": true
+  },
+  "Memory": {
+    "port": 9877,
+    "online": false,
+    "status": "DOWN",
+    "script": "mcp_memory_server.py",
+    "description": "JSON memory store",
+    "url": "http://127.0.0.1:9877/mcp"
+  },
+  "Search": {
+    "port": 9878,
+    "online": false,
+    "status": "DOWN",
+    "script": "mcp_search_server.py",
+    "description": "Web search + fetch",
+    "url": "http://127.0.0.1:9878/mcp"
+  },
+  "LLM": {
+    "port": 9879,
+    "online": true,
+    "status": "UP",
+    "script": "mcp_llm_server.py",
+    "description": "Ollama local LLM",
+    "url": "http://127.0.0.1:9879/mcp",
+    "init_ok": true
+  },
+  "RAG": {
+    "port": 9880,
+    "online": true,
+    "status": "UP",
+    "script": "mcp_rag_server.py",
+    "description": "Document search (4,400 chunks)",
+    "url": "http://127.0.0.1:9880/mcp",
+    "init_ok": true
+  },
+  "Gateway": {
+    "port": 9001,
+    "online": false,
+    "status": "DOWN",
+    "script": "api_gateway.py",
+    "description": "Unified API endpoint",
+    "url": "http://127.0.0.1:9001"
+  },
+  "Dashboard": {
+    "port": 8080,
+    "online": true,
+    "status": "UP",
+    "script": "dashboard_web.py",
+    "description": "Web UI dashboard",
+    "url": "http://127.0.0.1:8080"
+  }
+}

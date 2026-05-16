@@ -1,0 +1,1 @@
+---\nname: than-thong-stop-logger\ndescription: "Log session stops with timestamp"\nmetadata:\n  { "openclaw": { "emoji": "🛑", "events": ["command:stop"] } }\n---\n\n# Than-thong Stop Logger\n

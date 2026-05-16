@@ -1,0 +1,108 @@
+# 02-Microsoft-Azure - Skill Summary
+> Nguon: E:\skill\02-Microsoft-Azure
+> Ngay: 2026-05-13
+> Dong bo vao mang 07-Tich-hop-API
+
+Tong SKILL.md: 132
+
+- **agent-framework-azure-ai-py**: Build Azure AI Foundry agents using the Microsoft Agent Framework Python SDK (agent-framework-azure-ai). Use when creati
+  - `microsoft-agent-framework-azure-ai-py\SKILL.md`
+- **azure-ai-anomalydetector-java**: Build anomaly detection applications with Azure AI Anomaly Detector SDK for Java. Use when implementing univariate/multi
+  - `microsoft-azure-ai-anomalydetector-java\SKILL.md`
+- **azure-ai-contentsafety-java**: Build content moderation applications with Azure AI Content Safety SDK for Java. Use when implementing text/image analys
+  - `microsoft-azure-ai-contentsafety-java\SKILL.md`
+- **azure-ai-contentsafety-py**: |
+  - `microsoft-azure-ai-contentsafety-py\SKILL.md`
+- **azure-ai-contentsafety-ts**: Analyze text and images for harmful content using Azure AI Content Safety (@azure-rest/ai-content-safety). Use when mode
+  - `microsoft-azure-ai-contentsafety-ts\SKILL.md`
+- **azure-ai-contentunderstanding-py**: |
+  - `microsoft-azure-ai-contentunderstanding-py\SKILL.md`
+- **azure-ai-document-intelligence-dotnet**: |
+  - `microsoft-azure-ai-document-intelligence-dotnet\SKILL.md`
+- **azure-ai-document-intelligence-ts**: Extract text, tables, and structured data from documents using Azure Document Intelligence (@azure-rest/ai-document-inte
+  - `microsoft-azure-ai-document-intelligence-ts\SKILL.md`
+- **azure-ai-formrecognizer-java**: |
+  - `microsoft-azure-ai-formrecognizer-java\SKILL.md`
+- **azure-ai-ml-py**: |
+  - `microsoft-azure-ai-ml-py\SKILL.md`
+- **azure-ai-openai-dotnet**: |
+  - `microsoft-azure-ai-openai-dotnet\SKILL.md`
+- **azure-ai-projects-dotnet**: |
+  - `microsoft-azure-ai-projects-dotnet\SKILL.md`
+- **azure-ai-projects-java**: |
+  - `microsoft-azure-ai-projects-java\SKILL.md`
+- **azure-ai-projects-py**: Build AI applications using the Azure AI Projects Python SDK (azure-ai-projects). Use when working with Foundry project 
+  - `microsoft-azure-ai-projects-py\SKILL.md`
+- **azure-ai-projects-ts**: Build AI applications using Azure AI Projects SDK for JavaScript (@azure/ai-projects). Use when working with Foundry pro
+  - `microsoft-azure-ai-projects-ts\SKILL.md`
+- **azure-ai-textanalytics-py**: |
+  - `microsoft-azure-ai-textanalytics-py\SKILL.md`
+- **azure-ai-transcription-py**: |
+  - `microsoft-azure-ai-transcription-py\SKILL.md`
+- **azure-ai-translation-document-py**: |
+  - `microsoft-azure-ai-translation-document-py\SKILL.md`
+- **azure-ai-translation-text-py**: |
+  - `microsoft-azure-ai-translation-text-py\SKILL.md`
+- **azure-ai-translation-ts**: Build translation applications using Azure Translation SDKs for JavaScript (@azure-rest/ai-translation-text, @azure-rest
+  - `microsoft-azure-ai-translation-ts\SKILL.md`
+- **azure-ai-vision-imageanalysis-java**: Build image analysis applications with Azure AI Vision SDK for Java. Use when implementing image captioning, OCR text ex
+  - `microsoft-azure-ai-vision-imageanalysis-java\SKILL.md`
+- **azure-ai-vision-imageanalysis-py**: |
+  - `microsoft-azure-ai-vision-imageanalysis-py\SKILL.md`
+- **azure-ai-voicelive-dotnet**: |
+  - `microsoft-azure-ai-voicelive-dotnet\SKILL.md`
+- **azure-ai-voicelive-java**: |
+  - `microsoft-azure-ai-voicelive-java\SKILL.md`
+- **azure-ai-voicelive-py**: Build real-time voice AI applications using Azure AI Voice Live SDK (azure-ai-voicelive). Use this skill when creating P
+  - `microsoft-azure-ai-voicelive-py\SKILL.md`
+- **azure-ai-voicelive-ts**: |
+  - `microsoft-azure-ai-voicelive-ts\SKILL.md`
+- **azure-appconfiguration-java**: |
+  - `microsoft-azure-appconfiguration-java\SKILL.md`
+- **azure-appconfiguration-py**: |
+  - `microsoft-azure-appconfiguration-py\SKILL.md`
+- **azure-appconfiguration-ts**: Build applications using Azure App Configuration SDK for JavaScript (@azure/app-configuration). Use when working with co
+  - `microsoft-azure-appconfiguration-ts\SKILL.md`
+- **azure-communication-callautomation-java**: Build call automation workflows with Azure Communication Services Call Automation Java SDK. Use when implementing IVR sy
+  - `microsoft-azure-communication-callautomation-java\SKILL.md`
+- **azure-communication-callingserver-java**: Azure Communication Services CallingServer (legacy) Java SDK. Note - This SDK is deprecated. Use azure-communication-cal
+  - `microsoft-azure-communication-callingserver-java\SKILL.md`
+- **azure-communication-chat-java**: Build real-time chat applications with Azure Communication Services Chat Java SDK. Use when implementing chat threads, m
+  - `microsoft-azure-communication-chat-java\SKILL.md`
+- **azure-communication-common-java**: Azure Communication Services common utilities for Java. Use when working with CommunicationTokenCredential, user identif
+  - `microsoft-azure-communication-common-java\SKILL.md`
+- **azure-communication-sms-java**: Send SMS messages with Azure Communication Services SMS Java SDK. Use when implementing SMS notifications, alerts, OTP d
+  - `microsoft-azure-communication-sms-java\SKILL.md`
+- **azure-compute-batch-java**: |-
+  - `microsoft-azure-compute-batch-java\SKILL.md`
+- **azure-containerregistry-py**: |
+  - `microsoft-azure-containerregistry-py\SKILL.md`
+- **azure-cosmos-db-py**: Build Azure Cosmos DB NoSQL services with Python/FastAPI following production-grade patterns. Use when implementing data
+  - `microsoft-azure-cosmos-db-py\SKILL.md`
+- **azure-cosmos-java**: |
+  - `microsoft-azure-cosmos-java\SKILL.md`
+- **azure-cosmos-py**: |
+  - `microsoft-azure-cosmos-py\SKILL.md`
+- **azure-cosmos-rust**: |
+  - `microsoft-azure-cosmos-rust\SKILL.md`
+- **azure-cosmos-ts**: |
+  - `microsoft-azure-cosmos-ts\SKILL.md`
+- **azure-data-tables-java**: Build table storage applications with Azure Tables SDK for Java. Use when working with Azure Table Storage or Cosmos DB 
+  - `microsoft-azure-data-tables-java\SKILL.md`
+- **azure-data-tables-py**: |
+  - `microsoft-azure-data-tables-py\SKILL.md`
+- **azure-eventgrid-dotnet**: |
+  - `microsoft-azure-eventgrid-dotnet\SKILL.md`
+- **azure-eventgrid-java**: Build event-driven applications with Azure Event Grid SDK for Java. Use when publishing events, implementing pub/sub pat
+  - `microsoft-azure-eventgrid-java\SKILL.md`
+- **azure-eventgrid-py**: |
+  - `microsoft-azure-eventgrid-py\SKILL.md`
+- **azure-eventhub-dotnet**: |
+  - `microsoft-azure-eventhub-dotnet\SKILL.md`
+- **azure-eventhub-java**: Build real-time streaming applications with Azure Event Hubs SDK for Java. Use when implementing event streaming, high-t
+  - `microsoft-azure-eventhub-java\SKILL.md`
+- **azure-eventhub-py**: |
+  - `microsoft-azure-eventhub-py\SKILL.md`
+- **azure-eventhub-rust**: |
+  - `microsoft-azure-eventhub-rust\SKILL.md`
+  *... va 82 skill khac*

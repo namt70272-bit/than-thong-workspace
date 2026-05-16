@@ -1,0 +1,108 @@
+# 43-Cong-Dong-Chuyen-Nganh-Dac-Thu - Skill Summary
+> Nguon: E:\skill\43-Cong-Dong-Chuyen-Nganh-Dac-Thu
+> Ngay: 2026-05-13
+> Dong bo vao mang 09-Mang-agent
+
+Tong SKILL.md: 715
+
+- **VibeSec-Skill**: This skill helps Claude write secure web applications. Use this when working on any web application or when a user reque
+  - `BehiSecc__vibesec\SKILL.md`
+- **home-assistant-manager**: Expert-level Home Assistant configuration management with efficient deployment workflows (git and rapid scp iteration), 
+  - `komal-SkyNET__claude-skill-homeassistant\SKILL.md`
+- **color-expert**: Use when working with color naming, color theory, color spaces, color definitions, or any task involving color knowledge
+  - `meodai__skill.color-expert\SKILL.md`
+- **genealogy-research**: Guide a genealogy research agent through the full lifecycle — interviews, document processing (OCR), structured YAML dat
+  - `peas__genealogy-research\SKILL.md`
+- **imagen**: |
+  - `sanjay3290__imagen\SKILL.md`
+- **ru-text**: >
+  - `talkstream__ru-text\SKILL.md`
+- **vmware-aiops**: >
+  - `zw008__VMware-AIops\skills\vmware-aiops\SKILL.md`
+- **autoresearch**: Orchestrates end-to-end autonomous AI research projects using a two-loop architecture. The inner loop runs rapid experim
+  - `zechenzhangAGI__AI-research-SKILLs\0-autoresearch-skill\SKILL.md`
+- **ara-compiler**: Compiles any research input — PDF papers, GitHub repositories, experiment logs, code directories, or raw notes — into a 
+  - `zechenzhangAGI__AI-research-SKILLs\22-agent-native-research-artifact\compiler\SKILL.md`
+- **ara-research-manager**: Records research provenance as a post-task epilogue, scanning conversation history at the end of a coding or research se
+  - `zechenzhangAGI__AI-research-SKILLs\22-agent-native-research-artifact\research-manager\SKILL.md`
+- **ara-rigor-reviewer**: Performs ARA Seal Level 2 semantic epistemic review on Agent-Native Research Artifacts, scoring six dimensions (evidence
+  - `zechenzhangAGI__AI-research-SKILLs\22-agent-native-research-artifact\rigor-reviewer\SKILL.md`
+- **brainstorming-research-ideas**: Guides researchers through structured ideation frameworks to discover high-impact research directions. Use when explorin
+  - `zechenzhangAGI__AI-research-SKILLs\21-research-ideation\brainstorming-research-ideas\SKILL.md`
+- **creative-thinking-for-research**: Applies cognitive science frameworks for creative thinking to CS and AI research ideation. Use when seeking genuinely no
+  - `zechenzhangAGI__AI-research-SKILLs\21-research-ideation\creative-thinking-for-research\SKILL.md`
+- **academic-plotting**: Generates publication-quality figures for ML papers from research context. Given a paper section or description, extract
+  - `zechenzhangAGI__AI-research-SKILLs\20-ml-paper-writing\academic-plotting\SKILL.md`
+- **ml-paper-writing**: Write publication-ready ML/AI papers for NeurIPS, ICML, ICLR, ACL, AAAI, COLM. Use when drafting papers from research re
+  - `zechenzhangAGI__AI-research-SKILLs\20-ml-paper-writing\ml-paper-writing\SKILL.md`
+- **presenting-conference-talks**: Generates conference presentation slides (Beamer LaTeX PDF and editable PPTX) from a compiled paper with speaker notes a
+  - `zechenzhangAGI__AI-research-SKILLs\20-ml-paper-writing\presenting-conference-talks\SKILL.md`
+- **systems-paper-writing**: Comprehensive guide for writing systems papers targeting OSDI, SOSP, ASPLOS, NSDI, and EuroSys. Provides paragraph-level
+  - `zechenzhangAGI__AI-research-SKILLs\20-ml-paper-writing\systems-paper-writing\SKILL.md`
+- **knowledge-distillation**: Compress large language models using knowledge distillation from teacher to student models. Use when deploying smaller m
+  - `zechenzhangAGI__AI-research-SKILLs\19-emerging-techniques\knowledge-distillation\SKILL.md`
+- **long-context**: Extend context windows of transformer models using RoPE, YaRN, ALiBi, and position interpolation techniques. Use when pr
+  - `zechenzhangAGI__AI-research-SKILLs\19-emerging-techniques\long-context\SKILL.md`
+- **model-merging**: Merge multiple fine-tuned models using mergekit to combine capabilities without retraining. Use when creating specialize
+  - `zechenzhangAGI__AI-research-SKILLs\19-emerging-techniques\model-merging\SKILL.md`
+- **model-pruning**: Reduce LLM size and accelerate inference using pruning techniques like Wanda and SparseGPT. Use when compressing models 
+  - `zechenzhangAGI__AI-research-SKILLs\19-emerging-techniques\model-pruning\SKILL.md`
+- **moe-training**: Train Mixture of Experts (MoE) models using DeepSpeed or HuggingFace. Use when training large-scale models with limited 
+  - `zechenzhangAGI__AI-research-SKILLs\19-emerging-techniques\moe-training\SKILL.md`
+- **speculative-decoding**: Accelerate LLM inference using speculative decoding, Medusa multiple heads, and lookahead decoding techniques. Use when 
+  - `zechenzhangAGI__AI-research-SKILLs\19-emerging-techniques\speculative-decoding\SKILL.md`
+- **audiocraft-audio-generation**: PyTorch library for audio generation including text-to-music (MusicGen) and text-to-sound (AudioGen). Use when you need 
+  - `zechenzhangAGI__AI-research-SKILLs\18-multimodal\audiocraft\SKILL.md`
+- **blip-2-vision-language**: Vision-language pre-training framework bridging frozen image encoders and LLMs. Use when you need image captioning, visu
+  - `zechenzhangAGI__AI-research-SKILLs\18-multimodal\blip-2\SKILL.md`
+- **clip**: OpenAI's model connecting vision and language. Enables zero-shot image classification, image-text matching, and cross-mo
+  - `zechenzhangAGI__AI-research-SKILLs\18-multimodal\clip\SKILL.md`
+- **evaluating-cosmos-policy**: Evaluates NVIDIA Cosmos Policy on LIBERO and RoboCasa simulation environments. Use when setting up cosmos-policy for rob
+  - `zechenzhangAGI__AI-research-SKILLs\18-multimodal\cosmos-policy\SKILL.md`
+- **llava**: Large Language and Vision Assistant. Enables visual instruction tuning and image-based conversations. Combines CLIP visi
+  - `zechenzhangAGI__AI-research-SKILLs\18-multimodal\llava\SKILL.md`
+- **fine-tuning-serving-openpi**: Fine-tune and serve Physical Intelligence OpenPI models (pi0, pi0-fast, pi0.5) using JAX or PyTorch backends for robot p
+  - `zechenzhangAGI__AI-research-SKILLs\18-multimodal\openpi\SKILL.md`
+- **fine-tuning-openvla-oft**: Fine-tunes and evaluates OpenVLA-OFT and OpenVLA-OFT+ policies for robot action generation with continuous action heads,
+  - `zechenzhangAGI__AI-research-SKILLs\18-multimodal\openvla-oft\SKILL.md`
+- **segment-anything-model**: Foundation model for image segmentation with zero-shot transfer. Use when you need to segment any object in images using
+  - `zechenzhangAGI__AI-research-SKILLs\18-multimodal\segment-anything\SKILL.md`
+- **stable-diffusion-image-generation**: State-of-the-art text-to-image generation with Stable Diffusion models via HuggingFace Diffusers. Use when generating im
+  - `zechenzhangAGI__AI-research-SKILLs\18-multimodal\stable-diffusion\SKILL.md`
+- **whisper**: OpenAI's general-purpose speech recognition model. Supports 99 languages, transcription, translation to English, and lan
+  - `zechenzhangAGI__AI-research-SKILLs\18-multimodal\whisper\SKILL.md`
+- **langsmith-observability**: LLM observability platform for tracing, evaluation, and monitoring. Use when debugging LLM applications, evaluating mode
+  - `zechenzhangAGI__AI-research-SKILLs\17-observability\langsmith\SKILL.md`
+- **phoenix-observability**: Open-source AI observability platform for LLM tracing, evaluation, and monitoring. Use when debugging LLM applications w
+  - `zechenzhangAGI__AI-research-SKILLs\17-observability\phoenix\SKILL.md`
+- **dspy**: Build complex AI systems with declarative programming, optimize prompts automatically, create modular RAG systems and ag
+  - `zechenzhangAGI__AI-research-SKILLs\16-prompt-engineering\dspy\SKILL.md`
+- **guidance**: Control LLM output with regex and grammars, guarantee valid JSON/XML/code generation, enforce structured formats, and bu
+  - `zechenzhangAGI__AI-research-SKILLs\16-prompt-engineering\guidance\SKILL.md`
+- **instructor**: Extract structured data from LLM responses with Pydantic validation, retry failed extractions automatically, parse compl
+  - `zechenzhangAGI__AI-research-SKILLs\16-prompt-engineering\instructor\SKILL.md`
+- **outlines**: Guarantee valid JSON/XML/code structure during generation, use Pydantic models for type-safe outputs, support local mode
+  - `zechenzhangAGI__AI-research-SKILLs\16-prompt-engineering\outlines\SKILL.md`
+- **chroma**: Open-source embedding database for AI applications. Store embeddings and metadata, perform vector and full-text search, 
+  - `zechenzhangAGI__AI-research-SKILLs\15-rag\chroma\SKILL.md`
+- **faiss**: Facebook's library for efficient similarity search and clustering of dense vectors. Supports billions of vectors, GPU ac
+  - `zechenzhangAGI__AI-research-SKILLs\15-rag\faiss\SKILL.md`
+- **pinecone**: Managed vector database for production AI applications. Fully managed, auto-scaling, with hybrid search (dense + sparse)
+  - `zechenzhangAGI__AI-research-SKILLs\15-rag\pinecone\SKILL.md`
+- **qdrant-vector-search**: High-performance vector similarity search engine for RAG and semantic search. Use when building production RAG systems r
+  - `zechenzhangAGI__AI-research-SKILLs\15-rag\qdrant\SKILL.md`
+- **sentence-transformers**: Framework for state-of-the-art sentence, text, and image embeddings. Provides 5000+ pre-trained models for semantic simi
+  - `zechenzhangAGI__AI-research-SKILLs\15-rag\sentence-transformers\SKILL.md`
+- **evolving-ai-agents**: Provides guidance for automatically evolving and optimizing AI agents across any domain using LLM-driven evolution algor
+  - `zechenzhangAGI__AI-research-SKILLs\14-agents\a-evolve\SKILL.md`
+- **autogpt-agents**: Autonomous AI agent platform for building and deploying continuous agents. Use when creating visual workflow agents, dep
+  - `zechenzhangAGI__AI-research-SKILLs\14-agents\autogpt\SKILL.md`
+- **crewai-multi-agent**: Multi-agent orchestration framework for autonomous AI collaboration. Use when building teams of specialized agents worki
+  - `zechenzhangAGI__AI-research-SKILLs\14-agents\crewai\SKILL.md`
+- **langchain**: Framework for building LLM-powered applications with agents, chains, and RAG. Supports multiple providers (OpenAI, Anthr
+  - `zechenzhangAGI__AI-research-SKILLs\14-agents\langchain\SKILL.md`
+- **llamaindex**: Data framework for building LLM applications with RAG. Specializes in document ingestion (300+ connectors), indexing, an
+  - `zechenzhangAGI__AI-research-SKILLs\14-agents\llamaindex\SKILL.md`
+- **mlflow**: Track ML experiments, manage model registry with versioning, deploy models to production, and reproduce experiments with
+  - `zechenzhangAGI__AI-research-SKILLs\13-mlops\mlflow\SKILL.md`
+  *... va 665 skill khac*

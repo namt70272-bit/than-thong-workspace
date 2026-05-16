@@ -1,0 +1,1 @@
+---\nname: than-thong-message-filter\ndescription: "Tag incoming messages with local-first context when billing keywords detected"\nmetadata:\n  { "openclaw": { "emoji": "🔍", "events": ["message:received"] } }\n---\n\n# Than-thong Message Filter\n

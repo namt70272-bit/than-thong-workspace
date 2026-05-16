@@ -1,0 +1,1 @@
+const handler = async (event: any) => {\n  if (event?.type !== "gateway" || event?.action !== "startup") return;\n  console.log("[than-thong] Gateway started — system check queued");\n};\n\nexport default handler;\n

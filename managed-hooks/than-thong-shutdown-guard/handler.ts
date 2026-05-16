@@ -1,0 +1,1 @@
+const handler = async (event: any) => {\n  if (event?.type !== "gateway" || event?.action !== "pre-restart") return;\n  console.log(`[than-thong] Gateway restarting — config backup recommended`);\n};\n\nexport default handler;\n

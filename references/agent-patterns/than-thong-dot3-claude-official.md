@@ -1,0 +1,108 @@
+# 01-Claude-Chinh-Thuc - Skill Summary
+> Nguon: E:\skill\01-Claude-Chinh-Thuc
+> Ngay: 2026-05-13
+> Dong bo vao mang 01-Quan-ly-agent
+
+Tong SKILL.md: 137
+
+- **angular-developer**: Generates Angular code and provides architectural guidance. Trigger when creating projects, components, or services, or 
+  - `angular-angular-developer\SKILL.md`
+- **angular-new-app**: Creates a new Angular app using the Angular CLI. This skill should be used whenever a user wants to create a new Angular
+  - `angular-angular-new-app\SKILL.md`
+- **algorithmic-art**: Creating algorithmic art using p5.js with seeded randomness and interactive parameter exploration. Use this when users r
+  - `anthropics-algorithmic-art\SKILL.md`
+- **brand-guidelines**: Applies Anthropic's official brand colors and typography to any sort of artifact that may benefit from having Anthropic'
+  - `anthropics-brand-guidelines\SKILL.md`
+- **canvas-design**: Create beautiful visual art in .png and .pdf documents using design philosophy. You should use this skill when the user 
+  - `anthropics-canvas-design\SKILL.md`
+- **doc-coauthoring**: Guide users through a structured workflow for co-authoring documentation. Use when user wants to write documentation, pr
+  - `anthropics-doc-coauthoring\SKILL.md`
+- **docx**: Use this skill whenever the user wants to create, read, edit, or manipulate Word documents (.docx files). Triggers inclu
+  - `anthropics-docx\SKILL.md`
+- **frontend-design**: Create distinctive, production-grade frontend interfaces with high design quality. Use this skill when the user asks to 
+  - `anthropics-frontend-design\SKILL.md`
+- **internal-comms**: A set of resources to help me write all kinds of internal communications, using the formats that my company likes to use
+  - `anthropics-internal-comms\SKILL.md`
+- **mcp-builder**: Guide for creating high-quality MCP (Model Context Protocol) servers that enable LLMs to interact with external services
+  - `anthropics-mcp-builder\SKILL.md`
+- **pdf**: Use this skill whenever the user wants to do anything with PDF files. This includes reading or extracting text/tables fr
+  - `anthropics-pdf\SKILL.md`
+- **pptx**: Use this skill any time a .pptx file is involved in any way — as input, output, or both. This includes: creating slide d
+  - `anthropics-pptx\SKILL.md`
+- **skill-creator**: Create new skills, modify and improve existing skills, and measure skill performance. Use when users want to create a sk
+  - `anthropics-skill-creator\SKILL.md`
+- **slack-gif-creator**: Knowledge and utilities for creating animated GIFs optimized for Slack. Provides constraints, validation tools, and anim
+  - `anthropics-slack-gif-creator\SKILL.md`
+- **template-skill**: Replace with description of the skill and when Claude should use it.
+  - `anthropics-template\SKILL.md`
+- **theme-factory**: Toolkit for styling artifacts with a theme. These artifacts can be slides, docs, reportings, HTML landing pages, etc. Th
+  - `anthropics-theme-factory\SKILL.md`
+- **web-artifacts-builder**: Suite of tools for creating elaborate, multi-component claude.ai HTML artifacts using modern frontend web technologies (
+  - `anthropics-web-artifacts-builder\SKILL.md`
+- **webapp-testing**: Toolkit for interacting with and testing local web applications using Playwright. Supports verifying frontend functional
+  - `anthropics-webapp-testing\SKILL.md`
+- **xlsx**: Use this skill any time a spreadsheet file is the primary input or output. This means any task where the user wants to: 
+  - `anthropics-xlsx\SKILL.md`
+- **better-auth-best-practices**: Configure Better Auth server and client, set up database adapters, manage sessions, add plugins, and handle environment 
+  - `better-auth-best-practices\SKILL.md`
+- **create-auth-skill**: Scaffold and implement authentication in TypeScript/JavaScript apps using Better Auth. Detect frameworks, configure data
+  - `better-auth-create-auth\SKILL.md`
+- **email-and-password-best-practices**: Configure email verification, implement password reset flows, set password policies, and customise hashing algorithms fo
+  - `better-auth-emailAndPassword\SKILL.md`
+- **organization-best-practices**: Configure multi-tenant organizations, manage members and invitations, define custom roles and permissions, set up teams,
+  - `better-auth-organization\SKILL.md`
+- **two-factor-authentication-best-practices**: Configure TOTP authenticator apps, send OTP codes via email/SMS, manage backup codes, handle trusted devices, and implem
+  - `better-auth-twoFactor\SKILL.md`
+- **github**: GitHub patterns using gh CLI for pull requests, stacked PRs, code review, branching strategies, and repository automatio
+  - `callstackincubator-github\SKILL.md`
+- **react-native-best-practices**: Provides React Native performance optimization guidelines for FPS, TTI, bundle size, memory leaks, re-renders, and anima
+  - `callstackincubator-react-native-best-practices\SKILL.md`
+- **upgrading-react-native**: Upgrades React Native apps to newer versions by applying rn-diff-purge template diffs, updating package.json dependencie
+  - `callstackincubator-upgrading-react-native\SKILL.md`
+- **chdb-datastore**: >-
+  - `clickhouse-chdb-datastore\SKILL.md`
+- **chdb-sql**: >-
+  - `clickhouse-chdb-sql\SKILL.md`
+- **clickhouse-architecture-advisor**: MUST USE when designing ClickHouse architectures, selecting between ingestion or modeling patterns, or translating best 
+  - `clickhouse-clickhouse-architecture-advisor\SKILL.md`
+- **clickhouse-best-practices**: MUST USE when reviewing ClickHouse schemas, queries, or configurations. Contains 31 rules that MUST be checked before pr
+  - `clickhouse-clickhouse-best-practices\SKILL.md`
+- **clickhousectl-cloud-deploy**: Use when a user wants to deploy ClickHouse to the cloud, go to production, use ClickHouse Cloud, host a managed ClickHou
+  - `clickhouse-clickhousectl-cloud-deploy\SKILL.md`
+- **clickhousectl-local-dev**: Use when a user wants to build an application with ClickHouse, set up a local ClickHouse development environment, instal
+  - `clickhouse-clickhousectl-local-dev\SKILL.md`
+- **composio**: Use 1000+ external apps via Composio - either directly through the CLI or by building AI agents and apps with the SDK
+  - `composiohq-composio\SKILL.md`
+- **firecrawl-build**: Integrate Firecrawl into application code whenever a product, agent, or workflow needs web data inside the app: web sear
+  - `firecrawl-firecrawl-build\SKILL.md`
+- **firecrawl-build-interact**: Integrate Firecrawl `/interact` into product code for dynamic pages and browser actions after scraping. Use when a featu
+  - `firecrawl-firecrawl-build-interact\SKILL.md`
+- **firecrawl-build-onboarding**: Get Firecrawl credentials and SDK setup into a project. Use when an application needs `FIRECRAWL_API_KEY`, when an agent
+  - `firecrawl-firecrawl-build-onboarding\SKILL.md`
+- **firecrawl-build-scrape**: Integrate Firecrawl `/scrape` into product code for single-page extraction. Use when an app already has a URL and needs 
+  - `firecrawl-firecrawl-build-scrape\SKILL.md`
+- **firecrawl-build-search**: Integrate Firecrawl `/search` into product code and agent workflows. Use when an app needs discovery before extraction, 
+  - `firecrawl-firecrawl-build-search\SKILL.md`
+- **gemini-api-dev**: Use this skill when building applications with Gemini API hosted models, including Gemini and Gemma 4, working with mult
+  - `google-gemini-gemini-api-dev\SKILL.md`
+- **gemini-interactions-api**: Use this skill when writing code that calls the Gemini API for text generation, multi-turn chat, multimodal understandin
+  - `google-gemini-gemini-interactions-api\SKILL.md`
+- **gemini-live-api-dev**: Use this skill when building real-time, bidirectional streaming applications with the Gemini Live API. Covers WebSocket-
+  - `google-gemini-gemini-live-api-dev\SKILL.md`
+- **azure-verified-modules**: Azure Verified Modules (AVM) requirements and best practices for developing certified Azure Terraform modules. Use when 
+  - `hashicorp-azure-verified-modules\SKILL.md`
+- **new-terraform-provider**: Use this when scaffolding a new Terraform provider.
+  - `hashicorp-new-terraform-provider\SKILL.md`
+- **provider-actions**: Implement Terraform Provider actions using the Plugin Framework. Use when developing imperative operations that execute 
+  - `hashicorp-provider-actions\SKILL.md`
+- **provider-resources**: Implement Terraform Provider resources and data sources using the Plugin Framework. Use when developing CRUD operations,
+  - `hashicorp-provider-resources\SKILL.md`
+- **provider-test-patterns**: >-
+  - `hashicorp-provider-test-patterns\SKILL.md`
+- **refactor-module**: Transform monolithic Terraform configurations into reusable, maintainable modules following HashiCorp's module design pr
+  - `hashicorp-refactor-module\SKILL.md`
+- **run-acceptance-tests**: Guide for running acceptance tests for a Terraform provider. Use this when asked to run an acceptance test or to run a t
+  - `hashicorp-run-acceptance-tests\SKILL.md`
+- **terraform-search-import**: Discover existing cloud resources using Terraform Search queries and bulk import them into Terraform management. Use whe
+  - `hashicorp-terraform-search-import\SKILL.md`
+  *... va 87 skill khac*

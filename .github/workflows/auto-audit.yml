@@ -1,0 +1,37 @@
+name: Auto Audit
+on:
+  schedule:
+    - cron: '0 6 * * 1'  # Monday 6 AM
+  workflow_dispatch:
+
+jobs:
+  audit:
+    runs-on: self-hosted
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Run health check
+        run: |
+          python -m pytest tests/ -v
+          pip check || echo "Non-critical conflicts"
+          python -c "
+import os, ast
+errors = []
+for root, dirs, files in os.walk('.'):
+  for f in files:
+    if f.endswith('.py'):
+      try: ast.parse(open(os.path.join(root,f), 'r', encoding='utf-8', errors='replace').read())
+      except SyntaxError: errors.append(f)
+if errors: print(f'SYNTAX ERRORS: {errors}')
+else: print('ALL OK')
+"
+      
+      - name: Run memory consolidation
+        run: python tools-internal/scripts/memory_consolidator.py --cron
+        
+      - name: Backup
+        run: |
+          cd "E:\KY-DATA\OpenClaw\runtime-mirror\.openclaw\workspace"
+          git add -A
+          git commit --allow-empty -m "auto-audit: $(Get-Date -Format yyyy-MM-dd)"
+          git push

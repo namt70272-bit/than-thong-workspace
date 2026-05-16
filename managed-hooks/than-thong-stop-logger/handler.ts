@@ -1,0 +1,1 @@
+const handler = async (event: any) => {\n  if (event?.type !== "command" || event?.action !== "stop") return;\n  console.log(`[than-thong] Session stopped at ${new Date().toISOString()}`);\n};\n\nexport default handler;\n

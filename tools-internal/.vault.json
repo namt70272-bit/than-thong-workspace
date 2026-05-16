@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "keys": [
+    "OPENAI_API_KEY",
+    "FIRECRAWL_API_KEY"
+  ],
+  "encrypted": {
+    "OPENAI_API_KEY": "\u0012\u000fHIFZ\u000eN}a^Cul]wZ\u0006\\Ro\u0003\u000bAJ]-Y#\u0003OU2x#\"rH\u001e6K\f^|Cq!-\u0004ZBG3@k\u007fS4\nT]t/\f(E=\u0016'\u0005:x\u0006=\u0002\u0014s\r\u0012\u000f\u0005;\u000bx\u00075\u0003\u000f#skx\u00075eE.^Cc\u0003YQKr\u0010\u0004\u0004\u001dCT\u001cT~ Qy4#^1Z\u000f\u00011\u001bM{yr[M Z\t\u0018\u0003a-yH\u000f#\u0006@WD\\\u0014\t\u0003F\u00054\u0000p%^\u0005%3\u000f.\b",
+    "FIRECRAWL_API_KEY": "\u0007\u0007H]QQWS\u001f\u0003_\u0000RK\u0007\u0004[WHXT\u0000\\KT]S\u0000\u0000\u0000\u000f[SV\u0003"
+  },
+  "created": "2026-05-14T13:13:00.412774"
+}

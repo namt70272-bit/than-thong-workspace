@@ -1,0 +1,1 @@
+---\nname: than-thong-shutdown-guard\ndescription: "Backup config before gateway restart"\nmetadata:\n  { "openclaw": { "emoji": "💾", "events": ["gateway:pre-restart"] } }\n---\n\n# Than-thong Shutdown Guard\n

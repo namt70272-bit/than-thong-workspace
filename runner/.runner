@@ -1,0 +1,11 @@
+﻿{
+  "agentId": 2,
+  "agentName": "than-thong-runner",
+  "poolId": 1,
+  "poolName": "Default",
+  "serverUrl": "https://pipelinesghubeus24.actions.githubusercontent.com/yqzptkSc8VDc7UoUTI45GyvDRW3fhrnt4DQqwA4ZMNO602Qa8h/",
+  "gitHubUrl": "https://github.com/namt70272-bit/than-thong-workspace",
+  "workFolder": "_work",
+  "useV2Flow": true,
+  "serverUrlV2": "https://broker.actions.githubusercontent.com/"
+}

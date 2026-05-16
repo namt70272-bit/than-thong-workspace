@@ -1,0 +1,75 @@
+# 23-MiniMax - Skill Summary
+> Nguon: E:\skill\23-MiniMax
+> Ngay: 2026-05-13
+> Dong bo vao mang 01-Quan-ly-agent
+
+Tong SKILL.md: 34
+
+- **android-native-dev**: Android native application development and UI design guide. Covers Material Design 3, Kotlin/Compose development, projec
+  - `android-native-dev\SKILL.md`
+- **mmx-cli**: Use mmx to generate text, images, video, speech, and music via the MiniMax AI platform. Use when the user wants to creat
+  - `cli\SKILL.md`
+- **frontend-dev**: |
+  - `frontend-dev\SKILL.md`
+- **fullstack-dev**: |
+  - `fullstack-dev\SKILL.md`
+- **gif-sticker-maker**: |
+  - `gif-sticker-maker\SKILL.md`
+- **ios-application-dev**: |
+  - `ios-application-dev\SKILL.md`
+- **minimax-docx**: >
+  - `minimax-docx\SKILL.md`
+- **minimax-pdf**: >
+  - `minimax-pdf\SKILL.md`
+- **minimax-xlsx**: Open, create, read, analyze, edit, or validate Excel/spreadsheet files (.xlsx, .xlsm, .csv, .tsv). Use when the user ask
+  - `minimax-xlsx\SKILL.md`
+- **pptx-generator**: Generate, edit, and read PowerPoint presentations. Create from scratch with PptxGenJS (cover, TOC, content, section divi
+  - `pptx-generator\SKILL.md`
+- **shader-dev**: Comprehensive GLSL shader techniques for creating stunning visual effects — ray marching, SDF modeling, fluid simulation
+  - `shader-dev\SKILL.md`
+- **android-native-dev**: Android native application development and UI design guide. Covers Material Design 3, Kotlin/Compose development, projec
+  - `_repo\skills\android-native-dev\SKILL.md`
+- **buddy-sings**: >
+  - `_repo\skills\buddy-sings\SKILL.md`
+- **flutter-dev**: |
+  - `_repo\skills\flutter-dev\SKILL.md`
+- **frontend-dev**: |
+  - `_repo\skills\frontend-dev\SKILL.md`
+- **fullstack-dev**: |
+  - `_repo\skills\fullstack-dev\SKILL.md`
+- **gif-sticker-maker**: |
+  - `_repo\skills\gif-sticker-maker\SKILL.md`
+- **ios-application-dev**: |
+  - `_repo\skills\ios-application-dev\SKILL.md`
+- **minimax-docx**: >
+  - `_repo\skills\minimax-docx\SKILL.md`
+- **mmx-cli**: Use mmx to generate text, images, video, speech, and music via the MiniMax AI platform. Use when the user wants to creat
+  - `_repo\skills\minimax-multimodal-toolkit\SKILL.md`
+- **minimax-music-gen**: >
+  - `_repo\skills\minimax-music-gen\SKILL.md`
+- **minimax-music-playlist**: >
+  - `_repo\skills\minimax-music-playlist\SKILL.md`
+- **minimax-pdf**: >
+  - `_repo\skills\minimax-pdf\SKILL.md`
+- **minimax-xlsx**: Open, create, read, analyze, edit, or validate Excel/spreadsheet files (.xlsx, .xlsm, .csv, .tsv). Use when the user ask
+  - `_repo\skills\minimax-xlsx\SKILL.md`
+- **pptx-generator**: Generate, edit, and read PowerPoint presentations. Create from scratch with PptxGenJS (cover, TOC, content, section divi
+  - `_repo\skills\pptx-generator\SKILL.md`
+- **react-native-dev**: |
+  - `_repo\skills\react-native-dev\SKILL.md`
+- **shader-dev**: Comprehensive GLSL shader techniques for creating stunning visual effects — ray marching, SDF modeling, fluid simulation
+  - `_repo\skills\shader-dev\SKILL.md`
+- **vision-analysis**: >
+  - `_repo\skills\vision-analysis\SKILL.md`
+- **color-font-skill**: Choose presentation-ready color palettes and font pairings for PPT/design tasks. Use when users ask for visual theme cho
+  - `_repo\plugins\pptx-plugin\skills\color-font-skill\SKILL.md`
+- **design-style-skill**: >
+  - `_repo\plugins\pptx-plugin\skills\design-style-skill\SKILL.md`
+- **ppt-editing-skill**: Edit existing PowerPoint files or templates with XML-safe workflows. Use for template-based deck updates: analyze layout
+  - `_repo\plugins\pptx-plugin\skills\ppt-editing-skill\SKILL.md`
+- **ppt-orchestra-skill**: Plan and orchestrate multi-slide PowerPoint creation from scratch. Use before generating a full deck with subagents: cla
+  - `_repo\plugins\pptx-plugin\skills\ppt-orchestra-skill\SKILL.md`
+- **slide-making-skill**: Implement single-slide PowerPoint pages with PptxGenJS. Use when writing or fixing slide JS files: dimensions, positioni
+  - `_repo\plugins\pptx-plugin\skills\slide-making-skill\SKILL.md`
+- **pr-review**: >
+  - `_repo\.claude\skills\pr-review\SKILL.md`

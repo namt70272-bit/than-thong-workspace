@@ -1,0 +1,1 @@
+---\nname: than-thong-compact-guard\ndescription: "Preserve important behavior rules before session compaction"\nmetadata:\n  { "openclaw": { "emoji": "📌", "events": ["session:compact:before"] } }\n---\n\n# Than-thong Compact Guard\n

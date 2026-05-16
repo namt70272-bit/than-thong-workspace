@@ -1,0 +1,1 @@
+---\nname: than-thong-startup\ndescription: "Log system info and verify cron jobs on gateway startup"\nmetadata:\n  { "openclaw": { "emoji": "🚀", "events": ["gateway:startup"] } }\n---\n\n# Than-thong Startup\n

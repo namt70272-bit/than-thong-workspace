@@ -1,0 +1,108 @@
+# 41-Cong-Dong-Phat-Trien-Kiem-Thu - Skill Summary
+> Nguon: E:\skill\41-Cong-Dong-Phat-Trien-Kiem-Thu
+> Ngay: 2026-05-13
+> Dong bo vao mang 05-Quan-ly-code
+
+Tong SKILL.md: 1031
+
+- **swiftui-expert-skill**: Use when writing, reviewing, or refactoring SwiftUI code for iOS or macOS, including state management, view composition,
+  - `AvdLee__swiftui-expert-skill\SKILL.md`
+- **swift-patterns**: Review, refactor, or build SwiftUI features with correct state management, modern API usage, optimal view composition, n
+  - `efremidze__swift-patterns-skill\SKILL.md`
+- **rails-conventions**: Rails 8.x application architecture, implementation, and review guidance for production codebases. Use when building or r
+  - `ethos-link__rails-conventions\SKILL.md`
+- **codex-collab**: Use when the user asks to invoke, delegate to, or collaborate with Codex on any task. Also use PROACTIVELY when an indep
+  - `Kevin7Qi__codex-collab\SKILL.md`
+- **hand-drawn-diagrams**: Create hand-drawn Excalidraw diagrams, flows, explainers, wireframes, and page mockups. Default to monochrome sketch out
+  - `muthuishere__hand-drawn-diagrams\SKILL.md`
+- **finishing-a-development-branch**: Use when implementation is complete, all tests pass, and you need to decide how to integrate the work - guides completio
+  - `obra__finishing-a-development-branch\SKILL.md`
+- **receiving-code-review**: Use when receiving code review feedback, before implementing suggestions, especially if feedback seems unclear or techni
+  - `obra__receiving-code-review\SKILL.md`
+- **requesting-code-review**: Use when completing tasks, implementing major features, or before merging to verify work meets requirements
+  - `obra__requesting-code-review\SKILL.md`
+- **subagent-driven-development**: Use when executing implementation plans with independent tasks in the current session
+  - `obra__subagent-driven-development\SKILL.md`
+- **systematic-debugging**: Use when encountering any bug, test failure, or unexpected behavior, before proposing fixes
+  - `obra__systematic-debugging\SKILL.md`
+- **test-driven-development**: Use when implementing any feature or bugfix, before writing implementation code
+  - `obra__test-driven-development\SKILL.md`
+- **using-git-worktrees**: Use when starting feature work that needs isolation from current workspace or before executing implementation plans - en
+  - `obra__using-git-worktrees\SKILL.md`
+- **verification-before-completion**: Use when about to claim work is complete, fixed, or passing, before committing or creating PRs - requires running verifi
+  - `obra__verification-before-completion\SKILL.md`
+- **writing-skills**: Use when creating new skills, editing existing skills, or verifying skills work before deployment
+  - `obra__writing-skills\SKILL.md`
+- **pict-test-designer**: Design comprehensive test cases using PICT (Pairwise Independent Combinatorial Testing) for any piece of requirements or
+  - `omkamal__pypict-skill\SKILL.md`
+- **rails-upgrade**: Analyze Rails application upgrade path. Checks current version, finds latest release, fetches upgrade notes and diffs, t
+  - `robzolkos__skill-rails-upgrade\SKILL.md`
+- **deep-research**: Execute autonomous multi-step research using Google Gemini Deep Research Agent. Use for: market analysis, competitive la
+  - `sanjay3290__deep-research\SKILL.md`
+- **postgres**: Execute read-only SQL queries against multiple PostgreSQL databases. Use when: (1) querying PostgreSQL databases, (2) ex
+  - `sanjay3290__postgres\SKILL.md`
+- **playwright-skill**: Battle-tested Playwright patterns for writing, debugging, and scaling reliable test suites. Use when you need guidance f
+  - `testdino-hq__playwright-skill\SKILL.md`
+- **app-store-preflight-skills**: >
+  - `truongduy2611__app-store-preflight-skills\SKILL.md`
+- **model-hierarchy**: >
+  - `zscole__model-hierarchy-skill\SKILL.md`
+- **makepad-2.0-animation**: |
+  - `ZhangHanDong__makepad-skills\skills\makepad-2.0-animation\SKILL.md`
+- **makepad-2.0-app-structure**: |
+  - `ZhangHanDong__makepad-skills\skills\makepad-2.0-app-structure\SKILL.md`
+- **makepad-2.0-design-judgment**: |
+  - `ZhangHanDong__makepad-skills\skills\makepad-2.0-design-judgment\SKILL.md`
+- **makepad-2.0-dsl**: |
+  - `ZhangHanDong__makepad-skills\skills\makepad-2.0-dsl\SKILL.md`
+- **makepad-2.0-events**: |
+  - `ZhangHanDong__makepad-skills\skills\makepad-2.0-events\SKILL.md`
+- **makepad-2.0-layout**: |
+  - `ZhangHanDong__makepad-skills\skills\makepad-2.0-layout\SKILL.md`
+- **makepad-2.0-migration**: |
+  - `ZhangHanDong__makepad-skills\skills\makepad-2.0-migration\SKILL.md`
+- **makepad-2.0-performance**: |
+  - `ZhangHanDong__makepad-skills\skills\makepad-2.0-performance\SKILL.md`
+- **makepad-2.0-shaders**: |
+  - `ZhangHanDong__makepad-skills\skills\makepad-2.0-shaders\SKILL.md`
+- **makepad-2.0-splash**: |
+  - `ZhangHanDong__makepad-skills\skills\makepad-2.0-splash\SKILL.md`
+- **makepad-2.0-theme**: |
+  - `ZhangHanDong__makepad-skills\skills\makepad-2.0-theme\SKILL.md`
+- **makepad-2.0-troubleshooting**: |
+  - `ZhangHanDong__makepad-skills\skills\makepad-2.0-troubleshooting\SKILL.md`
+- **makepad-2.0-vector**: |
+  - `ZhangHanDong__makepad-skills\skills\makepad-2.0-vector\SKILL.md`
+- **makepad-2.0-widgets**: |
+  - `ZhangHanDong__makepad-skills\skills\makepad-2.0-widgets\SKILL.md`
+- **varlock**: Secure environment variable management with Varlock. Use when handling secrets, API keys, credentials, or any sensitive 
+  - `wrsmith108__varlock-claude-skill\skills\varlock\SKILL.md`
+- **moyu**: >
+  - `uucz__moyu\skills\moyu\SKILL.md`
+- **moyu-en**: >
+  - `uucz__moyu\skills\moyu-en\SKILL.md`
+- **moyu-fr**: >
+  - `uucz__moyu\skills\moyu-fr\SKILL.md`
+- **moyu-ja**: >
+  - `uucz__moyu\skills\moyu-ja\SKILL.md`
+- **moyu-ko**: >
+  - `uucz__moyu\skills\moyu-ko\SKILL.md`
+- **moyu-lite**: >
+  - `uucz__moyu\skills\moyu-lite\SKILL.md`
+- **moyu-strict**: >
+  - `uucz__moyu\skills\moyu-strict\SKILL.md`
+- **moyu**: >
+  - `uucz__moyu\opencode\moyu\SKILL.md`
+- **moyu-en**: >
+  - `uucz__moyu\opencode\moyu-en\SKILL.md`
+- **moyu**: >
+  - `uucz__moyu\codex\moyu\SKILL.md`
+- **moyu-en**: >
+  - `uucz__moyu\codex\moyu-en\SKILL.md`
+- **moyu**: >
+  - `uucz__moyu\codebuddy\moyu\SKILL.md`
+- **moyu-en**: >
+  - `uucz__moyu\codebuddy\moyu-en\SKILL.md`
+- **moyu**: >
+  - `uucz__moyu\antigravity\moyu\SKILL.md`
+  *... va 981 skill khac*

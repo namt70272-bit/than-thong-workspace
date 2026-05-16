@@ -1,0 +1,12 @@
+﻿{
+  "repositoryName": "namt70272-bit/than-thong-workspace",
+  "pipelineDirectory": "than-thong-workspace",
+  "workspaceDirectory": "than-thong-workspace\\than-thong-workspace",
+  "repositories": {
+    "namt70272-bit/than-thong-workspace": {
+      "repositoryPath": "than-thong-workspace\\than-thong-workspace",
+      "lastRunOn": "05/16/2026 19:04:38 +07:00"
+    }
+  },
+  "lastRunOn": "05/16/2026 20:13:15 +07:00"
+}

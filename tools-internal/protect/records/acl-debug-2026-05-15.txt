@@ -1,0 +1,2 @@
+Using current Windows identity + SID from runtime host to harden E:\KY-DATA\OpenClaw\bin shims.
+Strategy: disable inheritance with copy, remove Authenticated Users modify, grant current SID RX, keep Administrators/SYSTEM full.

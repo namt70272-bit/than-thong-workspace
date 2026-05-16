@@ -1,0 +1,1 @@
+const handler = async (event: any) => {\n  if (event?.type !== "session" || event?.action !== "compact:before") return;\n  if (Array.isArray(event.messages)) {\n    event.messages.push("📌 Session compacting — keep than-thong rules: local/offline first, no billing.");\n  }\n};\n\nexport default handler;\n

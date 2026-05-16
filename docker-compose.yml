@@ -1,0 +1,54 @@
+# OpenClaw Docker Services
+# Data volumes mapped to E: drive
+
+services:
+  qdrant:
+    image: qdrant/qdrant:latest
+    container_name: qdrant
+    restart: unless-stopped
+    ports:
+      - "6333:6333"
+      - "6334:6334"
+    volumes:
+      - "E:\\KY-DATA\\Data\\qdrant_storage:/qdrant/storage"
+    networks:
+      - openclaw-net
+
+  dozzle:
+    image: amir20/dozzle:latest
+    container_name: dozzle
+    restart: unless-stopped
+    ports:
+      - "8888:8080"
+    volumes:
+      - /var/run/docker.sock:/var/run/docker.sock
+    networks:
+      - openclaw-net
+
+  portainer:
+    image: portainer/portainer-ce:latest
+    container_name: portainer
+    restart: unless-stopped
+    ports:
+      - "9000:9000"
+    volumes:
+      - /var/run/docker.sock:/var/run/docker.sock
+      - portainer_data:/data
+    networks:
+      - openclaw-net
+
+  tinyproxy:
+    image: vimagick/tinyproxy:latest
+    container_name: openclaw-tinyproxy
+    restart: unless-stopped
+    ports:
+      - "1080:8888"
+    networks:
+      - openclaw-net
+
+volumes:
+  portainer_data:
+
+networks:
+  openclaw-net:
+    driver: bridge

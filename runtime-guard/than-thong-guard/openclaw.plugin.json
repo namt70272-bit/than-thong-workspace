@@ -1,0 +1,21 @@
+{
+  "id": "than-thong-guard",
+  "name": "Than-thong Guard",
+  "description": "Runtime guard enforcing than-thong-first, offline-first, no-billing/no-quota tool policy.",
+  "version": "0.1.0",
+  "activation": {
+    "onStartup": true,
+    "onCapabilities": ["hook"]
+  },
+  "configSchema": {
+    "type": "object",
+    "additionalProperties": false,
+    "properties": {
+      "enabled": { "type": "boolean" },
+      "blockedTools": {
+        "type": "array",
+        "items": { "type": "string" }
+      }
+    }
+  }
+}

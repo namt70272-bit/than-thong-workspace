@@ -1,0 +1,86 @@
+# 19-Netlify - Skill Summary
+> Nguon: E:\skill\19-Netlify
+> Ngay: 2026-05-13
+
+> Dong bo vao mang 16-Ha-tang-deploy-platform
+
+Tong SKILL.md: 39
+
+- **netlify-ai-gateway**: Reference for Netlify AI Gateway — the managed proxy that routes calls to OpenAI, Anthropic, and Google Gemini SDKs with
+  - `netlify-ai-gateway\SKILL.md`
+- **netlify-blobs**: Guide for using Netlify Blobs for file and asset storage — images, documents, uploads, exports, cached binary artifacts.
+  - `netlify-blobs\SKILL.md`
+- **netlify-caching**: Guide for controlling caching on Netlify's CDN. Use when configuring cache headers, setting up stale-while-revalidate, i
+  - `netlify-caching\SKILL.md`
+- **netlify-cli-and-deploy**: Guide for using the Netlify CLI and deploying sites. Use when installing the CLI, linking sites, deploying (Git-based or
+  - `netlify-cli-and-deploy\SKILL.md`
+- **netlify-config**: Reference for netlify.toml configuration. Use when configuring build settings, redirects, rewrites, headers, deploy cont
+  - `netlify-config\SKILL.md`
+- **netlify-database**: Guide for using Netlify Database — the GA managed Postgres product built into Netlify. Use when a project needs any kind
+  - `netlify-db\SKILL.md`
+- **netlify-deploy**: Deploy web projects to Netlify using the Netlify CLI (`npx netlify`). Use when the user asks to deploy, host, publish, o
+  - `netlify-deploy\SKILL.md`
+- **netlify-edge-functions**: Guide for writing Netlify Edge Functions. Use when building middleware, geolocation-based logic, request/response manipu
+  - `netlify-edge-functions\SKILL.md`
+- **netlify-forms**: Guide for using Netlify Forms for HTML form handling. Use when adding contact forms, feedback forms, file upload forms, 
+  - `netlify-forms\SKILL.md`
+- **netlify-frameworks**: Guide for deploying web frameworks on Netlify. Use when setting up a framework project (Vite/React, Astro, TanStack Star
+  - `netlify-frameworks\SKILL.md`
+- **netlify-functions**: Guide for writing Netlify serverless functions. Use when creating API endpoints, background processing, scheduled tasks,
+  - `netlify-functions\SKILL.md`
+- **netlify-image-cdn**: Guide for using Netlify Image CDN for image optimization and transformation. Use when serving optimized images, creating
+  - `netlify-image-cdn\SKILL.md`
+- **netlify-ai-gateway**: Reference for Netlify AI Gateway — the managed proxy that routes calls to OpenAI, Anthropic, and Google Gemini SDKs with
+  - `_repo\skills\netlify-ai-gateway\SKILL.md`
+- **netlify-blobs**: Guide for using Netlify Blobs for file and asset storage — images, documents, uploads, exports, cached binary artifacts.
+  - `_repo\skills\netlify-blobs\SKILL.md`
+- **netlify-caching**: Guide for controlling caching on Netlify's CDN. Use when configuring cache headers, setting up stale-while-revalidate, i
+  - `_repo\skills\netlify-caching\SKILL.md`
+- **netlify-cli-and-deploy**: Guide for using the Netlify CLI and deploying sites. Use when installing the CLI, linking sites, deploying (Git-based or
+  - `_repo\skills\netlify-cli-and-deploy\SKILL.md`
+- **netlify-config**: Reference for netlify.toml configuration. Use when configuring build settings, redirects, rewrites, headers, deploy cont
+  - `_repo\skills\netlify-config\SKILL.md`
+- **netlify-database**: Guide for using Netlify Database — the GA managed Postgres product built into Netlify. Use when a project needs any kind
+  - `_repo\skills\netlify-database\SKILL.md`
+- **netlify-deploy**: Deploy web projects to Netlify using the Netlify CLI (`npx netlify`). Use when the user asks to deploy, host, publish, o
+  - `_repo\skills\netlify-deploy\SKILL.md`
+- **netlify-edge-functions**: Guide for writing Netlify Edge Functions. Use when building middleware, geolocation-based logic, request/response manipu
+  - `_repo\skills\netlify-edge-functions\SKILL.md`
+- **netlify-forms**: Guide for using Netlify Forms for HTML form handling. Use when adding contact forms, feedback forms, file upload forms, 
+  - `_repo\skills\netlify-forms\SKILL.md`
+- **netlify-frameworks**: Guide for deploying web frameworks on Netlify. Use when setting up a framework project (Vite/React, Astro, TanStack Star
+  - `_repo\skills\netlify-frameworks\SKILL.md`
+- **netlify-functions**: Guide for writing Netlify serverless functions. Use when creating API endpoints, background processing, scheduled tasks,
+  - `_repo\skills\netlify-functions\SKILL.md`
+- **netlify-identity**: Use when the task involves authentication, user signups, logins, password recovery, OAuth providers, role-based access c
+  - `_repo\skills\netlify-identity\SKILL.md`
+- **netlify-image-cdn**: Guide for using Netlify Image CDN for image optimization and transformation. Use when serving optimized images, creating
+  - `_repo\skills\netlify-image-cdn\SKILL.md`
+- **netlify-ai-gateway**: Reference for Netlify AI Gateway — the managed proxy that routes calls to OpenAI, Anthropic, and Google Gemini SDKs with
+  - `_repo\codex\skills\netlify-ai-gateway\SKILL.md`
+- **netlify-blobs**: Guide for using Netlify Blobs for file and asset storage — images, documents, uploads, exports, cached binary artifacts.
+  - `_repo\codex\skills\netlify-blobs\SKILL.md`
+- **netlify-caching**: Guide for controlling caching on Netlify's CDN. Use when configuring cache headers, setting up stale-while-revalidate, i
+  - `_repo\codex\skills\netlify-caching\SKILL.md`
+- **netlify-cli-and-deploy**: Guide for using the Netlify CLI and deploying sites. Use when installing the CLI, linking sites, deploying (Git-based or
+  - `_repo\codex\skills\netlify-cli-and-deploy\SKILL.md`
+- **netlify-config**: Reference for netlify.toml configuration. Use when configuring build settings, redirects, rewrites, headers, deploy cont
+  - `_repo\codex\skills\netlify-config\SKILL.md`
+- **netlify-database**: Guide for using Netlify Database — the GA managed Postgres product built into Netlify. Use when a project needs any kind
+  - `_repo\codex\skills\netlify-database\SKILL.md`
+- **netlify-deploy**: Deploy web projects to Netlify using the Netlify CLI (`npx netlify`). Use when the user asks to deploy, host, publish, o
+  - `_repo\codex\skills\netlify-deploy\SKILL.md`
+- **netlify-edge-functions**: Guide for writing Netlify Edge Functions. Use when building middleware, geolocation-based logic, request/response manipu
+  - `_repo\codex\skills\netlify-edge-functions\SKILL.md`
+- **netlify-forms**: Guide for using Netlify Forms for HTML form handling. Use when adding contact forms, feedback forms, file upload forms, 
+  - `_repo\codex\skills\netlify-forms\SKILL.md`
+- **netlify-frameworks**: Guide for deploying web frameworks on Netlify. Use when setting up a framework project (Vite/React, Astro, TanStack Star
+  - `_repo\codex\skills\netlify-frameworks\SKILL.md`
+- **netlify-functions**: Guide for writing Netlify serverless functions. Use when creating API endpoints, background processing, scheduled tasks,
+  - `_repo\codex\skills\netlify-functions\SKILL.md`
+- **netlify-identity**: Use when the task involves authentication, user signups, logins, password recovery, OAuth providers, role-based access c
+  - `_repo\codex\skills\netlify-identity\SKILL.md`
+- **netlify-image-cdn**: Guide for using Netlify Image CDN for image optimization and transformation. Use when serving optimized images, creating
+  - `_repo\codex\skills\netlify-image-cdn\SKILL.md`
+- **skill-creator**: Create new skills, modify and improve existing skills, and measure skill performance. Use when users want to create a sk
+  - `_repo\.claude\skills\skill-creator\SKILL.md`

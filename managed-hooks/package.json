@@ -1,0 +1,16 @@
+{
+  "name": "than-thong-managed-hooks",
+  "version": "0.1.0",
+  "type": "module",
+  "openclaw": {
+    "hooks": [
+      "./than-thong-bootstrap",
+      "./than-thong-command-guard",
+      "./than-thong-startup",
+      "./than-thong-compact-guard",
+      "./than-thong-message-filter",
+      "./than-thong-stop-logger",
+      "./than-thong-shutdown-guard"
+    ]
+  }
+}

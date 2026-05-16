@@ -1,0 +1,108 @@
+# 42-Cong-Dong-Nang-Suat-Cong-Tac - Skill Summary
+> Nguon: E:\skill\42-Cong-Dong-Nang-Suat-Cong-Tac
+> Ngay: 2026-05-13
+> Dong bo vao mang 02-Quan-ly-cong-viec
+
+Tong SKILL.md: 90
+
+- **translate-book**: Translate books (PDF/DOCX/EPUB) into any language using parallel sub-agents. Converts input -> Markdown chunks -> transl
+  - `deusyu__translate-book\SKILL.md`
+- **product-manager-skills**: PM skill for Claude Code, Codex, Cursor, and Windsurf. Diagnoses SaaS metrics, critiques PRDs, plans roadmaps, runs disc
+  - `Digidai__product-manager-skills\SKILL.md`
+- **charlie**: Your AI CFO for bootstrapped startups, named after Charlie Munger who embodied the principle that capital discipline is 
+  - `EveryInc__charlie-cfo-skill\SKILL.md`
+- **automate-whatsapp**: Build WhatsApp automations with Kapso workflows: configure WhatsApp triggers, edit workflow graphs, manage executions, d
+  - `gokapso__automate-whatsapp\SKILL.md`
+- **integrate-whatsapp**: Connect WhatsApp to your product with Kapso: onboard customers with setup links, detect connections, receive events via 
+  - `gokapso__integrate-whatsapp\SKILL.md`
+- **observe-whatsapp**: Observe and troubleshoot WhatsApp in Kapso: debug message delivery, inspect webhook deliveries/retries, triage API error
+  - `gokapso__observe-whatsapp\SKILL.md`
+- **kreuzberg**: >-
+  - `kreuzberg-dev__kreuzberg\SKILL.md`
+- **write-concisely**: Apply writing rules to any documentation that humans will read. Makes your writing clearer, stronger, and more professio
+  - `NeoLabHQ__write-concisely\SKILL.md`
+- **brainstorming**: You MUST use this before any creative work - creating features, building components, adding functionality, or modifying 
+  - `obra__brainstorming\SKILL.md`
+- **dispatching-parallel-agents**: Use when facing 2+ independent tasks that can be worked on without shared state or sequential dependencies
+  - `obra__dispatching-parallel-agents\SKILL.md`
+- **executing-plans**: Use when you have a written implementation plan to execute in a separate session with review checkpoints
+  - `obra__executing-plans\SKILL.md`
+- **using-superpowers**: Use when starting any conversation - establishes how to find and use skills, requiring Skill tool invocation before ANY 
+  - `obra__using-superpowers\SKILL.md`
+- **writing-plans**: Use when you have a spec or requirements for a multi-step task, before touching code
+  - `obra__writing-plans\SKILL.md`
+- **op7418__NanoBanana-PPT-Skills**: 
+  - `op7418__NanoBanana-PPT-Skills\SKILL.md`
+- **youtube-clipper**: >
+  - `op7418__Youtube-clipper-skill\SKILL.md`
+- **notebooklm**: Use this skill to query your Google NotebookLM notebooks directly from Claude Code for source-grounded, citation-backed 
+  - `PleasePrompto__notebooklm-skill\SKILL.md`
+- **Linear**: Managing Linear issues, projects, and teams. Use when working with Linear tasks, creating issues, updating status, query
+  - `wrsmith108__linear-claude-skill\SKILL.md`
+- **frontend-slides**: Create stunning, animation-rich HTML presentations from scratch or by converting PowerPoint files. Use when the user wan
+  - `zarazhangrui__frontend-slides\SKILL.md`
+- **frontend-slides**: 
+  - `zarazhangrui__frontend-slides\plugins\frontend-slides\skills\frontend-slides\SKILL.md`
+- **speed**: Launch RSVP speed reader for text
+  - `SeanZoR__claude-speed-reader\.claude\skills\speed\SKILL.md`
+- **tutor**: >
+  - `RoundTable02__tutor-skills\skills\tutor\SKILL.md`
+- **tutor-setup**: >
+  - `RoundTable02__tutor-skills\skills\tutor-setup\SKILL.md`
+- **skill-name**: Clear description of what this skill does and when to use it. Include trigger keywords and contexts inline, e.g.
+  - `ReScienceLab__opc-skills\template\SKILL.md`
+- **archive**: Archive session learnings, debugging solutions, and deployment logs to .archive/yyyy-mm-dd/ as indexed markdown with sea
+  - `ReScienceLab__opc-skills\skills\archive\SKILL.md`
+- **banner-creator**: Create banners using AI image generation. Discuss format/style, generate variations, iterate with user feedback, crop to
+  - `ReScienceLab__opc-skills\skills\banner-creator\SKILL.md`
+- **domain-hunter**: Search domains, compare prices, find promo codes, get purchase recommendations. Use when user wants to buy a domain, che
+  - `ReScienceLab__opc-skills\skills\domain-hunter\SKILL.md`
+- **logo-creator**: Create logos using AI image generation. Discuss style/ratio, generate variations, iterate with user feedback, crop, remo
+  - `ReScienceLab__opc-skills\skills\logo-creator\SKILL.md`
+- **nanobanana**: Generate and edit images using Google Gemini 3 Pro Image (Nano Banana Pro). Supports text-to-image, image editing, vario
+  - `ReScienceLab__opc-skills\skills\nanobanana\SKILL.md`
+- **producthunt**: Search and retrieve content from Product Hunt. Get posts, topics, users, and collections via the GraphQL API. Use when u
+  - `ReScienceLab__opc-skills\skills\producthunt\SKILL.md`
+- **reddit**: Search and retrieve content from Reddit. Get posts, comments, subreddit info, and user profiles via the public JSON API.
+  - `ReScienceLab__opc-skills\skills\reddit\SKILL.md`
+- **requesthunt**: Generate user demand research reports from real user feedback. Scrape and analyze feature requests, complaints, and ques
+  - `ReScienceLab__opc-skills\skills\requesthunt\SKILL.md`
+- **seo-geo**: SEO & GEO (Generative Engine Optimization) for websites. Analyze keywords, generate schema markup, optimize for AI searc
+  - `ReScienceLab__opc-skills\skills\seo-geo\SKILL.md`
+- **twitter**: Search and retrieve content from Twitter/X. Get user info, tweets, replies, followers, communities, spaces, and trends v
+  - `ReScienceLab__opc-skills\skills\twitter\SKILL.md`
+- **add-new-opc-skill**: Checklist and automation guide for adding a new skill to the OPC Skills project. Ensures all required files, metadata, l
+  - `ReScienceLab__opc-skills\.factory\skills\add-new-opc-skill\SKILL.md`
+- **seo-geo**: |
+  - `ReScienceLab__opc-skills\.agents\skills\seo-geo\SKILL.md`
+- **nutrient-document-processing**: >-
+  - `PSPDFKit-labs__nutrient-agent-skill\nutrient-document-processing\SKILL.md`
+- **Academic CV Builder**: Format CVs for academic positions with publications, grants, and teaching
+  - `Paramchoudhary__ResumeSkills\skills\academic-cv-builder\SKILL.md`
+- **Career Changer Translator**: Translate skills from one industry to another, identify transferable skills
+  - `Paramchoudhary__ResumeSkills\skills\career-changer-translator\SKILL.md`
+- **Cover Letter Generator**: Create personalized, compelling cover letters from resume and job description
+  - `Paramchoudhary__ResumeSkills\skills\cover-letter-generator\SKILL.md`
+- **Creative Portfolio Resume**: Balance visual design with ATS compatibility for creative roles
+  - `Paramchoudhary__ResumeSkills\skills\creative-portfolio-resume\SKILL.md`
+- **Executive Resume Writer**: Create C-suite and VP level resumes emphasizing strategic leadership
+  - `Paramchoudhary__ResumeSkills\skills\executive-resume-writer\SKILL.md`
+- **Interview Prep Generator**: Generate STAR stories, practice questions, and talking points from resume
+  - `Paramchoudhary__ResumeSkills\skills\interview-prep-generator\SKILL.md`
+- **Job Description Analyzer**: Analyze job postings, calculate match scores, identify gaps, and create application strategy
+  - `Paramchoudhary__ResumeSkills\skills\job-description-analyzer\SKILL.md`
+- **LinkedIn Profile Optimizer**: Optimize LinkedIn profile for searchability, recruiter visibility, and engagement
+  - `Paramchoudhary__ResumeSkills\skills\linkedin-profile-optimizer\SKILL.md`
+- **Offer Comparison Analyzer**: Compare multiple job offers side-by-side with total compensation analysis
+  - `Paramchoudhary__ResumeSkills\skills\offer-comparison-analyzer\SKILL.md`
+- **Portfolio Case Study Writer**: Transform resume bullets into detailed portfolio case studies
+  - `Paramchoudhary__ResumeSkills\skills\portfolio-case-study-writer\SKILL.md`
+- **Reference List Builder**: Format professional references properly and prepare reference materials
+  - `Paramchoudhary__ResumeSkills\skills\reference-list-builder\SKILL.md`
+- **Resume ATS Optimizer**: Optimize resumes for Applicant Tracking Systems, check ATS compatibility, and analyze keyword match
+  - `Paramchoudhary__ResumeSkills\skills\resume-ats-optimizer\SKILL.md`
+- **Resume Bullet Writer**: Transform weak resume bullets into achievement-focused statements with metrics and impact
+  - `Paramchoudhary__ResumeSkills\skills\resume-bullet-writer\SKILL.md`
+- **Resume Formatter**: Ensure ATS-friendly formatting and create clean scannable layouts
+  - `Paramchoudhary__ResumeSkills\skills\resume-formatter\SKILL.md`
+  *... va 40 skill khac*

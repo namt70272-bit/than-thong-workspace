@@ -1,0 +1,108 @@
+# 44-Cong-Dong-Tiep-Thi-Mang-Xa-Hoi - Skill Summary
+> Nguon: E:\skill\44-Cong-Dong-Tiep-Thi-Mang-Xa-Hoi
+> Ngay: 2026-05-13
+> Dong bo vao mang 14-Quan-ly-noi-dung
+
+Tong SKILL.md: 117
+
+- **humanizer**: |
+  - `blader__humanizer\SKILL.md`
+- **email-marketing-bible**: >
+  - `CosmoBlk__email-marketing-bible\SKILL.md`
+- **postiz**: Postiz is a tool to schedule social media and chat posts to 28+ channels X, LinkedIn, LinkedIn Page, Reddit, Instagram, 
+  - `gitroomhq__postiz-agent\SKILL.md`
+- **beautiful-prose**: A hard-edged writing style contract for timeless, forceful English prose without modern AI tics. Use when users ask for 
+  - `SHADOWPR0__beautiful_prose\SKILL.md`
+- **humanize-chinese**: >
+  - `voidborne-d__humanize-chinese\SKILL.md`
+- **x-twitter-scraper**: Use when the user needs X (Twitter) data or confirmation-gated X actions through Xquik: tweet search, user lookup, follo
+  - `Xquik-dev__x-twitter-scraper\skills\x-twitter-scraper\SKILL.md`
+- **tweetclaw**: Safety-reviewed guide for @xquik/tweetclaw, the Xquik OpenClaw plugin for structured X/Twitter workflows. Covers setup, 
+  - `Xquik-dev__tweetclaw\skills\tweetclaw\SKILL.md`
+- **x-article-publisher**: |
+  - `wshuyi__x-article-publisher-skill\skills\x-article-publisher\SKILL.md`
+- **creative-director**: >
+  - `smixs__creative-director-skill\creative-director\SKILL.md`
+- **unslop-file**: >
+  - `MohamedAbdallah-14__unslop\unslop\SKILL.md`
+- **unslop**: >
+  - `MohamedAbdallah-14__unslop\skills\unslop\SKILL.md`
+- **unslop-commit**: >
+  - `MohamedAbdallah-14__unslop\skills\unslop-commit\SKILL.md`
+- **unslop-file**: >
+  - `MohamedAbdallah-14__unslop\skills\unslop-file\SKILL.md`
+- **unslop-help**: >
+  - `MohamedAbdallah-14__unslop\skills\unslop-help\SKILL.md`
+- **unslop-reasoning**: >
+  - `MohamedAbdallah-14__unslop\skills\unslop-reasoning\SKILL.md`
+- **unslop-review**: >
+  - `MohamedAbdallah-14__unslop\skills\unslop-review\SKILL.md`
+- **unslop**: >
+  - `MohamedAbdallah-14__unslop\plugins\unslop\skills\unslop\SKILL.md`
+- **unslop-commit**: >
+  - `MohamedAbdallah-14__unslop\plugins\unslop\skills\unslop-commit\SKILL.md`
+- **unslop-file**: >
+  - `MohamedAbdallah-14__unslop\plugins\unslop\skills\unslop-file\SKILL.md`
+- **unslop-help**: >
+  - `MohamedAbdallah-14__unslop\plugins\unslop\skills\unslop-help\SKILL.md`
+- **unslop-reasoning**: >
+  - `MohamedAbdallah-14__unslop\plugins\unslop\skills\unslop-reasoning\SKILL.md`
+- **unslop-review**: >
+  - `MohamedAbdallah-14__unslop\plugins\unslop\skills\unslop-review\SKILL.md`
+- **unslop**: >
+  - `MohamedAbdallah-14__unslop\.windsurf\skills\unslop\SKILL.md`
+- **unslop**: >
+  - `MohamedAbdallah-14__unslop\.cursor\skills\unslop\SKILL.md`
+- **postiz**: 
+  - `gitroomhq__postiz-agent\skills\postiz\SKILL.md`
+- **ab-test-store-listing**: When the user wants to A/B test App Store product page elements to improve conversion rate. Also use when the user menti
+  - `Eronred__aso-skills\skills\ab-test-store-listing\SKILL.md`
+- **android-aso**: When the user wants to optimize their Google Play Store listing — title, short description, full description, keywords, 
+  - `Eronred__aso-skills\skills\android-aso\SKILL.md`
+- **app-analytics**: When the user wants to set up, interpret, or improve their app analytics and tracking. Also use when the user mentions
+  - `Eronred__aso-skills\skills\app-analytics\SKILL.md`
+- **app-clips**: When the user wants to implement, optimize, or use App Clips for app discovery and conversion. Use when the user mention
+  - `Eronred__aso-skills\skills\app-clips\SKILL.md`
+- **app-icon-optimization**: When the user wants to design, test, or improve their app icon to increase tap-through rate and conversions in App Store
+  - `Eronred__aso-skills\skills\app-icon-optimization\SKILL.md`
+- **app-launch**: When the user wants to plan a launch strategy for a new app or major update. Also use when the user mentions
+  - `Eronred__aso-skills\skills\app-launch\SKILL.md`
+- **app-marketing-context**: When the user wants to create or update their app marketing context document. Also use when the user mentions
+  - `Eronred__aso-skills\skills\app-marketing-context\SKILL.md`
+- **app-preview-video**: When the user wants to plan, script, produce, or optimize App Store Preview videos or Google Play promo videos — the aut
+  - `Eronred__aso-skills\skills\app-preview-video\SKILL.md`
+- **app-rejection-recovery**: When the user's app or update was rejected by Apple App Review or Google Play Review and they need to diagnose why, fix 
+  - `Eronred__aso-skills\skills\app-rejection-recovery\SKILL.md`
+- **app-store-featured**: When the user wants to get featured on the App Store or understand the editorial process. Also use when the user mention
+  - `Eronred__aso-skills\skills\app-store-featured\SKILL.md`
+- **apple-search-ads**: When the user wants to set up, optimize, or scale Apple Search Ads (ASA) campaigns — including keyword bidding, match ty
+  - `Eronred__aso-skills\skills\apple-search-ads\SKILL.md`
+- **asc-metrics**: When the user wants to analyze their own app's actual performance data from App Store Connect — real downloads, revenue,
+  - `Eronred__aso-skills\skills\asc-metrics\SKILL.md`
+- **aso-audit**: When the user wants a full ASO health audit, review their App Store listing quality, or diagnose why their app isn't ran
+  - `Eronred__aso-skills\skills\aso-audit\SKILL.md`
+- **aso-router**: Single entry point that routes any ASO, App Store, Google Play, app marketing, paid UA, monetization, retention, reviews
+  - `Eronred__aso-skills\skills\aso-router\SKILL.md`
+- **attribution-setup**: When the user wants to set up, debug, or interpret app install attribution — including SKAdNetwork (SKAN), Apple's AdAtt
+  - `Eronred__aso-skills\skills\attribution-setup\SKILL.md`
+- **category-positioning**: When the user wants to choose, change, or evaluate their App Store / Google Play category and subcategory — including pr
+  - `Eronred__aso-skills\skills\category-positioning\SKILL.md`
+- **competitor-analysis**: When the user wants to analyze competitors' App Store strategy, find keyword gaps, or understand competitive positioning
+  - `Eronred__aso-skills\skills\competitor-analysis\SKILL.md`
+- **competitor-tracking**: When the user wants to monitor competitor apps on an ongoing basis — tracking metadata changes, keyword shifts, screensh
+  - `Eronred__aso-skills\skills\competitor-tracking\SKILL.md`
+- **crash-analytics**: When the user wants to monitor, triage, or reduce their app's crash rate — including setting up Crashlytics, prioritizin
+  - `Eronred__aso-skills\skills\crash-analytics\SKILL.md`
+- **creator-ugc-marketing**: When the user wants to plan, brief, source, or measure organic creator / influencer / UGC marketing for their app — incl
+  - `Eronred__aso-skills\skills\creator-ugc-marketing\SKILL.md`
+- **custom-product-pages**: When the user wants to design, deploy, or measure Apple Custom Product Pages (CPP) — the alternate App Store product pag
+  - `Eronred__aso-skills\skills\custom-product-pages\SKILL.md`
+- **in-app-events**: When the user wants to create, plan, or optimize App Store In-App Events — the event cards that appear on the Today tab,
+  - `Eronred__aso-skills\skills\in-app-events\SKILL.md`
+- **keyword-research**: When the user wants to discover, evaluate, or prioritize App Store keywords. Also use when the user mentions
+  - `Eronred__aso-skills\skills\keyword-research\SKILL.md`
+- **localization**: When the user wants to localize their App Store listing for international markets. Also use when the user mentions
+  - `Eronred__aso-skills\skills\localization\SKILL.md`
+- **market-movers**: When the user wants to track App Store chart rank changes, find top gainers and losers, detect breakout apps entering th
+  - `Eronred__aso-skills\skills\market-movers\SKILL.md`
+  *... va 67 skill khac*

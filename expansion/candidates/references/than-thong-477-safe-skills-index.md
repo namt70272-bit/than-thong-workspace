@@ -1,0 +1,6001 @@
+# 477 SKILL AN TOÀN — SẴN SÀNG DÙNG NGAY
+> Tổng hợp từ E:\skill
+> Ngày: 2026-05-13
+> Qua thần thông: gate ✅ | không billing ✅ | không xung đột ✅
+
+Tổng số: 2978 skill
+Đã kiểm tra: 3135 file
+
+---
+
+## Code & Dev (561 skill)
+
+- **Expo UI SwiftUI**: `@expo/ui/swift-ui` package lets you use SwiftUI Views and modifiers in your app
+  - `22-Expo\expo-ui-swift-ui\SKILL.md`
+- **Expo UI SwiftUI**: `@expo/ui/swift-ui` package lets you use SwiftUI Views and modifiers in your app
+  - `22-Expo\_repo\plugins\expo\skills\expo-ui-swift-ui\SKILL.md`
+- **acul-screen-generator**: Generates complete, branded Auth0 Advanced Custom Universal Login (ACUL) screen 
+  - `15-Xac-Thuc-Auth0\plugins\auth0\skills\acul-screen-generator\SKILL.md`
+- **adaptyv**: How to use the Adaptyv Bio Foundry API and Python SDK for protein experiment des
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\K-Dense-AI__claude-scientific-skills\scientific-skills\adaptyv\SKILL.md`
+- **agent-framework-azure-ai-py**: Build Azure AI Foundry agents using the Microsoft Agent Framework Python SDK (ag
+  - `02-Microsoft-Azure\microsoft-agent-framework-azure-ai-py\SKILL.md`
+- **agent-teams**: Claude Code Agent Teams - default team-based development with strict TDD pipelin
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\alinaqi__claude-bootstrap\skills\agent-teams\SKILL.md`
+- **agentic-actions-auditor**: Audits GitHub Actions workflows for security vulnerabilities in AI agent integra
+  - `10-Bao-Mat-Trail-of-Bits\plugins\agentic-actions-auditor\skills\agentic-actions-auditor\SKILL.md`
+- **agentic-development**: Build AI agents with Pydantic AI (Python) and Claude SDK (Node.js)
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\alinaqi__claude-bootstrap\skills\agentic-development\SKILL.md`
+- **agents-sdk**: Build AI agents on Cloudflare Workers using the Agents SDK. Load when creating s
+  - `26-Cloudflare\agents-sdk\skills\agents-sdk\SKILL.md`
+- **analyzing-android-malware-with-apktool**: Perform static analysis of Android APK malware samples using apktool for decompi
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\analyzing-android-malware-with-apktool\SKILL.md`
+- **analyzing-api-gateway-access-logs**: Parses API Gateway access logs (AWS API Gateway, Kong, Nginx) to detect BOLA/IDO
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\analyzing-api-gateway-access-logs\SKILL.md`
+- **analyzing-kubernetes-audit-logs**: Parses Kubernetes API server audit logs (JSON lines) to detect exec-into-pod, se
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\analyzing-kubernetes-audit-logs\SKILL.md`
+- **analyzing-malicious-pdf-with-peepdf**: Perform static analysis of malicious PDF documents using peepdf, pdfid, and pdf-
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\analyzing-malicious-pdf-with-peepdf\SKILL.md`
+- **analyzing-malware-family-relationships-with-malpedia**: Use the Malpedia platform and API to research malware family relationships, trac
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\analyzing-malware-family-relationships-with-malpedia\SKILL.md`
+- **analyzing-office365-audit-logs-for-compromise**: Parse Office 365 Unified Audit Logs via Microsoft Graph API to detect email forw
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\analyzing-office365-audit-logs-for-compromise\SKILL.md`
+- **analyzing-packed-malware-with-upx-unpacker**: Identifies and unpacks UPX-packed and other packed malware samples to expose the
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\analyzing-packed-malware-with-upx-unpacker\SKILL.md`
+- **analyzing-pdf-malware-with-pdfid**: Analyzes malicious PDF files using PDFiD, pdf-parser, and peepdf to identify emb
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\analyzing-pdf-malware-with-pdfid\SKILL.md`
+- **analyzing-powershell-empire-artifacts**: Detect PowerShell Empire framework artifacts in Windows event logs by identifyin
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\analyzing-powershell-empire-artifacts\SKILL.md`
+- **analyzing-powershell-script-block-logging**: Parse Windows PowerShell Script Block Logs (Event ID 4104) from EVTX files to de
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\analyzing-powershell-script-block-logging\SKILL.md`
+- **analyzing-ransomware-network-indicators**: Identify ransomware network indicators including C2 beaconing patterns, TOR exit
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\analyzing-ransomware-network-indicators\SKILL.md`
+- **analyzing-ransomware-payment-wallets**: Traces ransomware cryptocurrency payment flows using blockchain analysis tools s
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\analyzing-ransomware-payment-wallets\SKILL.md`
+- **analyzing-usb-device-connection-history**: Investigate USB device connection history from Windows registry, event logs, and
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\analyzing-usb-device-connection-history\SKILL.md`
+- **analyzing-windows-prefetch-with-python**: Parse Windows Prefetch files using the windowsprefetch Python library to reconst
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\analyzing-windows-prefetch-with-python\SKILL.md`
+- **android-java**: Android Java development with MVVM, ViewBinding, and Espresso testing
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\alinaqi__claude-bootstrap\skills\android-java\SKILL.md`
+- **angular-developer**: Generates Angular code and provides architectural guidance. Trigger when creatin
+  - `01-Claude-Chinh-Thuc\angular-angular-developer\SKILL.md`
+- **angular-developer**: Generates Angular code and provides architectural guidance. Trigger when creatin
+  - `01-Claude-Chinh-Thuc\angular-angular-new-app\angular-developer\SKILL.md`
+- **angular-developer**: Generates Angular code and provides architectural guidance. Trigger when creatin
+  - `01-Claude-Chinh-Thuc\angular-angular-developer\angular-developer\SKILL.md`
+- **angular-developer**: Generates Angular code and provides architectural guidance. Trigger when creatin
+  - `01-Claude-Chinh-Thuc\angular\angular-developer\SKILL.md`
+- **angular-new-app**: Creates a new Angular app using the Angular CLI. This skill should be used whene
+  - `01-Claude-Chinh-Thuc\angular-angular-new-app\SKILL.md`
+- **angular-new-app**: Creates a new Angular app using the Angular CLI. This skill should be used whene
+  - `01-Claude-Chinh-Thuc\angular-angular-new-app\angular-new-app\SKILL.md`
+- **angular-new-app**: Creates a new Angular app using the Angular CLI. This skill should be used whene
+  - `01-Claude-Chinh-Thuc\angular-angular-developer\angular-new-app\SKILL.md`
+- **angular-new-app**: Creates a new Angular app using the Angular CLI. This skill should be used whene
+  - `01-Claude-Chinh-Thuc\angular\angular-new-app\SKILL.md`
+- **ara-compiler**: Compiles any research input — PDF papers, GitHub repositories, experiment logs, 
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\zechenzhangAGI__AI-research-SKILLs\22-agent-native-research-artifact\compiler\SKILL.md`
+- **ara-compiler**: Compiles any research input — PDF papers, GitHub repositories, experiment logs, 
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\Orchestra-Research__AI-research-SKILLs\22-agent-native-research-artifact\compiler\SKILL.md`
+- **asc-app-create-ui**: Create a new App Store Connect app record via browser automation. Use when there
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\rudrankriyam__app-store-connect-cli-skills\skills\asc-app-create-ui\SKILL.md`
+- **asc-notarization**: Archive, export, and notarize macOS apps using xcodebuild and asc. Use when you 
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\rudrankriyam__app-store-connect-cli-skills\skills\asc-notarization\SKILL.md`
+- **asc-shots-pipeline**: Orchestrate iOS screenshot automation with xcodebuild/simctl for build-run, AXe 
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\rudrankriyam__app-store-connect-cli-skills\skills\asc-shots-pipeline\SKILL.md`
+- **asc-xcode-build**: Build, archive, export, upload, and manage Xcode version/build numbers with the 
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\rudrankriyam__app-store-connect-cli-skills\skills\asc-xcode-build\SKILL.md`
+- **aspnet-core**: Build, review, refactor, or architect ASP.NET Core web applications using curren
+  - `03-OpenAI\openai-aspnet-core\SKILL.md`
+- **astropy**: Comprehensive Python library for astronomy and astrophysics. This skill should b
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\K-Dense-AI__claude-scientific-skills\scientific-skills\astropy\SKILL.md`
+- **audit-context-building**: Enables ultra-granular, line-by-line code analysis to build deep architectural c
+  - `10-Bao-Mat-Trail-of-Bits\plugins\audit-context-building\skills\audit-context-building\SKILL.md`
+- **audit-prep-assistant**: Prepares codebases for security review using Trail of Bits
+  - `10-Bao-Mat-Trail-of-Bits\plugins\building-secure-contracts\skills\audit-prep-assistant\SKILL.md`
+- **auditing-terraform-infrastructure-for-security**: Auditing Terraform infrastructure-as-code for security misconfigurations using C
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\auditing-terraform-infrastructure-for-security\SKILL.md`
+- **auto-review-loop**: Autonomous multi-round research review loop. Repeatedly reviews via Codex MCP, i
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\wanshuiyin__Auto-claude-code-research-in-sleep\skills\auto-review-loop\SKILL.md`
+- **auto-review-loop**: Autonomous multi-round research review loop. Repeatedly reviews using Claude Cod
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\wanshuiyin__Auto-claude-code-research-in-sleep\skills\skills-codex-claude-review\auto-review-loop\SKILL.md`
+- **auto-review-loop**: Autonomous multi-round research review loop. Repeatedly reviews using a secondar
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\wanshuiyin__Auto-claude-code-research-in-sleep\skills\skills-codex\auto-review-loop\SKILL.md`
+- **auto-review-loop-llm**: Autonomous research review loop using any OpenAI-compatible LLM API. Configure v
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\wanshuiyin__Auto-claude-code-research-in-sleep\skills\auto-review-loop-llm\SKILL.md`
+- **auto-review-loop-llm**: Autonomous research review loop using any OpenAI-compatible LLM API. Configure v
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\wanshuiyin__Auto-claude-code-research-in-sleep\skills\skills-codex\auto-review-loop-llm\SKILL.md`
+- **auto-review-loop-minimax**: Autonomous multi-round research review loop using MiniMax API. Use when you want
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\wanshuiyin__Auto-claude-code-research-in-sleep\skills\auto-review-loop-minimax\SKILL.md`
+- **auto-review-loop-minimax**: Autonomous multi-round research review loop using MiniMax API. Use when you want
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\wanshuiyin__Auto-claude-code-research-in-sleep\skills\skills-codex\auto-review-loop-minimax\SKILL.md`
+- **autofix**: Safely review and apply CodeRabbit PR review-thread feedback from GitHub with pe
+  - `38-CodeRabbit\coderabbitai-autofix\SKILL.md`
+- **autofix**: Safely review and apply CodeRabbit PR review-thread feedback from GitHub with pe
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\coderabbitai__skills\skills\autofix\SKILL.md`
+- **autoresearch**: Orchestrates end-to-end autonomous AI research projects using a two-loop archite
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\zechenzhangAGI__AI-research-SKILLs\0-autoresearch-skill\SKILL.md`
+- **autoresearch**: Orchestrates end-to-end autonomous AI research projects using a two-loop archite
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\Orchestra-Research__AI-research-SKILLs\0-autoresearch-skill\SKILL.md`
+- **aws-aurora**: AWS Aurora Serverless v2, RDS Proxy, Data API, connection pooling
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\alinaqi__claude-bootstrap\skills\aws-aurora\SKILL.md`
+- **aws-dynamodb**: AWS DynamoDB single-table design, GSI patterns, SDK v3 TypeScript/Python
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\alinaqi__claude-bootstrap\skills\aws-dynamodb\SKILL.md`
+- **azure-ai-anomalydetector-java**: Build anomaly detection applications with Azure AI Anomaly Detector SDK for Java
+  - `02-Microsoft-Azure\microsoft-azure-ai-anomalydetector-java\SKILL.md`
+- **azure-ai-contentsafety-java**: Build content moderation applications with Azure AI Content Safety SDK for Java.
+  - `02-Microsoft-Azure\microsoft-azure-ai-contentsafety-java\SKILL.md`
+- **azure-ai-document-intelligence-dotnet**: |
+  - `02-Microsoft-Azure\microsoft-azure-ai-document-intelligence-dotnet\SKILL.md`
+- **azure-ai-formrecognizer-java**: |
+  - `02-Microsoft-Azure\microsoft-azure-ai-formrecognizer-java\SKILL.md`
+- **azure-ai-openai-dotnet**: |
+  - `02-Microsoft-Azure\microsoft-azure-ai-openai-dotnet\SKILL.md`
+- **azure-ai-projects-dotnet**: |
+  - `02-Microsoft-Azure\microsoft-azure-ai-projects-dotnet\SKILL.md`
+- **azure-ai-projects-java**: |
+  - `02-Microsoft-Azure\microsoft-azure-ai-projects-java\SKILL.md`
+- **azure-ai-projects-py**: Build AI applications using the Azure AI Projects Python SDK (azure-ai-projects)
+  - `02-Microsoft-Azure\microsoft-azure-ai-projects-py\SKILL.md`
+- **azure-ai-projects-ts**: Build AI applications using Azure AI Projects SDK for JavaScript (@azure/ai-proj
+  - `02-Microsoft-Azure\microsoft-azure-ai-projects-ts\SKILL.md`
+- **azure-ai-translation-ts**: Build translation applications using Azure Translation SDKs for JavaScript (@azu
+  - `02-Microsoft-Azure\microsoft-azure-ai-translation-ts\SKILL.md`
+- **azure-ai-vision-imageanalysis-java**: Build image analysis applications with Azure AI Vision SDK for Java. Use when im
+  - `02-Microsoft-Azure\microsoft-azure-ai-vision-imageanalysis-java\SKILL.md`
+- **azure-ai-voicelive-dotnet**: |
+  - `02-Microsoft-Azure\microsoft-azure-ai-voicelive-dotnet\SKILL.md`
+- **azure-ai-voicelive-java**: |
+  - `02-Microsoft-Azure\microsoft-azure-ai-voicelive-java\SKILL.md`
+- **azure-ai-voicelive-py**: Build real-time voice AI applications using Azure AI Voice Live SDK (azure-ai-vo
+  - `02-Microsoft-Azure\microsoft-azure-ai-voicelive-py\SKILL.md`
+- **azure-appconfiguration-java**: |
+  - `02-Microsoft-Azure\microsoft-azure-appconfiguration-java\SKILL.md`
+- **azure-appconfiguration-ts**: Build applications using Azure App Configuration SDK for JavaScript (@azure/app-
+  - `02-Microsoft-Azure\microsoft-azure-appconfiguration-ts\SKILL.md`
+- **azure-communication-callautomation-java**: Build call automation workflows with Azure Communication Services Call Automatio
+  - `02-Microsoft-Azure\microsoft-azure-communication-callautomation-java\SKILL.md`
+- **azure-communication-callingserver-java**: Azure Communication Services CallingServer (legacy) Java SDK. Note - This SDK is
+  - `02-Microsoft-Azure\microsoft-azure-communication-callingserver-java\SKILL.md`
+- **azure-communication-chat-java**: Build real-time chat applications with Azure Communication Services Chat Java SD
+  - `02-Microsoft-Azure\microsoft-azure-communication-chat-java\SKILL.md`
+- **azure-communication-common-java**: Azure Communication Services common utilities for Java. Use when working with Co
+  - `02-Microsoft-Azure\microsoft-azure-communication-common-java\SKILL.md`
+- **azure-communication-sms-java**: Send SMS messages with Azure Communication Services SMS Java SDK. Use when imple
+  - `02-Microsoft-Azure\microsoft-azure-communication-sms-java\SKILL.md`
+- **azure-compute-batch-java**: -
+  - `02-Microsoft-Azure\microsoft-azure-compute-batch-java\SKILL.md`
+- **azure-cosmos-db-py**: Build Azure Cosmos DB NoSQL services with Python/FastAPI following production-gr
+  - `02-Microsoft-Azure\microsoft-azure-cosmos-db-py\SKILL.md`
+- **azure-cosmos-java**: |
+  - `02-Microsoft-Azure\microsoft-azure-cosmos-java\SKILL.md`
+- **azure-cosmosdb**: Azure Cosmos DB partition keys, consistency levels, change feed, SDK patterns
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\alinaqi__claude-bootstrap\skills\azure-cosmosdb\SKILL.md`
+- **azure-data-tables-java**: Build table storage applications with Azure Tables SDK for Java. Use when workin
+  - `02-Microsoft-Azure\microsoft-azure-data-tables-java\SKILL.md`
+- **azure-eventgrid-dotnet**: |
+  - `02-Microsoft-Azure\microsoft-azure-eventgrid-dotnet\SKILL.md`
+- **azure-eventgrid-java**: Build event-driven applications with Azure Event Grid SDK for Java. Use when pub
+  - `02-Microsoft-Azure\microsoft-azure-eventgrid-java\SKILL.md`
+- **azure-eventhub-dotnet**: |
+  - `02-Microsoft-Azure\microsoft-azure-eventhub-dotnet\SKILL.md`
+- **azure-eventhub-java**: Build real-time streaming applications with Azure Event Hubs SDK for Java. Use w
+  - `02-Microsoft-Azure\microsoft-azure-eventhub-java\SKILL.md`
+- **azure-eventhub-ts**: Build event streaming applications using Azure Event Hubs SDK for JavaScript (@a
+  - `02-Microsoft-Azure\microsoft-azure-eventhub-ts\SKILL.md`
+- **azure-identity-dotnet**: |
+  - `02-Microsoft-Azure\microsoft-azure-identity-dotnet\SKILL.md`
+- **azure-identity-java**: Azure Identity library for Java authentication with Azure services. Use when imp
+  - `02-Microsoft-Azure\microsoft-azure-identity-java\SKILL.md`
+- **azure-identity-ts**: Authenticate to Azure services using Azure Identity library for JavaScript (@azu
+  - `02-Microsoft-Azure\microsoft-azure-identity-ts\SKILL.md`
+- **azure-keyvault-keys-ts**: Manage cryptographic keys using Azure Key Vault Keys SDK for JavaScript (@azure/
+  - `02-Microsoft-Azure\microsoft-azure-keyvault-keys-ts\SKILL.md`
+- **azure-keyvault-secrets-ts**: Manage secrets using Azure Key Vault Secrets SDK for JavaScript (@azure/keyvault
+  - `02-Microsoft-Azure\microsoft-azure-keyvault-secrets-ts\SKILL.md`
+- **azure-maps-search-dotnet**: |
+  - `02-Microsoft-Azure\microsoft-azure-maps-search-dotnet\SKILL.md`
+- **azure-messaging-webpubsub-java**: Build real-time web applications with Azure Web PubSub SDK for Java. Use when im
+  - `02-Microsoft-Azure\microsoft-azure-messaging-webpubsub-java\SKILL.md`
+- **azure-mgmt-apicenter-dotnet**: |
+  - `02-Microsoft-Azure\microsoft-azure-mgmt-apicenter-dotnet\SKILL.md`
+- **azure-mgmt-apicenter-py**: |
+  - `02-Microsoft-Azure\microsoft-azure-mgmt-apicenter-py\SKILL.md`
+- **azure-mgmt-apimanagement-dotnet**: |
+  - `02-Microsoft-Azure\microsoft-azure-mgmt-apimanagement-dotnet\SKILL.md`
+- **azure-mgmt-apimanagement-py**: |
+  - `02-Microsoft-Azure\microsoft-azure-mgmt-apimanagement-py\SKILL.md`
+- **azure-mgmt-applicationinsights-dotnet**: |
+  - `02-Microsoft-Azure\microsoft-azure-mgmt-applicationinsights-dotnet\SKILL.md`
+- **azure-mgmt-arizeaiobservabilityeval-dotnet**: Azure Resource Manager SDK for Arize AI Observability and Evaluation (.NET). Use
+  - `02-Microsoft-Azure\microsoft-azure-mgmt-arizeaiobservabilityeval-dotnet\SKILL.md`
+- **azure-mgmt-botservice-dotnet**: |
+  - `02-Microsoft-Azure\microsoft-azure-mgmt-botservice-dotnet\SKILL.md`
+- **azure-mgmt-fabric-dotnet**: |
+  - `02-Microsoft-Azure\microsoft-azure-mgmt-fabric-dotnet\SKILL.md`
+- **azure-mgmt-mongodbatlas-dotnet**: Manage MongoDB Atlas Organizations as Azure ARM resources using Azure.ResourceMa
+  - `02-Microsoft-Azure\microsoft-azure-mgmt-mongodbatlas-dotnet\SKILL.md`
+- **azure-mgmt-weightsandbiases-dotnet**: |
+  - `02-Microsoft-Azure\microsoft-azure-mgmt-weightsandbiases-dotnet\SKILL.md`
+- **azure-monitor-ingestion-java**: |
+  - `02-Microsoft-Azure\microsoft-azure-monitor-ingestion-java\SKILL.md`
+- **azure-monitor-opentelemetry-exporter-java**: |
+  - `02-Microsoft-Azure\microsoft-azure-monitor-opentelemetry-exporter-java\SKILL.md`
+- **azure-monitor-opentelemetry-ts**: Instrument applications with Azure Monitor and OpenTelemetry for JavaScript (@az
+  - `02-Microsoft-Azure\microsoft-azure-monitor-opentelemetry-ts\SKILL.md`
+- **azure-monitor-query-java**: |
+  - `02-Microsoft-Azure\microsoft-azure-monitor-query-java\SKILL.md`
+- **azure-resource-manager-cosmosdb-dotnet**: |
+  - `02-Microsoft-Azure\microsoft-azure-resource-manager-cosmosdb-dotnet\SKILL.md`
+- **azure-resource-manager-durabletask-dotnet**: |
+  - `02-Microsoft-Azure\microsoft-azure-resource-manager-durabletask-dotnet\SKILL.md`
+- **azure-resource-manager-mysql-dotnet**: |
+  - `02-Microsoft-Azure\microsoft-azure-resource-manager-mysql-dotnet\SKILL.md`
+- **azure-resource-manager-playwright-dotnet**: |
+  - `02-Microsoft-Azure\microsoft-azure-resource-manager-playwright-dotnet\SKILL.md`
+- **azure-resource-manager-postgresql-dotnet**: |
+  - `02-Microsoft-Azure\microsoft-azure-resource-manager-postgresql-dotnet\SKILL.md`
+- **azure-resource-manager-redis-dotnet**: |
+  - `02-Microsoft-Azure\microsoft-azure-resource-manager-redis-dotnet\SKILL.md`
+- **azure-resource-manager-sql-dotnet**: |
+  - `02-Microsoft-Azure\microsoft-azure-resource-manager-sql-dotnet\SKILL.md`
+- **azure-search-documents-dotnet**: |
+  - `02-Microsoft-Azure\microsoft-azure-search-documents-dotnet\SKILL.md`
+- **azure-search-documents-ts**: Build search applications using Azure AI Search SDK for JavaScript (@azure/searc
+  - `02-Microsoft-Azure\microsoft-azure-search-documents-ts\SKILL.md`
+- **azure-security-keyvault-keys-dotnet**: |
+  - `02-Microsoft-Azure\microsoft-azure-security-keyvault-keys-dotnet\SKILL.md`
+- **azure-security-keyvault-keys-java**: Azure Key Vault Keys Java SDK for cryptographic key management. Use when creatin
+  - `02-Microsoft-Azure\microsoft-azure-security-keyvault-keys-java\SKILL.md`
+- **azure-servicebus-dotnet**: |
+  - `02-Microsoft-Azure\microsoft-azure-servicebus-dotnet\SKILL.md`
+- **azure-servicebus-ts**: Build messaging applications using Azure Service Bus SDK for JavaScript (@azure/
+  - `02-Microsoft-Azure\microsoft-azure-servicebus-ts\SKILL.md`
+- **azure-storage-blob-java**: Build blob storage applications with Azure Storage Blob SDK for Java. Use when u
+  - `02-Microsoft-Azure\microsoft-azure-storage-blob-java\SKILL.md`
+- **azure-web-pubsub-ts**: Build real-time messaging applications using Azure Web PubSub SDKs for JavaScrip
+  - `02-Microsoft-Azure\microsoft-azure-web-pubsub-ts\SKILL.md`
+- **benchling-integration**: Benchling R&D platform integration. Access registry (DNA, proteins), inventory, 
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\K-Dense-AI__claude-scientific-skills\scientific-skills\benchling-integration\SKILL.md`
+- **best-practices**: Apply modern web development best practices for security, compatibility, and cod
+  - `36-Chat-Luong-Web-Addy-Osmani\addyosmani-best-practices\SKILL.md`
+- **biopython**: Comprehensive molecular biology toolkit. Use for sequence manipulation, file par
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\K-Dense-AI__claude-scientific-skills\scientific-skills\biopython\SKILL.md`
+- **bioservices**: Unified Python interface to 40+ bioinformatics services. Use when querying multi
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\K-Dense-AI__claude-scientific-skills\scientific-skills\bioservices\SKILL.md`
+- **blip-2-vision-language**: Vision-language pre-training framework bridging frozen image encoders and LLMs. 
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\zechenzhangAGI__AI-research-SKILLs\18-multimodal\blip-2\SKILL.md`
+- **blip-2-vision-language**: Vision-language pre-training framework bridging frozen image encoders and LLMs. 
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\Orchestra-Research__AI-research-SKILLs\18-multimodal\blip-2\SKILL.md`
+- **brainstorm**: Use when creating or developing, before writing code or implementation plans - r
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\NeoLabHQ__sdd\skills\brainstorm\SKILL.md`
+- **browserbase-cli**: Use the Browserbase CLI (`bb`) for Browserbase Functions and platform API workfl
+  - `33-Browserbase\browserbase-browserbase-cli\SKILL.md`
+- **business-health-diagnostic**: Diagnose SaaS business health across growth, retention, efficiency, and capital.
+  - `04-Quan-Ly-San-Pham-Dean-Peters\skills\business-health-diagnostic\SKILL.md`
+- **bypassing-authentication-with-forced-browsing**: Discovering and accessing unprotected pages, APIs, and administrative interfaces
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\bypassing-authentication-with-forced-browsing\SKILL.md`
+- **charlie**: Your AI CFO for bootstrapped startups, named after Charlie Munger who embodied t
+  - `42-Cong-Dong-Nang-Suat-Cong-Tac\EveryInc__charlie-cfo-skill\SKILL.md`
+- **chatgpt-apps**: Build, scaffold, refactor, and troubleshoot ChatGPT Apps SDK applications that c
+  - `03-OpenAI\openai-chatgpt-apps\SKILL.md`
+- **ckm:slides**: Create strategic HTML presentations with Chart.js, design tokens, responsive lay
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\nextlevelbuilder__ui-ux-pro-max-skill\.claude\skills\slides\SKILL.md`
+- **ckm:ui-styling**: Create beautiful, accessible user interfaces with shadcn/ui components (built on
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\nextlevelbuilder__ui-ux-pro-max-skill\.claude\skills\ui-styling\SKILL.md`
+- **claude-memory-kit**: Persistent memory for Claude Code agents with an agent-audit-ritual architecture
+  - `45-Cong-Dong-Ky-Thuat-Ngu-Canh\awrshift__claude-memory-kit\SKILL.md`
+- **code-deduplication**: Prevent semantic code duplication with capability index and check-before-write
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\alinaqi__claude-bootstrap\skills\code-deduplication\SKILL.md`
+- **code-graph**: AST-based code graph for fast symbol lookup, dependency analysis, and blast radi
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\alinaqi__claude-bootstrap\skills\code-graph\SKILL.md`
+- **code-maturity-assessor**: Systematic code maturity assessment using Trail of Bits
+  - `10-Bao-Mat-Trail-of-Bits\plugins\building-secure-contracts\skills\code-maturity-assessor\SKILL.md`
+- **code-review**: Performs a comprehensive, multi-step code review of pull requests or local code 
+  - `09-Flutter\.agents\agents\reidbaker-agent\skills\code-review\SKILL.md`
+- **code-review**: AI-powered code review using CodeRabbit. Default code-review skill. Trigger for 
+  - `38-CodeRabbit\coderabbitai-code-review\SKILL.md`
+- **code-review**: AI-powered code review using CodeRabbit. Default code-review skill. Trigger for 
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\coderabbitai__skills\skills\code-review\SKILL.md`
+- **code-review**: Mandatory code reviews via /code-review before commits and deploys
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\alinaqi__claude-bootstrap\skills\code-review\SKILL.md`
+- **codeql**: -
+  - `10-Bao-Mat-Trail-of-Bits\plugins\static-analysis\skills\codeql\SKILL.md`
+- **codex-collab**: Use when the user asks to invoke, delegate to, or collaborate with Codex on any 
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\Kevin7Qi__codex-collab\SKILL.md`
+- **codex-review**: OpenAI Codex CLI code review with GPT-5.2-Codex, CI/CD integration
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\alinaqi__claude-bootstrap\skills\codex-review\SKILL.md`
+- **component-refactoring**: Refactor high-complexity React components in Dify frontend. Use when `pnpm analy
+  - `42-Cong-Dong-Nang-Suat-Cong-Tac\Charlie85270__Dorothy\.agents\skills\component-refactoring\SKILL.md`
+- **composio**: Use 1000+ external apps via Composio - either directly through the CLI or by bui
+  - `01-Claude-Chinh-Thuc\composiohq-composio\SKILL.md`
+- **conducting-api-security-testing**: Conducts security testing of REST, GraphQL, and gRPC APIs to identify vulnerabil
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\conducting-api-security-testing\SKILL.md`
+- **configuring-oauth2-authorization-flow**: Configure secure OAuth 2.0 authorization flows including Authorization Code with
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\configuring-oauth2-authorization-flow\SKILL.md`
+- **configuring-pfsense-firewall-rules**: Configures pfSense firewall rules, NAT policies, VPN tunnels, and traffic shapin
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\configuring-pfsense-firewall-rules\SKILL.md`
+- **constant-time-analysis**: Detects timing side-channel vulnerabilities in cryptographic code. Use when impl
+  - `10-Bao-Mat-Trail-of-Bits\plugins\constant-time-analysis\skills\constant-time-analysis\SKILL.md`
+- **copilot-sdk**: Build applications powered by GitHub Copilot using the Copilot SDK. Use when cre
+  - `02-Microsoft-Azure\microsoft-copilot-sdk\SKILL.md`
+- **cosmos-vulnerability-scanner**: Scans Cosmos SDK blockchain modules and CosmWasm contracts for consensus-critica
+  - `10-Bao-Mat-Trail-of-Bits\plugins\building-secure-contracts\skills\cosmos-vulnerability-scanner\SKILL.md`
+- **cpg-analysis**: Deep code property graph analysis with Joern CPG (AST+CFG+PDG) and CodeQL for co
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\alinaqi__claude-bootstrap\skills\cpg-analysis\SKILL.md`
+- **create-auth-skill**: Scaffold and implement authentication in TypeScript/JavaScript apps using Better
+  - `01-Claude-Chinh-Thuc\better-auth-create-auth\SKILL.md`
+- **creating-skills**: Guide for creating Claude Code skills following Anthropic
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\fvadicamo__dev-agent-skills\skills\creating-skills\SKILL.md`
+- **cross-agent-delegation**: Cross-agent task routing — Codex auto-review, Kimi delegation by complexity scor
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\alinaqi__claude-bootstrap\skills\cross-agent-delegation\SKILL.md`
+- **crypto-protocol-diagram**: Extracts protocol message flow from source code, RFCs, academic papers, pseudoco
+  - `10-Bao-Mat-Trail-of-Bits\plugins\trailmark\skills\crypto-protocol-diagram\SKILL.md`
+- **daily-briefing-builder**: Generate a clean morning brief in Claude Code — pulls today
+  - `44-Cong-Dong-Tiep-Thi-Mang-Xa-Hoi\BrianRWagner__ai-marketing-skills\daily-briefing-builder\SKILL.md`
+- **dask**: Distributed computing for larger-than-RAM pandas/NumPy workflows. Use when you n
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\K-Dense-AI__claude-scientific-skills\scientific-skills\dask\SKILL.md`
+- **database-driver-design**: Expert guidance on building Swift database client libraries. Use when developers
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\Joannis__claude-skills\database-driver-design\SKILL.md`
+- **database-lookup**: Search 78 public scientific, biomedical, materials science, and economic databas
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\K-Dense-AI__claude-scientific-skills\scientific-skills\database-lookup\SKILL.md`
+- **datamol**: Pythonic wrapper around RDKit with simplified interface and sensible defaults. P
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\K-Dense-AI__claude-scientific-skills\scientific-skills\datamol\SKILL.md`
+- **definition-of-done**: Mandatory checks to run before completing any task that touches md files or dart
+  - `09-Flutter\tool\dart_skills_lint\.agents\skills\definition-of-done\SKILL.md`
+- **deobfuscating-javascript-malware**: Deobfuscates malicious JavaScript code used in web-based attacks, phishing pages
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\deobfuscating-javascript-malware\SKILL.md`
+- **deploying-ransomware-canary-files**: Deploys and monitors ransomware canary files across critical directories using P
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\deploying-ransomware-canary-files\SKILL.md`
+- **detecting-api-enumeration-attacks**: Detect and prevent API enumeration attacks including BOLA and IDOR exploitation 
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\detecting-api-enumeration-attacks\SKILL.md`
+- **detecting-aws-cloudtrail-anomalies**: Detect unusual API call patterns in AWS CloudTrail logs using boto3, statistical
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\detecting-aws-cloudtrail-anomalies\SKILL.md`
+- **detecting-aws-credential-exposure-with-trufflehog**: Detecting exposed AWS credentials in source code repositories, CI/CD pipelines, 
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\detecting-aws-credential-exposure-with-trufflehog\SKILL.md`
+- **detecting-azure-lateral-movement**: Detect lateral movement in Azure AD/Entra ID environments using Microsoft Graph 
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\detecting-azure-lateral-movement\SKILL.md`
+- **detecting-broken-object-property-level-authorization**: Detect and test for OWASP API3:2023 Broken Object Property Level Authorization v
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\detecting-broken-object-property-level-authorization\SKILL.md`
+- **detecting-compromised-cloud-credentials**: Detecting compromised cloud credentials across AWS, Azure, and GCP by analyzing 
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\detecting-compromised-cloud-credentials\SKILL.md`
+- **detecting-fileless-malware-techniques**: Detects and analyzes fileless malware that operates entirely in memory using Pow
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\detecting-fileless-malware-techniques\SKILL.md`
+- **detecting-qr-code-phishing-with-email-security**: Detect and prevent QR code phishing (quishing) attacks that bypass traditional e
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\detecting-qr-code-phishing-with-email-security\SKILL.md`
+- **detecting-serverless-function-injection**: Detects and prevents code injection attacks targeting serverless functions (AWS 
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\detecting-serverless-function-injection\SKILL.md`
+- **detecting-shadow-api-endpoints**: Discover and inventory shadow API endpoints that operate outside documented spec
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\detecting-shadow-api-endpoints\SKILL.md`
+- **detecting-suspicious-oauth-application-consent**: Detect risky OAuth application consent grants in Azure AD / Microsoft Entra ID u
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\detecting-suspicious-oauth-application-consent\SKILL.md`
+- **detecting-suspicious-powershell-execution**: Detect suspicious PowerShell execution patterns including encoded commands, down
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\detecting-suspicious-powershell-execution\SKILL.md`
+- **devcontainer-setup**: Creates devcontainers with Claude Code, language-specific tooling (Python/Node/R
+  - `10-Bao-Mat-Trail-of-Bits\plugins\devcontainer-setup\skills\devcontainer-setup\SKILL.md`
+- **developing-genkit-dart**: Generates code and provides documentation for the Genkit Dart SDK. Use when the 
+  - `20-Firebase\developing-genkit-dart\SKILL.md`
+- **developing-genkit-dart**: Generates code and provides documentation for the Genkit Dart SDK. Use when the 
+  - `20-Firebase\_repo\skills\developing-genkit-dart\SKILL.md`
+- **developing-genkit-js**: Develop AI-powered applications using Genkit in Node.js/TypeScript. Use when the
+  - `20-Firebase\developing-genkit-js\SKILL.md`
+- **developing-genkit-js**: Develop AI-powered applications using Genkit in Node.js/TypeScript. Use when the
+  - `20-Firebase\_repo\skills\developing-genkit-js\SKILL.md`
+- **developing-genkit-python**: Develop AI-powered applications using Genkit in Python. Use when the user asks a
+  - `20-Firebase\_repo\skills\developing-genkit-python\SKILL.md`
+- **diagramming-code**: >
+  - `10-Bao-Mat-Trail-of-Bits\plugins\trailmark\skills\diagramming-code\SKILL.md`
+- **dimensional-analysis**: Annotates codebases with dimensional analysis comments documenting units, dimens
+  - `10-Bao-Mat-Trail-of-Bits\plugins\dimensional-analysis\skills\dimensional-analysis\SKILL.md`
+- **directory-submissions**: When the user wants to submit their product to startup, SaaS, AI, agent, MCP, no
+  - `06-Tiep-Thi-Corey-Haines\skills\directory-submissions\SKILL.md`
+- **dnanexus-integration**: DNAnexus cloud genomics platform. Build apps/applets, manage data (upload/downlo
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\K-Dense-AI__claude-scientific-skills\scientific-skills\dnanexus-integration\SKILL.md`
+- **docx-processing-lawvable**: Programmatically edit Word documents (.docx) with live preview and track changes
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\lawvable__awesome-legal-skills\skills\docx-processing-lawvable\SKILL.md`
+- **domain-hunter**: Search domains, compare prices, find promo codes, get purchase recommendations. 
+  - `42-Cong-Dong-Nang-Suat-Cong-Tac\ReScienceLab__opc-skills\skills\domain-hunter\SKILL.md`
+- **enable-ssi**: Enable Single Step Instrumentation (SSI) on Kubernetes — automatically instrumen
+  - `28-Datadog\dd-apm\dd-apm\k8s-ssi\enable-ssi\SKILL.md`
+- **entry-point-analyzer**: Analyzes smart contract codebases to identify state-changing entry points for se
+  - `10-Bao-Mat-Trail-of-Bits\plugins\entry-point-analyzer\skills\entry-point-analyzer\SKILL.md`
+- **evaluating-code-models**: Evaluates code generation models across HumanEval, MBPP, MultiPL-E, and 15+ benc
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\zechenzhangAGI__AI-research-SKILLs\11-evaluation\bigcode-evaluation-harness\SKILL.md`
+- **evaluating-code-models**: Evaluates code generation models across HumanEval, MBPP, MultiPL-E, and 15+ benc
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\Orchestra-Research__AI-research-SKILLs\11-evaluation\bigcode-evaluation-harness\SKILL.md`
+- **experiment-bridge**: Workflow 1.5: Bridge between idea discovery and auto review. Reads EXPERIMENT_PL
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\wanshuiyin__Auto-claude-code-research-in-sleep\skills\experiment-bridge\SKILL.md`
+- **experiment-bridge**: Workflow 1.5: Bridge between idea discovery and auto review. Reads EXPERIMENT_PL
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\wanshuiyin__Auto-claude-code-research-in-sleep\skills\skills-codex\experiment-bridge\SKILL.md`
+- **exploiting-api-injection-vulnerabilities**: Tests APIs for injection vulnerabilities including SQL injection, NoSQL injectio
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\exploiting-api-injection-vulnerabilities\SKILL.md`
+- **exploiting-broken-function-level-authorization**: Tests APIs for Broken Function Level Authorization (BFLA) vulnerabilities where 
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\exploiting-broken-function-level-authorization\SKILL.md`
+- **exploiting-excessive-data-exposure-in-api**: Tests APIs for excessive data exposure where endpoints return more data than the
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\exploiting-excessive-data-exposure-in-api\SKILL.md`
+- **exploiting-insecure-deserialization**: Identifying and exploiting insecure deserialization vulnerabilities in Java, PHP
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\exploiting-insecure-deserialization\SKILL.md`
+- **exploiting-mass-assignment-in-rest-apis**: Discover and exploit mass assignment vulnerabilities in REST APIs to escalate pr
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\exploiting-mass-assignment-in-rest-apis\SKILL.md`
+- **exploiting-prototype-pollution-in-javascript**: Detect and exploit JavaScript prototype pollution vulnerabilities on both client
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\exploiting-prototype-pollution-in-javascript\SKILL.md`
+- **expo-api-routes**: Guidelines for creating API routes in Expo Router with EAS Hosting
+  - `22-Expo\expo-api-routes\SKILL.md`
+- **expo-api-routes**: Guidelines for creating API routes in Expo Router with EAS Hosting
+  - `22-Expo\_repo\plugins\expo\skills\expo-api-routes\SKILL.md`
+- **expo-deployment**: Deploying Expo apps to iOS App Store, Android Play Store, web hosting, and API r
+  - `22-Expo\expo-deployment\SKILL.md`
+- **expo-deployment**: Deploying Expo apps to iOS App Store, Android Play Store, web hosting, and API r
+  - `22-Expo\_repo\plugins\expo\skills\expo-deployment\SKILL.md`
+- **expo-module**: Guide for creating and writing Expo native modules and views using the Expo Modu
+  - `22-Expo\_repo\plugins\expo\skills\expo-module\SKILL.md`
+- **expo-tailwind-setup**: Set up Tailwind CSS v4 in Expo with react-native-css and NativeWind v5 for unive
+  - `22-Expo\expo-tailwind-setup\SKILL.md`
+- **expo-tailwind-setup**: Set up Tailwind CSS v4 in Expo with react-native-css and NativeWind v5 for unive
+  - `22-Expo\_repo\plugins\expo\skills\expo-tailwind-setup\SKILL.md`
+- **extracting-memory-artifacts-with-rekall**: Uses Rekall memory forensics framework to analyze memory dumps for process hollo
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\extracting-memory-artifacts-with-rekall\SKILL.md`
+- **fal-redesign**: Upgrade a coded website to award-tier, editorially-crafted design using fal.ai. 
+  - `14-fal-ai\skills\fal-redesign\SKILL.md`
+- **fastapi-router-py**: Create FastAPI routers with CRUD operations, authentication dependencies, and pr
+  - `02-Microsoft-Azure\microsoft-fastapi-router-py\SKILL.md`
+- **fetch**: Use this skill when the user wants to retrieve a URL without a full browser sess
+  - `33-Browserbase\browserbase-fetch\SKILL.md`
+- **figma-code-connect-components**: Connects Figma design components to code components using Code Connect mapping t
+  - `03-OpenAI\openai-figma-code-connect-components\SKILL.md`
+- **figma-generate-library**: Build or update a professional-grade design system in Figma from a codebase. Use
+  - `03-OpenAI\openai-figma-generate-library\SKILL.md`
+- **figma-generate-library**: Build or update a professional-grade design system in Figma from a codebase. Use
+  - `34-Figma\figma-figma-generate-library\SKILL.md`
+- **figma-implement-design**: Translates Figma designs into production-ready application code with 1:1 visual 
+  - `03-OpenAI\openai-figma-implement-design\SKILL.md`
+- **figma-implement-design**: Translates Figma designs into production-ready application code with 1:1 visual 
+  - `34-Figma\figma-figma-implement-design\SKILL.md`
+- **finding-duplicate-functions**: Use when auditing a codebase for semantic duplication - functions that do the sa
+  - `42-Cong-Dong-Nang-Suat-Cong-Tac\obra__superpowers-lab\skills\finding-duplicate-functions\SKILL.md`
+- **firebase-ai-logic-basics**: Official skill for integrating Firebase AI Logic (Gemini API) into web applicati
+  - `20-Firebase\firebase-ai-logic-basics\SKILL.md`
+- **firebase-ai-logic-basics**: Official skill for integrating Firebase AI Logic (Gemini API) into web applicati
+  - `20-Firebase\_repo\skills\firebase-ai-logic-basics\SKILL.md`
+- **firebase-app-hosting-basics**: Deploy and manage web apps with Firebase App Hosting. Use this skill when deploy
+  - `20-Firebase\firebase-app-hosting-basics\SKILL.md`
+- **firebase-app-hosting-basics**: Deploy and manage web apps with Firebase App Hosting. Use this skill when deploy
+  - `20-Firebase\_repo\skills\firebase-app-hosting-basics\SKILL.md`
+- **firebase-crashlytics**: Comprehensive guide for Firebase Crashlytics, including provisioning and SDK usa
+  - `20-Firebase\_repo\skills\firebase-crashlytics\SKILL.md`
+- **firebase-remote-config-basics**: Comprehensive guide for Firebase Remote Config, including template management an
+  - `20-Firebase\_repo\skills\firebase-remote-config-basics\SKILL.md`
+- **firecrawl-build**: Integrate Firecrawl into application code whenever a product, agent, or workflow
+  - `01-Claude-Chinh-Thuc\firecrawl-firecrawl-build\SKILL.md`
+- **firecrawl-build-interact**: Integrate Firecrawl `/interact` into product code for dynamic pages and browser 
+  - `01-Claude-Chinh-Thuc\firecrawl-firecrawl-build-interact\SKILL.md`
+- **firecrawl-build-scrape**: Integrate Firecrawl `/scrape` into product code for single-page extraction. Use 
+  - `01-Claude-Chinh-Thuc\firecrawl-firecrawl-build-scrape\SKILL.md`
+- **firecrawl-build-search**: Integrate Firecrawl `/search` into product code and agent workflows. Use when an
+  - `01-Claude-Chinh-Thuc\firecrawl-firecrawl-build-search\SKILL.md`
+- **fixing-accessibility**: Audit and fix HTML accessibility issues including ARIA labels, keyboard navigati
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\ibelick__ui-skills\skills\fixing-accessibility\SKILL.md`
+- **fluidsim**: Framework for computational fluid dynamics simulations using Python. Use when ru
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\K-Dense-AI__claude-scientific-skills\scientific-skills\fluidsim\SKILL.md`
+- **flutter**: Flutter development with Riverpod state management, Freezed, go_router, and mock
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\alinaqi__claude-bootstrap\skills\flutter\SKILL.md`
+- **flutter-add-integration-test**: Configures Flutter Driver for app interaction and converts MCP actions into perm
+  - `09-Flutter\skills\flutter-add-integration-test\SKILL.md`
+- **flutter-add-widget-preview**: Adds interactive widget previews to the project using the previews.dart system. 
+  - `09-Flutter\skills\flutter-add-widget-preview\SKILL.md`
+- **flutter-add-widget-test**: Implement a component-level test using `WidgetTester` to verify UI rendering and
+  - `09-Flutter\skills\flutter-add-widget-test\SKILL.md`
+- **flutter-apply-architecture-best-practices**: Architects a Flutter application using the recommended layered approach (UI, Log
+  - `09-Flutter\skills\flutter-apply-architecture-best-practices\SKILL.md`
+- **flutter-build-responsive-layout**: Use `LayoutBuilder`, `MediaQuery`, or `Expanded/Flexible` to create a layout tha
+  - `09-Flutter\skills\flutter-build-responsive-layout\SKILL.md`
+- **flutter-dev**: |
+  - `23-MiniMax\_repo\skills\flutter-dev\SKILL.md`
+- **flutter-fix-layout-issues**: Fixes Flutter layout errors (overflows, unbounded constraints) using Dart and Fl
+  - `09-Flutter\skills\flutter-fix-layout-issues\SKILL.md`
+- **flutter-implement-json-serialization**: Create model classes with `fromJson` and `toJson` methods using `dart:convert`. 
+  - `09-Flutter\skills\flutter-implement-json-serialization\SKILL.md`
+- **flutter-setup-declarative-routing**: Configure `MaterialApp.router` using a package like `go_router` for advanced URL
+  - `09-Flutter\skills\flutter-setup-declarative-routing\SKILL.md`
+- **flutter-setup-localization**: Add `flutter_localizations` and `intl` dependencies, enable
+  - `09-Flutter\skills\flutter-setup-localization\SKILL.md`
+- **flutter-use-http-package**: Use the `http` package to execute GET, POST, PUT, or DELETE requests. Use when y
+  - `09-Flutter\skills\flutter-use-http-package\SKILL.md`
+- **frontend-slides**: Create stunning, animation-rich HTML presentations from scratch or by converting
+  - `42-Cong-Dong-Nang-Suat-Cong-Tac\zarazhangrui__frontend-slides\SKILL.md`
+- **frontend-ui-dark-ts**: Build dark-themed React applications using Tailwind CSS with custom theming, gla
+  - `02-Microsoft-Azure\microsoft-frontend-ui-dark-ts\SKILL.md`
+- **full-output-enforcement**: Overrides default LLM truncation behavior. Enforces complete code generation, ba
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\Leonxlnx__taste-skill\skills\output-skill\SKILL.md`
+- **gemini-api-dev**: Use this skill when building applications with Gemini API hosted models, includi
+  - `01-Claude-Chinh-Thuc\google-gemini-gemini-api-dev\SKILL.md`
+- **gemini-interactions-api**: Use this skill when writing code that calls the Gemini API for text generation, 
+  - `01-Claude-Chinh-Thuc\google-gemini-gemini-interactions-api\SKILL.md`
+- **gemini-live-api-dev**: Use this skill when building real-time, bidirectional streaming applications wit
+  - `01-Claude-Chinh-Thuc\google-gemini-gemini-live-api-dev\SKILL.md`
+- **gemini-review**: Google Gemini CLI code review with Gemini 2.5 Pro, 1M token context, CI/CD integ
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\alinaqi__claude-bootstrap\skills\gemini-review\SKILL.md`
+- **genotoxic**: Graph-informed mutation testing triage. Parses codebases with Trailmark, runs mu
+  - `10-Bao-Mat-Trail-of-Bits\plugins\trailmark\skills\genotoxic\SKILL.md`
+- **geopandas**: Python library for working with geospatial vector data including shapefiles, Geo
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\K-Dense-AI__claude-scientific-skills\scientific-skills\geopandas\SKILL.md`
+- **gget**: Fast CLI/Python queries to 20+ bioinformatics databases. Use for quick lookups: 
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\K-Dense-AI__claude-scientific-skills\scientific-skills\gget\SKILL.md`
+- **git-guardrails-claude-code**: Set up Claude Code hooks to block dangerous git commands (push, reset --hard, cl
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mattpocock__skills\skills\misc\git-guardrails-claude-code\SKILL.md`
+- **github**: GitHub patterns using gh CLI for pull requests, stacked PRs, code review, branch
+  - `01-Claude-Chinh-Thuc\callstackincubator-github\SKILL.md`
+- **gpt-taste**: Elite UX/UI & Advanced GSAP Motion Engineer. Enforces Python-driven true randomi
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\Leonxlnx__taste-skill\skills\gpt-tasteskill\SKILL.md`
+- **gsap-core**: Official GSAP skill for the core API — gsap.to(), from(), fromTo(), easing, dura
+  - `27-GSAP-Animation\gsap-core\skills\gsap-core\SKILL.md`
+- **gsap-frameworks**: Official GSAP skill for Vue, Svelte, and other non-React frameworks — lifecycle,
+  - `27-GSAP-Animation\gsap-frameworks\skills\gsap-frameworks\SKILL.md`
+- **gsap-react**: Official GSAP skill for React — useGSAP hook, refs, gsap.context(), cleanup. Use
+  - `27-GSAP-Animation\gsap-react\skills\gsap-react\SKILL.md`
+- **gstack-openclaw-retro**: Weekly engineering retrospective. Analyzes commit history, work patterns, and co
+  - `08-Khoi-Nghiep-Garry-Tan\openclaw\skills\gstack-openclaw-retro\SKILL.md`
+- **gtars**: High-performance toolkit for genomic interval analysis in Rust with Python bindi
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\K-Dense-AI__claude-scientific-skills\scientific-skills\gtars\SKILL.md`
+- **guidance**: Control LLM output with regex and grammars, guarantee valid JSON/XML/code genera
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\zechenzhangAGI__AI-research-SKILLs\16-prompt-engineering\guidance\SKILL.md`
+- **guidance**: Control LLM output with regex and grammars, guarantee valid JSON/XML/code genera
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\Orchestra-Research__AI-research-SKILLs\16-prompt-engineering\guidance\SKILL.md`
+- **gws-admin-reports**: Google Workspace Admin SDK: Audit logs and usage reports.
+  - `12-Google-Workspace\skills\gws-admin-reports\SKILL.md`
+- **helius**: Build Solana applications with Helius infrastructure. Covers transaction sending
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\helius-labs__helius-skills\helius\SKILL.md`
+- **helius-dflow**: Build Solana trading applications combining DFlow trading APIs with Helius infra
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\helius-labs__helius-skills\helius-dflow\SKILL.md`
+- **helius-jupiter**: Build Solana DeFi applications combining Jupiter APIs with Helius infrastructure
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\helius-labs__helius-skills\helius-jupiter\SKILL.md`
+- **helius-phantom**: Build frontend Solana applications with Phantom Connect SDK and Helius infrastru
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\helius-labs__helius-skills\helius-phantom\SKILL.md`
+- **home-assistant-manager**: Expert-level Home Assistant configuration management with efficient deployment w
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\komal-SkyNET__claude-skill-homeassistant\SKILL.md`
+- **huggingface-accelerate**: Simplest distributed training API. 4 lines to add distributed support to any PyT
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\zechenzhangAGI__AI-research-SKILLs\08-distributed-training\accelerate\SKILL.md`
+- **huggingface-accelerate**: Simplest distributed training API. 4 lines to add distributed support to any PyT
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\Orchestra-Research__AI-research-SKILLs\08-distributed-training\accelerate\SKILL.md`
+- **huggingface-datasets**: Use this skill for Hugging Face Dataset Viewer API workflows that fetch subset/s
+  - `18-Hugging-Face\hugging-face-dataset-viewer\SKILL.md`
+- **huggingface-datasets**: Use this skill for Hugging Face Dataset Viewer API workflows that fetch subset/s
+  - `18-Hugging-Face\hugging-face-datasets\SKILL.md`
+- **huggingface-datasets**: Use this skill for Hugging Face Dataset Viewer API workflows that fetch subset/s
+  - `18-Hugging-Face\_repo\skills\huggingface-datasets\SKILL.md`
+- **huggingface-gradio**: Build Gradio web UIs and demos in Python. Use when creating or editing Gradio ap
+  - `18-Hugging-Face\huggingface-gradio\SKILL.md`
+- **huggingface-gradio**: Build Gradio web UIs and demos in Python. Use when creating or editing Gradio ap
+  - `18-Hugging-Face\_repo\skills\huggingface-gradio\SKILL.md`
+- **huggingface-papers**: Look up and read Hugging Face paper pages in markdown, and use the papers API fo
+  - `18-Hugging-Face\hugging-face-paper-pages\SKILL.md`
+- **huggingface-papers**: Look up and read Hugging Face paper pages in markdown, and use the papers API fo
+  - `18-Hugging-Face\_repo\skills\huggingface-papers\SKILL.md`
+- **huggingface-tool-builder**: Use this skill when the user wants to build tool/scripts or achieve a task where
+  - `18-Hugging-Face\hugging-face-tool-builder\SKILL.md`
+- **huggingface-tool-builder**: Use this skill when the user wants to build tool/scripts or achieve a task where
+  - `18-Hugging-Face\_repo\skills\huggingface-tool-builder\SKILL.md`
+- **huggingface-trackio**: Track and visualize ML training experiments with Trackio. Use when logging metri
+  - `18-Hugging-Face\hugging-face-trackio\SKILL.md`
+- **huggingface-trackio**: Track and visualize ML training experiments with Trackio. Use when logging metri
+  - `18-Hugging-Face\_repo\skills\huggingface-trackio\SKILL.md`
+- **icpg**: Intent-Augmented Code Property Graph — tracks WHY code exists via ReasonNodes wi
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\alinaqi__claude-bootstrap\skills\icpg\SKILL.md`
+- **image-to-code**: Elite website image-to-code skill for Codex. For visually important web tasks, i
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\Leonxlnx__taste-skill\skills\image-to-code-skill\SKILL.md`
+- **implementing-api-abuse-detection-with-rate-limiting**: Implement API abuse detection using token bucket, sliding window, and adaptive r
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\implementing-api-abuse-detection-with-rate-limiting\SKILL.md`
+- **implementing-api-gateway-security-controls**: Implements security controls at the API gateway layer including authentication e
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\implementing-api-gateway-security-controls\SKILL.md`
+- **implementing-api-rate-limiting-and-throttling**: Implements API rate limiting and throttling controls using token bucket, sliding
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\implementing-api-rate-limiting-and-throttling\SKILL.md`
+- **implementing-api-schema-validation-security**: Implement API schema validation using OpenAPI specifications and JSON Schema to 
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\implementing-api-schema-validation-security\SKILL.md`
+- **implementing-api-security-posture-management**: Implement API Security Posture Management to continuously discover, classify, an
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\implementing-api-security-posture-management\SKILL.md`
+- **implementing-api-security-testing-with-42crunch**: Implement comprehensive API security testing using the 42Crunch platform to perf
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\implementing-api-security-testing-with-42crunch\SKILL.md`
+- **implementing-api-threat-protection-with-apigee**: Implement API threat protection using Google Apigee policies including JSON/XML 
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\implementing-api-threat-protection-with-apigee\SKILL.md`
+- **implementing-cloud-workload-protection**: Implements cloud workload protection using boto3 and google-cloud APIs for runti
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\implementing-cloud-workload-protection\SKILL.md`
+- **implementing-code-signing-for-artifacts**: This skill covers implementing code signing for build artifacts to ensure integr
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\implementing-code-signing-for-artifacts\SKILL.md`
+- **implementing-deception-based-detection-with-canarytoken**: Deploy and monitor Canary Tokens via the Thinkst Canary API for deception-based 
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\implementing-deception-based-detection-with-canarytoken\SKILL.md`
+- **implementing-endpoint-detection-with-wazuh**: Deploy and configure Wazuh SIEM/XDR for endpoint detection including agent manag
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\implementing-endpoint-detection-with-wazuh\SKILL.md`
+- **implementing-github-advanced-security-for-code-scanning**: Configure GitHub Advanced Security with CodeQL to perform automated static analy
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\implementing-github-advanced-security-for-code-scanning\SKILL.md`
+- **implementing-infrastructure-as-code-security-scanning**: This skill covers implementing automated security scanning for Infrastructure as
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\implementing-infrastructure-as-code-security-scanning\SKILL.md`
+- **implementing-mtls-for-zero-trust-services**: Configures mutual TLS (mTLS) authentication between microservices using Python c
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\implementing-mtls-for-zero-trust-services\SKILL.md`
+- **implementing-network-traffic-analysis-with-arkime**: Deploy and query Arkime (formerly Moloch) for full packet capture network traffi
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\implementing-network-traffic-analysis-with-arkime\SKILL.md`
+- **implementing-network-traffic-baselining**: Build network traffic baselines from NetFlow/IPFIX data using Python pandas for 
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\implementing-network-traffic-baselining\SKILL.md`
+- **implementing-policy-as-code-with-open-policy-agent**: This skill covers implementing Open Policy Agent (OPA) and Gatekeeper for policy
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\implementing-policy-as-code-with-open-policy-agent\SKILL.md`
+- **implementing-rapid7-insightvm-for-scanning**: Deploy and configure Rapid7 InsightVM Security Console and Scan Engines for auth
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\implementing-rapid7-insightvm-for-scanning\SKILL.md`
+- **implementing-secret-scanning-with-gitleaks**: This skill covers implementing Gitleaks for detecting and preventing hardcoded s
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\implementing-secret-scanning-with-gitleaks\SKILL.md`
+- **implementing-security-information-sharing-with-stix2**: Create, validate, and share STIX 2.1 threat intelligence objects using the stix2
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\implementing-security-information-sharing-with-stix2\SKILL.md`
+- **implementing-soar-playbook-for-phishing**: Automate phishing incident response using Splunk SOAR REST API to create contain
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\implementing-soar-playbook-for-phishing\SKILL.md`
+- **implementing-vulnerability-management-with-greenbone**: Deploy and operate Greenbone/OpenVAS vulnerability management using the python-g
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\implementing-vulnerability-management-with-greenbone\SKILL.md`
+- **improve-codebase-architecture**: Find deepening opportunities in a codebase, informed by the domain language in C
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mattpocock__skills\skills\engineering\improve-codebase-architecture\SKILL.md`
+- **insecure-defaults**: Detects fail-open insecure defaults (hardcoded secrets, weak auth, permissive se
+  - `10-Bao-Mat-Trail-of-Bits\plugins\insecure-defaults\skills\insecure-defaults\SKILL.md`
+- **integrating-sast-into-github-actions-pipeline**: This skill covers integrating Static Application Security Testing (SAST) tools—C
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\integrating-sast-into-github-actions-pipeline\SKILL.md`
+- **ios-design-guidelines**: Apple Human Interface Guidelines for iPhone. Use when building, reviewing, or re
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\ehmo__platform-design-skills\skills\ios\SKILL.md`
+- **iterative-development**: TDD iteration loops using Claude Code Stop hooks - runs tests after each respons
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\alinaqi__claude-bootstrap\skills\iterative-development\SKILL.md`
+- **kaizen**: Use when Code implementation and refactoring, architecturing or designing system
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\NeoLabHQ__kaizen\skills\kaizen\SKILL.md`
+- **labarchive-integration**: Electronic lab notebook API integration. Access notebooks, manage entries/attach
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\K-Dense-AI__claude-scientific-skills\scientific-skills\labarchive-integration\SKILL.md`
+- **latchbio-integration**: Latch platform for bioinformatics workflows. Build pipelines with Latch SDK, @wo
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\K-Dense-AI__claude-scientific-skills\scientific-skills\latchbio-integration\SKILL.md`
+- **llama-factory**: Expert guidance for fine-tuning LLMs with LLaMA-Factory - WebUI no-code, 100+ mo
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\zechenzhangAGI__AI-research-SKILLs\03-fine-tuning\llama-factory\SKILL.md`
+- **llama-factory**: Expert guidance for fine-tuning LLMs with LLaMA-Factory - WebUI no-code, 100+ mo
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\Orchestra-Research__AI-research-SKILLs\03-fine-tuning\llama-factory\SKILL.md`
+- **llm-context**: USE FOR RAG/LLM grounding. Returns pre-extracted web content (text, tables, code
+  - `24-Brave\llm-context\skills\llm-context\SKILL.md`
+- **m365-agents-dotnet**: |
+  - `02-Microsoft-Azure\microsoft-m365-agents-dotnet\SKILL.md`
+- **macos-design-guidelines**: Apple Human Interface Guidelines for Mac. Use when building macOS apps with Swif
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\ehmo__platform-design-skills\skills\macos\SKILL.md`
+- **medusa**: Medusa headless commerce - modules, workflows, API routes, admin UI
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\alinaqi__claude-bootstrap\skills\medusa\SKILL.md`
+- **meeting-prep-cc**: Generate a pre-meeting prep brief in Claude Code. Researches participants, pulls
+  - `44-Cong-Dong-Tiep-Thi-Mang-Xa-Hoi\BrianRWagner__ai-marketing-skills\meeting-prep\SKILL.md`
+- **microsoft-azure-webjobs-extensions-authentication-events-dotnet**: Microsoft Entra Authentication Events SDK for .NET. Azure Functions triggers for
+  - `02-Microsoft-Azure\microsoft-microsoft-azure-webjobs-extensions-authentication-events-dotnet\SKILL.md`
+- **migrate-to-shoehorn**: Migrate test files from `as` type assertions to @total-typescript/shoehorn. Use 
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mattpocock__skills\skills\misc\migrate-to-shoehorn\SKILL.md`
+- **mnemos**: Task-scoped memory lifecycle — typed MnemoGraph prevents lossy context compactio
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\alinaqi__claude-bootstrap\skills\mnemos\SKILL.md`
+- **modal**: Cloud computing platform for running Python on GPUs and serverless infrastructur
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\K-Dense-AI__claude-scientific-skills\scientific-skills\modal\SKILL.md`
+- **modern-python**: Configures Python projects with modern tooling (uv, ruff, ty). Use when creating
+  - `10-Bao-Mat-Trail-of-Bits\plugins\modern-python\skills\modern-python\SKILL.md`
+- **monetize-service**: Build and deploy a paid API that other agents can pay to use via x402. Use when 
+  - `25-Coinbase\monetize-service\skills\monetize-service\SKILL.md`
+- **monitoring-scada-modbus-traffic-anomalies**: Monitors Modbus TCP traffic on SCADA and ICS networks to detect anomalous functi
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\monitoring-scada-modbus-traffic-anomalies\SKILL.md`
+- **ms-teams-apps**: Microsoft Teams bots and AI agents - Claude/OpenAI, Adaptive Cards, Graph API
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\alinaqi__claude-bootstrap\skills\ms-teams-apps\SKILL.md`
+- **n8n-code-javascript**: Write JavaScript code in n8n Code nodes. Use when writing JavaScript in n8n, usi
+  - `46-Cong-Dong-n8n-Tu-Dong-Hoa\czlonkowski__n8n-code-javascript\SKILL.md`
+- **n8n-code-python**: Write Python code in n8n Code nodes. Use when writing Python in n8n, using _inpu
+  - `46-Cong-Dong-n8n-Tu-Dong-Hoa\czlonkowski__n8n-code-python\SKILL.md`
+- **n8n-mcp-tools-expert**: Expert guide for using n8n-mcp MCP tools effectively. Use when searching for nod
+  - `46-Cong-Dong-n8n-Tu-Dong-Hoa\czlonkowski__n8n-mcp-tools-expert\SKILL.md`
+- **n8n-node-configuration**: Operation-aware node configuration guidance. Use when configuring nodes, underst
+  - `46-Cong-Dong-n8n-Tu-Dong-Hoa\czlonkowski__n8n-node-configuration\SKILL.md`
+- **nanogpt**: Educational GPT implementation in ~300 lines. Reproduces GPT-2 (124M) on OpenWeb
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\zechenzhangAGI__AI-research-SKILLs\01-model-architecture\nanogpt\SKILL.md`
+- **nanogpt**: Educational GPT implementation in ~300 lines. Reproduces GPT-2 (124M) on OpenWeb
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\Orchestra-Research__AI-research-SKILLs\01-model-architecture\nanogpt\SKILL.md`
+- **native-data-fetching**: Use when implementing or debugging ANY network request, API call, or data fetchi
+  - `22-Expo\native-data-fetching\SKILL.md`
+- **native-data-fetching**: Use when implementing or debugging ANY network request, API call, or data fetchi
+  - `22-Expo\_repo\plugins\expo\skills\native-data-fetching\SKILL.md`
+- **nemo-evaluator-sdk**: Evaluates LLMs across 100+ benchmarks from 18+ harnesses (MMLU, HumanEval, GSM8K
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\zechenzhangAGI__AI-research-SKILLs\11-evaluation\nemo-evaluator\SKILL.md`
+- **nemo-evaluator-sdk**: Evaluates LLMs across 100+ benchmarks from 18+ harnesses (MMLU, HumanEval, GSM8K
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\Orchestra-Research__AI-research-SKILLs\11-evaluation\nemo-evaluator\SKILL.md`
+- **netlify-ai-gateway**: Reference for Netlify AI Gateway — the managed proxy that routes calls to OpenAI
+  - `19-Netlify\netlify-ai-gateway\SKILL.md`
+- **netlify-ai-gateway**: Reference for Netlify AI Gateway — the managed proxy that routes calls to OpenAI
+  - `19-Netlify\_repo\skills\netlify-ai-gateway\SKILL.md`
+- **netlify-ai-gateway**: Reference for Netlify AI Gateway — the managed proxy that routes calls to OpenAI
+  - `19-Netlify\_repo\codex\skills\netlify-ai-gateway\SKILL.md`
+- **netlify-forms**: Guide for using Netlify Forms for HTML form handling. Use when adding contact fo
+  - `19-Netlify\netlify-forms\SKILL.md`
+- **netlify-forms**: Guide for using Netlify Forms for HTML form handling. Use when adding contact fo
+  - `19-Netlify\_repo\skills\netlify-forms\SKILL.md`
+- **netlify-forms**: Guide for using Netlify Forms for HTML form handling. Use when adding contact fo
+  - `19-Netlify\_repo\codex\skills\netlify-forms\SKILL.md`
+- **netlify-frameworks**: Guide for deploying web frameworks on Netlify. Use when setting up a framework p
+  - `19-Netlify\netlify-frameworks\SKILL.md`
+- **netlify-frameworks**: Guide for deploying web frameworks on Netlify. Use when setting up a framework p
+  - `19-Netlify\_repo\skills\netlify-frameworks\SKILL.md`
+- **netlify-frameworks**: Guide for deploying web frameworks on Netlify. Use when setting up a framework p
+  - `19-Netlify\_repo\codex\skills\netlify-frameworks\SKILL.md`
+- **netlify-functions**: Guide for writing Netlify serverless functions. Use when creating API endpoints,
+  - `19-Netlify\netlify-functions\SKILL.md`
+- **netlify-functions**: Guide for writing Netlify serverless functions. Use when creating API endpoints,
+  - `19-Netlify\_repo\skills\netlify-functions\SKILL.md`
+- **netlify-functions**: Guide for writing Netlify serverless functions. Use when creating API endpoints,
+  - `19-Netlify\_repo\codex\skills\netlify-functions\SKILL.md`
+- **networkx**: Comprehensive toolkit for creating, analyzing, and visualizing complex networks 
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\K-Dense-AI__claude-scientific-skills\scientific-skills\networkx\SKILL.md`
+- **next-best-practices**: Next.js best practices - file conventions, RSC boundaries, data patterns, async 
+  - `32-Vercel-Nextjs\vercel-labs-next-best-practices\SKILL.md`
+- **next-upgrade**: Upgrade Next.js to the latest version following official migration guides and co
+  - `32-Vercel-Nextjs\vercel-labs-next-upgrade\SKILL.md`
+- **nodejs-backend**: Node.js backend patterns with Express/Fastify, repositories
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\alinaqi__claude-bootstrap\skills\nodejs-backend\SKILL.md`
+- **notebooklm**: Use this skill to query your Google NotebookLM notebooks directly from Claude Co
+  - `42-Cong-Dong-Nang-Suat-Cong-Tac\PleasePrompto__notebooklm-skill\SKILL.md`
+- **notion-meeting-intelligence**: Prepare meeting materials with Notion context and Codex research; use when gathe
+  - `03-OpenAI\openai-notion-meeting-intelligence\SKILL.md`
+- **notion-spec-to-implementation**: Turns product or tech specs into concrete Notion tasks that Claude code can impl
+  - `29-Notion\spec-to-implementation\skills\claude\spec-to-implementation\SKILL.md`
+- **observe-whatsapp**: Observe and troubleshoot WhatsApp in Kapso: debug message delivery, inspect webh
+  - `42-Cong-Dong-Nang-Suat-Cong-Tac\gokapso__observe-whatsapp\SKILL.md`
+- **omero-integration**: Microscopy data management platform. Access images via Python, retrieve datasets
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\K-Dense-AI__claude-scientific-skills\scientific-skills\omero-integration\SKILL.md`
+- **openai-docs**: Use when the user asks how to build with OpenAI products or APIs and needs up-to
+  - `03-OpenAI\openai-doc\SKILL.md`
+- **openai-docs**: Use when the user asks how to build with OpenAI products or APIs and needs up-to
+  - `03-OpenAI\openai-openai-docs\SKILL.md`
+- **openalex**: Search academic papers via OpenAlex API for open citation data, institutional af
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\wanshuiyin__Auto-claude-code-research-in-sleep\skills\openalex\SKILL.md`
+- **opentrons-integration**: Official Opentrons Protocol API for OT-2 and Flex robots. Use when writing proto
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\K-Dense-AI__claude-scientific-skills\scientific-skills\opentrons-integration\SKILL.md`
+- **optimize-for-gpu**: GPU-accelerate Python code using CuPy, Numba CUDA, Warp, cuDF, cuML, cuGraph, Kv
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\K-Dense-AI__claude-scientific-skills\scientific-skills\optimize-for-gpu\SKILL.md`
+- **outlines**: Guarantee valid JSON/XML/code structure during generation, use Pydantic models f
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\zechenzhangAGI__AI-research-SKILLs\16-prompt-engineering\outlines\SKILL.md`
+- **outlines**: Guarantee valid JSON/XML/code structure during generation, use Pydantic models f
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\Orchestra-Research__AI-research-SKILLs\16-prompt-engineering\outlines\SKILL.md`
+- **paper-illustration-image2**: Generate publication-quality academic illustrations through a local Codex app-se
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\wanshuiyin__Auto-claude-code-research-in-sleep\skills\paper-illustration-image2\SKILL.md`
+- **paper-lookup**: Search 10 academic paper databases via REST APIs for research papers, preprints,
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\K-Dense-AI__claude-scientific-skills\scientific-skills\paper-lookup\SKILL.md`
+- **pay-for-service**: Make a paid API request to an x402 endpoint with automatic USDC payment. Use whe
+  - `25-Coinbase\pay-for-service\skills\pay-for-service\SKILL.md`
+- **performing-alert-triage-with-elastic-siem**: Perform systematic alert triage in Elastic Security SIEM to rapidly classify, pr
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-alert-triage-with-elastic-siem\SKILL.md`
+- **performing-api-fuzzing-with-restler**: Uses Microsoft RESTler to perform stateful REST API fuzzing by automatically gen
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-api-fuzzing-with-restler\SKILL.md`
+- **performing-api-inventory-and-discovery**: Performs API inventory and discovery to identify all API endpoints in an organiz
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-api-inventory-and-discovery\SKILL.md`
+- **performing-api-rate-limiting-bypass**: Tests API rate limiting implementations for bypass vulnerabilities by manipulati
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-api-rate-limiting-bypass\SKILL.md`
+- **performing-api-security-testing-with-postman**: Uses Postman to perform structured API security testing by building collections 
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-api-security-testing-with-postman\SKILL.md`
+- **performing-binary-exploitation-analysis**: Analyze binary exploitation techniques including buffer overflows and ROP chains
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-binary-exploitation-analysis\SKILL.md`
+- **performing-graphql-security-assessment**: Assessing GraphQL API endpoints for introspection leaks, injection attacks, auth
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-graphql-security-assessment\SKILL.md`
+- **performing-ip-reputation-analysis-with-shodan**: Analyze IP address reputation using the Shodan API to identify open ports, runni
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-ip-reputation-analysis-with-shodan\SKILL.md`
+- **performing-malware-hash-enrichment-with-virustotal**: Enrich malware file hashes using the VirusTotal API to retrieve detection rates,
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-malware-hash-enrichment-with-virustotal\SKILL.md`
+- **performing-malware-triage-with-yara**: Performs rapid malware triage and classification using YARA rules to match file 
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-malware-triage-with-yara\SKILL.md`
+- **performing-memory-forensics-with-volatility3-plugins**: Analyze memory dumps using Volatility3 plugins to detect injected code, rootkits
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-memory-forensics-with-volatility3-plugins\SKILL.md`
+- **performing-osint-with-spiderfoot**: Automate OSINT collection using SpiderFoot REST API and CLI for target profiling
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-osint-with-spiderfoot\SKILL.md`
+- **performing-red-team-phishing-with-gophish**: Automate GoPhish phishing simulation campaigns using the Python gophish library.
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-red-team-phishing-with-gophish\SKILL.md`
+- **performing-sqlite-database-forensics**: Perform forensic analysis of SQLite databases to recover deleted records from fr
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-sqlite-database-forensics\SKILL.md`
+- **performing-ssl-tls-security-assessment**: Assess SSL/TLS server configurations using the sslyze Python library to evaluate
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-ssl-tls-security-assessment\SKILL.md`
+- **performing-thick-client-application-penetration-test**: Conduct a thick client application penetration test to identify insecure local s
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-thick-client-application-penetration-test\SKILL.md`
+- **performing-threat-emulation-with-atomic-red-team**: Executes Atomic Red Team tests for MITRE ATT&CK technique validation using the a
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-threat-emulation-with-atomic-red-team\SKILL.md`
+- **playwright-core**: Battle-tested Playwright patterns for writing and debugging reliable E2E, API, c
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\testdino-hq__playwright-skill\core\SKILL.md`
+- **postgres-nio**: Expert guidance on using PostgreSQL with Swift. Use when developers mention: (1)
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\Joannis__claude-skills\postgres-nio\SKILL.md`
+- **pptx-posters**: Create research posters using HTML/CSS that can be exported to PDF or PPTX. Use 
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\K-Dense-AI__claude-scientific-skills\scientific-skills\pptx-posters\SKILL.md`
+- **product-manager-skills**: PM skill for Claude Code, Codex, Cursor, and Windsurf. Diagnoses SaaS metrics, c
+  - `42-Cong-Dong-Nang-Suat-Cong-Tac\Digidai__product-manager-skills\SKILL.md`
+- **producthunt**: Search and retrieve content from Product Hunt. Get posts, topics, users, and col
+  - `42-Cong-Dong-Nang-Suat-Cong-Tac\ReScienceLab__opc-skills\skills\producthunt\SKILL.md`
+- **protocolsio-integration**: Integration with protocols.io API for managing scientific protocols. This skill 
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\K-Dense-AI__claude-scientific-skills\scientific-skills\protocolsio-integration\SKILL.md`
+- **pydeseq2**: Differential gene expression analysis (Python DESeq2). Identify DE genes from bu
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\K-Dense-AI__claude-scientific-skills\scientific-skills\pydeseq2\SKILL.md`
+- **pydicom**: Python library for working with DICOM (Digital Imaging and Communications in Med
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\K-Dense-AI__claude-scientific-skills\scientific-skills\pydicom\SKILL.md`
+- **python**: Python development with ruff, mypy, pytest - TDD and type safety
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\alinaqi__claude-bootstrap\skills\python\SKILL.md`
+- **pytorch-lightning**: Deep learning framework (PyTorch Lightning). Organize PyTorch code into Lightnin
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\K-Dense-AI__claude-scientific-skills\scientific-skills\pytorch-lightning\SKILL.md`
+- **pyzotero**: Interact with Zotero reference management libraries using the pyzotero Python cl
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\K-Dense-AI__claude-scientific-skills\scientific-skills\pyzotero\SKILL.md`
+- **qdrant-monitoring-setup**: Guides Qdrant monitoring setup including Prometheus scraping, health probes, Hyb
+  - `40-Vector-Databases\qdrant-monitoring\setup\SKILL.md`
+- **query-onchain-data**: Query onchain data on Base using the CDP SQL API via x402. Use when you or your 
+  - `25-Coinbase\query-onchain-data\skills\query-onchain-data\SKILL.md`
+- **rails-conventions**: Rails 8.x application architecture, implementation, and review guidance for prod
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\ethos-link__rails-conventions\SKILL.md`
+- **ray-train**: Distributed training orchestration across clusters. Scales PyTorch/TensorFlow/Hu
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\zechenzhangAGI__AI-research-SKILLs\08-distributed-training\ray-train\SKILL.md`
+- **ray-train**: Distributed training orchestration across clusters. Scales PyTorch/TensorFlow/Hu
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\Orchestra-Research__AI-research-SKILLs\08-distributed-training\ray-train\SKILL.md`
+- **react-email**: Use when building HTML email templates with React components, adding a visual em
+  - `37-Resend\resend-react-email\SKILL.md`
+- **react-flow-node-ts**: Create React Flow node components with TypeScript types, handles, and Zustand in
+  - `02-Microsoft-Azure\microsoft-react-flow-node-ts\SKILL.md`
+- **react-native**: React Native mobile patterns, platform-specific code
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\alinaqi__claude-bootstrap\skills\react-native\SKILL.md`
+- **react-native-best-practices**: Provides React Native performance optimization guidelines for FPS, TTI, bundle s
+  - `01-Claude-Chinh-Thuc\callstackincubator-react-native-best-practices\SKILL.md`
+- **react-native-dev**: |
+  - `23-MiniMax\_repo\skills\react-native-dev\SKILL.md`
+- **react-web**: React web development with hooks, React Query, Zustand
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\alinaqi__claude-bootstrap\skills\react-web\SKILL.md`
+- **receiving-code-review**: Use when receiving code review feedback, before implementing suggestions, especi
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\obra__receiving-code-review\SKILL.md`
+- **reddit**: Search and retrieve content from Reddit. Get posts, comments, subreddit info, an
+  - `42-Cong-Dong-Nang-Suat-Cong-Tac\ReScienceLab__opc-skills\skills\reddit\SKILL.md`
+- **reddit-ads**: Reddit Ads API - campaigns, targeting, conversions, agentic optimization
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\alinaqi__claude-bootstrap\skills\reddit-ads\SKILL.md`
+- **reddit-api**: Reddit API with PRAW (Python) and Snoowrap (Node.js)
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\alinaqi__claude-bootstrap\skills\reddit-api\SKILL.md`
+- **remotion-best-practices**: Best practices for Remotion - Video creation in React
+  - `01-Claude-Chinh-Thuc\remotion-dev-remotion\SKILL.md`
+- **render-deploy**: Deploy applications to Render by analyzing codebases, generating render.yaml Blu
+  - `03-OpenAI\openai-render-deploy\SKILL.md`
+- **requesting-code-review**: Use when completing tasks, implementing major features, or before merging to ver
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\obra__requesting-code-review\SKILL.md`
+- **research-lookup**: Look up current research information using parallel-cli search (primary, fast we
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\K-Dense-AI__claude-scientific-skills\scientific-skills\research-lookup\SKILL.md`
+- **research-review**: Get a deep critical review of research from GPT via Codex MCP. Use when user say
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\wanshuiyin__Auto-claude-code-research-in-sleep\skills\research-review\SKILL.md`
+- **research-review**: Get a deep critical review of research from GPT using a secondary Codex agent. U
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\wanshuiyin__Auto-claude-code-research-in-sleep\skills\skills-codex\research-review\SKILL.md`
+- **resend**: Use when working with the Resend email API — sending transactional emails (singl
+  - `37-Resend\resend-resend\SKILL.md`
+- **reverse-engineering-android-malware-with-jadx**: Reverse engineers malicious Android APK files using JADX decompiler to analyze J
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\reverse-engineering-android-malware-with-jadx\SKILL.md`
+- **reverse-engineering-dotnet-malware-with-dnspy**: Reverse engineers .NET malware using dnSpy decompiler and debugger to analyze C#
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\reverse-engineering-dotnet-malware-with-dnspy\SKILL.md`
+- **review**: Review the changes since a fixed point (commit, branch, tag, or merge-base) alon
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mattpocock__skills\skills\in-progress\review\SKILL.md`
+- **rowan**: Rowan is a cloud-native molecular modeling and medicinal-chemistry workflow plat
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\K-Dense-AI__claude-scientific-skills\scientific-skills\rowan\SKILL.md`
+- **saas-economics-efficiency-metrics**: Evaluate SaaS unit economics and capital efficiency. Use when deciding whether t
+  - `04-Quan-Ly-San-Pham-Dean-Peters\skills\saas-economics-efficiency-metrics\SKILL.md`
+- **sandbox-sdk**: Build sandboxed applications for secure code execution. Load when building AI co
+  - `26-Cloudflare\sandbox-sdk\skills\sandbox-sdk\SKILL.md`
+- **scikit-learn**: Machine learning in Python with scikit-learn. Use when working with supervised l
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\K-Dense-AI__claude-scientific-skills\scientific-skills\scikit-learn\SKILL.md`
+- **scikit-survival**: Comprehensive toolkit for survival analysis and time-to-event modeling in Python
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\K-Dense-AI__claude-scientific-skills\scientific-skills\scikit-survival\SKILL.md`
+- **search-for-service**: Search and browse the x402 bazaar marketplace for paid API services. Use when yo
+  - `25-Coinbase\search-for-service\skills\search-for-service\SKILL.md`
+- **second-opinion**: Runs external LLM code reviews (OpenAI Codex or Google Gemini CLI) on uncommitte
+  - `10-Bao-Mat-Trail-of-Bits\plugins\second-opinion\skills\second-opinion\SKILL.md`
+- **securing-api-gateway-with-aws-waf**: Securing API Gateway endpoints with AWS WAF by configuring managed rule groups f
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\securing-api-gateway-with-aws-waf\SKILL.md`
+- **security-ownership-map**: Analyze git repositories to build a security ownership topology (people-to-file)
+  - `03-OpenAI\openai-security-ownership-map\SKILL.md`
+- **semantic-scholar**: Search published venue papers (IEEE, ACM, Springer, etc.) via Semantic Scholar A
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\wanshuiyin__Auto-claude-code-research-in-sleep\skills\semantic-scholar\SKILL.md`
+- **semantic-scholar**: Search published venue papers (IEEE, ACM, Springer, etc.) via Semantic Scholar A
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\wanshuiyin__Auto-claude-code-research-in-sleep\skills\skills-codex\semantic-scholar\SKILL.md`
+- **semgrep-rule-creator**: Creates custom Semgrep rules for detecting security vulnerabilities, bug pattern
+  - `10-Bao-Mat-Trail-of-Bits\plugins\semgrep-rule-creator\skills\semgrep-rule-creator\SKILL.md`
+- **sentencepiece**: Language-independent tokenizer treating text as raw Unicode. Supports BPE and Un
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\zechenzhangAGI__AI-research-SKILLs\02-tokenization\sentencepiece\SKILL.md`
+- **sentencepiece**: Language-independent tokenizer treating text as raw Unicode. Supports BPE and Un
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\Orchestra-Research__AI-research-SKILLs\02-tokenization\sentencepiece\SKILL.md`
+- **sentry-android-sdk**: Full Sentry SDK setup for Android. Use when asked to
+  - `07-Theo-Doi-Loi-Sentry\skills\sentry-android-sdk\SKILL.md`
+- **sentry-browser-sdk**: Full Sentry SDK setup for browser JavaScript. Use when asked to
+  - `07-Theo-Doi-Loi-Sentry\skills\sentry-browser-sdk\SKILL.md`
+- **sentry-cloudflare-sdk**: Full Sentry SDK setup for Cloudflare Workers and Pages. Use when asked to
+  - `07-Theo-Doi-Loi-Sentry\skills\sentry-cloudflare-sdk\SKILL.md`
+- **sentry-cocoa-sdk**: Full Sentry SDK setup for Apple platforms (iOS, macOS, tvOS, watchOS, visionOS).
+  - `07-Theo-Doi-Loi-Sentry\skills\sentry-cocoa-sdk\SKILL.md`
+- **sentry-code-review**: Analyze and resolve Sentry comments on GitHub Pull Requests. Use this when asked
+  - `07-Theo-Doi-Loi-Sentry\skills\sentry-code-review\SKILL.md`
+- **sentry-create-alert**: Create Sentry alerts using the workflow engine API. Use when asked to create ale
+  - `07-Theo-Doi-Loi-Sentry\skills\sentry-create-alert\SKILL.md`
+- **sentry-dotnet-sdk**: Full Sentry SDK setup for .NET. Use when asked to
+  - `07-Theo-Doi-Loi-Sentry\skills\sentry-dotnet-sdk\SKILL.md`
+- **sentry-elixir-sdk**: Full Sentry SDK setup for Elixir. Use when asked to
+  - `07-Theo-Doi-Loi-Sentry\skills\sentry-elixir-sdk\SKILL.md`
+- **sentry-feature-setup**: Configure specific Sentry features beyond basic SDK setup. Use when asked to mon
+  - `07-Theo-Doi-Loi-Sentry\skills\sentry-feature-setup\SKILL.md`
+- **sentry-flutter-sdk**: Full Sentry SDK setup for Flutter and Dart. Use when asked to
+  - `07-Theo-Doi-Loi-Sentry\skills\sentry-flutter-sdk\SKILL.md`
+- **sentry-go-sdk**: Full Sentry SDK setup for Go. Use when asked to
+  - `07-Theo-Doi-Loi-Sentry\skills\sentry-go-sdk\SKILL.md`
+- **sentry-nestjs-sdk**: Full Sentry SDK setup for NestJS. Use when asked to
+  - `07-Theo-Doi-Loi-Sentry\skills\sentry-nestjs-sdk\SKILL.md`
+- **sentry-nextjs-sdk**: Full Sentry SDK setup for Next.js. Use when asked to
+  - `07-Theo-Doi-Loi-Sentry\skills\sentry-nextjs-sdk\SKILL.md`
+- **sentry-node-sdk**: Full Sentry SDK setup for Node.js, Bun, and Deno. Use when asked to
+  - `07-Theo-Doi-Loi-Sentry\skills\sentry-node-sdk\SKILL.md`
+- **sentry-php-sdk**: Full Sentry SDK setup for PHP. Use when asked to
+  - `07-Theo-Doi-Loi-Sentry\skills\sentry-php-sdk\SKILL.md`
+- **sentry-pr-code-review**: Review a project
+  - `07-Theo-Doi-Loi-Sentry\skills\sentry-pr-code-review\SKILL.md`
+- **sentry-python-sdk**: Full Sentry SDK setup for Python. Use when asked to
+  - `07-Theo-Doi-Loi-Sentry\skills\sentry-python-sdk\SKILL.md`
+- **sentry-react-native-sdk**: Full Sentry SDK setup for React Native and Expo. Use when asked to
+  - `07-Theo-Doi-Loi-Sentry\skills\sentry-react-native-sdk\SKILL.md`
+- **sentry-react-router-framework-sdk**: Full Sentry SDK setup for React Router Framework mode. Use when asked to
+  - `07-Theo-Doi-Loi-Sentry\skills\sentry-react-router-framework-sdk\SKILL.md`
+- **sentry-react-sdk**: Full Sentry SDK setup for React. Use when asked to
+  - `07-Theo-Doi-Loi-Sentry\skills\sentry-react-sdk\SKILL.md`
+- **sentry-ruby-sdk**: Full Sentry SDK setup for Ruby. Use when asked to add Sentry to Ruby, install se
+  - `07-Theo-Doi-Loi-Sentry\skills\sentry-ruby-sdk\SKILL.md`
+- **sentry-sdk-setup**: Set up Sentry in any language or framework. Detects the user
+  - `07-Theo-Doi-Loi-Sentry\skills\sentry-sdk-setup\SKILL.md`
+- **sentry-sdk-skill-creator**: Create a complete Sentry SDK skill bundle for any platform. Use when asked to
+  - `07-Theo-Doi-Loi-Sentry\skills\sentry-sdk-skill-creator\SKILL.md`
+- **sentry-sdk-upgrade**: Upgrade the Sentry JavaScript SDK across major versions. Use when asked to upgra
+  - `07-Theo-Doi-Loi-Sentry\skills\sentry-sdk-upgrade\SKILL.md`
+- **sentry-svelte-sdk**: Full Sentry SDK setup for Svelte and SvelteKit. Use when asked to
+  - `07-Theo-Doi-Loi-Sentry\skills\sentry-svelte-sdk\SKILL.md`
+- **sentry-tanstack-start-sdk**: Full Sentry SDK setup for TanStack Start React. Use when asked to
+  - `07-Theo-Doi-Loi-Sentry\skills\sentry-tanstack-start-sdk\SKILL.md`
+- **sentry-workflow**: Fix production issues and review code with Sentry context. Use when asked to fix
+  - `07-Theo-Doi-Loi-Sentry\skills\sentry-workflow\SKILL.md`
+- **sharp-edges**: Identifies error-prone APIs, dangerous configurations, and footgun designs that 
+  - `10-Bao-Mat-Trail-of-Bits\plugins\sharp-edges\skills\sharp-edges\SKILL.md`
+- **shopify-apps**: Shopify app development - Remix, Admin API, checkout extensions
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\alinaqi__claude-bootstrap\skills\shopify-apps\SKILL.md`
+- **simpy**: Process-based discrete-event simulation framework in Python. Use this skill when
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\K-Dense-AI__claude-scientific-skills\scientific-skills\simpy\SKILL.md`
+- **skill-creator**: Guide for creating effective skills for AI coding agents working with Azure SDKs
+  - `02-Microsoft-Azure\microsoft-skill-creator\SKILL.md`
+- **skill-improver**: Iteratively reviews and fixes Claude Code skill quality issues until they meet s
+  - `10-Bao-Mat-Trail-of-Bits\plugins\skill-improver\skills\skill-improver\SKILL.md`
+- **slides-polish**: Per-page Codex review + targeted python-pptx / Beamer fixes for academic talk sl
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\wanshuiyin__Auto-claude-code-research-in-sleep\skills\slides-polish\SKILL.md`
+- **sparse-autoencoder-training**: Provides guidance for training and analyzing Sparse Autoencoders (SAEs) using SA
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\zechenzhangAGI__AI-research-SKILLs\04-mechanistic-interpretability\saelens\SKILL.md`
+- **sparse-autoencoder-training**: Provides guidance for training and analyzing Sparse Autoencoders (SAEs) using SA
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\Orchestra-Research__AI-research-SKILLs\04-mechanistic-interpretability\saelens\SKILL.md`
+- **spec-to-code-compliance**: Verifies code implements exactly what documentation specifies for blockchain aud
+  - `10-Bao-Mat-Trail-of-Bits\plugins\spec-to-code-compliance\skills\spec-to-code-compliance\SKILL.md`
+- **stable-baselines3**: Production-ready reinforcement learning algorithms (PPO, SAC, DQN, TD3, DDPG, A2
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\K-Dense-AI__claude-scientific-skills\scientific-skills\stable-baselines3\SKILL.md`
+- **statsmodels**: Statistical models library for Python. Use when you need specific model classes 
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\K-Dense-AI__claude-scientific-skills\scientific-skills\statsmodels\SKILL.md`
+- **supabase-node**: Express/Hono with Supabase and Drizzle ORM
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\alinaqi__claude-bootstrap\skills\supabase-node\SKILL.md`
+- **supabase-python**: FastAPI with Supabase and SQLAlchemy/SQLModel
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\alinaqi__claude-bootstrap\skills\supabase-python\SKILL.md`
+- **swift**: Expert guidance on Swift best practices, patterns, and implementation. Use when 
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\Joannis__claude-skills\swift\SKILL.md`
+- **swift-concurrency**: Expert guidance on Swift Concurrency best practices, patterns, and implementatio
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\Joannis__claude-skills\swift-concurrency\SKILL.md`
+- **swift-library-design**: Expert guidance on Swift library and framework design. Use when developers menti
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\Joannis__claude-skills\swift-library-design\SKILL.md`
+- **swift-nio**: Expert guidance on SwiftNIO best practices, patterns, and implementation. Use wh
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\Joannis__claude-skills\swift-nio\SKILL.md`
+- **swift-patterns**: Review, refactor, or build SwiftUI features with correct state management, moder
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\efremidze__swift-patterns-skill\SKILL.md`
+- **swift-valkey**: Expert guidance on using Valkey and Redis with Swift. Use when developers mentio
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\Joannis__claude-skills\swift-valkey\SKILL.md`
+- **swiftui-expert-skill**: Use when writing, reviewing, or refactoring SwiftUI code for iOS or macOS, inclu
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\AvdLee__swiftui-expert-skill\SKILL.md`
+- **swiftui-wcag-accessibility-auditor**: Audit SwiftUI iOS feature code for accessibility against WCAG 2.2 Level A/AA and
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\ramzesenok__iOS-Accessibility-Audit-Skill\swiftui-wcag-accessibility-auditor\SKILL.md`
+- **sympy**: Use this skill when working with symbolic mathematics in Python. This skill shou
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\K-Dense-AI__claude-scientific-skills\scientific-skills\sympy\SKILL.md`
+- **system-profile**: Profile a target (script, process, GPU, memory, interconnect) using external too
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\wanshuiyin__Auto-claude-code-research-in-sleep\skills\system-profile\SKILL.md`
+- **system-profile**: Profile a target (script, process, GPU, memory, interconnect) using external too
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\wanshuiyin__Auto-claude-code-research-in-sleep\skills\skills-codex\system-profile\SKILL.md`
+- **terraform-style-guide**: Generate Terraform HCL code following HashiCorp
+  - `01-Claude-Chinh-Thuc\hashicorp-terraform-style-guide\SKILL.md`
+- **terraform-style-guide**: Generate Terraform HCL code following HashiCorp
+  - `01-Claude-Chinh-Thuc\hashicorp-terraform-style-guide\skills\terraform-style-guide\SKILL.md`
+- **terraform-style-guide**: Generate Terraform HCL code following HashiCorp
+  - `01-Claude-Chinh-Thuc\hashicorp-terraform-stacks\skills\terraform-style-guide\SKILL.md`
+- **terraform-style-guide**: Generate Terraform HCL code following HashiCorp
+  - `01-Claude-Chinh-Thuc\hashicorp-terraform-search-import\skills\terraform-style-guide\SKILL.md`
+- **terraform-style-guide**: Generate Terraform HCL code following HashiCorp
+  - `01-Claude-Chinh-Thuc\hashicorp-refactor-module\skills\terraform-style-guide\SKILL.md`
+- **terraform-style-guide**: Generate Terraform HCL code following HashiCorp
+  - `01-Claude-Chinh-Thuc\hashicorp-azure-verified-modules\skills\terraform-style-guide\SKILL.md`
+- **test-driven-development**: Use when implementing any feature or bugfix, before writing implementation code
+  - `09-Flutter\tool\dart_skills_lint\.agents\skills\test-driven-development\SKILL.md`
+- **test-driven-development**: Use when implementing any feature or bugfix, before writing implementation code
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\obra__test-driven-development\SKILL.md`
+- **testing-api-authentication-weaknesses**: Tests API authentication mechanisms for weaknesses including broken token valida
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\testing-api-authentication-weaknesses\SKILL.md`
+- **testing-api-for-broken-object-level-authorization**: Tests REST and GraphQL APIs for Broken Object Level Authorization (BOLA/IDOR) vu
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\testing-api-for-broken-object-level-authorization\SKILL.md`
+- **testing-api-for-mass-assignment-vulnerability**: Tests APIs for mass assignment (auto-binding) vulnerabilities where clients can 
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\testing-api-for-mass-assignment-vulnerability\SKILL.md`
+- **testing-api-security-with-owasp-top-10**: Systematically assessing REST and GraphQL API endpoints against the OWASP API Se
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\testing-api-security-with-owasp-top-10\SKILL.md`
+- **testing-for-xss-vulnerabilities**: Tests web applications for Cross-Site Scripting (XSS) vulnerabilities by injecti
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\testing-for-xss-vulnerabilities\SKILL.md`
+- **testing-mobile-api-authentication**: Tests authentication and authorization mechanisms in mobile application APIs to 
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\testing-mobile-api-authentication\SKILL.md`
+- **testing-oauth2-implementation-flaws**: Tests OAuth 2.0 and OpenID Connect implementations for security flaws including 
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\testing-oauth2-implementation-flaws\SKILL.md`
+- **testing-websocket-api-security**: Tests WebSocket API implementations for security vulnerabilities including missi
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\testing-websocket-api-security\SKILL.md`
+- **theme-factory**: Toolkit for styling artifacts with a theme. These artifacts can be slides, docs,
+  - `01-Claude-Chinh-Thuc\anthropics-theme-factory\SKILL.md`
+- **ticket-craft**: Create Jira/Asana/Linear tickets optimized for Claude Code execution - AI-native
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\alinaqi__claude-bootstrap\skills\ticket-craft\SKILL.md`
+- **tinybird-python-sdk-guidelines**: Tinybird Python SDK for defining datasources, pipes, and queries in Python. Use 
+  - `01-Claude-Chinh-Thuc\tinybirdco-tinybird-python-sdk-guidelines\SKILL.md`
+- **tinybird-typescript-sdk-guidelines**: Tinybird TypeScript SDK for defining datasources, pipes, and queries with full t
+  - `01-Claude-Chinh-Thuc\tinybirdco-tinybird-typescript-sdk-guidelines\SKILL.md`
+- **trailmark**: Builds and queries multi-language source code graphs for security analysis. Incl
+  - `10-Bao-Mat-Trail-of-Bits\plugins\trailmark\skills\trailmark\SKILL.md`
+- **trailmark-summary**: Runs a Trailmark summary analysis on a codebase. Returns auto-detected languages
+  - `10-Bao-Mat-Trail-of-Bits\plugins\trailmark\skills\trailmark-summary\SKILL.md`
+- **train-sentence-transformers**: Train or fine-tune sentence-transformers models across `SentenceTransformer` (bi
+  - `18-Hugging-Face\_repo\skills\train-sentence-transformers\SKILL.md`
+- **training-check**: Interactively monitor training metrics from the current Codex session, periodica
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\wanshuiyin__Auto-claude-code-research-in-sleep\skills\skills-codex\training-check\SKILL.md`
+- **transform-build-mosaic-collage-with-transloadit**: One-off justified mosaic photo collage (N local images -> single image) using th
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\transloadit__skills\transform-build-mosaic-collage-with-transloadit\SKILL.md`
+- **transform-build-polaroid-collage-with-transloadit**: One-off polaroid-stack photo collage (N local images -> single image) using the 
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\transloadit__skills\transform-build-polaroid-collage-with-transloadit\SKILL.md`
+- **transform-convert-markdown-to-pdf-with-transloadit**: Convert a local Markdown file to a sibling PDF via the official `@transloadit/no
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\transloadit__skills\transform-convert-markdown-to-pdf-with-transloadit\SKILL.md`
+- **transform-describe-image-with-transloadit**: One-off image description using the official `@transloadit/node` CLI. Use `image
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\transloadit__skills\transform-describe-image-with-transloadit\SKILL.md`
+- **transform-encode-hls-video-with-transloadit**: One-off HLS encoding (local video -> HLS renditions + playlist) using Transloadi
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\transloadit__skills\transform-encode-hls-video-with-transloadit\SKILL.md`
+- **transform-remove-background-with-transloadit**: One-off background removal (local image -> transparent PNG) using the official `
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\transloadit__skills\transform-remove-background-with-transloadit\SKILL.md`
+- **transformers-js**: Use Transformers.js to run state-of-the-art machine learning models directly in 
+  - `18-Hugging-Face\transformers.js\SKILL.md`
+- **transformers-js**: Use Transformers.js to run state-of-the-art machine learning models directly in 
+  - `18-Hugging-Face\_repo\skills\transformers-js\SKILL.md`
+- **tweet-draft-reviewer**: Review tweet drafts in Claude Code against 8 voice rules. Scores 1-10, breaks do
+  - `44-Cong-Dong-Tiep-Thi-Mang-Xa-Hoi\BrianRWagner__ai-marketing-skills\tweet-draft-reviewer\SKILL.md`
+- **two-factor-authentication-best-practices**: Configure TOTP authenticator apps, send OTP codes via email/SMS, manage backup c
+  - `01-Claude-Chinh-Thuc\better-auth-twoFactor\SKILL.md`
+- **typescript**: TypeScript strict mode with eslint and jest
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\alinaqi__claude-bootstrap\skills\typescript\SKILL.md`
+- **ui-mobile**: Mobile UI patterns - React Native, iOS/Android, touch targets
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\alinaqi__claude-bootstrap\skills\ui-mobile\SKILL.md`
+- **upgrading-expo**: Guidelines for upgrading Expo SDK versions and fixing dependency issues
+  - `22-Expo\upgrading-expo\SKILL.md`
+- **upgrading-expo**: Guidelines for upgrading Expo SDK versions and fixing dependency issues
+  - `22-Expo\_repo\plugins\expo\skills\upgrading-expo\SKILL.md`
+- **upgrading-react-native**: Upgrades React Native apps to newer versions by applying rn-diff-purge template 
+  - `01-Claude-Chinh-Thuc\callstackincubator-upgrading-react-native\SKILL.md`
+- **use-dom**: Use Expo DOM components to run web code in a webview on native and as-is on web.
+  - `22-Expo\use-dom\SKILL.md`
+- **use-dom**: Use Expo DOM components to run web code in a webview on native and as-is on web.
+  - `22-Expo\_repo\plugins\expo\skills\use-dom\SKILL.md`
+- **usfiscaldata**: Query the U.S. Treasury Fiscal Data API for federal financial data including nat
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\K-Dense-AI__claude-scientific-skills\scientific-skills\usfiscaldata\SKILL.md`
+- **using-tmux-for-interactive-commands**: Use when you need to run interactive CLI tools (vim, git rebase -i, Python REPL,
+  - `42-Cong-Dong-Nang-Suat-Cong-Tac\obra__superpowers-lab\skills\using-tmux-for-interactive-commands\SKILL.md`
+- **variant-analysis**: Find similar vulnerabilities and bugs across codebases using pattern-based analy
+  - `10-Bao-Mat-Trail-of-Bits\plugins\variant-analysis\skills\variant-analysis\SKILL.md`
+- **vault-cleanup-auditor**: Audit your Obsidian vault in Claude Code — finds stale drafts, empty folders, du
+  - `44-Cong-Dong-Tiep-Thi-Mang-Xa-Hoi\BrianRWagner__ai-marketing-skills\vault-cleanup-auditor\SKILL.md`
+- **venice-errors**: Handle Venice API errors correctly. Covers the StandardError / DetailedError / C
+  - `11-Venice-AI\skills\venice-errors\SKILL.md`
+- **vercel-react-best-practices**: React and Next.js performance optimization guidelines from Vercel Engineering. T
+  - `42-Cong-Dong-Nang-Suat-Cong-Tac\Charlie85270__Dorothy\.agents\skills\vercel-react-best-practices\SKILL.md`
+- **voltagent-docs-bundle**: Look up VoltAgent documentation embedded in node_modules/@voltagent/core/docs fo
+  - `01-Claude-Chinh-Thuc\voltagent-voltagent-docs-bundle\SKILL.md`
+- **vscode-extension-builder-lawvable**: Build VS Code extensions from scratch or convert existing JS/React/Vue apps. Sup
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\lawvable__awesome-legal-skills\skills\vscode-extension-builder-lawvable\SKILL.md`
+- **web-artifacts-builder**: Suite of tools for creating elaborate, multi-component claude.ai HTML artifacts 
+  - `01-Claude-Chinh-Thuc\anthropics-web-artifacts-builder\SKILL.md`
+- **web-design-guidelines**: Review UI code for Web Interface Guidelines compliance. Use when asked to
+  - `42-Cong-Dong-Nang-Suat-Cong-Tac\Charlie85270__Dorothy\.agents\skills\web-design-guidelines\SKILL.md`
+- **wendy-swift**: Curated Swift package ecosystem for WendyOS and Linux. Use when developers menti
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\Joannis__claude-skills\wendy-swift\SKILL.md`
+- **winui-app**: Bootstrap, develop, and design modern WinUI 3 desktop applications with C# and t
+  - `03-OpenAI\openai-winui-app\SKILL.md`
+- **woocommerce**: WooCommerce REST API - products, orders, customers, webhooks
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\alinaqi__claude-bootstrap\skills\woocommerce\SKILL.md`
+- **wordpress-router**: Use when the user asks about WordPress codebases (plugins, themes, block themes,
+  - `16-WordPress\wordpress-router\SKILL.md`
+- **wordpress-router**: Use when the user asks about WordPress codebases (plugins, themes, block themes,
+  - `16-WordPress\_repo\skills\wordpress-router\SKILL.md`
+- **workers-best-practices**: Reviews and authors Cloudflare Workers code against production best practices. L
+  - `26-Cloudflare\workers-best-practices\skills\workers-best-practices\SKILL.md`
+- **workspace**: Dynamic multi-repo and monorepo awareness for Claude Code. Analyze workspace top
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\alinaqi__claude-bootstrap\skills\workspace\SKILL.md`
+- **wp-abilities-api**: Use when working with the WordPress Abilities API (wp_register_ability, wp_regis
+  - `16-WordPress\wp-abilities-api\SKILL.md`
+- **wp-abilities-api**: Use when working with the WordPress Abilities API (wp_register_ability, wp_regis
+  - `16-WordPress\_repo\skills\wp-abilities-api\SKILL.md`
+- **wp-interactivity-api**: Use when building or debugging WordPress Interactivity API features (data-wp-* d
+  - `16-WordPress\wp-interactivity-api\SKILL.md`
+- **wp-interactivity-api**: Use when building or debugging WordPress Interactivity API features (data-wp-* d
+  - `16-WordPress\_repo\skills\wp-interactivity-api\SKILL.md`
+- **wp-rest-api**: Use when building, extending, or debugging WordPress REST API endpoints/routes: 
+  - `16-WordPress\wp-rest-api\SKILL.md`
+- **wp-rest-api**: Use when building, extending, or debugging WordPress REST API endpoints/routes: 
+  - `16-WordPress\_repo\skills\wp-rest-api\SKILL.md`
+- **writing-plans**: Use when you have a spec or requirements for a multi-step task, before touching 
+  - `42-Cong-Dong-Nang-Suat-Cong-Tac\obra__writing-plans\SKILL.md`
+- **x402**: Search for new services and make paid API requests using the x402 payment protoc
+  - `25-Coinbase\x402\skills\x402\SKILL.md`
+- **xcode-project-setup**: Safely modifies Xcode projects (.pbxproj) to add Swift Packages and link files. 
+  - `20-Firebase\_repo\skills\xcode-project-setup\SKILL.md`
+- **zarr-python**: Chunked N-D arrays for cloud storage. Compressed arrays, parallel I/O, S3/GCS in
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\K-Dense-AI__claude-scientific-skills\scientific-skills\zarr-python\SKILL.md`
+- **zeroize-audit**: Detects missing zeroization of sensitive data in source code and identifies zero
+  - `10-Bao-Mat-Trail-of-Bits\plugins\zeroize-audit\skills\zeroize-audit\SKILL.md`
+- **zustand-store-ts**: Create Zustand stores with TypeScript, subscribeWithSelector middleware, and pro
+  - `02-Microsoft-Azure\microsoft-zustand-store-ts\SKILL.md`
+
+## Deploy & Infra (81 skill)
+
+- **autogpt-agents**: Autonomous AI agent platform for building and deploying continuous agents. Use w
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\zechenzhangAGI__AI-research-SKILLs\14-agents\autogpt\SKILL.md`
+- **autogpt-agents**: Autonomous AI agent platform for building and deploying continuous agents. Use w
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\Orchestra-Research__AI-research-SKILLs\14-agents\autogpt\SKILL.md`
+- **building-red-team-c2-infrastructure-with-havoc**: Deploy and configure the Havoc C2 framework with teamserver, HTTPS listeners, re
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\building-red-team-c2-infrastructure-with-havoc\SKILL.md`
+- **cloudflare**: Comprehensive Cloudflare platform skill covering Workers, Pages, storage (KV, D1
+  - `26-Cloudflare\cloudflare\skills\cloudflare\SKILL.md`
+- **cloudflare-d1**: Cloudflare D1 SQLite database with Workers, Drizzle ORM, migrations
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\alinaqi__claude-bootstrap\skills\cloudflare-d1\SKILL.md`
+- **cloudflare-deploy**: Deploy applications and infrastructure to Cloudflare using Workers, Pages, and r
+  - `03-OpenAI\openai-cloudflare-deploy\SKILL.md`
+- **cloudflare-email-service**: Send and receive transactional emails with Cloudflare Email Service (Email Sendi
+  - `26-Cloudflare\cloudflare-email-service\skills\cloudflare-email-service\SKILL.md`
+- **collecting-volatile-evidence-from-compromised-host**: Collect volatile forensic evidence from a compromised system following order of 
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\collecting-volatile-evidence-from-compromised-host\SKILL.md`
+- **conducting-network-penetration-test**: Conducts comprehensive network penetration tests against authorized target envir
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\conducting-network-penetration-test\SKILL.md`
+- **configuring-multi-factor-authentication-with-duo**: Deploy Cisco Duo multi-factor authentication across enterprise applications, VPN
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\configuring-multi-factor-authentication-with-duo\SKILL.md`
+- **deploying-cloudflare-access-for-zero-trust**: Deploying Cloudflare Access with Cloudflare Tunnel to provide zero trust access 
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\deploying-cloudflare-access-for-zero-trust\SKILL.md`
+- **deploying-decoy-files-for-ransomware-detection**: Deploys canary files (honeytokens) across file systems to detect ransomware encr
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\deploying-decoy-files-for-ransomware-detection\SKILL.md`
+- **deploying-palo-alto-prisma-access-zero-trust**: Deploying Palo Alto Networks Prisma Access for SASE-based zero trust network acc
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\deploying-palo-alto-prisma-access-zero-trust\SKILL.md`
+- **deploying-software-defined-perimeter**: Deploy a Software-Defined Perimeter using the CSA v2.0 specification with Single
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\deploying-software-defined-perimeter\SKILL.md`
+- **deploying-tailscale-for-zero-trust-vpn**: Deploy and configure Tailscale as a WireGuard-based zero trust mesh VPN with ide
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\deploying-tailscale-for-zero-trust-vpn\SKILL.md`
+- **detecting-anomalies-in-industrial-control-systems**: This skill covers deploying anomaly detection systems for industrial control env
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\detecting-anomalies-in-industrial-control-systems\SKILL.md`
+- **durable-objects**: Create and review Cloudflare Durable Objects. Use when building stateful coordin
+  - `26-Cloudflare\durable-objects\skills\durable-objects\SKILL.md`
+- **enable-ssi**: Configure Unified Service Tags and verify Single Step Instrumentation (SSI) inje
+  - `28-Datadog\dd-apm\dd-apm\linux-ssi\enable-ssi\SKILL.md`
+- **experiment-tracking-swanlab**: Provides guidance for experiment tracking with SwanLab. Use when you need open-s
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\zechenzhangAGI__AI-research-SKILLs\13-mlops\swanlab\SKILL.md`
+- **experiment-tracking-swanlab**: Provides guidance for experiment tracking with SwanLab. Use when you need open-s
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\Orchestra-Research__AI-research-SKILLs\13-mlops\swanlab\SKILL.md`
+- **firebase-auth-basics**: Guide for setting up and using Firebase Authentication. Use this skill when the 
+  - `20-Firebase\firebase-auth-basics\SKILL.md`
+- **firebase-auth-basics**: Guide for setting up and using Firebase Authentication. Use this skill when the 
+  - `20-Firebase\_repo\skills\firebase-auth-basics\SKILL.md`
+- **firebase-basics**: -
+  - `20-Firebase\firebase-basics\SKILL.md`
+- **firebase-basics**: -
+  - `20-Firebase\_repo\skills\firebase-basics\SKILL.md`
+- **firebase-firestore**: -
+  - `20-Firebase\firebase-firestore-enterprise-native-mode\SKILL.md`
+- **firebase-firestore**: -
+  - `20-Firebase\firebase-firestore-standard\SKILL.md`
+- **firebase-firestore**: -
+  - `20-Firebase\_repo\skills\firebase-firestore\SKILL.md`
+- **firebase-hosting-basics**: Skill for working with Firebase Hosting (Classic). Use this when you want to dep
+  - `20-Firebase\firebase-hosting-basics\SKILL.md`
+- **firebase-hosting-basics**: Skill for working with Firebase Hosting (Classic). Use this when you want to dep
+  - `20-Firebase\_repo\skills\firebase-hosting-basics\SKILL.md`
+- **functions**: Deploy serverless browser automation as cloud functions using Browserbase. Use w
+  - `33-Browserbase\browserbase-functions\SKILL.md`
+- **gguf-quantization**: GGUF format and llama.cpp quantization for efficient CPU/GPU inference. Use when
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\zechenzhangAGI__AI-research-SKILLs\10-optimization\gguf\SKILL.md`
+- **gguf-quantization**: GGUF format and llama.cpp quantization for efficient CPU/GPU inference. Use when
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\Orchestra-Research__AI-research-SKILLs\10-optimization\gguf\SKILL.md`
+- **gptq**: Post-training 4-bit quantization for LLMs with minimal accuracy loss. Use for de
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\zechenzhangAGI__AI-research-SKILLs\10-optimization\gptq\SKILL.md`
+- **gptq**: Post-training 4-bit quantization for LLMs with minimal accuracy loss. Use for de
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\Orchestra-Research__AI-research-SKILLs\10-optimization\gptq\SKILL.md`
+- **hunting-for-webshell-activity**: Hunt for web shell deployments on internet-facing servers by analyzing file crea
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\hunting-for-webshell-activity\SKILL.md`
+- **implementing-browser-isolation-for-zero-trust**: Deploys remote browser isolation (RBI) as a core component of a Zero Trust archi
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\implementing-browser-isolation-for-zero-trust\SKILL.md`
+- **implementing-ddos-mitigation-with-cloudflare**: Configure Cloudflare DDoS protection with managed rulesets, rate limiting, WAF r
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\implementing-ddos-mitigation-with-cloudflare\SKILL.md`
+- **implementing-honeypot-for-ransomware-detection**: Deploys canary files, honeypot shares, and decoy systems to detect ransomware ac
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\implementing-honeypot-for-ransomware-detection\SKILL.md`
+- **implementing-network-access-control-with-cisco-ise**: Deploy Cisco Identity Services Engine for 802.1X wired and wireless authenticati
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\implementing-network-access-control-with-cisco-ise\SKILL.md`
+- **implementing-network-deception-with-honeypots**: Deploy and manage network honeypots using OpenCanary, T-Pot, or Cowrie to detect
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\implementing-network-deception-with-honeypots\SKILL.md`
+- **implementing-next-generation-firewall-with-palo-alto**: Configure and deploy Palo Alto Networks next-generation firewalls with App-ID, U
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\implementing-next-generation-firewall-with-palo-alto\SKILL.md`
+- **implementing-ot-network-traffic-analysis-with-nozomi**: Deploy Nozomi Networks Guardian sensors for passive OT network traffic analysis 
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\implementing-ot-network-traffic-analysis-with-nozomi\SKILL.md`
+- **implementing-pam-for-database-access**: Deploy privileged access management for database systems including Oracle, SQL S
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\implementing-pam-for-database-access\SKILL.md`
+- **implementing-patch-management-workflow**: Patch management is the systematic process of identifying, testing, deploying, a
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\implementing-patch-management-workflow\SKILL.md`
+- **implementing-runtime-application-self-protection**: Deploy Runtime Application Self-Protection (RASP) agents to detect and block att
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\implementing-runtime-application-self-protection\SKILL.md`
+- **implementing-secrets-management-with-vault**: This skill covers deploying HashiCorp Vault for centralized secrets management a
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\implementing-secrets-management-with-vault\SKILL.md`
+- **implementing-secrets-scanning-in-ci-cd**: Integrate gitleaks and trufflehog into CI/CD pipelines to detect leaked secrets 
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\implementing-secrets-scanning-in-ci-cd\SKILL.md`
+- **implementing-velociraptor-for-ir-collection**: Deploy and configure Velociraptor for scalable endpoint forensic artifact collec
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\implementing-velociraptor-for-ir-collection\SKILL.md`
+- **implementing-zero-trust-with-beyondcorp**: Deploy Google BeyondCorp Enterprise zero trust access controls using Identity-Aw
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\implementing-zero-trust-with-beyondcorp\SKILL.md`
+- **knowledge-distillation**: Compress large language models using knowledge distillation from teacher to stud
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\zechenzhangAGI__AI-research-SKILLs\19-emerging-techniques\knowledge-distillation\SKILL.md`
+- **knowledge-distillation**: Compress large language models using knowledge distillation from teacher to stud
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\Orchestra-Research__AI-research-SKILLs\19-emerging-techniques\knowledge-distillation\SKILL.md`
+- **llama-cpp**: Runs LLM inference on CPU, Apple Silicon, and consumer GPUs without NVIDIA hardw
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\zechenzhangAGI__AI-research-SKILLs\12-inference-serving\llama-cpp\SKILL.md`
+- **llama-cpp**: Runs LLM inference on CPU, Apple Silicon, and consumer GPUs without NVIDIA hardw
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\Orchestra-Research__AI-research-SKILLs\12-inference-serving\llama-cpp\SKILL.md`
+- **neon-postgres**: Guides and best practices for working with Neon Serverless Postgres. Covers gett
+  - `01-Claude-Chinh-Thuc\neondatabase-neon-postgres\SKILL.md`
+- **netlify-caching**: Guide for controlling caching on Netlify
+  - `19-Netlify\netlify-caching\SKILL.md`
+- **netlify-caching**: Guide for controlling caching on Netlify
+  - `19-Netlify\_repo\skills\netlify-caching\SKILL.md`
+- **netlify-caching**: Guide for controlling caching on Netlify
+  - `19-Netlify\_repo\codex\skills\netlify-caching\SKILL.md`
+- **netlify-cli-and-deploy**: Guide for using the Netlify CLI and deploying sites. Use when installing the CLI
+  - `19-Netlify\netlify-cli-and-deploy\SKILL.md`
+- **netlify-cli-and-deploy**: Guide for using the Netlify CLI and deploying sites. Use when installing the CLI
+  - `19-Netlify\_repo\skills\netlify-cli-and-deploy\SKILL.md`
+- **netlify-cli-and-deploy**: Guide for using the Netlify CLI and deploying sites. Use when installing the CLI
+  - `19-Netlify\_repo\codex\skills\netlify-cli-and-deploy\SKILL.md`
+- **netlify-deploy**: Deploy web projects to Netlify using the Netlify CLI (`npx netlify`). Use when t
+  - `03-OpenAI\openai-netlify-deploy\SKILL.md`
+- **netlify-deploy**: Deploy web projects to Netlify using the Netlify CLI (`npx netlify`). Use when t
+  - `19-Netlify\netlify-deploy\SKILL.md`
+- **netlify-deploy**: Deploy web projects to Netlify using the Netlify CLI (`npx netlify`). Use when t
+  - `19-Netlify\_repo\skills\netlify-deploy\SKILL.md`
+- **netlify-deploy**: Deploy web projects to Netlify using the Netlify CLI (`npx netlify`). Use when t
+  - `19-Netlify\_repo\codex\skills\netlify-deploy\SKILL.md`
+- **netlify-image-cdn**: Guide for using Netlify Image CDN for image optimization and transformation. Use
+  - `19-Netlify\netlify-image-cdn\SKILL.md`
+- **netlify-image-cdn**: Guide for using Netlify Image CDN for image optimization and transformation. Use
+  - `19-Netlify\_repo\skills\netlify-image-cdn\SKILL.md`
+- **netlify-image-cdn**: Guide for using Netlify Image CDN for image optimization and transformation. Use
+  - `19-Netlify\_repo\codex\skills\netlify-image-cdn\SKILL.md`
+- **onboarding-summary**: Generate a live Single Step Instrumentation (SSI) onboarding confirmation report
+  - `28-Datadog\dd-apm\dd-apm\linux-ssi\onboarding-summary\SKILL.md`
+- **performing-indicator-lifecycle-management**: Indicator lifecycle management tracks IOCs from initial discovery through valida
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-indicator-lifecycle-management\SKILL.md`
+- **project-tooling**: gh, vercel, supabase, render CLI and deployment platform setup
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\alinaqi__claude-bootstrap\skills\project-tooling\SKILL.md`
+- **qdrant-deployment-options**: Guides Qdrant deployment selection. Use when someone asks
+  - `40-Vector-Databases\qdrant-deployment-options\SKILL.md`
+- **run-experiment**: Deploy and run ML experiments on local, remote, Vast.ai, or Modal serverless GPU
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\wanshuiyin__Auto-claude-code-research-in-sleep\skills\run-experiment\SKILL.md`
+- **run-experiment**: Deploy and run ML experiments on local or remote GPU servers. Use when user says
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\wanshuiyin__Auto-claude-code-research-in-sleep\skills\skills-codex\run-experiment\SKILL.md`
+- **securing-helm-chart-deployments**: Secure Helm chart deployments by validating chart integrity, scanning templates 
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\securing-helm-chart-deployments\SKILL.md`
+- **tinybird-cli-guidelines**: Tinybird CLI commands, workflows, and operations. Use when running tb commands, 
+  - `01-Claude-Chinh-Thuc\tinybirdco-tinybird-cli-guidelines\SKILL.md`
+- **troubleshoot-ssi**: Diagnose and fix Single Step Instrumentation (SSI) issues on Linux hosts — SSI a
+  - `28-Datadog\dd-apm\dd-apm\linux-ssi\troubleshoot-ssi\SKILL.md`
+- **vercel-deploy**: Deploy applications and websites to Vercel. Use when the user requests deploymen
+  - `03-OpenAI\openai-vercel-deploy\SKILL.md`
+- **verify-ssi**: Verify Single Step Instrumentation (SSI) is working end-to-end on Linux hosts — 
+  - `28-Datadog\dd-apm\dd-apm\linux-ssi\verify-ssi\SKILL.md`
+- **wendy**: Expert guidance on building and deploying apps to WendyOS edge devices. Use when
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\Joannis__claude-skills\wendy\SKILL.md`
+- **wrangler**: Cloudflare Workers CLI for deploying, developing, and managing Workers, KV, R2, 
+  - `26-Cloudflare\wrangler\skills\wrangler\SKILL.md`
+- **writing-skills**: Use when creating new skills, editing existing skills, or verifying skills work 
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\obra__writing-skills\SKILL.md`
+
+## Design (105 skill)
+
+- **Creative Portfolio Resume**: Balance visual design with ATS compatibility for creative roles
+  - `42-Cong-Dong-Nang-Suat-Cong-Tac\Paramchoudhary__ResumeSkills\skills\creative-portfolio-resume\SKILL.md`
+- **ab-test-setup**: When the user wants to plan, design, or implement an A/B test or experiment, or 
+  - `06-Tiep-Thi-Corey-Haines\skills\ab-test-setup\SKILL.md`
+- **ai-discoverability-audit**: Audit how a brand appears in AI-powered search (ChatGPT, Perplexity, Claude, Gem
+  - `44-Cong-Dong-Tiep-Thi-Mang-Xa-Hoi\BrianRWagner__ai-marketing-skills\ai-discoverability-audit\SKILL.md`
+- **analyzing-typosquatting-domains-with-dnstwist**: Detect typosquatting, homograph phishing, and brand impersonation domains using 
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\analyzing-typosquatting-domains-with-dnstwist\SKILL.md`
+- **android-design-guidelines**: Material Design 3 and Android platform guidelines. Use when building Android app
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\ehmo__platform-design-skills\skills\android\SKILL.md`
+- **android-native-dev**: Android native application development and UI design guide. Covers Material Desi
+  - `23-MiniMax\android-native-dev\SKILL.md`
+- **android-native-dev**: Android native application development and UI design guide. Covers Material Desi
+  - `23-MiniMax\_repo\skills\android-native-dev\SKILL.md`
+- **app-icon-optimization**: When the user wants to design, test, or improve their app icon to increase tap-t
+  - `44-Cong-Dong-Tiep-Thi-Mang-Xa-Hoi\Eronred__aso-skills\skills\app-icon-optimization\SKILL.md`
+- **brainstorm-experiments-existing**: Design experiments to test assumptions for an existing product — prototypes, A/B
+  - `05-Quan-Ly-San-Pham-Pawel-Huryn\pm-product-discovery\skills\brainstorm-experiments-existing\SKILL.md`
+- **brainstorm-experiments-new**: Design lean startup experiments (pretotypes) for a new product. Creates XYZ hypo
+  - `05-Quan-Ly-San-Pham-Pawel-Huryn\pm-product-discovery\skills\brainstorm-experiments-new\SKILL.md`
+- **brainstorm-ideas-existing**: Brainstorm product ideas for an existing product using multi-perspective ideatio
+  - `05-Quan-Ly-San-Pham-Pawel-Huryn\pm-product-discovery\skills\brainstorm-ideas-existing\SKILL.md`
+- **brainstorm-ideas-new**: Brainstorm feature ideas for a new product in initial discovery from PM, Designe
+  - `05-Quan-Ly-San-Pham-Pawel-Huryn\pm-product-discovery\skills\brainstorm-ideas-new\SKILL.md`
+- **brand-copywriter**: Writes marketing copy using proven copywriting frameworks. Use when user needs c
+  - `42-Cong-Dong-Nang-Suat-Cong-Tac\ognjengt__founder-skills\skills\brand-copywriter\SKILL.md`
+- **brand-guidelines**: Applies Anthropic
+  - `01-Claude-Chinh-Thuc\anthropics-brand-guidelines\SKILL.md`
+- **brandkit**: Premium brand-kit image generation skill for creating high-end brand-guidelines 
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\Leonxlnx__taste-skill\skills\brandkit\SKILL.md`
+- **building-devsecops-pipeline-with-gitlab-ci**: Design and implement a comprehensive DevSecOps pipeline in GitLab CI/CD integrat
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\building-devsecops-pipeline-with-gitlab-ci\SKILL.md`
+- **building-incident-response-playbook**: Designs and documents structured incident response playbooks that define step-by
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\building-incident-response-playbook\SKILL.md`
+- **business-model**: Generate a Business Model Canvas with all 9 building blocks. Use when creating a
+  - `05-Quan-Ly-San-Pham-Pawel-Huryn\pm-product-strategy\skills\business-model\SKILL.md`
+- **canvas-design**: Create beautiful visual art in .png and .pdf documents using design philosophy. 
+  - `01-Claude-Chinh-Thuc\anthropics-canvas-design\SKILL.md`
+- **character-design**: >
+  - `14-fal-ai\skills\character-design\SKILL.md`
+- **cirq**: Google quantum computing framework. Use when targeting Google Quantum AI hardwar
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\K-Dense-AI__claude-scientific-skills\scientific-skills\cirq\SKILL.md`
+- **ckm:banner-design**: Design banners for social media, ads, website heroes, creative assets, and print
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\nextlevelbuilder__ui-ux-pro-max-skill\.claude\skills\banner-design\SKILL.md`
+- **ckm:brand**: Brand voice, visual identity, messaging frameworks, asset management, brand cons
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\nextlevelbuilder__ui-ux-pro-max-skill\.claude\skills\brand\SKILL.md`
+- **ckm:design**: Comprehensive design skill: brand identity, design tokens, UI styling, logo gene
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\nextlevelbuilder__ui-ux-pro-max-skill\.claude\skills\design\SKILL.md`
+- **ckm:design-system**: Token architecture, component specifications, and slide generation. Three-layer 
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\nextlevelbuilder__ui-ux-pro-max-skill\.claude\skills\design-system\SKILL.md`
+- **clickhouse-architecture-advisor**: MUST USE when designing ClickHouse architectures, selecting between ingestion or
+  - `01-Claude-Chinh-Thuc\clickhouse-clickhouse-architecture-advisor\SKILL.md`
+- **color-expert**: Use when working with color naming, color theory, color spaces, color definition
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\meodai__skill.color-expert\SKILL.md`
+- **color-font-skill**: Choose presentation-ready color palettes and font pairings for PPT/design tasks.
+  - `23-MiniMax\_repo\plugins\pptx-plugin\skills\color-font-skill\SKILL.md`
+- **community-marketing**: Build and leverage online communities to drive product growth and brand loyalty.
+  - `06-Tiep-Thi-Corey-Haines\skills\community-marketing\SKILL.md`
+- **conducting-social-engineering-penetration-test**: Design and execute a social engineering penetration test including phishing, vis
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\conducting-social-engineering-penetration-test\SKILL.md`
+- **configuring-network-segmentation-with-vlans**: Designs and implements VLAN-based network segmentation on managed switches to is
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\configuring-network-segmentation-with-vlans\SKILL.md`
+- **content-experimentation-best-practices**: Content experimentation and A/B testing guidance covering experiment design, hyp
+  - `01-Claude-Chinh-Thuc\sanity-io-content-experimentation-best-practices\SKILL.md`
+- **content-modeling-best-practices**: Structured content modeling guidance for schema design, content architecture, co
+  - `01-Claude-Chinh-Thuc\sanity-io-content-modeling-best-practices\SKILL.md`
+- **conversion-path-builder**: Design the optimal funnel from click to conversion. Trigger on
+  - `21-Quang-Cao-Kim-Barrett\conversion-path-builder\SKILL.md`
+- **conversion-path-builder**: Design the optimal funnel from click to conversion. Trigger on
+  - `21-Quang-Cao-Kim-Barrett\_repo\skills\operator-os\conversion-path-builder\SKILL.md`
+- **custom-product-pages**: When the user wants to design, deploy, or measure Apple Custom Product Pages (CP
+  - `44-Cong-Dong-Tiep-Thi-Mang-Xa-Hoi\Eronred__aso-skills\skills\custom-product-pages\SKILL.md`
+- **customer-empathy**: Deep-dive into customer empathy and user journey thinking. Use when designing on
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\rameerez__claude-code-startup-skills\skills\customer-empathy\SKILL.md`
+- **design-an-interface**: Generate multiple radically different interface designs for a module using paral
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mattpocock__skills\skills\deprecated\design-an-interface\SKILL.md`
+- **design-style-skill**: >
+  - `23-MiniMax\_repo\plugins\pptx-plugin\skills\design-style-skill\SKILL.md`
+- **design-taste-frontend**: Senior UI/UX Engineer. Architect digital interfaces overriding default LLM biase
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\Leonxlnx__taste-skill\skills\taste-skill\SKILL.md`
+- **designing-workflow-skills**: -
+  - `10-Bao-Mat-Trail-of-Bits\plugins\workflow-skill-design\skills\designing-workflow-skills\SKILL.md`
+- **dse-loop**: Autonomous design space exploration loop for computer architecture and EDA. Runs
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\wanshuiyin__Auto-claude-code-research-in-sleep\skills\dse-loop\SKILL.md`
+- **dse-loop**: Autonomous design space exploration loop for computer architecture and EDA. Runs
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\wanshuiyin__Auto-claude-code-research-in-sleep\skills\skills-codex\dse-loop\SKILL.md`
+- **esm**: Comprehensive toolkit for protein language models including ESM3 (generative mul
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\K-Dense-AI__claude-scientific-skills\scientific-skills\esm\SKILL.md`
+- **figma**: Use the Figma MCP server to fetch design context, screenshots, variables, and as
+  - `03-OpenAI\openai-figma\SKILL.md`
+- **figma-create-design-system-rules**: Generates custom design system rules for the user
+  - `03-OpenAI\openai-figma-create-design-system-rules\SKILL.md`
+- **figma-create-design-system-rules**: Generates custom design system rules for the user
+  - `34-Figma\figma-figma-create-design-system-rules\SKILL.md`
+- **figma-create-new-file**: Create a new blank Figma file. Use when the user wants to create a new Figma des
+  - `03-OpenAI\openai-figma-create-new-file\SKILL.md`
+- **figma-create-new-file**: Create a new blank Figma file. Use when the user wants to create a new Figma des
+  - `34-Figma\figma-figma-create-new-file\SKILL.md`
+- **figma-generate-design**: Use this skill alongside figma-use when the task involves translating an applica
+  - `03-OpenAI\openai-figma-generate-design\SKILL.md`
+- **figma-generate-design**: Use this skill alongside figma-use when the task involves translating an applica
+  - `34-Figma\figma-figma-generate-design\SKILL.md`
+- **figma-use**: **MANDATORY prerequisite** — you MUST invoke this skill BEFORE every `use_figma`
+  - `03-OpenAI\openai-figma-use\SKILL.md`
+- **figma-use**: **MANDATORY prerequisite** — you MUST invoke this skill BEFORE every `use_figma`
+  - `34-Figma\figma-figma-use\SKILL.md`
+- **firebase-data-connect**: Builds and deploys Firebase SQL Connect (aka Firebase Data Connect) backends wit
+  - `20-Firebase\firebase-data-connect-basics\SKILL.md`
+- **firebase-data-connect**: Builds and deploys Firebase SQL Connect (aka Firebase Data Connect) backends wit
+  - `20-Firebase\_repo\skills\firebase-data-connect-basics\SKILL.md`
+- **frontend-design**: Create distinctive, production-grade frontend interfaces with high design qualit
+  - `01-Claude-Chinh-Thuc\anthropics-frontend-design\SKILL.md`
+- **frontend-design-review**: >
+  - `02-Microsoft-Azure\microsoft-frontend-design-review\SKILL.md`
+- **grill-me**: Interview the user relentlessly about a plan or design until reaching shared und
+  - `09-Flutter\tool\dart_skills_lint\.agents\skills\grill-me\SKILL.md`
+- **grill-me**: Interview the user relentlessly about a plan or design until reaching shared und
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mattpocock__skills\skills\productivity\grill-me\SKILL.md`
+- **high-end-visual-design**: Teaches the AI to design like a high-end agency. Defines the exact fonts, spacin
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\Leonxlnx__taste-skill\skills\soft-skill\SKILL.md`
+- **imagegen-frontend-mobile**: Elite mobile app image-generation skill for creating premium, app-native screen 
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\Leonxlnx__taste-skill\skills\imagegen-frontend-mobile\SKILL.md`
+- **imagegen-frontend-web**: Elite frontend image-direction skill for generating premium, conversion-aware we
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\Leonxlnx__taste-skill\skills\imagegen-frontend-web\SKILL.md`
+- **implementing-iec-62443-security-zones**: This skill covers designing and implementing security zones and conduits for ind
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\implementing-iec-62443-security-zones\SKILL.md`
+- **implementing-network-segmentation-with-firewall-zones**: Design and implement network segmentation using firewall security zones, VLANs, 
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\implementing-network-segmentation-with-firewall-zones\SKILL.md`
+- **implementing-privileged-access-workstation**: Design and implement Privileged Access Workstations (PAWs) with device hardening
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\implementing-privileged-access-workstation\SKILL.md`
+- **implementing-ransomware-backup-strategy**: Designs and implements a ransomware-resilient backup strategy following the 3-2-
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\implementing-ransomware-backup-strategy\SKILL.md`
+- **implementing-siem-use-cases-for-detection**: Implements SIEM detection use cases by designing correlation rules, threshold al
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\implementing-siem-use-cases-for-detection\SKILL.md`
+- **ipados-design-guidelines**: Apple Human Interface Guidelines for iPad. Use when building iPad-optimized inte
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\ehmo__platform-design-skills\skills\ipados\SKILL.md`
+- **jlcpcb**: JLCPCB PCB fabrication and assembly — BOM/CPL generation, basic vs extended part
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\aklofas__kicad-happy\skills\jlcpcb\SKILL.md`
+- **lean-canvas**: Generate a Lean Canvas with problem, solution, metrics, cost structure, UVP, unf
+  - `05-Quan-Ly-San-Pham-Pawel-Huryn\pm-product-strategy\skills\lean-canvas\SKILL.md`
+- **lean-ux-canvas**: Guide teams through Lean UX Canvas v2. Use when framing a business problem, surf
+  - `04-Quan-Ly-San-Pham-Dean-Peters\skills\lean-ux-canvas\SKILL.md`
+- **makepad-2.0-design-judgment**: |
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\ZhangHanDong__makepad-skills\skills\makepad-2.0-design-judgment\SKILL.md`
+- **metrics-dashboard**: Define and design a product metrics dashboard with key metrics, data sources, vi
+  - `05-Quan-Ly-San-Pham-Pawel-Huryn\pm-product-discovery\skills\metrics-dashboard\SKILL.md`
+- **monetization-strategy**: When the user wants to design or optimize their app
+  - `44-Cong-Dong-Tiep-Thi-Mang-Xa-Hoi\Eronred__aso-skills\skills\monetization-strategy\SKILL.md`
+- **mongodb-schema-design**: MongoDB schema design patterns and anti-patterns. Use when designing data models
+  - `31-MongoDB\mongodb-schema-design\skills\mongodb-schema-design\SKILL.md`
+- **multi-agent-patterns**: Design multi-agent architectures for complex tasks. Use when single-agent contex
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\NeoLabHQ__sadd\skills\multi-agent-patterns\SKILL.md`
+- **n8n-workflow-patterns**: Proven workflow architectural patterns from real n8n workflows. Use when buildin
+  - `46-Cong-Dong-n8n-Tu-Dong-Hoa\czlonkowski__n8n-workflow-patterns\SKILL.md`
+- **paywall-optimization**: When the user wants to design, test, or optimize their app
+  - `44-Cong-Dong-Tiep-Thi-Mang-Xa-Hoi\Eronred__aso-skills\skills\paywall-optimization\SKILL.md`
+- **pcbway**: PCBWay PCB fabrication and assembly — turnkey/consigned assembly, design rules, 
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\aklofas__kicad-happy\skills\pcbway\SKILL.md`
+- **performing-brand-monitoring-for-impersonation**: Monitor for brand impersonation attacks across domains, social media, mobile app
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-brand-monitoring-for-impersonation\SKILL.md`
+- **pict-test-designer**: Design comprehensive test cases using PICT (Pairwise Independent Combinatorial T
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\omkamal__pypict-skill\SKILL.md`
+- **pricing-strategy**: Analyze and design pricing strategies including pricing models, competitive pric
+  - `05-Quan-Ly-San-Pham-Pawel-Huryn\pm-product-strategy\skills\pricing-strategy\SKILL.md`
+- **problem-framing-canvas**: Guide teams through MITRE
+  - `04-Quan-Ly-San-Pham-Dean-Peters\skills\problem-framing-canvas\SKILL.md`
+- **product-name**: Brainstorm 5 unique, memorable product names with rationale aligned to brand val
+  - `05-Quan-Ly-San-Pham-Pawel-Huryn\pm-marketing-growth\skills\product-name\SKILL.md`
+- **product-strategy**: Create a comprehensive product strategy using the 9-section Product Strategy Can
+  - `05-Quan-Ly-San-Pham-Pawel-Huryn\pm-product-strategy\skills\product-strategy\SKILL.md`
+- **prototype**: Build a throwaway prototype to flesh out a design before committing to it. Route
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mattpocock__skills\skills\engineering\prototype\SKILL.md`
+- **recommendation-canvas**: Evaluate an AI product idea across outcomes, hypotheses, risks, and positioning.
+  - `04-Quan-Ly-San-Pham-Dean-Peters\skills\recommendation-canvas\SKILL.md`
+- **redesign-existing-projects**: Upgrades existing websites and apps to premium quality. Audits current design, i
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\Leonxlnx__taste-skill\skills\redesign-skill\SKILL.md`
+- **referral-program**: When the user wants to design, launch, or optimize an in-app referral / invite /
+  - `44-Cong-Dong-Tiep-Thi-Mang-Xa-Hoi\Eronred__aso-skills\skills\referral-program\SKILL.md`
+- **sanity-best-practices**: Sanity development best practices for schema design, GROQ queries, TypeGen, Visu
+  - `01-Claude-Chinh-Thuc\sanity-io-sanity-best-practices\SKILL.md`
+- **scientific-critical-thinking**: Evaluate scientific claims and evidence quality. Use for assessing experimental 
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\K-Dense-AI__claude-scientific-skills\scientific-skills\scientific-critical-thinking\SKILL.md`
+- **screenshot-optimization**: When the user wants to design, optimize, or evaluate App Store screenshots and p
+  - `44-Cong-Dong-Tiep-Thi-Mang-Xa-Hoi\Eronred__aso-skills\skills\screenshot-optimization\SKILL.md`
+- **startup-canvas**: Generate a Startup Canvas combining Product Strategy (9 sections) and Business M
+  - `05-Quan-Ly-San-Pham-Pawel-Huryn\pm-product-strategy\skills\startup-canvas\SKILL.md`
+- **stitch-design-taste**: Semantic Design System Skill for Google Stitch. Generates agent-friendly DESIGN.
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\Leonxlnx__taste-skill\skills\stitch-skill\SKILL.md`
+- **threejs-postprocessing**: Three.js post-processing - EffectComposer, bloom, DOF, screen effects. Use when 
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\CloudAI-X__threejs-skills\skills\threejs-postprocessing\SKILL.md`
+- **tool-design**: This skill should be used when the user asks to
+  - `45-Cong-Dong-Ky-Thuat-Ngu-Canh\muratcankoylan__tool-design\SKILL.md`
+- **tvos-design-guidelines**: Apple Human Interface Guidelines for Apple TV. Use when building tvOS apps with 
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\ehmo__platform-design-skills\skills\tvos\SKILL.md`
+- **ui-ux-pro-max**: UI/UX design intelligence for web and mobile. Includes 50+ styles, 161 color pal
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\nextlevelbuilder__ui-ux-pro-max-skill\.claude\skills\ui-ux-pro-max\SKILL.md`
+- **value-proposition**: Design a detailed value proposition using a 6-part JTBD template — Who, Why, Wha
+  - `05-Quan-Ly-San-Pham-Pawel-Huryn\pm-product-strategy\skills\value-proposition\SKILL.md`
+- **visionos-design-guidelines**: Apple Human Interface Guidelines for Apple Vision Pro. Use when building spatial
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\ehmo__platform-design-skills\skills\visionos\SKILL.md`
+- **watchos-design-guidelines**: Apple Human Interface Guidelines for Apple Watch. Use when building watchOS apps
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\ehmo__platform-design-skills\skills\watchos\SKILL.md`
+- **web-design-guidelines**: Web platform design and accessibility guidelines. Use when building web interfac
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\ehmo__platform-design-skills\skills\web\SKILL.md`
+- **web-to-app-funnel**: When the user wants to design or optimize the funnel that takes web visitors int
+  - `44-Cong-Dong-Tiep-Thi-Mang-Xa-Hoi\Eronred__aso-skills\skills\web-to-app-funnel\SKILL.md`
+- **wpds**: Use when building UIs leveraging the WordPress Design System (WPDS) and its comp
+  - `16-WordPress\wpds\SKILL.md`
+- **wpds**: Use when building UIs leveraging the WordPress Design System (WPDS) and its comp
+  - `16-WordPress\_repo\skills\wpds\SKILL.md`
+
+## General (1038 skill)
+
+- **Career Changer Translator**: Translate skills from one industry to another, identify transferable skills
+  - `42-Cong-Dong-Nang-Suat-Cong-Tac\Paramchoudhary__ResumeSkills\skills\career-changer-translator\SKILL.md`
+- **Cover Letter Generator**: Create personalized, compelling cover letters from resume and job description
+  - `42-Cong-Dong-Nang-Suat-Cong-Tac\Paramchoudhary__ResumeSkills\skills\cover-letter-generator\SKILL.md`
+- **Expo UI Jetpack Compose**: `@expo/ui/jetpack-compose` package lets you use Jetpack Compose Views and modifi
+  - `22-Expo\expo-ui-jetpack-compose\SKILL.md`
+- **Expo UI Jetpack Compose**: `@expo/ui/jetpack-compose` package lets you use Jetpack Compose Views and modifi
+  - `22-Expo\_repo\plugins\expo\skills\expo-ui-jetpack-compose\SKILL.md`
+- **Interview Prep Generator**: Generate STAR stories, practice questions, and talking points from resume
+  - `42-Cong-Dong-Nang-Suat-Cong-Tac\Paramchoudhary__ResumeSkills\skills\interview-prep-generator\SKILL.md`
+- **Interview Prep Generator**: Generate STAR stories, practice questions, and talking points from resume
+  - `42-Cong-Dong-Nang-Suat-Cong-Tac\Paramchoudhary__ResumeSkills\.agents\skills\interview-prep-generator\SKILL.md`
+- **Job Description Analyzer**: Analyze job postings, calculate match scores, identify gaps, and create applicat
+  - `42-Cong-Dong-Nang-Suat-Cong-Tac\Paramchoudhary__ResumeSkills\skills\job-description-analyzer\SKILL.md`
+- **Job Description Analyzer**: Analyze job postings, calculate match scores, identify gaps, and create applicat
+  - `42-Cong-Dong-Nang-Suat-Cong-Tac\Paramchoudhary__ResumeSkills\.agents\skills\job-description-analyzer\SKILL.md`
+- **Offer Comparison Analyzer**: Compare multiple job offers side-by-side with total compensation analysis
+  - `42-Cong-Dong-Nang-Suat-Cong-Tac\Paramchoudhary__ResumeSkills\skills\offer-comparison-analyzer\SKILL.md`
+- **Offer Comparison Analyzer**: Compare multiple job offers side-by-side with total compensation analysis
+  - `42-Cong-Dong-Nang-Suat-Cong-Tac\Paramchoudhary__ResumeSkills\.agents\skills\offer-comparison-analyzer\SKILL.md`
+- **Portfolio Case Study Writer**: Transform resume bullets into detailed portfolio case studies
+  - `42-Cong-Dong-Nang-Suat-Cong-Tac\Paramchoudhary__ResumeSkills\skills\portfolio-case-study-writer\SKILL.md`
+- **Portfolio Case Study Writer**: Transform resume bullets into detailed portfolio case studies
+  - `42-Cong-Dong-Nang-Suat-Cong-Tac\Paramchoudhary__ResumeSkills\.agents\skills\portfolio-case-study-writer\SKILL.md`
+- **Reference List Builder**: Format professional references properly and prepare reference materials
+  - `42-Cong-Dong-Nang-Suat-Cong-Tac\Paramchoudhary__ResumeSkills\skills\reference-list-builder\SKILL.md`
+- **Reference List Builder**: Format professional references properly and prepare reference materials
+  - `42-Cong-Dong-Nang-Suat-Cong-Tac\Paramchoudhary__ResumeSkills\.agents\skills\reference-list-builder\SKILL.md`
+- **Resume Formatter**: Ensure ATS-friendly formatting and create clean scannable layouts
+  - `42-Cong-Dong-Nang-Suat-Cong-Tac\Paramchoudhary__ResumeSkills\skills\resume-formatter\SKILL.md`
+- **Resume Section Builder**: Create targeted resume sections optimized for different experience levels and ro
+  - `42-Cong-Dong-Nang-Suat-Cong-Tac\Paramchoudhary__ResumeSkills\skills\resume-section-builder\SKILL.md`
+- **Resume Tailor**: Customize resume for specific job postings while maintaining truthfulness
+  - `42-Cong-Dong-Nang-Suat-Cong-Tac\Paramchoudhary__ResumeSkills\skills\resume-tailor\SKILL.md`
+- **Resume Version Manager**: Track different resume versions, maintain master resume, manage tailored version
+  - `42-Cong-Dong-Nang-Suat-Cong-Tac\Paramchoudhary__ResumeSkills\skills\resume-version-manager\SKILL.md`
+- **Tech Resume Optimizer**: Optimize resumes for software engineering, PM, and technical roles
+  - `42-Cong-Dong-Nang-Suat-Cong-Tac\Paramchoudhary__ResumeSkills\skills\tech-resume-optimizer\SKILL.md`
+- **VibeSec-Skill**: This skill helps Claude write secure web applications. Use this when working on 
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\BehiSecc__vibesec\SKILL.md`
+- **ab-test-analysis**: Analyze A/B test results with statistical significance, sample size validation, 
+  - `05-Quan-Ly-San-Pham-Pawel-Huryn\pm-data-analytics\skills\ab-test-analysis\SKILL.md`
+- **ablation-planner**: Use when main results pass result-to-claim (claim_supported=yes or partial) and 
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\wanshuiyin__Auto-claude-code-research-in-sleep\skills\ablation-planner\SKILL.md`
+- **ablation-planner**: Use when main results pass result-to-claim (`claim_supported = yes` or `partial`
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\wanshuiyin__Auto-claude-code-research-in-sleep\skills\skills-codex\ablation-planner\SKILL.md`
+- **about**: Provides information about the bitwize-music plugin, its version, and its creato
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\bitwize-music-studio__claude-ai-music-skills\skills\about\SKILL.md`
+- **acquiring-disk-image-with-dd-and-dcfldd**: Create forensically sound bit-for-bit disk images using dd and dcfldd while pres
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\acquiring-disk-image-with-dd-and-dcfldd\SKILL.md`
+- **aeon**: This skill should be used for time series machine learning tasks including class
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\K-Dense-AI__claude-scientific-skills\scientific-skills\aeon\SKILL.md`
+- **aflpp**: >
+  - `10-Bao-Mat-Trail-of-Bits\plugins\testing-handbook-skills\skills\aflpp\SKILL.md`
+- **ai-analyzer**: AI驱动的综合健康分析系统，整合多维度健康数据、识别异常模式、预测健康风险、提供个性化建议。支持智能问答和AI健康报告生成。
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\huifer__Claude-Ally-Health\skills\ai-analyzer\SKILL.md`
+- **ai-models**: Latest AI models reference - Claude, OpenAI, Gemini, Eleven Labs, Replicate
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\alinaqi__claude-bootstrap\skills\ai-models\SKILL.md`
+- **algorithmic-art**: Creating algorithmic art using p5.js with seeded randomness and interactive para
+  - `01-Claude-Chinh-Thuc\anthropics-algorithmic-art\SKILL.md`
+- **alphaxiv**: Quick single-paper lookup via AlphaXiv LLM-optimized summaries with tiered sourc
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\wanshuiyin__Auto-claude-code-research-in-sleep\skills\alphaxiv\SKILL.md`
+- **alphaxiv**: Quick single-paper lookup via AlphaXiv LLM-optimized summaries with tiered sourc
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\wanshuiyin__Auto-claude-code-research-in-sleep\skills\skills-codex\alphaxiv\SKILL.md`
+- **altitude-horizon-framework**: Understand the PM-to-Director transition through altitude and horizon thinking. 
+  - `04-Quan-Ly-San-Pham-Dean-Peters\skills\altitude-horizon-framework\SKILL.md`
+- **analyse**: Auto-selects best Kaizen method (Gemba Walk, Value Stream, or Muda) for target
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\NeoLabHQ__kaizen\skills\analyse\SKILL.md`
+- **analyse-problem**: Comprehensive A3 one-page problem analysis with root cause and action plan
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\NeoLabHQ__kaizen\skills\analyse-problem\SKILL.md`
+- **analyze-feature-requests**: Analyze and prioritize a list of feature requests by theme, strategic alignment,
+  - `05-Quan-Ly-San-Pham-Pawel-Huryn\pm-product-discovery\skills\analyze-feature-requests\SKILL.md`
+- **analyze-results**: Analyze ML experiment results, compute statistics, generate comparison tables an
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\wanshuiyin__Auto-claude-code-research-in-sleep\skills\analyze-results\SKILL.md`
+- **analyze-results**: Analyze ML experiment results, compute statistics, generate comparison tables an
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\wanshuiyin__Auto-claude-code-research-in-sleep\skills\skills-codex\analyze-results\SKILL.md`
+- **analyzing-active-directory-acl-abuse**: Detect dangerous ACL misconfigurations in Active Directory using ldap3 to identi
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\analyzing-active-directory-acl-abuse\SKILL.md`
+- **analyzing-cobalt-strike-beacon-configuration**: Extract and analyze Cobalt Strike beacon configuration from PE files and memory 
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\analyzing-cobalt-strike-beacon-configuration\SKILL.md`
+- **analyzing-cobaltstrike-malleable-c2-profiles**: Parse and analyze Cobalt Strike Malleable C2 profiles using dissect.cobaltstrike
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\analyzing-cobaltstrike-malleable-c2-profiles\SKILL.md`
+- **analyzing-command-and-control-communication**: Analyzes malware command-and-control (C2) communication protocols to understand 
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\analyzing-command-and-control-communication\SKILL.md`
+- **analyzing-disk-image-with-autopsy**: Perform comprehensive forensic analysis of disk images using Autopsy to recover 
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\analyzing-disk-image-with-autopsy\SKILL.md`
+- **analyzing-golang-malware-with-ghidra**: Reverse engineer Go-compiled malware using Ghidra with specialized scripts for f
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\analyzing-golang-malware-with-ghidra\SKILL.md`
+- **analyzing-heap-spray-exploitation**: Detect and analyze heap spray attacks in memory dumps using Volatility3 plugins 
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\analyzing-heap-spray-exploitation\SKILL.md`
+- **analyzing-linux-elf-malware**: Analyzes malicious Linux ELF (Executable and Linkable Format) binaries including
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\analyzing-linux-elf-malware\SKILL.md`
+- **analyzing-linux-kernel-rootkits**: Detect kernel-level rootkits in Linux memory dumps using Volatility3 linux plugi
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\analyzing-linux-kernel-rootkits\SKILL.md`
+- **analyzing-lnk-file-and-jump-list-artifacts**: Analyze Windows LNK shortcut files and Jump List artifacts to establish evidence
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\analyzing-lnk-file-and-jump-list-artifacts\SKILL.md`
+- **analyzing-malware-behavior-with-cuckoo-sandbox**: Executes malware samples in Cuckoo Sandbox to observe runtime behavior including
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\analyzing-malware-behavior-with-cuckoo-sandbox\SKILL.md`
+- **analyzing-malware-persistence-with-autoruns**: Use Sysinternals Autoruns to systematically identify and analyze malware persist
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\analyzing-malware-persistence-with-autoruns\SKILL.md`
+- **analyzing-malware-sandbox-evasion-techniques**: Detect sandbox evasion techniques in malware samples by analyzing timing checks,
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\analyzing-malware-sandbox-evasion-techniques\SKILL.md`
+- **analyzing-memory-dumps-with-volatility**: Analyzes RAM memory dumps from compromised systems using the Volatility framewor
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\analyzing-memory-dumps-with-volatility\SKILL.md`
+- **analyzing-memory-forensics-with-lime-and-volatility**: Performs Linux memory acquisition using LiME (Linux Memory Extractor) kernel mod
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\analyzing-memory-forensics-with-lime-and-volatility\SKILL.md`
+- **analyzing-network-covert-channels-in-malware**: Detect and analyze covert communication channels used by malware including DNS t
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\analyzing-network-covert-channels-in-malware\SKILL.md`
+- **analyzing-network-packets-with-scapy**: Craft, send, sniff, and dissect network packets using Scapy for protocol analysi
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\analyzing-network-packets-with-scapy\SKILL.md`
+- **analyzing-network-traffic-of-malware**: Analyzes network traffic generated by malware during sandbox execution or live i
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\analyzing-network-traffic-of-malware\SKILL.md`
+- **analyzing-network-traffic-with-wireshark**: Captures and analyzes network packet data using Wireshark and tshark to identify
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\analyzing-network-traffic-with-wireshark\SKILL.md`
+- **analyzing-prefetch-files-for-execution-history**: Parse Windows Prefetch files to determine program execution history including ru
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\analyzing-prefetch-files-for-execution-history\SKILL.md`
+- **analyzing-ransomware-encryption-mechanisms**: Analyzes encryption algorithms, key management, and file encryption routines use
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\analyzing-ransomware-encryption-mechanisms\SKILL.md`
+- **analyzing-slack-space-and-file-system-artifacts**: Examine file system slack space, MFT entries, USN journal, and alternate data st
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\analyzing-slack-space-and-file-system-artifacts\SKILL.md`
+- **analyzing-supply-chain-malware-artifacts**: Investigate supply chain attack artifacts including trojanized software updates,
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\analyzing-supply-chain-malware-artifacts\SKILL.md`
+- **analyzing-uefi-bootkit-persistence**: Analyzes UEFI bootkit persistence mechanisms including firmware implants in SPI 
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\analyzing-uefi-bootkit-persistence\SKILL.md`
+- **analyzing-windows-amcache-artifacts**: Parses and analyzes the Windows Amcache.hve registry hive to extract evidence of
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\analyzing-windows-amcache-artifacts\SKILL.md`
+- **analyzing-windows-lnk-files-for-artifacts**: Parse Windows LNK shortcut files to extract target paths, timestamps, volume inf
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\analyzing-windows-lnk-files-for-artifacts\SKILL.md`
+- **analyzing-windows-registry-for-artifacts**: Extract and analyze Windows Registry hives to uncover user activity, installed s
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\analyzing-windows-registry-for-artifacts\SKILL.md`
+- **analyzing-windows-shellbag-artifacts**: Analyze Windows Shellbag registry artifacts to reconstruct folder browsing activ
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\analyzing-windows-shellbag-artifacts\SKILL.md`
+- **android-kotlin**: Android Kotlin development with Coroutines, Jetpack Compose, Hilt, and MockK tes
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\alinaqi__claude-bootstrap\skills\android-kotlin\SKILL.md`
+- **apollo-client**: >
+  - `17-Apollo-GraphQL\apollo-client\SKILL.md`
+- **apollo-client**: >
+  - `17-Apollo-GraphQL\_repo\skills\apollo-client\SKILL.md`
+- **apollo-connectors**: >
+  - `17-Apollo-GraphQL\apollo-connectors\SKILL.md`
+- **apollo-connectors**: >
+  - `17-Apollo-GraphQL\_repo\skills\apollo-connectors\SKILL.md`
+- **apollo-federation**: >
+  - `17-Apollo-GraphQL\apollo-federation\SKILL.md`
+- **apollo-federation**: >
+  - `17-Apollo-GraphQL\_repo\skills\apollo-federation\SKILL.md`
+- **apollo-ios**: >
+  - `17-Apollo-GraphQL\_repo\skills\apollo-ios\SKILL.md`
+- **apollo-kotlin**: >
+  - `17-Apollo-GraphQL\apollo-kotlin\SKILL.md`
+- **apollo-kotlin**: >
+  - `17-Apollo-GraphQL\_repo\skills\apollo-kotlin\SKILL.md`
+- **apollo-mcp-server**: >
+  - `17-Apollo-GraphQL\apollo-mcp-server\SKILL.md`
+- **apollo-mcp-server**: >
+  - `17-Apollo-GraphQL\_repo\skills\apollo-mcp-server\SKILL.md`
+- **apollo-router**: >
+  - `17-Apollo-GraphQL\apollo-router\SKILL.md`
+- **apollo-router**: >
+  - `17-Apollo-GraphQL\_repo\skills\apollo-router\SKILL.md`
+- **apollo-router-plugin-creator**: >
+  - `17-Apollo-GraphQL\apollo-router-plugin-creator\SKILL.md`
+- **apollo-router-plugin-creator**: >
+  - `17-Apollo-GraphQL\_repo\skills\apollo-router-plugin-creator\SKILL.md`
+- **apollo-server**: >
+  - `17-Apollo-GraphQL\apollo-server\SKILL.md`
+- **apollo-server**: >
+  - `17-Apollo-GraphQL\_repo\skills\apollo-server\SKILL.md`
+- **app-analytics**: When the user wants to set up, interpret, or improve their app analytics and tra
+  - `44-Cong-Dong-Tiep-Thi-Mang-Xa-Hoi\Eronred__aso-skills\skills\app-analytics\SKILL.md`
+- **app-clips**: When the user wants to implement, optimize, or use App Clips for app discovery a
+  - `44-Cong-Dong-Tiep-Thi-Mang-Xa-Hoi\Eronred__aso-skills\skills\app-clips\SKILL.md`
+- **app-launch**: When the user wants to plan a launch strategy for a new app or major update. Als
+  - `44-Cong-Dong-Tiep-Thi-Mang-Xa-Hoi\Eronred__aso-skills\skills\app-launch\SKILL.md`
+- **app-preview-video**: When the user wants to plan, script, produce, or optimize App Store Preview vide
+  - `44-Cong-Dong-Tiep-Thi-Mang-Xa-Hoi\Eronred__aso-skills\skills\app-preview-video\SKILL.md`
+- **app-rejection-recovery**: When the user
+  - `44-Cong-Dong-Tiep-Thi-Mang-Xa-Hoi\Eronred__aso-skills\skills\app-rejection-recovery\SKILL.md`
+- **app-store-featured**: When the user wants to get featured on the App Store or understand the editorial
+  - `44-Cong-Dong-Tiep-Thi-Mang-Xa-Hoi\Eronred__aso-skills\skills\app-store-featured\SKILL.md`
+- **app-store-preflight-skills**: >
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\truongduy2611__app-store-preflight-skills\SKILL.md`
+- **apple-bridges**: Use this skill whenever the user asks about Apple apps — Reminders, Calendar, Co
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\more-io__apple-bridges\skills\apple-bridges\SKILL.md`
+- **arboreto**: Infer gene regulatory networks (GRNs) from gene expression data using scalable a
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\K-Dense-AI__claude-scientific-skills\scientific-skills\arboreto\SKILL.md`
+- **asc-build-lifecycle**: Track build processing, find latest builds, and clean up old builds with asc. Us
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\rudrankriyam__app-store-connect-cli-skills\skills\asc-build-lifecycle\SKILL.md`
+- **asc-cli-usage**: Guidance for using asc cli in this repo (flags, output formats, pagination, auth
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\rudrankriyam__app-store-connect-cli-skills\skills\asc-cli-usage\SKILL.md`
+- **asc-crash-triage**: Triage TestFlight crashes, beta feedback, and performance diagnostics using asc.
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\rudrankriyam__app-store-connect-cli-skills\skills\asc-crash-triage\SKILL.md`
+- **asc-id-resolver**: Resolve App Store Connect IDs (apps, builds, versions, groups, testers) from hum
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\rudrankriyam__app-store-connect-cli-skills\skills\asc-id-resolver\SKILL.md`
+- **asc-screenshot-resize**: Resize and validate App Store screenshots with current asc screenshot-size data 
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\rudrankriyam__app-store-connect-cli-skills\skills\asc-screenshot-resize\SKILL.md`
+- **asc-signing-setup**: Set up bundle IDs, capabilities, signing certificates, provisioning profiles, an
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\rudrankriyam__app-store-connect-cli-skills\skills\asc-signing-setup\SKILL.md`
+- **asc-testflight-orchestration**: Orchestrate TestFlight distribution, groups, testers, and What to Test notes usi
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\rudrankriyam__app-store-connect-cli-skills\skills\asc-testflight-orchestration\SKILL.md`
+- **asc-wall-submit**: Submit or update a Wall of Apps entry in the App-Store-Connect-CLI repository us
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\rudrankriyam__app-store-connect-cli-skills\skills\asc-wall-submit\SKILL.md`
+- **asc-whats-new-writer**: Generate engaging, localized App Store release notes (What
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\rudrankriyam__app-store-connect-cli-skills\skills\asc-whats-new-writer\SKILL.md`
+- **ask-questions-if-underspecified**: Clarify requirements before implementing. Use when serious doubts arise.
+  - `10-Bao-Mat-Trail-of-Bits\plugins\ask-questions-if-underspecified\skills\ask-questions-if-underspecified\SKILL.md`
+- **assignation-refere-communication-associe-selim-brihi**: Rédaction d
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\lawvable__awesome-legal-skills\skills\assignation-refere-communication-associe-selim-brihi\SKILL.md`
+- **assignation-refere-recouvrement-creance-selim-brihi**: Rédaction d
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\lawvable__awesome-legal-skills\skills\assignation-refere-recouvrement-creance-selim-brihi\SKILL.md`
+- **atheris**: >
+  - `10-Bao-Mat-Trail-of-Bits\plugins\testing-handbook-skills\skills\atheris\SKILL.md`
+- **atlas-stream-processing**: Manages MongoDB Atlas Stream Processing (ASP) workflows. Handles workspace provi
+  - `31-MongoDB\atlas-stream-processing\skills\atlas-stream-processing\SKILL.md`
+- **attach-db**: >
+  - `35-DuckDB\duckdb-attach-db\SKILL.md`
+- **attribute-creation**: Guides you step-by-step through defining a calculated attribute (dimension) on a
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\honeydew-ai__honeydew-ai-coding-agents-plugins\skills\attribute-creation\SKILL.md`
+- **audiocraft-audio-generation**: PyTorch library for audio generation including text-to-music (MusicGen) and text
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\zechenzhangAGI__AI-research-SKILLs\18-multimodal\audiocraft\SKILL.md`
+- **audiocraft-audio-generation**: PyTorch library for audio generation including text-to-music (MusicGen) and text
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\Orchestra-Research__AI-research-SKILLs\18-multimodal\audiocraft\SKILL.md`
+- **auto-paper-improvement-loop**: Autonomously improve a generated paper via GPT-5.4 xhigh review → implement fixe
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\wanshuiyin__Auto-claude-code-research-in-sleep\skills\auto-paper-improvement-loop\SKILL.md`
+- **auto-paper-improvement-loop**: Autonomously improve a generated paper via Gemini review through gemini-review M
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\wanshuiyin__Auto-claude-code-research-in-sleep\skills\skills-codex-gemini-review\auto-paper-improvement-loop\SKILL.md`
+- **auto-paper-improvement-loop**: Autonomously improve a generated paper via Claude review through claude-review M
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\wanshuiyin__Auto-claude-code-research-in-sleep\skills\skills-codex-claude-review\auto-paper-improvement-loop\SKILL.md`
+- **auto-paper-improvement-loop**: Autonomously improve a generated paper via GPT-5.4 xhigh review → implement fixe
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\wanshuiyin__Auto-claude-code-research-in-sleep\skills\skills-codex\auto-paper-improvement-loop\SKILL.md`
+- **automate-whatsapp**: Build WhatsApp automations with Kapso workflows: configure WhatsApp triggers, ed
+  - `42-Cong-Dong-Nang-Suat-Cong-Tac\gokapso__automate-whatsapp\SKILL.md`
+- **autoskill**: Observe the user
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\K-Dense-AI__claude-scientific-skills\scientific-skills\autoskill\SKILL.md`
+- **avatar-extraction**: Use when you need to define exactly who the buyer is, what they want, what they’
+  - `21-Quang-Cao-Kim-Barrett\avatar-extraction\SKILL.md`
+- **avatar-extraction**: Use when you need to define exactly who the buyer is, what they want, what they’
+  - `21-Quang-Cao-Kim-Barrett\_repo\skills\foundations\avatar-extraction\SKILL.md`
+- **awq-quantization**: Activation-aware weight quantization for 4-bit LLM compression with 3x speedup a
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\zechenzhangAGI__AI-research-SKILLs\10-optimization\awq\SKILL.md`
+- **awq-quantization**: Activation-aware weight quantization for 4-bit LLM compression with 3x speedup a
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\Orchestra-Research__AI-research-SKILLs\10-optimization\awq\SKILL.md`
+- **axolotl**: Expert guidance for fine-tuning LLMs with Axolotl - YAML configs, 100+ models, L
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\zechenzhangAGI__AI-research-SKILLs\03-fine-tuning\axolotl\SKILL.md`
+- **axolotl**: Expert guidance for fine-tuning LLMs with Axolotl - YAML configs, 100+ models, L
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\Orchestra-Research__AI-research-SKILLs\03-fine-tuning\axolotl\SKILL.md`
+- **banner-creator**: Create banners using AI image generation. Discuss format/style, generate variati
+  - `42-Cong-Dong-Nang-Suat-Cong-Tac\ReScienceLab__opc-skills\skills\banner-creator\SKILL.md`
+- **base**: Universal coding patterns, constraints, TDD workflow, atomic todos
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\alinaqi__claude-bootstrap\skills\base\SKILL.md`
+- **baseline-ui**: Validates animation durations, enforces typography scale, checks component acces
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\ibelick__ui-skills\skills\baseline-ui\SKILL.md`
+- **beautiful-prose**: A hard-edged writing style contract for timeless, forceful English prose without
+  - `44-Cong-Dong-Tiep-Thi-Mang-Xa-Hoi\SHADOWPR0__beautiful_prose\SKILL.md`
+- **bom**: BOM (Bill of Materials) management for electronics projects — the primary orches
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\aklofas__kicad-happy\skills\bom\SKILL.md`
+- **brainstorm-okrs**: Brainstorm team-level OKRs aligned with company objectives — qualitative objecti
+  - `05-Quan-Ly-San-Pham-Pawel-Huryn\pm-execution\skills\brainstorm-okrs\SKILL.md`
+- **browser**: Automate web browser interactions using natural language via CLI commands. Use w
+  - `33-Browserbase\browserbase-browser\SKILL.md`
+- **buddy-sings**: >
+  - `23-MiniMax\_repo\skills\buddy-sings\SKILL.md`
+- **building-automated-malware-submission-pipeline**: Builds an automated malware submission and analysis pipeline that collects suspi
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\building-automated-malware-submission-pipeline\SKILL.md`
+- **building-c2-infrastructure-with-sliver-framework**: Build and configure a resilient command-and-control infrastructure using BishopF
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\building-c2-infrastructure-with-sliver-framework\SKILL.md`
+- **building-identity-governance-lifecycle-process**: Builds comprehensive identity governance and lifecycle management processes incl
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\building-identity-governance-lifecycle-process\SKILL.md`
+- **building-incident-timeline-with-timesketch**: Build collaborative forensic incident timelines using Timesketch to ingest, norm
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\building-incident-timeline-with-timesketch\SKILL.md`
+- **building-ioc-defanging-and-sharing-pipeline**: Build an automated pipeline to defang indicators of compromise (URLs, IPs, domai
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\building-ioc-defanging-and-sharing-pipeline\SKILL.md`
+- **building-malware-incident-communication-template**: Build structured communication templates for malware incidents including stakeho
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\building-malware-incident-communication-template\SKILL.md`
+- **building-native-ui**: Complete guide for building beautiful apps with Expo Router. Covers fundamentals
+  - `22-Expo\building-native-ui\SKILL.md`
+- **building-native-ui**: Complete guide for building beautiful apps with Expo Router. Covers fundamentals
+  - `22-Expo\_repo\plugins\expo\skills\building-native-ui\SKILL.md`
+- **building-phishing-reporting-button-workflow**: Implement a phishing report button in email clients with automated triage workfl
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\building-phishing-reporting-button-workflow\SKILL.md`
+- **building-ransomware-playbook-with-cisa-framework**: Builds a structured ransomware incident response playbook aligned with the CISA 
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\building-ransomware-playbook-with-cisa-framework\SKILL.md`
+- **building-role-mining-for-rbac-optimization**: Apply bottom-up and top-down role mining techniques to discover optimal RBAC rol
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\building-role-mining-for-rbac-optimization\SKILL.md`
+- **building-soc-escalation-matrix**: Build a structured SOC escalation matrix defining severity tiers, response SLAs,
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\building-soc-escalation-matrix\SKILL.md`
+- **canned-responses-anthropic**: Generate templated responses for common legal inquiries and identify when situat
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\lawvable__awesome-legal-skills\skills\canned-responses-anthropic\SKILL.md`
+- **cargo-fuzz**: >
+  - `10-Bao-Mat-Trail-of-Bits\plugins\testing-handbook-skills\skills\cargo-fuzz\SKILL.md`
+- **category-positioning**: When the user wants to choose, change, or evaluate their App Store / Google Play
+  - `44-Cong-Dong-Tiep-Thi-Mang-Xa-Hoi\Eronred__aso-skills\skills\category-positioning\SKILL.md`
+- **cause-and-effect**: Systematic Fishbone analysis exploring problem causes across six categories
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\NeoLabHQ__kaizen\skills\cause-and-effect\SKILL.md`
+- **caveman**: >
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mattpocock__skills\skills\productivity\caveman\SKILL.md`
+- **cellxgene-census**: Query the CELLxGENE Census (61M+ cells) programmatically. Use when you need expr
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\K-Dense-AI__claude-scientific-skills\scientific-skills\cellxgene-census\SKILL.md`
+- **characteristic-voice**: Use this skill whenever the user wants speech to sound more human, companion-lik
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\NoizAI__skills\skills\characteristic-voice\SKILL.md`
+- **chat-with-anyone**: Chat with any real person or fictional character in their own voice by automatic
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\NoizAI__skills\skills\chat-with-anyone\SKILL.md`
+- **chdb-datastore**: -
+  - `01-Claude-Chinh-Thuc\clickhouse-chdb-datastore\SKILL.md`
+- **chdb-sql**: -
+  - `01-Claude-Chinh-Thuc\clickhouse-chdb-sql\SKILL.md`
+- **churn-prevention**: When the user wants to reduce churn, build cancellation flows, set up save offer
+  - `06-Tiep-Thi-Corey-Haines\skills\churn-prevention\SKILL.md`
+- **cinematography**: >
+  - `14-fal-ai\skills\cinematography\SKILL.md`
+- **claimable-postgres**: -
+  - `01-Claude-Chinh-Thuc\neondatabase-claimable-postgres\SKILL.md`
+- **claims-drafting**: Draft patent claims for an invention. Use when user says \
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\wanshuiyin__Auto-claude-code-research-in-sleep\skills\claims-drafting\SKILL.md`
+- **claims-drafting**: Draft patent claims for an invention. Use when user says \
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\wanshuiyin__Auto-claude-code-research-in-sleep\skills\skills-codex\claims-drafting\SKILL.md`
+- **clarity-gate**: >
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\frmoretto__clarity-gate\skills\clarity-gate\SKILL.md`
+- **clarity-gate**: >
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\frmoretto__clarity-gate\.github\skills\clarity-gate\SKILL.md`
+- **clarity-gate**: >
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\frmoretto__clarity-gate\.codex\skills\clarity-gate\SKILL.md`
+- **claude-in-chrome-troubleshooting**: Diagnose and fix Claude in Chrome MCP extension connectivity issues. Use when mc
+  - `10-Bao-Mat-Trail-of-Bits\plugins\claude-in-chrome-troubleshooting\skills\claude-in-chrome-troubleshooting\SKILL.md`
+- **claw-release**: Release automation for Claw skills and website. Guides through version bumping, 
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\prompt-security__clawsec\skills\claw-release\SKILL.md`
+- **clickhouse-best-practices**: MUST USE when reviewing ClickHouse schemas, queries, or configurations. Contains
+  - `01-Claude-Chinh-Thuc\clickhouse-clickhouse-best-practices\SKILL.md`
+- **clickhousectl-local-dev**: Use when a user wants to build an application with ClickHouse, set up a local Cl
+  - `01-Claude-Chinh-Thuc\clickhouse-clickhousectl-local-dev\SKILL.md`
+- **clip**: OpenAI
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\zechenzhangAGI__AI-research-SKILLs\18-multimodal\clip\SKILL.md`
+- **clip**: OpenAI
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\Orchestra-Research__AI-research-SKILLs\18-multimodal\clip\SKILL.md`
+- **cloud-solution-architect**: -
+  - `02-Microsoft-Azure\microsoft-cloud-solution-architect\SKILL.md`
+- **cold-email**: Write B2B cold emails and follow-up sequences that get replies. Use when the use
+  - `06-Tiep-Thi-Corey-Haines\skills\cold-email\SKILL.md`
+- **cold-outreach-sequence**: Build personalized cold outreach sequences for LinkedIn and email. Use when some
+  - `44-Cong-Dong-Tiep-Thi-Mang-Xa-Hoi\BrianRWagner__ai-marketing-skills\cold-outreach-sequence\SKILL.md`
+- **commercial**: >
+  - `14-fal-ai\skills\commercial\SKILL.md`
+- **commit-hygiene**: Atomic commits, PR size limits, commit thresholds, stacked PRs
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\alinaqi__claude-bootstrap\skills\commit-hygiene\SKILL.md`
+- **competitor-analysis**: Analyze competitors with strengths, weaknesses, and differentiation opportunitie
+  - `05-Quan-Ly-San-Pham-Pawel-Huryn\pm-market-research\skills\competitor-analysis\SKILL.md`
+- **competitor-analysis**: When the user wants to analyze competitors
+  - `44-Cong-Dong-Tiep-Thi-Mang-Xa-Hoi\Eronred__aso-skills\skills\competitor-analysis\SKILL.md`
+- **compliance-anthropic**: Navigate privacy regulations (GDPR, CCPA), review DPAs, and handle data subject 
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\lawvable__awesome-legal-skills\skills\compliance-anthropic\SKILL.md`
+- **conducting-domain-persistence-with-dcsync**: Perform DCSync attacks to replicate Active Directory credentials and establish d
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\conducting-domain-persistence-with-dcsync\SKILL.md`
+- **conducting-external-reconnaissance-with-osint**: Conducts external reconnaissance using Open Source Intelligence (OSINT) techniqu
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\conducting-external-reconnaissance-with-osint\SKILL.md`
+- **conducting-full-scope-red-team-engagement**: Plan and execute a comprehensive red team engagement covering reconnaissance thr
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\conducting-full-scope-red-team-engagement\SKILL.md`
+- **conducting-internal-reconnaissance-with-bloodhound-ce**: Conduct internal Active Directory reconnaissance using BloodHound Community Edit
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\conducting-internal-reconnaissance-with-bloodhound-ce\SKILL.md`
+- **conducting-malware-incident-response**: Responds to malware infections across enterprise endpoints by identifying the ma
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\conducting-malware-incident-response\SKILL.md`
+- **conducting-man-in-the-middle-attack-simulation**: Simulates man-in-the-middle attacks using Ettercap, mitmproxy, and Bettercap in 
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\conducting-man-in-the-middle-attack-simulation\SKILL.md`
+- **conducting-memory-forensics-with-volatility**: Performs memory forensics analysis using Volatility 3 to extract evidence of mal
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\conducting-memory-forensics-with-volatility\SKILL.md`
+- **conducting-pass-the-ticket-attack**: Pass-the-Ticket (PtT) is a lateral movement technique that uses stolen Kerberos 
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\conducting-pass-the-ticket-attack\SKILL.md`
+- **conducting-phishing-incident-response**: Responds to phishing incidents by analyzing reported emails, extracting indicato
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\conducting-phishing-incident-response\SKILL.md`
+- **configuring-aws-verified-access-for-ztna**: Configure AWS Verified Access to provide VPN-less zero trust network access to i
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\configuring-aws-verified-access-for-ztna\SKILL.md`
+- **configuring-certificate-authority-with-openssl**: A Certificate Authority (CA) is the trust anchor in a PKI hierarchy, responsible
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\configuring-certificate-authority-with-openssl\SKILL.md`
+- **configuring-identity-aware-proxy-with-google-iap**: Configuring Google Cloud Identity-Aware Proxy (IAP) to enforce per-request ident
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\configuring-identity-aware-proxy-with-google-iap\SKILL.md`
+- **consciousness-council**: Run a multi-perspective Mind Council deliberation on any question, decision, or 
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\K-Dense-AI__claude-scientific-skills\scientific-skills\consciousness-council\SKILL.md`
+- **constant-time-testing**: >
+  - `10-Bao-Mat-Trail-of-Bits\plugins\testing-handbook-skills\skills\constant-time-testing\SKILL.md`
+- **constitutional-ai**: Anthropic
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\zechenzhangAGI__AI-research-SKILLs\07-safety-alignment\constitutional-ai\SKILL.md`
+- **constitutional-ai**: Anthropic
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\Orchestra-Research__AI-research-SKILLs\07-safety-alignment\constitutional-ai\SKILL.md`
+- **context-compression**: This skill should be used when the user asks to
+  - `45-Cong-Dong-Ky-Thuat-Ngu-Canh\muratcankoylan__context-compression\SKILL.md`
+- **context-fundamentals**: This skill should be used when the user asks to
+  - `45-Cong-Dong-Ky-Thuat-Ngu-Canh\muratcankoylan__context-fundamentals\SKILL.md`
+- **context-optimization**: This skill should be used when the user asks to
+  - `45-Cong-Dong-Ky-Thuat-Ngu-Canh\muratcankoylan__context-optimization\SKILL.md`
+- **continual-learning**: Guide for implementing continual learning in AI coding agents — hooks, memory sc
+  - `02-Microsoft-Azure\microsoft-continual-learning\SKILL.md`
+- **contract-review-anthropic**: Review contracts against your organization
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\lawvable__awesome-legal-skills\skills\contract-review-anthropic\SKILL.md`
+- **cookie-policy-malik-taiar**: Guide for drafting cookie policies compliant with GDPR and the ePrivacy Directiv
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\lawvable__awesome-legal-skills\skills\politique-cookies-malik-taiar\SKILL.md`
+- **cookie-sync**: Sync cookies from local Chrome to a Browserbase persistent context so the browse
+  - `33-Browserbase\browserbase-cookie-sync\SKILL.md`
+- **courier-notification-skills**: Use when building notifications with Courier across email, SMS, push, in-app inb
+  - `01-Claude-Chinh-Thuc\trycourier\SKILL.md`
+- **courier-notification-skills**: Use when building notifications with Courier across email, SMS, push, in-app inb
+  - `01-Claude-Chinh-Thuc\trycourier-courier-skills\SKILL.md`
+- **coverage-analysis**: >
+  - `10-Bao-Mat-Trail-of-Bits\plugins\testing-handbook-skills\skills\coverage-analysis\SKILL.md`
+- **create-ideas**: Generate ideas in one shot using creative sampling
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\NeoLabHQ__sdd\skills\create-ideas\SKILL.md`
+- **create-voltagent**: Skill for creating AI agent projects using the VoltAgent framework. Guide for CL
+  - `01-Claude-Chinh-Thuc\voltagent-create-voltagent\SKILL.md`
+- **creative-director**: >
+  - `44-Cong-Dong-Tiep-Thi-Mang-Xa-Hoi\smixs__creative-director-skill\creative-director\SKILL.md`
+- **crewai-multi-agent**: Multi-agent orchestration framework for autonomous AI collaboration. Use when bu
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\zechenzhangAGI__AI-research-SKILLs\14-agents\crewai\SKILL.md`
+- **crewai-multi-agent**: Multi-agent orchestration framework for autonomous AI collaboration. Use when bu
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\Orchestra-Research__AI-research-SKILLs\14-agents\crewai\SKILL.md`
+- **critique**: Comprehensive multi-perspective review using specialized judges with debate and 
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\NeoLabHQ__reflexion\skills\critique\SKILL.md`
+- **cro-optimization**: Analyzes landing pages and provides detailed CRO (Conversion Rate Optimization) 
+  - `42-Cong-Dong-Nang-Suat-Cong-Tac\ognjengt__founder-skills\skills\cro-optimization\SKILL.md`
+- **customer-journey-map**: Create an end-to-end customer journey map with stages, touchpoints, emotions, pa
+  - `05-Quan-Ly-San-Pham-Pawel-Huryn\pm-market-research\skills\customer-journey-map\SKILL.md`
+- **daily-news-caster**: Fetches the latest news using news-aggregator-skill, formats it into a podcast s
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\NoizAI__skills\skills\daily-news-caster\SKILL.md`
+- **dart-best-practices**: -
+  - `09-Flutter\tool\dart_skills_lint\.agents\skills\dart-best-practices\SKILL.md`
+- **dart-checks-migration**: -
+  - `09-Flutter\tool\dart_skills_lint\.agents\skills\dart-checks-migration\SKILL.md`
+- **dart-cli-app-best-practices**: -
+  - `09-Flutter\tool\dart_skills_lint\.agents\skills\dart-cli-app-best-practices\SKILL.md`
+- **dart-long-lines**: -
+  - `09-Flutter\tool\dart_skills_lint\.agents\skills\dart-long-lines\SKILL.md`
+- **dart-matcher-best-practices**: -
+  - `09-Flutter\tool\dart_skills_lint\.agents\skills\dart-matcher-best-practices\SKILL.md`
+- **dart-modern-features**: -
+  - `09-Flutter\tool\dart_skills_lint\.agents\skills\dart-modern-features\SKILL.md`
+- **dart-package-maintenance**: -
+  - `09-Flutter\tool\dart_skills_lint\.agents\skills\dart-package-maintenance\SKILL.md`
+- **dart-skills-lint-setup**: -
+  - `09-Flutter\tool\dart_skills_lint\skills\dart-skills-lint-setup\SKILL.md`
+- **dart-skills-lint-validation**: -
+  - `09-Flutter\tool\dart_skills_lint\skills\dart-skills-lint-validation\SKILL.md`
+- **dart-test-coverage**: -
+  - `09-Flutter\tool\dart_skills_lint\.agents\skills\dart-test-coverage\SKILL.md`
+- **dart-test-fundamentals**: -
+  - `09-Flutter\tool\dart_skills_lint\.agents\skills\dart-test-fundamentals\SKILL.md`
+- **data-structure-protocol**: -
+  - `45-Cong-Dong-Ky-Thuat-Ngu-Canh\k-kolomeitsev__data-structure-protocol\skills\data-structure-protocol\SKILL.md`
+- **dd-apm**: APM - install, onboard, instrument, enable, set up, configure, traces, services,
+  - `28-Datadog\dd-apm\dd-apm\SKILL.md`
+- **debug-buttercup**: >
+  - `10-Bao-Mat-Trail-of-Bits\plugins\debug-buttercup\skills\debug-buttercup\SKILL.md`
+- **deckset**: Example for using Deckset to create Markdown presentations
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\Joannis__claude-skills\deckset\SKILL.md`
+- **deepspeed**: Expert guidance for distributed training with DeepSpeed - ZeRO optimization stag
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\zechenzhangAGI__AI-research-SKILLs\08-distributed-training\deepspeed\SKILL.md`
+- **deepspeed**: Expert guidance for distributed training with DeepSpeed - ZeRO optimization stag
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\Orchestra-Research__AI-research-SKILLs\08-distributed-training\deepspeed\SKILL.md`
+- **deeptools**: NGS analysis toolkit. BAM to bigWig conversion, QC (correlation, PCA, fingerprin
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\K-Dense-AI__claude-scientific-skills\scientific-skills\deeptools\SKILL.md`
+- **deobfuscating-powershell-obfuscated-malware**: Systematically deobfuscate multi-layer PowerShell malware using AST analysis, dy
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\deobfuscating-powershell-obfuscated-malware\SKILL.md`
+- **depmap**: Query the Cancer Dependency Map (DepMap) for cancer cell line gene dependency sc
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\K-Dense-AI__claude-scientific-skills\scientific-skills\depmap\SKILL.md`
+- **detecting-ai-model-prompt-injection-attacks**: Detects prompt injection attacks targeting LLM-based applications using a multi-
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\detecting-ai-model-prompt-injection-attacks\SKILL.md`
+- **detecting-anomalous-authentication-patterns**: Detects anomalous authentication patterns using UEBA analytics, statistical base
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\detecting-anomalous-authentication-patterns\SKILL.md`
+- **detecting-arp-poisoning-in-network-traffic**: Detect and prevent ARP spoofing attacks using ARPWatch, Dynamic ARP Inspection, 
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\detecting-arp-poisoning-in-network-traffic\SKILL.md`
+- **detecting-aws-iam-privilege-escalation**: Detect AWS IAM privilege escalation paths using boto3 and Cloudsplaining policy 
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\detecting-aws-iam-privilege-escalation\SKILL.md`
+- **detecting-command-and-control-over-dns**: Detects command-and-control (C2) communications tunneled through DNS protocol in
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\detecting-command-and-control-over-dns\SKILL.md`
+- **detecting-credential-dumping-techniques**: Detect LSASS credential dumping, SAM database extraction, and NTDS.dit theft usi
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\detecting-credential-dumping-techniques\SKILL.md`
+- **detecting-deepfake-audio-in-vishing-attacks**: Detects AI-generated deepfake audio used in voice phishing (vishing) attacks by 
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\detecting-deepfake-audio-in-vishing-attacks\SKILL.md`
+- **detecting-dns-exfiltration-with-dns-query-analysis**: Detect data exfiltration through DNS tunneling by analyzing query entropy, subdo
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\detecting-dns-exfiltration-with-dns-query-analysis\SKILL.md`
+- **detecting-email-account-compromise**: Detect compromised O365 and Google Workspace email accounts by analyzing inbox r
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\detecting-email-account-compromise\SKILL.md`
+- **detecting-fileless-attacks-on-endpoints**: Detects fileless malware and in-memory attacks that execute entirely in RAM with
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\detecting-fileless-attacks-on-endpoints\SKILL.md`
+- **detecting-living-off-the-land-with-lolbas**: Detect Living Off the Land Binaries (LOLBins/LOLBAS) abuse including certutil, r
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\detecting-living-off-the-land-with-lolbas\SKILL.md`
+- **detecting-malicious-scheduled-tasks-with-sysmon**: Detect malicious scheduled task creation and modification using Sysmon Event IDs
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\detecting-malicious-scheduled-tasks-with-sysmon\SKILL.md`
+- **detecting-mimikatz-execution-patterns**: Detect Mimikatz execution through command-line patterns, LSASS access signatures
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\detecting-mimikatz-execution-patterns\SKILL.md`
+- **detecting-mobile-malware-behavior**: Detects and analyzes malicious behavior in mobile applications through behaviora
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\detecting-mobile-malware-behavior\SKILL.md`
+- **detecting-modbus-protocol-anomalies**: This skill covers detecting anomalies in Modbus/TCP and Modbus RTU communication
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\detecting-modbus-protocol-anomalies\SKILL.md`
+- **detecting-network-scanning-with-ids-signatures**: Detect network reconnaissance and port scanning using Suricata and Snort IDS sig
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\detecting-network-scanning-with-ids-signatures\SKILL.md`
+- **detecting-pass-the-ticket-attacks**: Detect Kerberos Pass-the-Ticket (PtT) attacks by analyzing Windows Event IDs 476
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\detecting-pass-the-ticket-attacks\SKILL.md`
+- **detecting-port-scanning-with-fail2ban**: Configures Fail2ban with custom filters and actions to detect port scanning acti
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\detecting-port-scanning-with-fail2ban\SKILL.md`
+- **detecting-privilege-escalation-attempts**: Detect privilege escalation attempts including token manipulation, UAC bypass, u
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\detecting-privilege-escalation-attempts\SKILL.md`
+- **detecting-process-hollowing-technique**: Detect process hollowing (T1055.012) by analyzing memory-mapped sections, hollow
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\detecting-process-hollowing-technique\SKILL.md`
+- **detecting-process-injection-techniques**: Detects and analyzes process injection techniques used by malware including clas
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\detecting-process-injection-techniques\SKILL.md`
+- **detecting-ransomware-precursors-in-network**: Detects early-stage ransomware indicators in network traffic before encryption b
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\detecting-ransomware-precursors-in-network\SKILL.md`
+- **detecting-rootkit-activity**: Detects rootkit presence on compromised systems by identifying hidden processes,
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\detecting-rootkit-activity\SKILL.md`
+- **detecting-t1003-credential-dumping-with-edr**: Detect OS credential dumping techniques targeting LSASS memory, SAM database, NT
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\detecting-t1003-credential-dumping-with-edr\SKILL.md`
+- **detecting-t1055-process-injection-with-sysmon**: Detect process injection techniques (T1055) including classic DLL injection, pro
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\detecting-t1055-process-injection-with-sysmon\SKILL.md`
+- **detecting-t1548-abuse-elevation-control-mechanism**: Detect abuse of elevation control mechanisms including UAC bypass, sudo exploita
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\detecting-t1548-abuse-elevation-control-mechanism\SKILL.md`
+- **detecting-typosquatting-packages-in-npm-pypi**: Detects typosquatting attacks in npm and PyPI package registries by analyzing pa
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\detecting-typosquatting-packages-in-npm-pypi\SKILL.md`
+- **developing-genkit-go**: Develop AI-powered applications using Genkit in Go. Use when the user asks to bu
+  - `20-Firebase\developing-genkit-go\SKILL.md`
+- **developing-genkit-go**: Develop AI-powered applications using Genkit in Go. Use when the user asks to bu
+  - `20-Firebase\_repo\skills\developing-genkit-go\SKILL.md`
+- **dhdna-profiler**: Extract cognitive patterns and thinking fingerprints from any text. Use this ski
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\K-Dense-AI__claude-scientific-skills\scientific-skills\dhdna-profiler\SKILL.md`
+- **diagnose**: Disciplined diagnosis loop for hard bugs and performance regressions. Reproduce 
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mattpocock__skills\skills\engineering\diagnose\SKILL.md`
+- **differential-review**: >
+  - `10-Bao-Mat-Trail-of-Bits\plugins\differential-review\skills\differential-review\SKILL.md`
+- **differentiation-schemes**: >
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\materials-simulation-skills\skills\core-numerical\differentiation-schemes\SKILL.md`
+- **digikey**: -
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\aklofas__kicad-happy\skills\digikey\SKILL.md`
+- **discovery-interview-prep**: Plan customer discovery interviews with the right goal, segment, constraints, an
+  - `04-Quan-Ly-San-Pham-Dean-Peters\skills\discovery-interview-prep\SKILL.md`
+- **discovery-process**: Run a full discovery cycle from problem hypothesis to validated solution. Use wh
+  - `04-Quan-Ly-San-Pham-Dean-Peters\skills\discovery-process\SKILL.md`
+- **dispatching-parallel-agents**: Use when facing 2+ independent tasks that can be worked on without shared state 
+  - `42-Cong-Dong-Nang-Suat-Cong-Tac\obra__dispatching-parallel-agents\SKILL.md`
+- **distributed-llm-pretraining-torchtitan**: Provides PyTorch-native distributed LLM pretraining using torchtitan with 4D par
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\zechenzhangAGI__AI-research-SKILLs\01-model-architecture\torchtitan\SKILL.md`
+- **distributed-llm-pretraining-torchtitan**: Provides PyTorch-native distributed LLM pretraining using torchtitan with 4D par
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\Orchestra-Research__AI-research-SKILLs\01-model-architecture\torchtitan\SKILL.md`
+- **do-and-judge**: Execute a task with sub-agent implementation and LLM-as-a-judge verification wit
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\NeoLabHQ__sadd\skills\do-and-judge\SKILL.md`
+- **do-competitively**: Execute tasks through competitive multi-agent generation, meta-judge evaluation 
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\NeoLabHQ__sadd\skills\do-competitively\SKILL.md`
+- **do-in-parallel**: Launch multiple sub-agents in parallel to execute tasks across files or targets 
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\NeoLabHQ__sadd\skills\do-in-parallel\SKILL.md`
+- **do-in-steps**: Execute complex tasks through sequential sub-agent orchestration with intelligen
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\NeoLabHQ__sadd\skills\do-in-steps\SKILL.md`
+- **domain-creation**: Guides you through creating a Honeydew domain — a governance object that scopes 
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\honeydew-ai__honeydew-ai-coding-agents-plugins\skills\domain-creation\SKILL.md`
+- **dpia-sentinel-oliver-schmidt-prietz**: |
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\lawvable__awesome-legal-skills\skills\dpia-sentinel-oliver-schmidt-prietz\SKILL.md`
+- **draft-nda**: Draft a detailed Non-Disclosure Agreement between two parties covering informati
+  - `05-Quan-Ly-San-Pham-Pawel-Huryn\pm-toolkit\skills\draft-nda\SKILL.md`
+- **dspy**: Build complex AI systems with declarative programming, optimize prompts automati
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\zechenzhangAGI__AI-research-SKILLs\16-prompt-engineering\dspy\SKILL.md`
+- **dspy**: Build complex AI systems with declarative programming, optimize prompts automati
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\Orchestra-Research__AI-research-SKILLs\16-prompt-engineering\dspy\SKILL.md`
+- **dummy-dataset**: Generate realistic dummy datasets for testing with customizable columns, constra
+  - `05-Quan-Ly-San-Pham-Pawel-Huryn\pm-execution\skills\dummy-dataset\SKILL.md`
+- **dwarf-expert**: Provides expertise for analyzing DWARF debug files and understanding the DWARF d
+  - `10-Bao-Mat-Trail-of-Bits\plugins\dwarf-expert\skills\dwarf-expert\SKILL.md`
+- **edit-article**: Edit and improve articles by restructuring sections, improving clarity, and tigh
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mattpocock__skills\skills\personal\edit-article\SKILL.md`
+- **email-best-practices**: Use when building email features, emails going to spam, high bounce rates, setti
+  - `37-Resend\resend-email-best-practices\SKILL.md`
+- **embodiment-description**: Write detailed embodiment descriptions for patent specifications. Use when user 
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\wanshuiyin__Auto-claude-code-research-in-sleep\skills\embodiment-description\SKILL.md`
+- **embodiment-description**: Write detailed embodiment descriptions for patent specifications. Use when user 
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\wanshuiyin__Auto-claude-code-research-in-sleep\skills\skills-codex\embodiment-description\SKILL.md`
+- **emc**: -
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\aklofas__kicad-happy\skills\emc\SKILL.md`
+- **emergency-card**: 生成紧急情况下快速访问的医疗信息摘要卡片。当用户需要旅行、就诊准备、紧急情况或询问
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\huifer__Claude-Ally-Health\skills\emergency-card\SKILL.md`
+- **entity-creation**: Guides you through defining a new Honeydew entity from a data warehouse source —
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\honeydew-ai__honeydew-ai-coding-agents-plugins\skills\entity-creation\SKILL.md`
+- **entra-agent-id**: |
+  - `02-Microsoft-Azure\microsoft-entra-agent-id\SKILL.md`
+- **epic-hypothesis**: Frame an epic as a testable hypothesis with target user, expected outcome, and v
+  - `04-Quan-Ly-San-Pham-Dean-Peters\skills\epic-hypothesis\SKILL.md`
+- **evaluating-cosmos-policy**: Evaluates NVIDIA Cosmos Policy on LIBERO and RoboCasa simulation environments. U
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\zechenzhangAGI__AI-research-SKILLs\18-multimodal\cosmos-policy\SKILL.md`
+- **evaluating-cosmos-policy**: Evaluates NVIDIA Cosmos Policy on LIBERO and RoboCasa simulation environments. U
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\Orchestra-Research__AI-research-SKILLs\18-multimodal\cosmos-policy\SKILL.md`
+- **evaluation**: This skill should be used when the user asks to
+  - `45-Cong-Dong-Ky-Thuat-Ngu-Canh\muratcankoylan__evaluation\SKILL.md`
+- **evolving-ai-agents**: Provides guidance for automatically evolving and optimizing AI agents across any
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\zechenzhangAGI__AI-research-SKILLs\14-agents\a-evolve\SKILL.md`
+- **evolving-ai-agents**: Provides guidance for automatically evolving and optimizing AI agents across any
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\Orchestra-Research__AI-research-SKILLs\14-agents\a-evolve\SKILL.md`
+- **executing-active-directory-attack-simulation**: Executes authorized attack simulations against Active Directory environments to 
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\executing-active-directory-attack-simulation\SKILL.md`
+- **executing-plans**: Use when you have a written implementation plan to execute in a separate session
+  - `42-Cong-Dong-Nang-Suat-Cong-Tac\obra__executing-plans\SKILL.md`
+- **executing-red-team-engagement-planning**: Red team engagement planning is the foundational phase that defines scope, objec
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\executing-red-team-engagement-planning\SKILL.md`
+- **existing-repo**: Analyze existing repositories, maintain structure, setup guardrails and best pra
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\alinaqi__claude-bootstrap\skills\existing-repo\SKILL.md`
+- **experiment-queue**: SSH job queue for multi-seed/multi-config ML experiments with OOM-aware retry, s
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\wanshuiyin__Auto-claude-code-research-in-sleep\skills\experiment-queue\SKILL.md`
+- **experiment-queue**: SSH job queue for multi-seed/multi-config ML experiments with OOM-aware retry, s
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\wanshuiyin__Auto-claude-code-research-in-sleep\skills\skills-codex\experiment-queue\SKILL.md`
+- **exploiting-active-directory-with-bloodhound**: BloodHound is a graph-based Active Directory reconnaissance tool that uses graph
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\exploiting-active-directory-with-bloodhound\SKILL.md`
+- **exploiting-constrained-delegation-abuse**: Exploit Kerberos Constrained Delegation misconfigurations in Active Directory to
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\exploiting-constrained-delegation-abuse\SKILL.md`
+- **exploiting-kerberoasting-with-impacket**: Perform Kerberoasting attacks using Impacket
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\exploiting-kerberoasting-with-impacket\SKILL.md`
+- **exploiting-oauth-misconfiguration**: Identifying and exploiting OAuth 2.0 and OpenID Connect misconfigurations includ
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\exploiting-oauth-misconfiguration\SKILL.md`
+- **exploratory-data-analysis**: Perform comprehensive exploratory data analysis on scientific data files across 
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\K-Dense-AI__claude-scientific-skills\scientific-skills\exploratory-data-analysis\SKILL.md`
+- **expo-cicd-workflows**: Helps understand and write EAS workflow YAML files for Expo projects. Use this s
+  - `22-Expo\expo-cicd-workflows\SKILL.md`
+- **expo-cicd-workflows**: Helps understand and write EAS workflow YAML files for Expo projects. Use this s
+  - `22-Expo\_repo\plugins\expo\skills\expo-cicd-workflows\SKILL.md`
+- **expo-dev-client**: Build and distribute Expo development clients locally or via TestFlight
+  - `22-Expo\expo-dev-client\SKILL.md`
+- **expo-dev-client**: Build and distribute Expo development clients locally or via TestFlight
+  - `22-Expo\_repo\plugins\expo\skills\expo-dev-client\SKILL.md`
+- **extracting-config-from-agent-tesla-rat**: Extract embedded configuration from Agent Tesla RAT samples including SMTP/FTP/T
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\extracting-config-from-agent-tesla-rat\SKILL.md`
+- **extracting-iocs-from-malware-samples**: Extracts indicators of compromise (IOCs) from malware samples including file has
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\extracting-iocs-from-malware-samples\SKILL.md`
+- **faiss**: Facebook
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\zechenzhangAGI__AI-research-SKILLs\15-rag\faiss\SKILL.md`
+- **faiss**: Facebook
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\Orchestra-Research__AI-research-SKILLs\15-rag\faiss\SKILL.md`
+- **fal-gamedev**: >
+  - `14-fal-ai\skills\fal-gamedev\SKILL.md`
+- **fal-prompting**: >
+  - `14-fal-ai\skills\fal-prompting\SKILL.md`
+- **fal-recipes**: >
+  - `14-fal-ai\skills\fal-recipes\SKILL.md`
+- **fal-regenerate-3d**: Build a fully-interactive 3D character-selector experience powered entirely by f
+  - `14-fal-ai\skills\fal-regenerate-3d\SKILL.md`
+- **fal-workflow**: Author and execute multi-step media pipelines on fal.ai. Two modes: (A) declarat
+  - `14-fal-ai\skills\fal-workflow\SKILL.md`
+- **family-health-analyzer**: 分析家族病史、评估遗传风险、识别家庭健康模式、提供个性化预防建议
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\huifer__Claude-Ally-Health\skills\family-health-analyzer\SKILL.md`
+- **feishu-notify**: Send notifications to Feishu/Lark. Internal utility used by other skills, or man
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\wanshuiyin__Auto-claude-code-research-in-sleep\skills\feishu-notify\SKILL.md`
+- **feishu-notify**: Send notifications to Feishu/Lark. Internal utility used by other skills, or man
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\wanshuiyin__Auto-claude-code-research-in-sleep\skills\skills-codex\feishu-notify\SKILL.md`
+- **ffuf-web-fuzzing**: Expert guidance for ffuf web fuzzing during penetration testing, including authe
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\jthack__ffuf-claude-skill\ffuf-skill\SKILL.md`
+- **figure-description**: Process user-provided patent figures and generate formal drawing descriptions. U
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\wanshuiyin__Auto-claude-code-research-in-sleep\skills\figure-description\SKILL.md`
+- **figure-description**: Process user-provided patent figures and generate formal drawing descriptions. U
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\wanshuiyin__Auto-claude-code-research-in-sleep\skills\skills-codex\figure-description\SKILL.md`
+- **figure-spec**: Generate deterministic publication-quality architecture, workflow, and pipeline 
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\wanshuiyin__Auto-claude-code-research-in-sleep\skills\figure-spec\SKILL.md`
+- **figure-spec**: Generate deterministic publication-quality architecture, workflow, and pipeline 
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\wanshuiyin__Auto-claude-code-research-in-sleep\skills\skills-codex\figure-spec\SKILL.md`
+- **fine-tuning-serving-openpi**: Fine-tune and serve Physical Intelligence OpenPI models (pi0, pi0-fast, pi0.5) u
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\zechenzhangAGI__AI-research-SKILLs\18-multimodal\openpi\SKILL.md`
+- **fine-tuning-serving-openpi**: Fine-tune and serve Physical Intelligence OpenPI models (pi0, pi0-fast, pi0.5) u
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\Orchestra-Research__AI-research-SKILLs\18-multimodal\openpi\SKILL.md`
+- **fine-tuning-with-trl**: Fine-tune LLMs using reinforcement learning with TRL - SFT for instruction tunin
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\zechenzhangAGI__AI-research-SKILLs\06-post-training\trl-fine-tuning\SKILL.md`
+- **fine-tuning-with-trl**: Fine-tune LLMs using reinforcement learning with TRL - SFT for instruction tunin
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\Orchestra-Research__AI-research-SKILLs\06-post-training\trl-fine-tuning\SKILL.md`
+- **finishing-a-development-branch**: Use when implementation is complete, all tests pass, and you need to decide how 
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\obra__finishing-a-development-branch\SKILL.md`
+- **fitness-analyzer**: 分析运动数据、识别运动模式、评估健身进展，并提供个性化训练建议。支持与慢性病数据的关联分析。
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\huifer__Claude-Ally-Health\skills\fitness-analyzer\SKILL.md`
+- **frontend-dev**: |
+  - `23-MiniMax\frontend-dev\SKILL.md`
+- **frontend-dev**: |
+  - `23-MiniMax\_repo\skills\frontend-dev\SKILL.md`
+- **fullstack-dev**: |
+  - `23-MiniMax\fullstack-dev\SKILL.md`
+- **fullstack-dev**: |
+  - `23-MiniMax\_repo\skills\fullstack-dev\SKILL.md`
+- **fuzzing-dictionary**: >
+  - `10-Bao-Mat-Trail-of-Bits\plugins\testing-handbook-skills\skills\fuzzing-dictionary\SKILL.md`
+- **fuzzing-obstacles**: >
+  - `10-Bao-Mat-Trail-of-Bits\plugins\testing-handbook-skills\skills\fuzzing-obstacles\SKILL.md`
+- **gdpr-breach-sentinel-oliver-schmidt-prietz**: |
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\lawvable__awesome-legal-skills\skills\gdpr-breach-sentinel-oliver-schmidt-prietz\SKILL.md`
+- **gdpr-privacy-notice-eu-oliver-schmidt-prietz**: |
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\lawvable__awesome-legal-skills\skills\gdpr-privacy-notice-eu-oliver-schmidt-prietz\SKILL.md`
+- **generate-image**: Generate or edit images using AI models (FLUX, Nano Banana 2). Use for general-p
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\K-Dense-AI__claude-scientific-skills\scientific-skills\generate-image\SKILL.md`
+- **geniml**: This skill should be used when working with genomic interval data (BED files) fo
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\K-Dense-AI__claude-scientific-skills\scientific-skills\geniml\SKILL.md`
+- **genmedia**: >
+  - `14-fal-ai\skills\genmedia\SKILL.md`
+- **genmedia-workflow**: >
+  - `14-fal-ai\skills\genmedia-workflow\SKILL.md`
+- **geomaster**: Comprehensive geospatial science skill covering remote sensing, GIS, spatial ana
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\K-Dense-AI__claude-scientific-skills\scientific-skills\geomaster\SKILL.md`
+- **get-available-resources**: This skill should be used at the start of any computationally intensive scientif
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\K-Dense-AI__claude-scientific-skills\scientific-skills\get-available-resources\SKILL.md`
+- **gh-cli**: Enforces authenticated gh CLI workflows over unauthenticated curl/WebFetch patte
+  - `10-Bao-Mat-Trail-of-Bits\.codex\skills\gh-cli\SKILL.md`
+- **gh-fix-ci**: Use when a user asks to debug or fix failing GitHub PR checks that run in GitHub
+  - `03-OpenAI\openai-gh-fix-ci\SKILL.md`
+- **gif-sticker-maker**: |
+  - `23-MiniMax\gif-sticker-maker\SKILL.md`
+- **gif-sticker-maker**: |
+  - `23-MiniMax\_repo\skills\gif-sticker-maker\SKILL.md`
+- **ginkgo-cloud-lab**: Submit and manage protocols on Ginkgo Bioworks Cloud Lab (cloud.ginkgo.bio), a w
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\K-Dense-AI__claude-scientific-skills\scientific-skills\ginkgo-cloud-lab\SKILL.md`
+- **git-cleanup**: Safely analyzes and cleans up local git branches and worktrees by categorizing t
+  - `10-Bao-Mat-Trail-of-Bits\plugins\git-cleanup\skills\git-cleanup\SKILL.md`
+- **git-commit**: Creates git commits following Conventional Commits format with type/scope/subjec
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\fvadicamo__dev-agent-skills\skills\git-commit\SKILL.md`
+- **github-pr-creation**: Creates GitHub Pull Requests with automated validation and task tracking. Use wh
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\fvadicamo__dev-agent-skills\skills\github-pr-creation\SKILL.md`
+- **github-pr-merge**: Merges GitHub Pull Requests after validating pre-merge checklist. Use when user 
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\fvadicamo__dev-agent-skills\skills\github-pr-merge\SKILL.md`
+- **github-pr-review**: Handles PR review comments and feedback resolution. Use when user wants to resol
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\fvadicamo__dev-agent-skills\skills\github-pr-review\SKILL.md`
+- **glycoengineering**: Analyze and engineer protein glycosylation. Scan sequences for N-glycosylation s
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\K-Dense-AI__claude-scientific-skills\scientific-skills\glycoengineering\SKILL.md`
+- **go-mode**: Autonomous goal execution — give a goal, get a plan, confirm, execute, report. Y
+  - `44-Cong-Dong-Tiep-Thi-Mang-Xa-Hoi\BrianRWagner__ai-marketing-skills\go-mode\SKILL.md`
+- **goal-analyzer**: 分析健康目标数据、识别目标模式、评估目标进度,并提供个性化目标管理建议。支持与营养、运动、睡眠等健康数据的关联分析。
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\huifer__Claude-Ally-Health\skills\goal-analyzer\SKILL.md`
+- **graph-evolution**: >
+  - `10-Bao-Mat-Trail-of-Bits\plugins\trailmark\skills\graph-evolution\SKILL.md`
+- **graphql-operations**: >
+  - `17-Apollo-GraphQL\graphql-operations\SKILL.md`
+- **graphql-operations**: >
+  - `17-Apollo-GraphQL\_repo\skills\graphql-operations\SKILL.md`
+- **graphql-schema**: >
+  - `17-Apollo-GraphQL\graphql-schema\SKILL.md`
+- **graphql-schema**: >
+  - `17-Apollo-GraphQL\_repo\skills\graphql-schema\SKILL.md`
+- **growth-loops**: Identify growth loops (flywheels) for sustainable traction. Evaluates 5 loop typ
+  - `05-Quan-Ly-San-Pham-Pawel-Huryn\pm-go-to-market\skills\growth-loops\SKILL.md`
+- **grpo-rl-training**: Expert guidance for GRPO/RL fine-tuning with TRL for reasoning and task-specific
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\zechenzhangAGI__AI-research-SKILLs\06-post-training\grpo-rl-training\SKILL.md`
+- **grpo-rl-training**: Expert guidance for GRPO/RL fine-tuning with TRL for reasoning and task-specific
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\Orchestra-Research__AI-research-SKILLs\06-post-training\grpo-rl-training\SKILL.md`
+- **gsap-performance**: Official GSAP skill for performance — prefer transforms, avoid layout thrashing,
+  - `27-GSAP-Animation\gsap-performance\skills\gsap-performance\SKILL.md`
+- **gsap-plugins**: Official GSAP skill for GSAP plugins — registration, ScrollToPlugin, ScrollSmoot
+  - `27-GSAP-Animation\gsap-plugins\skills\gsap-plugins\SKILL.md`
+- **gsap-scrolltrigger**: Official GSAP skill for ScrollTrigger — scroll-linked animations, pinning, scrub
+  - `27-GSAP-Animation\gsap-scrolltrigger\skills\gsap-scrolltrigger\SKILL.md`
+- **gsap-timeline**: Official GSAP skill for timelines — gsap.timeline(), position parameter, nesting
+  - `27-GSAP-Animation\gsap-timeline\skills\gsap-timeline\SKILL.md`
+- **gsap-utils**: Official GSAP skill for gsap.utils — clamp, mapRange, normalize, interpolate, ra
+  - `27-GSAP-Animation\gsap-utils\skills\gsap-utils\SKILL.md`
+- **gstack-openclaw-ceo-review**: Use when asked to review a plan, challenge a proposal, run a CEO review, poke ho
+  - `08-Khoi-Nghiep-Garry-Tan\openclaw\skills\gstack-openclaw-ceo-review\SKILL.md`
+- **gtm-motions**: Identify the best GTM motions and tools across 7 motion types: Inbound, Outbound
+  - `05-Quan-Ly-San-Pham-Pawel-Huryn\pm-go-to-market\skills\gtm-motions\SKILL.md`
+- **gws-calendar**: Google Calendar: Manage calendars and events.
+  - `12-Google-Workspace\skills\gws-calendar\SKILL.md`
+- **gws-calendar-agenda**: Google Calendar: Show upcoming events across all calendars.
+  - `12-Google-Workspace\skills\gws-calendar-agenda\SKILL.md`
+- **gws-calendar-insert**: Google Calendar: Create a new event.
+  - `12-Google-Workspace\skills\gws-calendar-insert\SKILL.md`
+- **gws-chat**: Google Chat: Manage Chat spaces and messages.
+  - `12-Google-Workspace\skills\gws-chat\SKILL.md`
+- **gws-chat-send**: Google Chat: Send a message to a space.
+  - `12-Google-Workspace\skills\gws-chat-send\SKILL.md`
+- **gws-classroom**: Google Classroom: Manage classes, rosters, and coursework.
+  - `12-Google-Workspace\skills\gws-classroom\SKILL.md`
+- **gws-drive**: Google Drive: Manage files, folders, and shared drives.
+  - `12-Google-Workspace\skills\gws-drive\SKILL.md`
+- **gws-events**: Subscribe to Google Workspace events.
+  - `12-Google-Workspace\skills\gws-events\SKILL.md`
+- **gws-events-subscribe**: Google Workspace Events: Subscribe to Workspace events and stream them as NDJSON
+  - `12-Google-Workspace\skills\gws-events-subscribe\SKILL.md`
+- **gws-gmail-forward**: Gmail: Forward a message to new recipients.
+  - `12-Google-Workspace\skills\gws-gmail-forward\SKILL.md`
+- **gws-gmail-send**: Gmail: Send an email.
+  - `12-Google-Workspace\skills\gws-gmail-send\SKILL.md`
+- **gws-gmail-watch**: Gmail: Watch for new emails and stream them as NDJSON.
+  - `12-Google-Workspace\skills\gws-gmail-watch\SKILL.md`
+- **gws-keep**: Manage Google Keep notes.
+  - `12-Google-Workspace\skills\gws-keep\SKILL.md`
+- **gws-meet**: Manage Google Meet conferences.
+  - `12-Google-Workspace\skills\gws-meet\SKILL.md`
+- **gws-modelarmor-create-template**: Google Model Armor: Create a new Model Armor template.
+  - `12-Google-Workspace\skills\gws-modelarmor-create-template\SKILL.md`
+- **gws-modelarmor-sanitize-prompt**: Google Model Armor: Sanitize a user prompt through a Model Armor template.
+  - `12-Google-Workspace\skills\gws-modelarmor-sanitize-prompt\SKILL.md`
+- **gws-modelarmor-sanitize-response**: Google Model Armor: Sanitize a model response through a Model Armor template.
+  - `12-Google-Workspace\skills\gws-modelarmor-sanitize-response\SKILL.md`
+- **gws-people**: Google People: Manage contacts and profiles.
+  - `12-Google-Workspace\skills\gws-people\SKILL.md`
+- **gws-script**: Manage Google Apps Script projects.
+  - `12-Google-Workspace\skills\gws-script\SKILL.md`
+- **gws-shared**: gws CLI: Shared patterns for authentication, global flags, and output formatting
+  - `12-Google-Workspace\skills\gws-shared\SKILL.md`
+- **gws-tasks**: Google Tasks: Manage task lists and tasks.
+  - `12-Google-Workspace\skills\gws-tasks\SKILL.md`
+- **gws-workflow-email-to-task**: Google Workflow: Convert a Gmail message into a Google Tasks entry.
+  - `12-Google-Workspace\skills\gws-workflow-email-to-task\SKILL.md`
+- **gws-workflow-file-announce**: Google Workflow: Announce a Drive file in a Chat space.
+  - `12-Google-Workspace\skills\gws-workflow-file-announce\SKILL.md`
+- **gws-workflow-standup-report**: Google Workflow: Today
+  - `12-Google-Workspace\skills\gws-workflow-standup-report\SKILL.md`
+- **gws-workflow-weekly-digest**: Google Workflow: Weekly summary: this week
+  - `12-Google-Workspace\skills\gws-workflow-weekly-digest\SKILL.md`
+- **hand-drawn-diagrams**: Create hand-drawn Excalidraw diagrams, flows, explainers, wireframes, and page m
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\muthuishere__hand-drawn-diagrams\SKILL.md`
+- **hardening-linux-endpoint-with-cis-benchmark**: Hardens Linux endpoints using CIS Benchmark recommendations for Ubuntu, RHEL, an
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\hardening-linux-endpoint-with-cis-benchmark\SKILL.md`
+- **harness-writing**: >
+  - `10-Bao-Mat-Trail-of-Bits\plugins\testing-handbook-skills\skills\harness-writing\SKILL.md`
+- **health-trend-analyzer**: 分析一段时间内健康数据的趋势和模式。关联药物、症状、生命体征、化验结果和其他健康指标的变化。识别令人担忧的趋势、改善情况，并提供数据驱动的洞察。当用户询问健康趋
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\huifer__Claude-Ally-Health\skills\health-trend-analyzer\SKILL.md`
+- **help**: Shows available skills, common workflows, and quick reference for the plugin. Us
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\bitwize-music-studio__claude-ai-music-skills\skills\help\SKILL.md`
+- **hig-components-controls**: -
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\raintree-technology__apple-hig-skills\skills\hig-components-controls\SKILL.md`
+- **hig-components-layout**: -
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\raintree-technology__apple-hig-skills\skills\hig-components-layout\SKILL.md`
+- **hig-components-menus**: -
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\raintree-technology__apple-hig-skills\skills\hig-components-menus\SKILL.md`
+- **hig-components-status**: -
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\raintree-technology__apple-hig-skills\skills\hig-components-status\SKILL.md`
+- **hig-components-system**: -
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\raintree-technology__apple-hig-skills\skills\hig-components-system\SKILL.md`
+- **hig-foundations**: -
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\raintree-technology__apple-hig-skills\skills\hig-foundations\SKILL.md`
+- **hig-inputs**: -
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\raintree-technology__apple-hig-skills\skills\hig-inputs\SKILL.md`
+- **hig-patterns**: -
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\raintree-technology__apple-hig-skills\skills\hig-patterns\SKILL.md`
+- **hig-platforms**: -
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\raintree-technology__apple-hig-skills\skills\hig-platforms\SKILL.md`
+- **hig-project-context**: -
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\raintree-technology__apple-hig-skills\skills\hig-project-context\SKILL.md`
+- **hummingbird**: Expert guidance on Hummingbird 2 web framework. Use when developers mention: (1)
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\Joannis__claude-skills\hummingbird\SKILL.md`
+- **hunting-for-beaconing-with-frequency-analysis**: Identify command-and-control beaconing patterns in network traffic by applying s
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\hunting-for-beaconing-with-frequency-analysis\SKILL.md`
+- **hunting-for-cobalt-strike-beacons**: Detect Cobalt Strike beacon network activity using default TLS certificate signa
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\hunting-for-cobalt-strike-beacons\SKILL.md`
+- **hunting-for-command-and-control-beaconing**: Detect C2 beaconing patterns in network traffic using frequency analysis, jitter
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\hunting-for-command-and-control-beaconing\SKILL.md`
+- **hunting-for-data-exfiltration-indicators**: Hunt for data exfiltration through network traffic analysis, detecting unusual d
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\hunting-for-data-exfiltration-indicators\SKILL.md`
+- **hunting-for-dcom-lateral-movement**: Hunt for DCOM-based lateral movement by detecting abuse of MMC20.Application, Sh
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\hunting-for-dcom-lateral-movement\SKILL.md`
+- **hunting-for-dcsync-attacks**: Detect DCSync attacks by analyzing Windows Event ID 4662 for unauthorized DS-Rep
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\hunting-for-dcsync-attacks\SKILL.md`
+- **hunting-for-defense-evasion-via-timestomping**: Detect NTFS timestamp manipulation (MITRE T1070.006) by comparing $STANDARD_INFO
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\hunting-for-defense-evasion-via-timestomping\SKILL.md`
+- **hunting-for-dns-based-persistence**: Hunt for DNS-based persistence mechanisms including DNS hijacking, dangling CNAM
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\hunting-for-dns-based-persistence\SKILL.md`
+- **hunting-for-lateral-movement-via-wmi**: Detect WMI-based lateral movement by analyzing Windows Event ID 4688 process cre
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\hunting-for-lateral-movement-via-wmi\SKILL.md`
+- **hunting-for-supply-chain-compromise**: Hunt for supply chain compromise indicators including trojanized software update
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\hunting-for-supply-chain-compromise\SKILL.md`
+- **hunting-for-unusual-network-connections**: Hunt for unusual network connections by analyzing outbound traffic patterns, rar
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\hunting-for-unusual-network-connections\SKILL.md`
+- **hypogenic**: Automated LLM-driven hypothesis generation and testing on tabular datasets. Use 
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\K-Dense-AI__claude-scientific-skills\scientific-skills\hypogenic\SKILL.md`
+- **hypothesis-generation**: Structured hypothesis formulation from observations. Use when you have experimen
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\K-Dense-AI__claude-scientific-skills\scientific-skills\hypothesis-generation\SKILL.md`
+- **imagegen**: Generate or edit raster images when the task benefits from AI-created bitmap vis
+  - `03-OpenAI\openai-imagegen\SKILL.md`
+- **imagen**: |
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\sanjay3290__imagen\SKILL.md`
+- **implement-task**: Implement a task with automated LLM-as-Judge verification for critical steps
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\NeoLabHQ__sdd\skills\implement-task\SKILL.md`
+- **implementing-application-whitelisting-with-applocker**: Implements application whitelisting using Windows AppLocker to restrict unauthor
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\implementing-application-whitelisting-with-applocker\SKILL.md`
+- **implementing-attack-surface-management**: Implements external attack surface management (EASM) using Shodan, Censys, and P
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\implementing-attack-surface-management\SKILL.md`
+- **implementing-aws-iam-permission-boundaries**: Configure IAM permission boundaries in AWS to delegate role creation to develope
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\implementing-aws-iam-permission-boundaries\SKILL.md`
+- **implementing-aws-macie-for-data-classification**: Implement Amazon Macie to automatically discover, classify, and protect sensitiv
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\implementing-aws-macie-for-data-classification\SKILL.md`
+- **implementing-beyondcorp-zero-trust-access-model**: Implementing Google
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\implementing-beyondcorp-zero-trust-access-model\SKILL.md`
+- **implementing-cisa-zero-trust-maturity-model**: Implement the CISA Zero Trust Maturity Model v2.0 across the five pillars of ide
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\implementing-cisa-zero-trust-maturity-model\SKILL.md`
+- **implementing-container-image-minimal-base-with-distroless**: Reduce container attack surface by building application images on Google distrol
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\implementing-container-image-minimal-base-with-distroless\SKILL.md`
+- **implementing-container-network-policies-with-calico**: Enforce Kubernetes network segmentation using Calico CNI network policies and gl
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\implementing-container-network-policies-with-calico\SKILL.md`
+- **implementing-delinea-secret-server-for-pam**: Implements Delinea Secret Server for privileged access management (PAM) includin
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\implementing-delinea-secret-server-for-pam\SKILL.md`
+- **implementing-device-posture-assessment-in-zero-trust**: Implementing device posture assessment as a zero trust access control by integra
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\implementing-device-posture-assessment-in-zero-trust\SKILL.md`
+- **implementing-digital-signatures-with-ed25519**: Ed25519 is a high-performance digital signature algorithm using the Edwards curv
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\implementing-digital-signatures-with-ed25519\SKILL.md`
+- **implementing-email-sandboxing-with-proofpoint**: Email sandboxing detonates suspicious attachments and URLs in isolated environme
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\implementing-email-sandboxing-with-proofpoint\SKILL.md`
+- **implementing-endpoint-dlp-controls**: Implements endpoint Data Loss Prevention (DLP) controls to detect and prevent se
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\implementing-endpoint-dlp-controls\SKILL.md`
+- **implementing-envelope-encryption-with-aws-kms**: Envelope encryption is a strategy where data is encrypted with a data encryption
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\implementing-envelope-encryption-with-aws-kms\SKILL.md`
+- **implementing-fuzz-testing-in-cicd-with-aflplusplus**: Integrate AFL++ coverage-guided fuzz testing into CI/CD pipelines to discover me
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\implementing-fuzz-testing-in-cicd-with-aflplusplus\SKILL.md`
+- **implementing-gdpr-data-protection-controls**: The General Data Protection Regulation (EU) 2016/679 (GDPR) is the EU
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\implementing-gdpr-data-protection-controls\SKILL.md`
+- **implementing-gdpr-data-subject-access-request**: Automates GDPR Data Subject Access Request (DSAR) workflows including identity v
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\implementing-gdpr-data-subject-access-request\SKILL.md`
+- **implementing-google-workspace-sso-configuration**: Configure SAML 2.0 single sign-on for Google Workspace with a third-party identi
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\implementing-google-workspace-sso-configuration\SKILL.md`
+- **implementing-hashicorp-vault-dynamic-secrets**: Implements HashiCorp Vault dynamic secrets engines for database credentials, AWS
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\implementing-hashicorp-vault-dynamic-secrets\SKILL.md`
+- **implementing-identity-verification-for-zero-trust**: Implement continuous identity verification for zero trust using phishing-resista
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\implementing-identity-verification-for-zero-trust\SKILL.md`
+- **implementing-image-provenance-verification-with-cosign**: Sign and verify container image provenance using Sigstore Cosign with keyless OI
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\implementing-image-provenance-verification-with-cosign\SKILL.md`
+- **implementing-immutable-backup-with-restic**: Implements immutable backup strategy using restic with S3-compatible storage and
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\implementing-immutable-backup-with-restic\SKILL.md`
+- **implementing-just-in-time-access-provisioning**: Implement Just-In-Time (JIT) access provisioning to eliminate standing privilege
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\implementing-just-in-time-access-provisioning\SKILL.md`
+- **implementing-jwt-signing-and-verification**: JSON Web Tokens (JWT) defined in RFC 7519 are compact, URL-safe tokens used for 
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\implementing-jwt-signing-and-verification\SKILL.md`
+- **implementing-kubernetes-network-policy-with-calico**: Implement Kubernetes network segmentation using Calico NetworkPolicy and GlobalN
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\implementing-kubernetes-network-policy-with-calico\SKILL.md`
+- **implementing-llms-litgpt**: Implements and trains LLMs using Lightning AI
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\zechenzhangAGI__AI-research-SKILLs\01-model-architecture\litgpt\SKILL.md`
+- **implementing-llms-litgpt**: Implements and trains LLMs using Lightning AI
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\Orchestra-Research__AI-research-SKILLs\01-model-architecture\litgpt\SKILL.md`
+- **implementing-microsegmentation-with-guardicore**: Implementing microsegmentation using Akamai Guardicore Segmentation to map appli
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\implementing-microsegmentation-with-guardicore\SKILL.md`
+- **implementing-mitre-attack-coverage-mapping**: Implement MITRE ATT&CK coverage mapping to identify detection gaps, prioritize r
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\implementing-mitre-attack-coverage-mapping\SKILL.md`
+- **implementing-mobile-application-management**: Implements Mobile Application Management (MAM) policies to protect enterprise da
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\implementing-mobile-application-management\SKILL.md`
+- **implementing-nerc-cip-compliance-controls**: This skill covers implementing North American Electric Reliability Corporation C
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\implementing-nerc-cip-compliance-controls\SKILL.md`
+- **implementing-network-policies-for-kubernetes**: Kubernetes NetworkPolicies provide pod-level network segmentation by defining in
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\implementing-network-policies-for-kubernetes\SKILL.md`
+- **implementing-ot-incident-response-playbook**: Develop and implement OT-specific incident response playbooks aligned with SANS 
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\implementing-ot-incident-response-playbook\SKILL.md`
+- **implementing-pci-dss-compliance-controls**: PCI DSS 4.0.1 establishes 12 requirements across 6 control objectives for organi
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\implementing-pci-dss-compliance-controls\SKILL.md`
+- **implementing-purdue-model-network-segmentation**: Implement network segmentation based on the Purdue Enterprise Reference Architec
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\implementing-purdue-model-network-segmentation\SKILL.md`
+- **implementing-ransomware-kill-switch-detection**: Detects and exploits ransomware kill switch mechanisms including mutex-based exe
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\implementing-ransomware-kill-switch-detection\SKILL.md`
+- **implementing-saml-sso-with-okta**: Implement SAML 2.0 Single Sign-On (SSO) using Okta as the Identity Provider (IdP
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\implementing-saml-sso-with-okta\SKILL.md`
+- **implementing-scim-provisioning-with-okta**: Implement automated user provisioning and deprovisioning using SCIM 2.0 protocol
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\implementing-scim-provisioning-with-okta\SKILL.md`
+- **implementing-siem-correlation-rules-for-apt**: Write multi-event correlation rules that detect APT lateral movement by chaining
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\implementing-siem-correlation-rules-for-apt\SKILL.md`
+- **implementing-sigstore-for-software-signing**: Implements Sigstore-based software signing and verification using Cosign keyless
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\implementing-sigstore-for-software-signing\SKILL.md`
+- **implementing-usb-device-control-policy**: Implements USB device control policies to restrict unauthorized removable media 
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\implementing-usb-device-control-policy\SKILL.md`
+- **implementing-zero-trust-for-saas-applications**: Implementing zero trust access controls for SaaS applications using CASB, SSPM, 
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\implementing-zero-trust-for-saas-applications\SKILL.md`
+- **implementing-zero-trust-in-cloud**: This skill guides organizations through implementing zero trust architecture in 
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\implementing-zero-trust-in-cloud\SKILL.md`
+- **implementing-zero-trust-network-access**: Implementing Zero Trust Network Access (ZTNA) in cloud environments by configuri
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\implementing-zero-trust-network-access\SKILL.md`
+- **implementing-zero-trust-with-hashicorp-boundary**: Implement HashiCorp Boundary for identity-aware zero trust infrastructure access
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\implementing-zero-trust-with-hashicorp-boundary\SKILL.md`
+- **in-app-events**: When the user wants to create, plan, or optimize App Store In-App Events — the e
+  - `44-Cong-Dong-Tiep-Thi-Mang-Xa-Hoi\Eronred__aso-skills\skills\in-app-events\SKILL.md`
+- **industrial-brutalist-ui**: Raw mechanical interfaces fusing Swiss typographic print with military terminal 
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\Leonxlnx__taste-skill\skills\brutalist-skill\SKILL.md`
+- **infographics**: Create professional infographics using Nano Banana Pro AI with smart iterative r
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\K-Dense-AI__claude-scientific-skills\scientific-skills\infographics\SKILL.md`
+- **install-duckdb**: >
+  - `35-DuckDB\duckdb-install-duckdb\SKILL.md`
+- **instructor**: Extract structured data from LLM responses with Pydantic validation, retry faile
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\zechenzhangAGI__AI-research-SKILLs\16-prompt-engineering\instructor\SKILL.md`
+- **instructor**: Extract structured data from LLM responses with Pydantic validation, retry faile
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\Orchestra-Research__AI-research-SKILLs\16-prompt-engineering\instructor\SKILL.md`
+- **intercepting-mobile-traffic-with-burpsuite**: Intercepts and analyzes HTTP/HTTPS traffic from mobile applications using Burp S
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\intercepting-mobile-traffic-with-burpsuite\SKILL.md`
+- **internal-comms**: A set of resources to help me write all kinds of internal communications, using 
+  - `01-Claude-Chinh-Thuc\anthropics-internal-comms\SKILL.md`
+- **interpreting-culture-index**: Interprets Culture Index (CI) surveys, behavioral profiles, and personality asse
+  - `10-Bao-Mat-Trail-of-Bits\plugins\culture-index\skills\interpreting-culture-index\SKILL.md`
+- **interview-script**: Create a structured customer interview script with JTBD probing questions, warm-
+  - `05-Quan-Ly-San-Pham-Pawel-Huryn\pm-product-discovery\skills\interview-script\SKILL.md`
+- **invention-structuring**: Structure a raw invention idea into a formal invention disclosure. Use when user
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\wanshuiyin__Auto-claude-code-research-in-sleep\skills\invention-structuring\SKILL.md`
+- **invention-structuring**: Structure a raw invention idea into a formal invention disclosure. Use when user
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\wanshuiyin__Auto-claude-code-research-in-sleep\skills\skills-codex\invention-structuring\SKILL.md`
+- **ios-application-dev**: |
+  - `23-MiniMax\ios-application-dev\SKILL.md`
+- **ios-application-dev**: |
+  - `23-MiniMax\_repo\skills\ios-application-dev\SKILL.md`
+- **job-stories**: Create job stories using the
+  - `05-Quan-Ly-San-Pham-Pawel-Huryn\pm-execution\skills\job-stories\SKILL.md`
+- **jobs-to-be-done**: Uncover customer jobs, pains, and gains in a structured JTBD format. Use when cl
+  - `04-Quan-Ly-San-Pham-Dean-Peters\skills\jobs-to-be-done\SKILL.md`
+- **judge**: Launch a meta-judge then a judge sub-agent to evaluate results produced in the c
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\NeoLabHQ__sadd\skills\judge\SKILL.md`
+- **judge-with-debate**: Evaluate solutions through multi-round debate between independent judges until c
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\NeoLabHQ__sadd\skills\judge-with-debate\SKILL.md`
+- **jupyter-notebook**: Use when the user asks to create, scaffold, or edit Jupyter notebooks (`.ipynb`)
+  - `03-OpenAI\openai-jupyter-notebook\SKILL.md`
+- **jurisdiction-format**: Compile patent application into jurisdiction-specific filing format. Use when us
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\wanshuiyin__Auto-claude-code-research-in-sleep\skills\jurisdiction-format\SKILL.md`
+- **jurisdiction-format**: Compile patent application into jurisdiction-specific filing format. Use when us
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\wanshuiyin__Auto-claude-code-research-in-sleep\skills\skills-codex\jurisdiction-format\SKILL.md`
+- **kreuzberg**: -
+  - `42-Cong-Dong-Nang-Suat-Cong-Tac\kreuzberg-dev__kreuzberg\SKILL.md`
+- **lambda-labs-gpu-cloud**: Reserved and on-demand GPU cloud instances for ML training and inference. Use wh
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\zechenzhangAGI__AI-research-SKILLs\09-infrastructure\lambda-labs\SKILL.md`
+- **lambda-labs-gpu-cloud**: Reserved and on-demand GPU cloud instances for ML training and inference. Use wh
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\Orchestra-Research__AI-research-SKILLs\09-infrastructure\lambda-labs\SKILL.md`
+- **langchain**: Framework for building LLM-powered applications with agents, chains, and RAG. Su
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\zechenzhangAGI__AI-research-SKILLs\14-agents\langchain\SKILL.md`
+- **langchain**: Framework for building LLM-powered applications with agents, chains, and RAG. Su
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\Orchestra-Research__AI-research-SKILLs\14-agents\langchain\SKILL.md`
+- **launch-sub-agent**: Launch an intelligent sub-agent with automatic model selection based on task com
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\NeoLabHQ__sadd\skills\launch-sub-agent\SKILL.md`
+- **legal-risk-assessment-anthropic**: Assess and classify legal risks using a severity-by-likelihood framework with es
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\lawvable__awesome-legal-skills\skills\legal-risk-assessment-anthropic\SKILL.md`
+- **let-fate-decide**: Draws 4 Tarot cards to inject entropy into planning when prompts are vague, ambi
+  - `10-Bao-Mat-Trail-of-Bits\plugins\let-fate-decide\skills\let-fate-decide\SKILL.md`
+- **libafl**: >
+  - `10-Bao-Mat-Trail-of-Bits\plugins\testing-handbook-skills\skills\libafl\SKILL.md`
+- **libfuzzer**: >
+  - `10-Bao-Mat-Trail-of-Bits\plugins\testing-handbook-skills\skills\libfuzzer\SKILL.md`
+- **linear**: Linear CLI for issue tracking and project management. Use when developers mentio
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\Joannis__claude-skills\linear\SKILL.md`
+- **linear-solvers**: >
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\materials-simulation-skills\skills\core-numerical\linear-solvers\SKILL.md`
+- **linkedin-writer**: Creates viral LinkedIn posts using proven formats, post templates, and voice mat
+  - `42-Cong-Dong-Nang-Suat-Cong-Tac\ognjengt__founder-skills\skills\linkedin-writer\SKILL.md`
+- **llamaguard**: Meta
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\zechenzhangAGI__AI-research-SKILLs\07-safety-alignment\llamaguard\SKILL.md`
+- **llamaguard**: Meta
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\Orchestra-Research__AI-research-SKILLs\07-safety-alignment\llamaguard\SKILL.md`
+- **llava**: Large Language and Vision Assistant. Enables visual instruction tuning and image
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\zechenzhangAGI__AI-research-SKILLs\18-multimodal\llava\SKILL.md`
+- **llava**: Large Language and Vision Assistant. Enables visual instruction tuning and image
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\Orchestra-Research__AI-research-SKILLs\18-multimodal\llava\SKILL.md`
+- **llm-patterns**: AI-first application patterns, LLM testing, prompt management
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\alinaqi__claude-bootstrap\skills\llm-patterns\SKILL.md`
+- **long-context**: Extend context windows of transformer models using RoPE, YaRN, ALiBi, and positi
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\zechenzhangAGI__AI-research-SKILLs\19-emerging-techniques\long-context\SKILL.md`
+- **long-context**: Extend context windows of transformer models using RoPE, YaRN, ALiBi, and positi
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\Orchestra-Research__AI-research-SKILLs\19-emerging-techniques\long-context\SKILL.md`
+- **m365-agents-py**: |
+  - `02-Microsoft-Azure\microsoft-m365-agents-py\SKILL.md`
+- **m365-agents-ts**: |
+  - `02-Microsoft-Azure\microsoft-m365-agents-ts\SKILL.md`
+- **maggy**: Maggy is a local AI engineering command center. AI-prioritized inbox across issu
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\alinaqi__claude-bootstrap\skills\maggy\SKILL.md`
+- **mamba-architecture**: State-space model with O(n) complexity vs Transformers
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\zechenzhangAGI__AI-research-SKILLs\01-model-architecture\mamba\SKILL.md`
+- **mamba-architecture**: State-space model with O(n) complexity vs Transformers
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\Orchestra-Research__AI-research-SKILLs\01-model-architecture\mamba\SKILL.md`
+- **managing-cloud-identity-with-okta**: This skill covers implementing Okta as a centralized identity provider for cloud
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\managing-cloud-identity-with-okta\SKILL.md`
+- **matchms**: Spectral similarity and compound identification for metabolomics. Use for compar
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\K-Dense-AI__claude-scientific-skills\scientific-skills\matchms\SKILL.md`
+- **matlab**: MATLAB and GNU Octave numerical computing for matrix operations, data analysis, 
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\K-Dense-AI__claude-scientific-skills\scientific-skills\matlab\SKILL.md`
+- **matplotlib**: Low-level plotting library for full customization. Use when you need fine-graine
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\K-Dense-AI__claude-scientific-skills\scientific-skills\matplotlib\SKILL.md`
+- **mcp-builder**: Guide for creating high-quality MCP (Model Context Protocol) servers that enable
+  - `01-Claude-Chinh-Thuc\anthropics-mcp-builder\SKILL.md`
+- **mcp-builder**: Guide for creating high-quality MCP (Model Context Protocol) servers that enable
+  - `02-Microsoft-Azure\microsoft-mcp-builder\SKILL.md`
+- **mcp-cli**: Use MCP servers on-demand via the mcp CLI tool - discover tools, resources, and 
+  - `42-Cong-Dong-Nang-Suat-Cong-Tac\obra__superpowers-lab\skills\mcp-cli\SKILL.md`
+- **mechanism-builder**: Use when you need to explain why your solution works and others failed. Trigger 
+  - `21-Quang-Cao-Kim-Barrett\mechanism-builder\SKILL.md`
+- **mechanism-builder**: Use when you need to explain why your solution works and others failed. Trigger 
+  - `21-Quang-Cao-Kim-Barrett\_repo\skills\copy-chief\mechanism-builder\SKILL.md`
+- **mediation-dispute-analysis**: Use this skill whenever a lawyer or mediator needs help analyzing a dispute for 
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\lawvable__awesome-legal-skills\skills\mediation-dispute-analysis-jinzhe-tan\SKILL.md`
+- **meeting-briefing-anthropic**: Prepare structured briefings for meetings with legal relevance and track resulti
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\lawvable__awesome-legal-skills\skills\meeting-briefing-anthropic\SKILL.md`
+- **meme-rush**: |
+  - `30-Binance\meme-rush\skills\binance-web3\meme-rush\SKILL.md`
+- **memorize**: Curates insights from reflections and critiques into CLAUDE.md using Agentic Con
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\NeoLabHQ__reflexion\skills\memorize\SKILL.md`
+- **memory-systems**: >
+  - `45-Cong-Dong-Ky-Thuat-Ngu-Canh\muratcankoylan__memory-systems\SKILL.md`
+- **mental-health-analyzer**: 分析心理健康数据、识别心理模式、评估心理健康状况、提供个性化心理健康建议。支持与睡眠、运动、营养等其他健康数据的关联分析。
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\huifer__Claude-Ally-Health\skills\mental-health-analyzer\SKILL.md`
+- **mermaid-diagram**: Generate Mermaid diagrams from user requirements. Saves .mmd and .md files to fi
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\wanshuiyin__Auto-claude-code-research-in-sleep\skills\mermaid-diagram\SKILL.md`
+- **mermaid-diagram**: Generate Mermaid diagrams from user requirements. Save .mmd and .md files to fig
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\wanshuiyin__Auto-claude-code-research-in-sleep\skills\skills-codex\mermaid-diagram\SKILL.md`
+- **mermaid-to-proverif**: Translates Mermaid sequenceDiagrams describing cryptographic protocols into ProV
+  - `10-Bao-Mat-Trail-of-Bits\plugins\trailmark\skills\mermaid-to-proverif\SKILL.md`
+- **mesh-generation**: >
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\materials-simulation-skills\skills\core-numerical\mesh-generation\SKILL.md`
+- **minimalist-ui**: Clean editorial-style interfaces. Warm monochrome palette, typographic contrast,
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\Leonxlnx__taste-skill\skills\minimalist-skill\SKILL.md`
+- **minimax-music-gen**: >
+  - `23-MiniMax\_repo\skills\minimax-music-gen\SKILL.md`
+- **minimax-music-playlist**: >
+  - `23-MiniMax\_repo\skills\minimax-music-playlist\SKILL.md`
+- **ml-training-recipes**: Battle-tested PyTorch training recipes for all domains — LLMs, vision, diffusion
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\zechenzhangAGI__AI-research-SKILLs\10-optimization\ml-training-recipes\SKILL.md`
+- **ml-training-recipes**: Battle-tested PyTorch training recipes for all domains — LLMs, vision, diffusion
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\Orchestra-Research__AI-research-SKILLs\10-optimization\ml-training-recipes\SKILL.md`
+- **mmx-cli**: Use mmx to generate text, images, video, speech, and music via the MiniMax AI pl
+  - `23-MiniMax\cli\SKILL.md`
+- **mmx-cli**: Use mmx to generate text, images, video, speech, and music via the MiniMax AI pl
+  - `23-MiniMax\_repo\skills\minimax-multimodal-toolkit\SKILL.md`
+- **model-exploration**: Use when exploring Honeydew semantic layer, discovering entities/fields, setting
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\honeydew-ai__honeydew-ai-coding-agents-plugins\skills\model-exploration\SKILL.md`
+- **model-hierarchy**: >
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\zscole__model-hierarchy-skill\SKILL.md`
+- **model-merging**: Merge multiple fine-tuned models using mergekit to combine capabilities without 
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\zechenzhangAGI__AI-research-SKILLs\19-emerging-techniques\model-merging\SKILL.md`
+- **model-merging**: Merge multiple fine-tuned models using mergekit to combine capabilities without 
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\Orchestra-Research__AI-research-SKILLs\19-emerging-techniques\model-merging\SKILL.md`
+- **model-pruning**: Reduce LLM size and accelerate inference using pruning techniques like Wanda and
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\zechenzhangAGI__AI-research-SKILLs\19-emerging-techniques\model-pruning\SKILL.md`
+- **model-pruning**: Reduce LLM size and accelerate inference using pruning techniques like Wanda and
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\Orchestra-Research__AI-research-SKILLs\19-emerging-techniques\model-pruning\SKILL.md`
+- **model-routing**: >
+  - `14-fal-ai\skills\model-routing\SKILL.md`
+- **molecular-dynamics**: Run and analyze molecular dynamics simulations with OpenMM and MDAnalysis. Set u
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\K-Dense-AI__claude-scientific-skills\scientific-skills\molecular-dynamics\SKILL.md`
+- **molfeat**: Molecular featurization for ML (100+ featurizers). ECFP, MACCS, descriptors, pre
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\K-Dense-AI__claude-scientific-skills\scientific-skills\molfeat\SKILL.md`
+- **monetization-strategy**: Brainstorm 3-5 monetization strategies with audience fit, risks, and validation 
+  - `05-Quan-Ly-San-Pham-Pawel-Huryn\pm-product-strategy\skills\monetization-strategy\SKILL.md`
+- **mongodb-connection**: Optimize MongoDB client connection configuration (pools, timeouts, patterns) for
+  - `31-MongoDB\mongodb-connection\skills\mongodb-connection\SKILL.md`
+- **mongodb-mcp-setup**: Guide users through configuring key MongoDB MCP server options. Use this skill w
+  - `31-MongoDB\mongodb-mcp-setup\skills\mongodb-mcp-setup\SKILL.md`
+- **mongodb-query-optimizer**: -
+  - `31-MongoDB\mongodb-query-optimizer\skills\mongodb-query-optimizer\SKILL.md`
+- **moyu**: >
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\uucz__moyu\skills\moyu\SKILL.md`
+- **moyu**: >
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\uucz__moyu\opencode\moyu\SKILL.md`
+- **moyu**: >
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\uucz__moyu\codex\moyu\SKILL.md`
+- **moyu**: >
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\uucz__moyu\codebuddy\moyu\SKILL.md`
+- **moyu**: >
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\uucz__moyu\antigravity\moyu\SKILL.md`
+- **moyu-en**: >
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\uucz__moyu\skills\moyu-en\SKILL.md`
+- **moyu-en**: >
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\uucz__moyu\opencode\moyu-en\SKILL.md`
+- **moyu-en**: >
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\uucz__moyu\codex\moyu-en\SKILL.md`
+- **moyu-en**: >
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\uucz__moyu\codebuddy\moyu-en\SKILL.md`
+- **moyu-en**: >
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\uucz__moyu\antigravity\moyu-en\SKILL.md`
+- **moyu-fr**: >
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\uucz__moyu\skills\moyu-fr\SKILL.md`
+- **moyu-ja**: >
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\uucz__moyu\skills\moyu-ja\SKILL.md`
+- **moyu-ko**: >
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\uucz__moyu\skills\moyu-ko\SKILL.md`
+- **moyu-lite**: >
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\uucz__moyu\skills\moyu-lite\SKILL.md`
+- **moyu-strict**: >
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\uucz__moyu\skills\moyu-strict\SKILL.md`
+- **multi-agent-patterns**: This skill should be used when the user asks to
+  - `45-Cong-Dong-Ky-Thuat-Ngu-Canh\muratcankoylan__multi-agent-patterns\SKILL.md`
+- **nanobanana**: Generate and edit images using Google Gemini 3 Pro Image (Nano Banana Pro). Supp
+  - `42-Cong-Dong-Nang-Suat-Cong-Tac\ReScienceLab__opc-skills\skills\nanobanana\SKILL.md`
+- **nda-review-jamie-tso**: Guide to review incoming one-way (unilateral) commercial NDAs in a jurisdiction-
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\lawvable__awesome-legal-skills\skills\nda-review-jamie-tso\SKILL.md`
+- **nda-triage-anthropic**: Screen incoming NDAs and classify them as GREEN (standard), YELLOW (needs review
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\lawvable__awesome-legal-skills\skills\nda-triage-anthropic\SKILL.md`
+- **nemo-curator**: GPU-accelerated data curation for LLM training. Supports text/image/video/audio.
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\zechenzhangAGI__AI-research-SKILLs\05-data-processing\nemo-curator\SKILL.md`
+- **nemo-curator**: GPU-accelerated data curation for LLM training. Supports text/image/video/audio.
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\Orchestra-Research__AI-research-SKILLs\05-data-processing\nemo-curator\SKILL.md`
+- **nemo-guardrails**: NVIDIA
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\zechenzhangAGI__AI-research-SKILLs\07-safety-alignment\nemo-guardrails\SKILL.md`
+- **nemo-guardrails**: NVIDIA
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\Orchestra-Research__AI-research-SKILLs\07-safety-alignment\nemo-guardrails\SKILL.md`
+- **neon-postgres-egress-optimizer**: -
+  - `01-Claude-Chinh-Thuc\neondatabase-neon-postgres-egress-optimizer\SKILL.md`
+- **new-terraform-provider**: Use this when scaffolding a new Terraform provider.
+  - `01-Claude-Chinh-Thuc\hashicorp-new-terraform-provider\SKILL.md`
+- **new-terraform-provider**: Use this when scaffolding a new Terraform provider.
+  - `01-Claude-Chinh-Thuc\hashicorp-terraform-test\skills\new-terraform-provider\SKILL.md`
+- **new-terraform-provider**: Use this when scaffolding a new Terraform provider.
+  - `01-Claude-Chinh-Thuc\hashicorp-run-acceptance-tests\skills\new-terraform-provider\SKILL.md`
+- **new-terraform-provider**: Use this when scaffolding a new Terraform provider.
+  - `01-Claude-Chinh-Thuc\hashicorp-provider-test-patterns\skills\new-terraform-provider\SKILL.md`
+- **new-terraform-provider**: Use this when scaffolding a new Terraform provider.
+  - `01-Claude-Chinh-Thuc\hashicorp-provider-resources\skills\new-terraform-provider\SKILL.md`
+- **new-terraform-provider**: Use this when scaffolding a new Terraform provider.
+  - `01-Claude-Chinh-Thuc\hashicorp-provider-actions\skills\new-terraform-provider\SKILL.md`
+- **new-terraform-provider**: Use this when scaffolding a new Terraform provider.
+  - `01-Claude-Chinh-Thuc\hashicorp-new-terraform-provider\skills\new-terraform-provider\SKILL.md`
+- **next-cache-components**: Next.js 16 Cache Components - PPR, use cache directive, cacheLife, cacheTag, upd
+  - `32-Vercel-Nextjs\vercel-labs-next-cache-components\SKILL.md`
+- **nil-contract-analysis-samir-patel**: NIL (Name, Image, and Likeness) contract analysis for NCAA student-athletes from
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\lawvable__awesome-legal-skills\skills\nil-contract-analysis-samir-patel\SKILL.md`
+- **nnsight-remote-interpretability**: Provides guidance for interpreting and manipulating neural network internals usi
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\zechenzhangAGI__AI-research-SKILLs\04-mechanistic-interpretability\nnsight\SKILL.md`
+- **nnsight-remote-interpretability**: Provides guidance for interpreting and manipulating neural network internals usi
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\Orchestra-Research__AI-research-SKILLs\04-mechanistic-interpretability\nnsight\SKILL.md`
+- **nonlinear-solvers**: >
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\materials-simulation-skills\skills\core-numerical\nonlinear-solvers\SKILL.md`
+- **notification-licenciement-selim-brihi**: Guide pour la rédaction de notifications de licenciement conformes au droit du t
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\lawvable__awesome-legal-skills\skills\notification-licenciement-selim-brihi\SKILL.md`
+- **numerical-integration**: >
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\materials-simulation-skills\skills\core-numerical\numerical-integration\SKILL.md`
+- **numerical-stability**: >
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\materials-simulation-skills\skills\core-numerical\numerical-stability\SKILL.md`
+- **nutrition-analyzer**: 分析营养数据、识别营养模式、评估营养状况，并提供个性化营养建议。支持与运动、睡眠、慢性病数据的关联分析。
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\huifer__Claude-Ally-Health\skills\nutrition-analyzer\SKILL.md`
+- **objection-crusher**: Identify and neutralize buyer objections. Trigger on
+  - `21-Quang-Cao-Kim-Barrett\objection-crusher\SKILL.md`
+- **objection-crusher**: Identify and neutralize buyer objections. Trigger on
+  - `21-Quang-Cao-Kim-Barrett\_repo\skills\copy-chief\objection-crusher\SKILL.md`
+- **occupational-health-analyzer**: 分析职业健康数据、识别工作相关健康风险、评估职业健康状况、提供个性化职业健康建议。支持与睡眠、运动、心理健康等其他健康数据的关联分析。
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\huifer__Claude-Ally-Health\skills\occupational-health-analyzer\SKILL.md`
+- **onboarding-cro**: When the user wants to optimize post-signup onboarding, user activation, first-r
+  - `06-Tiep-Thi-Corey-Haines\skills\onboarding-cro\SKILL.md`
+- **onboarding-optimization**: When the user wants to improve their app
+  - `44-Cong-Dong-Tiep-Thi-Mang-Xa-Hoi\Eronred__aso-skills\skills\onboarding-optimization\SKILL.md`
+- **onboarding-summary**: Generate a live Single Step Instrumentation (SSI) onboarding confirmation report
+  - `28-Datadog\dd-apm\dd-apm\k8s-ssi\onboarding-summary\SKILL.md`
+- **openrlhf-training**: High-performance RLHF framework with Ray+vLLM acceleration. Use for PPO, GRPO, R
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\zechenzhangAGI__AI-research-SKILLs\06-post-training\openrlhf\SKILL.md`
+- **openrlhf-training**: High-performance RLHF framework with Ray+vLLM acceleration. Use for PPO, GRPO, R
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\Orchestra-Research__AI-research-SKILLs\06-post-training\openrlhf\SKILL.md`
+- **opportunity-solution-tree**: Build an Opportunity Solution Tree from outcomes to opportunities, solutions, an
+  - `04-Quan-Ly-San-Pham-Dean-Peters\skills\opportunity-solution-tree\SKILL.md`
+- **optimizing-attention-flash**: Optimizes transformer attention with Flash Attention for 2-4x speedup and 10-20x
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\zechenzhangAGI__AI-research-SKILLs\10-optimization\flash-attention\SKILL.md`
+- **optimizing-attention-flash**: Optimizes transformer attention with Flash Attention for 2-4x speedup and 10-20x
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\Orchestra-Research__AI-research-SKILLs\10-optimization\flash-attention\SKILL.md`
+- **oral-health-analyzer**: 分析口腔健康数据、识别口腔问题模式、评估口腔健康状况、提供个性化口腔健康建议。支持与营养、慢性病、用药等其他健康数据的关联分析。
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\huifer__Claude-Ally-Health\skills\oral-health-analyzer\SKILL.md`
+- **organization-best-practices**: Configure multi-tenant organizations, manage members and invitations, define cus
+  - `01-Claude-Chinh-Thuc\better-auth-organization\SKILL.md`
+- **ossfuzz**: >
+  - `10-Bao-Mat-Trail-of-Bits\plugins\testing-handbook-skills\skills\ossfuzz\SKILL.md`
+- **outreach-specialist**: Crafts high-converting outreach messages and email sequences for cold outreach, 
+  - `42-Cong-Dong-Nang-Suat-Cong-Tac\ognjengt__founder-skills\skills\outreach-specialist\SKILL.md`
+- **overleaf-sync**: Two-way sync between a local paper directory and an Overleaf project via the Ove
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\wanshuiyin__Auto-claude-code-research-in-sleep\skills\overleaf-sync\SKILL.md`
+- **overleaf-sync**: Two-way sync between a local paper directory and an Overleaf project via the Ove
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\wanshuiyin__Auto-claude-code-research-in-sleep\skills\skills-codex\overleaf-sync\SKILL.md`
+- **paper-figure**: Generate publication-quality figures and tables from experiment results. Use whe
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\wanshuiyin__Auto-claude-code-research-in-sleep\skills\paper-figure\SKILL.md`
+- **paper-figure**: Generate publication-quality figures and tables from experiment results. Use whe
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\wanshuiyin__Auto-claude-code-research-in-sleep\skills\skills-codex-gemini-review\paper-figure\SKILL.md`
+- **paper-figure**: Generate publication-quality figures and tables from experiment results. Use whe
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\wanshuiyin__Auto-claude-code-research-in-sleep\skills\skills-codex-claude-review\paper-figure\SKILL.md`
+- **paper-figure**: Generate publication-quality figures and tables from experiment results. Use whe
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\wanshuiyin__Auto-claude-code-research-in-sleep\skills\skills-codex\paper-figure\SKILL.md`
+- **paper-plan**: Generate a structured paper outline from review conclusions and experiment resul
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\wanshuiyin__Auto-claude-code-research-in-sleep\skills\paper-plan\SKILL.md`
+- **paper-plan**: Generate a structured paper outline from review conclusions and experiment resul
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\wanshuiyin__Auto-claude-code-research-in-sleep\skills\skills-codex-gemini-review\paper-plan\SKILL.md`
+- **paper-plan**: Generate a structured paper outline from review conclusions and experiment resul
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\wanshuiyin__Auto-claude-code-research-in-sleep\skills\skills-codex-claude-review\paper-plan\SKILL.md`
+- **paper-plan**: Generate a structured paper outline from review conclusions and experiment resul
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\wanshuiyin__Auto-claude-code-research-in-sleep\skills\skills-codex\paper-plan\SKILL.md`
+- **paper-write**: Draft LaTeX paper section by section from an outline. Use when user says \
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\wanshuiyin__Auto-claude-code-research-in-sleep\skills\paper-write\SKILL.md`
+- **paper-write**: Draft LaTeX paper section by section from an outline. Use when user says \
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\wanshuiyin__Auto-claude-code-research-in-sleep\skills\skills-codex-gemini-review\paper-write\SKILL.md`
+- **paper-write**: Draft LaTeX paper section by section from an outline. Use when user says \
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\wanshuiyin__Auto-claude-code-research-in-sleep\skills\skills-codex-claude-review\paper-write\SKILL.md`
+- **paper-write**: Draft LaTeX paper section by section from an outline. Use when user says \\\
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\wanshuiyin__Auto-claude-code-research-in-sleep\skills\skills-codex\paper-write\SKILL.md`
+- **paper-writing**: Workflow 3: Full paper writing pipeline. Orchestrates paper-plan → paper-figure 
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\wanshuiyin__Auto-claude-code-research-in-sleep\skills\paper-writing\SKILL.md`
+- **paper-writing**: Workflow 3: Full paper writing pipeline. Orchestrates paper-plan \u2192 paper-fi
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\wanshuiyin__Auto-claude-code-research-in-sleep\skills\skills-codex-gemini-review\paper-writing\SKILL.md`
+- **paper-writing**: Workflow 3: Full paper writing pipeline. Orchestrates paper-plan → paper-figure 
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\wanshuiyin__Auto-claude-code-research-in-sleep\skills\skills-codex\paper-writing\SKILL.md`
+- **paperzilla**: Chat with your agent about projects, recommendations, and canonical papers in Pa
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\K-Dense-AI__claude-scientific-skills\scientific-skills\paperzilla\SKILL.md`
+- **parameter-optimization**: >
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\materials-simulation-skills\skills\simulation-workflow\parameter-optimization\SKILL.md`
+- **patent-novelty-check**: Assess patent novelty and non-obviousness against prior art. Use when user says 
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\wanshuiyin__Auto-claude-code-research-in-sleep\skills\patent-novelty-check\SKILL.md`
+- **patent-novelty-check**: Assess patent novelty and non-obviousness against prior art. Use when user says 
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\wanshuiyin__Auto-claude-code-research-in-sleep\skills\skills-codex\patent-novelty-check\SKILL.md`
+- **patent-review**: Get an external patent examiner review of a patent application. Use when user sa
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\wanshuiyin__Auto-claude-code-research-in-sleep\skills\patent-review\SKILL.md`
+- **patent-review**: Get an external patent examiner review of a patent application. Use when user sa
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\wanshuiyin__Auto-claude-code-research-in-sleep\skills\skills-codex\patent-review\SKILL.md`
+- **peer-review**: Structured manuscript/grant review with checklist-based evaluation. Use when wri
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\K-Dense-AI__claude-scientific-skills\scientific-skills\peer-review\SKILL.md`
+- **peft-fine-tuning**: Parameter-efficient fine-tuning for LLMs using LoRA, QLoRA, and 25+ methods. Use
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\zechenzhangAGI__AI-research-SKILLs\03-fine-tuning\peft\SKILL.md`
+- **peft-fine-tuning**: Parameter-efficient fine-tuning for LLMs using LoRA, QLoRA, and 25+ methods. Use
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\Orchestra-Research__AI-research-SKILLs\03-fine-tuning\peft\SKILL.md`
+- **performance-profiling**: >
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\materials-simulation-skills\skills\simulation-workflow\performance-profiling\SKILL.md`
+- **performing-access-review-and-certification**: Conduct systematic access reviews and certifications to ensure users have approp
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-access-review-and-certification\SKILL.md`
+- **performing-active-directory-bloodhound-analysis**: Use BloodHound and SharpHound to enumerate Active Directory relationships and id
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-active-directory-bloodhound-analysis\SKILL.md`
+- **performing-active-directory-penetration-test**: Conduct a focused Active Directory penetration test to enumerate domain objects,
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-active-directory-penetration-test\SKILL.md`
+- **performing-ai-driven-osint-correlation**: Use AI and LLM-based reasoning to correlate findings across multiple OSINT sourc
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-ai-driven-osint-correlation\SKILL.md`
+- **performing-arp-spoofing-attack-simulation**: Simulates ARP spoofing attacks in authorized lab or pentest environments using a
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-arp-spoofing-attack-simulation\SKILL.md`
+- **performing-aws-privilege-escalation-assessment**: Performing authorized privilege escalation assessments in AWS environments to id
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-aws-privilege-escalation-assessment\SKILL.md`
+- **performing-cloud-penetration-testing-with-pacu**: Performing authorized AWS penetration testing using Pacu, the open-source AWS ex
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-cloud-penetration-testing-with-pacu\SKILL.md`
+- **performing-cloud-storage-forensic-acquisition**: Perform forensic acquisition and analysis of cloud storage services including Go
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-cloud-storage-forensic-acquisition\SKILL.md`
+- **performing-container-escape-detection**: Detects container escape attempts by analyzing namespace configurations, privile
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-container-escape-detection\SKILL.md`
+- **performing-container-image-hardening**: This skill covers hardening container images by minimizing attack surface, remov
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-container-image-hardening\SKILL.md`
+- **performing-disk-forensics-investigation**: Conducts disk forensics investigations using forensic imaging, file system analy
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-disk-forensics-investigation\SKILL.md`
+- **performing-dns-enumeration-and-zone-transfer**: Enumerates DNS records, attempts zone transfers, brute-forces subdomains, and ma
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-dns-enumeration-and-zone-transfer\SKILL.md`
+- **performing-dns-tunneling-detection**: Detects DNS tunneling by computing Shannon entropy of DNS query names, analyzing
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-dns-tunneling-detection\SKILL.md`
+- **performing-dynamic-analysis-of-android-app**: Performs runtime dynamic analysis of Android applications using Frida, Objection
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-dynamic-analysis-of-android-app\SKILL.md`
+- **performing-dynamic-analysis-with-any-run**: Performs interactive dynamic malware analysis using the ANY.RUN cloud sandbox to
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-dynamic-analysis-with-any-run\SKILL.md`
+- **performing-endpoint-forensics-investigation**: Performs digital forensics investigation on compromised endpoints including memo
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-endpoint-forensics-investigation\SKILL.md`
+- **performing-file-carving-with-foremost**: Recover files from disk images and unallocated space using Foremost
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-file-carving-with-foremost\SKILL.md`
+- **performing-firmware-extraction-with-binwalk**: Performs firmware image extraction and analysis using binwalk to identify embedd
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-firmware-extraction-with-binwalk\SKILL.md`
+- **performing-firmware-malware-analysis**: Analyzes firmware images for embedded malware, backdoors, and unauthorized modif
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-firmware-malware-analysis\SKILL.md`
+- **performing-fuzzing-with-aflplusplus**: Perform coverage-guided fuzzing of compiled binaries using AFL++ (American Fuzzy
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-fuzzing-with-aflplusplus\SKILL.md`
+- **performing-graphql-depth-limit-attack**: Execute and test GraphQL depth limit attacks using deeply nested recursive queri
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-graphql-depth-limit-attack\SKILL.md`
+- **performing-ioc-enrichment-automation**: Automates Indicator of Compromise (IOC) enrichment by orchestrating lookups acro
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-ioc-enrichment-automation\SKILL.md`
+- **performing-kerberoasting-attack**: Kerberoasting is a post-exploitation technique that targets service accounts in 
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-kerberoasting-attack\SKILL.md`
+- **performing-lateral-movement-detection**: Detects lateral movement techniques including Pass-the-Hash, PsExec, WMI executi
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-lateral-movement-detection\SKILL.md`
+- **performing-lateral-movement-with-wmiexec**: Perform lateral movement across Windows networks using WMI-based remote executio
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-lateral-movement-with-wmiexec\SKILL.md`
+- **performing-malware-ioc-extraction**: Malware IOC extraction is the process of analyzing malicious software to identif
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-malware-ioc-extraction\SKILL.md`
+- **performing-malware-persistence-investigation**: Systematically investigate all persistence mechanisms on Windows and Linux syste
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-malware-persistence-investigation\SKILL.md`
+- **performing-mobile-app-certificate-pinning-bypass**: Bypasses SSL/TLS certificate pinning implementations in Android and iOS applicat
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-mobile-app-certificate-pinning-bypass\SKILL.md`
+- **performing-mobile-device-forensics-with-cellebrite**: Acquire and analyze mobile device data using Cellebrite UFED and open-source too
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-mobile-device-forensics-with-cellebrite\SKILL.md`
+- **performing-network-forensics-with-wireshark**: Capture and analyze network traffic using Wireshark and tshark to reconstruct ne
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-network-forensics-with-wireshark\SKILL.md`
+- **performing-network-packet-capture-analysis**: Perform forensic analysis of network packet captures (PCAP/PCAPNG) using Wiresha
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-network-packet-capture-analysis\SKILL.md`
+- **performing-network-traffic-analysis-with-tshark**: Automate network traffic analysis using tshark and pyshark for protocol statisti
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-network-traffic-analysis-with-tshark\SKILL.md`
+- **performing-nist-csf-maturity-assessment**: -
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-nist-csf-maturity-assessment\SKILL.md`
+- **performing-oauth-scope-minimization-review**: Performs OAuth 2.0 scope minimization review to identify over-permissioned third
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-oauth-scope-minimization-review\SKILL.md`
+- **performing-open-source-intelligence-gathering**: Open Source Intelligence (OSINT) gathering is the first active phase of a red te
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-open-source-intelligence-gathering\SKILL.md`
+- **performing-privacy-impact-assessment**: Automates the Privacy Impact Assessment (PIA) workflow including data flow mappi
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-privacy-impact-assessment\SKILL.md`
+- **performing-privilege-escalation-assessment**: Performs privilege escalation assessments on compromised Linux and Windows syste
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-privilege-escalation-assessment\SKILL.md`
+- **performing-privilege-escalation-on-linux**: Linux privilege escalation involves elevating from a low-privilege user account 
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-privilege-escalation-on-linux\SKILL.md`
+- **performing-privileged-account-access-review**: Conduct systematic reviews of privileged accounts to validate access rights, ide
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-privileged-account-access-review\SKILL.md`
+- **performing-purple-team-atomic-testing**: Executes Atomic Red Team tests mapped to MITRE ATT&CK techniques, performs cover
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-purple-team-atomic-testing\SKILL.md`
+- **performing-ransomware-response**: Executes a structured ransomware incident response from initial detection throug
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-ransomware-response\SKILL.md`
+- **performing-service-account-credential-rotation**: Automate credential rotation for service accounts across Active Directory, cloud
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-service-account-credential-rotation\SKILL.md`
+- **performing-ssl-stripping-attack**: Simulates SSL stripping attacks using sslstrip, Bettercap, and mitmproxy in auth
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-ssl-stripping-attack\SKILL.md`
+- **performing-static-malware-analysis-with-pe-studio**: Performs static analysis of Windows PE (Portable Executable) malware samples usi
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-static-malware-analysis-with-pe-studio\SKILL.md`
+- **performing-steganography-detection**: Detect and extract hidden data embedded in images, audio, and other media files 
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-steganography-detection\SKILL.md`
+- **performing-subdomain-enumeration-with-subfinder**: Enumerate subdomains of target domains using ProjectDiscovery
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-subdomain-enumeration-with-subfinder\SKILL.md`
+- **performing-supply-chain-attack-simulation**: Simulate and detect software supply chain attacks including typosquatting detect
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-supply-chain-attack-simulation\SKILL.md`
+- **performing-user-behavior-analytics**: Performs User and Entity Behavior Analytics (UEBA) to detect anomalous user acti
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-user-behavior-analytics\SKILL.md`
+- **performing-vlan-hopping-attack**: Simulates VLAN hopping attacks using switch spoofing and double tagging techniqu
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-vlan-hopping-attack\SKILL.md`
+- **performing-web-application-firewall-bypass**: Bypass Web Application Firewall protections using encoding techniques, HTTP meth
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-web-application-firewall-bypass\SKILL.md`
+- **performing-web-application-scanning-with-nikto**: Nikto is an open-source web server and web application scanner that tests agains
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-web-application-scanning-with-nikto\SKILL.md`
+- **performing-web-cache-deception-attack**: Execute web cache deception attacks by exploiting path normalization discrepanci
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-web-cache-deception-attack\SKILL.md`
+- **performing-windows-artifact-analysis-with-eric-zimmerman-tools**: Perform comprehensive Windows forensic artifact analysis using Eric Zimmerman
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-windows-artifact-analysis-with-eric-zimmerman-tools\SKILL.md`
+- **performing-yara-rule-development-for-detection**: Develop precise YARA rules for malware detection by identifying unique byte patt
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-yara-rule-development-for-detection\SKILL.md`
+- **persona-customer-support**: Manage customer support — track tickets, respond, escalate issues.
+  - `12-Google-Workspace\skills\persona-customer-support\SKILL.md`
+- **persona-exec-assistant**: Manage an executive
+  - `12-Google-Workspace\skills\persona-exec-assistant\SKILL.md`
+- **persona-hr-coordinator**: Handle HR workflows — onboarding, announcements, and employee comms.
+  - `12-Google-Workspace\skills\persona-hr-coordinator\SKILL.md`
+- **persona-sales-ops**: Manage sales workflows — track deals, schedule calls, client comms.
+  - `12-Google-Workspace\skills\persona-sales-ops\SKILL.md`
+- **plan-do-check-act**: Iterative PDCA cycle for systematic experimentation and continuous improvement
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\NeoLabHQ__kaizen\skills\plan-do-check-act\SKILL.md`
+- **playwright**: Use when the task requires automating a real browser from the terminal (navigati
+  - `03-OpenAI\openai-playwright\SKILL.md`
+- **playwright-cli**: Automates browser interactions for testing and validating your own web applicati
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\testdino-hq__playwright-skill\playwright-cli\SKILL.md`
+- **playwright-interactive**: Persistent browser and Electron interaction through `js_repl` for fast iterative
+  - `03-OpenAI\openai-playwright-interactive\SKILL.md`
+- **playwright-migration**: Step-by-step migration guides for moving to Playwright from Cypress or Selenium/
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\testdino-hq__playwright-skill\migration\SKILL.md`
+- **playwright-pom**: Page Object Model patterns for Playwright — when to use POM, how to structure pa
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\testdino-hq__playwright-skill\pom\SKILL.md`
+- **playwright-skill**: Battle-tested Playwright patterns for writing, debugging, and scaling reliable t
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\testdino-hq__playwright-skill\SKILL.md`
+- **playwright-skill**: Complete browser automation with Playwright. Auto-detects dev servers, writes cl
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\lackeyjb__playwright-skill\skills\playwright-skill\SKILL.md`
+- **playwright-testing**: E2E testing with Playwright - Page Objects, cross-browser, CI/CD
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\alinaqi__claude-bootstrap\skills\playwright-testing\SKILL.md`
+- **pol-probe**: Define a Proof of Life probe to test a risky hypothesis cheaply. Use when you ne
+  - `04-Quan-Ly-San-Pham-Dean-Peters\skills\pol-probe\SKILL.md`
+- **polars**: Fast in-memory DataFrame library for datasets that fit in RAM. Use when pandas i
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\K-Dense-AI__claude-scientific-skills\scientific-skills\polars\SKILL.md`
+- **polars-bio**: High-performance genomic interval operations and bioinformatics file I/O on Pola
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\K-Dense-AI__claude-scientific-skills\scientific-skills\polars-bio\SKILL.md`
+- **porters-five-forces**: Perform Porter
+  - `05-Quan-Ly-San-Pham-Pawel-Huryn\pm-product-strategy\skills\porters-five-forces\SKILL.md`
+- **positioning-statement**: Create a Geoffrey Moore-style positioning statement. Use when clarifying who you
+  - `04-Quan-Ly-San-Pham-Dean-Peters\skills\positioning-statement\SKILL.md`
+- **positioning-workshop**: Run a positioning workshop that surfaces target customer, unmet need, category, 
+  - `04-Quan-Ly-San-Pham-Dean-Peters\skills\positioning-workshop\SKILL.md`
+- **post-processing**: >
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\materials-simulation-skills\skills\simulation-workflow\post-processing\SKILL.md`
+- **posthog-analytics**: PostHog analytics, event tracking, feature flags, dashboards
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\alinaqi__claude-bootstrap\skills\posthog-analytics\SKILL.md`
+- **pr-review**: >
+  - `23-MiniMax\_repo\.claude\skills\pr-review\SKILL.md`
+- **prd-development**: Build a structured PRD that connects problem, users, solution, and success crite
+  - `04-Quan-Ly-San-Pham-Dean-Peters\skills\prd-development\SKILL.md`
+- **pre-mortem**: Run a pre-mortem risk analysis on a PRD or launch plan. Categorizes risks as Tig
+  - `05-Quan-Ly-San-Pham-Pawel-Huryn\pm-execution\skills\pre-mortem\SKILL.md`
+- **press-and-pr**: When the user wants to get press coverage, media mentions, or editorial features
+  - `44-Cong-Dong-Tiep-Thi-Mang-Xa-Hoi\Eronred__aso-skills\skills\press-and-pr\SKILL.md`
+- **press-release**: Write an Amazon-style press release that defines customer value before building.
+  - `04-Quan-Ly-San-Pham-Dean-Peters\skills\press-release\SKILL.md`
+- **pricing-strategy**: When the user wants help with pricing decisions, packaging, or monetization stra
+  - `06-Tiep-Thi-Corey-Haines\skills\pricing-strategy\SKILL.md`
+- **prioritization-frameworks**: Reference guide to 9 prioritization frameworks with formulas, when-to-use guidan
+  - `05-Quan-Ly-San-Pham-Pawel-Huryn\pm-execution\skills\prioritization-frameworks\SKILL.md`
+- **prioritize-assumptions**: Prioritize assumptions using an Impact × Risk matrix and suggest experiments for
+  - `05-Quan-Ly-San-Pham-Pawel-Huryn\pm-product-discovery\skills\prioritize-assumptions\SKILL.md`
+- **privacy-policy**: Draft a detailed privacy policy covering data types, jurisdiction, GDPR and comp
+  - `05-Quan-Ly-San-Pham-Pawel-Huryn\pm-toolkit\skills\privacy-policy\SKILL.md`
+- **privacy-policy-malik-taiar**: Guide for drafting privacy policies compliant with GDPR. Includes CNIL 2020 reco
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\lawvable__awesome-legal-skills\skills\politique-confidentialite-malik-taiar\SKILL.md`
+- **problem-statement**: Write a user-centered problem statement with who is blocked, what they are tryin
+  - `04-Quan-Ly-San-Pham-Dean-Peters\skills\problem-statement\SKILL.md`
+- **prompt-engineering**: Use this skill when you writing commands, hooks, skills for Agent, or prompts fo
+  - `45-Cong-Dong-Ky-Thuat-Ngu-Canh\NeoLabHQ__prompt-engineering\SKILL.md`
+- **prompt-guard**: Meta
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\zechenzhangAGI__AI-research-SKILLs\07-safety-alignment\prompt-guard\SKILL.md`
+- **prompt-guard**: Meta
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\Orchestra-Research__AI-research-SKILLs\07-safety-alignment\prompt-guard\SKILL.md`
+- **proof-writer**: Writes rigorous mathematical proofs for ML/AI theory. Use when asked to prove a 
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\wanshuiyin__Auto-claude-code-research-in-sleep\skills\proof-writer\SKILL.md`
+- **proof-writer**: Writes rigorous mathematical proofs for ML/AI theory. Use when asked to prove a 
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\wanshuiyin__Auto-claude-code-research-in-sleep\skills\skills-codex\proof-writer\SKILL.md`
+- **property-based-testing**: Provides guidance for property-based testing across multiple languages and smart
+  - `10-Bao-Mat-Trail-of-Bits\plugins\property-based-testing\skills\property-based-testing\SKILL.md`
+- **provider-actions**: Implement Terraform Provider actions using the Plugin Framework. Use when develo
+  - `01-Claude-Chinh-Thuc\hashicorp-provider-actions\SKILL.md`
+- **provider-actions**: Implement Terraform Provider actions using the Plugin Framework. Use when develo
+  - `01-Claude-Chinh-Thuc\hashicorp-terraform-test\skills\provider-actions\SKILL.md`
+- **provider-actions**: Implement Terraform Provider actions using the Plugin Framework. Use when develo
+  - `01-Claude-Chinh-Thuc\hashicorp-run-acceptance-tests\skills\provider-actions\SKILL.md`
+- **provider-actions**: Implement Terraform Provider actions using the Plugin Framework. Use when develo
+  - `01-Claude-Chinh-Thuc\hashicorp-provider-test-patterns\skills\provider-actions\SKILL.md`
+- **provider-actions**: Implement Terraform Provider actions using the Plugin Framework. Use when develo
+  - `01-Claude-Chinh-Thuc\hashicorp-provider-resources\skills\provider-actions\SKILL.md`
+- **provider-actions**: Implement Terraform Provider actions using the Plugin Framework. Use when develo
+  - `01-Claude-Chinh-Thuc\hashicorp-provider-actions\skills\provider-actions\SKILL.md`
+- **provider-actions**: Implement Terraform Provider actions using the Plugin Framework. Use when develo
+  - `01-Claude-Chinh-Thuc\hashicorp-new-terraform-provider\skills\provider-actions\SKILL.md`
+- **provider-resources**: Implement Terraform Provider resources and data sources using the Plugin Framewo
+  - `01-Claude-Chinh-Thuc\hashicorp-provider-resources\SKILL.md`
+- **provider-resources**: Implement Terraform Provider resources and data sources using the Plugin Framewo
+  - `01-Claude-Chinh-Thuc\hashicorp-terraform-test\skills\provider-resources\SKILL.md`
+- **provider-resources**: Implement Terraform Provider resources and data sources using the Plugin Framewo
+  - `01-Claude-Chinh-Thuc\hashicorp-run-acceptance-tests\skills\provider-resources\SKILL.md`
+- **provider-resources**: Implement Terraform Provider resources and data sources using the Plugin Framewo
+  - `01-Claude-Chinh-Thuc\hashicorp-provider-test-patterns\skills\provider-resources\SKILL.md`
+- **provider-resources**: Implement Terraform Provider resources and data sources using the Plugin Framewo
+  - `01-Claude-Chinh-Thuc\hashicorp-provider-resources\skills\provider-resources\SKILL.md`
+- **provider-resources**: Implement Terraform Provider resources and data sources using the Plugin Framewo
+  - `01-Claude-Chinh-Thuc\hashicorp-provider-actions\skills\provider-resources\SKILL.md`
+- **provider-resources**: Implement Terraform Provider resources and data sources using the Plugin Framewo
+  - `01-Claude-Chinh-Thuc\hashicorp-new-terraform-provider\skills\provider-resources\SKILL.md`
+- **provider-test-patterns**: -
+  - `01-Claude-Chinh-Thuc\hashicorp-provider-test-patterns\SKILL.md`
+- **provider-test-patterns**: -
+  - `01-Claude-Chinh-Thuc\hashicorp-terraform-test\skills\provider-test-patterns\SKILL.md`
+- **provider-test-patterns**: -
+  - `01-Claude-Chinh-Thuc\hashicorp-run-acceptance-tests\skills\provider-test-patterns\SKILL.md`
+- **provider-test-patterns**: -
+  - `01-Claude-Chinh-Thuc\hashicorp-provider-test-patterns\skills\provider-test-patterns\SKILL.md`
+- **provider-test-patterns**: -
+  - `01-Claude-Chinh-Thuc\hashicorp-provider-resources\skills\provider-test-patterns\SKILL.md`
+- **provider-test-patterns**: -
+  - `01-Claude-Chinh-Thuc\hashicorp-provider-actions\skills\provider-test-patterns\SKILL.md`
+- **provider-test-patterns**: -
+  - `01-Claude-Chinh-Thuc\hashicorp-new-terraform-provider\skills\provider-test-patterns\SKILL.md`
+- **pufferlib**: High-performance reinforcement learning framework optimized for speed and scale.
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\K-Dense-AI__claude-scientific-skills\scientific-skills\pufferlib\SKILL.md`
+- **pwa-development**: Progressive Web Apps - service workers, caching strategies, offline, Workbox
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\alinaqi__claude-bootstrap\skills\pwa-development\SKILL.md`
+- **pydantic-models-py**: Create Pydantic models following the multi-model pattern with Base, Create, Upda
+  - `02-Microsoft-Azure\microsoft-pydantic-models-py\SKILL.md`
+- **pylabrobot**: Vendor-agnostic lab automation framework. Use when controlling multiple equipmen
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\K-Dense-AI__claude-scientific-skills\scientific-skills\pylabrobot\SKILL.md`
+- **pymatgen**: Materials science toolkit. Crystal structures (CIF, POSCAR), phase diagrams, ban
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\K-Dense-AI__claude-scientific-skills\scientific-skills\pymatgen\SKILL.md`
+- **pymc**: Bayesian modeling with PyMC. Build hierarchical models, MCMC (NUTS), variational
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\K-Dense-AI__claude-scientific-skills\scientific-skills\pymc\SKILL.md`
+- **pymoo**: Multi-objective optimization framework. NSGA-II, NSGA-III, MOEA/D, Pareto fronts
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\K-Dense-AI__claude-scientific-skills\scientific-skills\pymoo\SKILL.md`
+- **pyopenms**: Complete mass spectrometry analysis platform. Use for proteomics workflows featu
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\K-Dense-AI__claude-scientific-skills\scientific-skills\pyopenms\SKILL.md`
+- **pytorch-lightning**: High-level PyTorch framework with Trainer class, automatic distributed training 
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\zechenzhangAGI__AI-research-SKILLs\08-distributed-training\pytorch-lightning\SKILL.md`
+- **pytorch-lightning**: High-level PyTorch framework with Trainer class, automatic distributed training 
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\Orchestra-Research__AI-research-SKILLs\08-distributed-training\pytorch-lightning\SKILL.md`
+- **pyvene-interventions**: Provides guidance for performing causal interventions on PyTorch models using py
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\zechenzhangAGI__AI-research-SKILLs\04-mechanistic-interpretability\pyvene\SKILL.md`
+- **pyvene-interventions**: Provides guidance for performing causal interventions on PyTorch models using py
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\Orchestra-Research__AI-research-SKILLs\04-mechanistic-interpretability\pyvene\SKILL.md`
+- **qa**: Interactive QA session where user reports bugs or issues conversationally, and t
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mattpocock__skills\skills\deprecated\qa\SKILL.md`
+- **qdrant-horizontal-scaling**: Diagnoses and guides Qdrant horizontal scaling decisions. Use when someone asks
+  - `40-Vector-Databases\qdrant-scaling\scaling-data-volume\horizontal-scaling\SKILL.md`
+- **qdrant-indexing-performance-optimization**: Diagnoses and fixes slow Qdrant indexing and data ingestion. Use when someone re
+  - `40-Vector-Databases\qdrant-performance-optimization\indexing-performance-optimization\SKILL.md`
+- **qdrant-memory-usage-optimization**: Diagnoses and reduces Qdrant memory usage. Use when someone reports
+  - `40-Vector-Databases\qdrant-performance-optimization\memory-usage-optimization\SKILL.md`
+- **qdrant-minimize-latency**: Guides Qdrant query latency optimization. Use when someone asks
+  - `40-Vector-Databases\qdrant-scaling\minimize-latency\SKILL.md`
+- **qdrant-scaling-qps**: Guides Qdrant query throughput (QPS) scaling. Use when someone asks
+  - `40-Vector-Databases\qdrant-scaling\scaling-qps\SKILL.md`
+- **qdrant-scaling-query-volume**: Guides Qdrant query volume scaling. Use when someone asks
+  - `40-Vector-Databases\qdrant-scaling\scaling-query-volume\SKILL.md`
+- **qdrant-sliding-time-window**: Guides sliding time window scaling in Qdrant. Use when someone asks
+  - `40-Vector-Databases\qdrant-scaling\scaling-data-volume\sliding-time-window\SKILL.md`
+- **qdrant-tenant-scaling**: Guides Qdrant multi-tenant scaling. Use when someone asks
+  - `40-Vector-Databases\qdrant-scaling\scaling-data-volume\tenant-scaling\SKILL.md`
+- **qdrant-vertical-scaling**: Guides Qdrant vertical scaling decisions. Use when someone asks
+  - `40-Vector-Databases\qdrant-scaling\scaling-data-volume\vertical-scaling\SKILL.md`
+- **quantizing-models-bitsandbytes**: Quantizes LLMs to 8-bit or 4-bit for 50-75% memory reduction with minimal accura
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\zechenzhangAGI__AI-research-SKILLs\10-optimization\bitsandbytes\SKILL.md`
+- **quantizing-models-bitsandbytes**: Quantizes LLMs to 8-bit or 4-bit for 50-75% memory reduction with minimal accura
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\Orchestra-Research__AI-research-SKILLs\10-optimization\bitsandbytes\SKILL.md`
+- **query**: >
+  - `35-DuckDB\duckdb-query\SKILL.md`
+- **query**: Use when the user wants to query or analyze data through the Honeydew semantic l
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\honeydew-ai__honeydew-ai-coding-agents-plugins\skills\query\SKILL.md`
+- **query-token-info**: |
+  - `30-Binance\query-token-info\skills\binance-web3\query-token-info\SKILL.md`
+- **qzcli**: Manage GPU compute jobs on the Qizhi (启智) platform using qzcli — a kubectl-style
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\wanshuiyin__Auto-claude-code-research-in-sleep\skills\qzcli\SKILL.md`
+- **qzcli**: Manage GPU compute jobs on the Qizhi (启智) platform using qzcli — a kubectl-style
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\wanshuiyin__Auto-claude-code-research-in-sleep\skills\skills-codex\qzcli\SKILL.md`
+- **rating-prompt-strategy**: When the user wants to improve their app
+  - `44-Cong-Dong-Tiep-Thi-Mang-Xa-Hoi\Eronred__aso-skills\skills\rating-prompt-strategy\SKILL.md`
+- **rebuttal**: Workflow 4: Submission rebuttal pipeline. Parses external reviews, enforces cove
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\wanshuiyin__Auto-claude-code-research-in-sleep\skills\rebuttal\SKILL.md`
+- **rebuttal**: Workflow 4: Submission rebuttal pipeline. Parses external reviews, enforces cove
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\wanshuiyin__Auto-claude-code-research-in-sleep\skills\skills-codex\rebuttal\SKILL.md`
+- **recipe-block-focus-time**: Create recurring focus time blocks on Google Calendar to protect deep work hours
+  - `12-Google-Workspace\skills\recipe-block-focus-time\SKILL.md`
+- **recipe-collect-form-responses**: Retrieve and review responses from a Google Form.
+  - `12-Google-Workspace\skills\recipe-collect-form-responses\SKILL.md`
+- **recipe-copy-sheet-for-new-month**: Duplicate a Google Sheets template tab for a new month of tracking.
+  - `12-Google-Workspace\skills\recipe-copy-sheet-for-new-month\SKILL.md`
+- **recipe-create-classroom-course**: Create a Google Classroom course and invite students.
+  - `12-Google-Workspace\skills\recipe-create-classroom-course\SKILL.md`
+- **recipe-create-feedback-form**: Create a Google Form for feedback and share it via Gmail.
+  - `12-Google-Workspace\skills\recipe-create-feedback-form\SKILL.md`
+- **recipe-create-gmail-filter**: Create a Gmail filter to automatically label, star, or categorize incoming messa
+  - `12-Google-Workspace\skills\recipe-create-gmail-filter\SKILL.md`
+- **recipe-create-meet-space**: Create a Google Meet meeting space and share the join link.
+  - `12-Google-Workspace\skills\recipe-create-meet-space\SKILL.md`
+- **recipe-create-task-list**: Set up a new Google Tasks list with initial tasks.
+  - `12-Google-Workspace\skills\recipe-create-task-list\SKILL.md`
+- **recipe-email-drive-link**: Share a Google Drive file and email the link with a message to recipients.
+  - `12-Google-Workspace\skills\recipe-email-drive-link\SKILL.md`
+- **recipe-find-free-time**: Query Google Calendar free/busy status for multiple users to find a meeting slot
+  - `12-Google-Workspace\skills\recipe-find-free-time\SKILL.md`
+- **recipe-label-and-archive-emails**: Apply Gmail labels to matching messages and archive them to keep your inbox clea
+  - `12-Google-Workspace\skills\recipe-label-and-archive-emails\SKILL.md`
+- **recipe-organize-drive-folder**: Create a Google Drive folder structure and move files into the right locations.
+  - `12-Google-Workspace\skills\recipe-organize-drive-folder\SKILL.md`
+- **recipe-reschedule-meeting**: Move a Google Calendar event to a new time and automatically notify all attendee
+  - `12-Google-Workspace\skills\recipe-reschedule-meeting\SKILL.md`
+- **recipe-review-meet-participants**: Review who attended a Google Meet conference and for how long.
+  - `12-Google-Workspace\skills\recipe-review-meet-participants\SKILL.md`
+- **recipe-review-overdue-tasks**: Find Google Tasks that are past due and need attention.
+  - `12-Google-Workspace\skills\recipe-review-overdue-tasks\SKILL.md`
+- **recipe-save-email-attachments**: Find Gmail messages with attachments and save them to a Google Drive folder.
+  - `12-Google-Workspace\skills\recipe-save-email-attachments\SKILL.md`
+- **recipe-schedule-recurring-event**: Create a recurring Google Calendar event with attendees.
+  - `12-Google-Workspace\skills\recipe-schedule-recurring-event\SKILL.md`
+- **recipe-send-team-announcement**: Send a team announcement via both Gmail and a Google Chat space.
+  - `12-Google-Workspace\skills\recipe-send-team-announcement\SKILL.md`
+- **recipe-share-event-materials**: Share Google Drive files with all attendees of a Google Calendar event.
+  - `12-Google-Workspace\skills\recipe-share-event-materials\SKILL.md`
+- **recipe-watch-drive-changes**: Subscribe to change notifications on a Google Drive file or folder.
+  - `12-Google-Workspace\skills\recipe-watch-drive-changes\SKILL.md`
+- **recovering-deleted-files-with-photorec**: Recover deleted files from disk images and storage media using PhotoRec
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\recovering-deleted-files-with-photorec\SKILL.md`
+- **recovering-from-ransomware-attack**: Executes structured recovery from a ransomware incident following NIST and CISA 
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\recovering-from-ransomware-attack\SKILL.md`
+- **reddit-insights**: |
+  - `44-Cong-Dong-Tiep-Thi-Mang-Xa-Hoi\BrianRWagner__ai-marketing-skills\reddit-insights\SKILL.md`
+- **redis-development**: Redis performance optimization and best practices. Use this skill when working w
+  - `39-Redis\redis-redis-development\SKILL.md`
+- **refactor-module**: Transform monolithic Terraform configurations into reusable, maintainable module
+  - `01-Claude-Chinh-Thuc\hashicorp-refactor-module\SKILL.md`
+- **reflect**: Reflect on previus response and output, based on Self-refinement framework for i
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\NeoLabHQ__reflexion\skills\reflect\SKILL.md`
+- **rehabilitation-analyzer**: 分析康复训练数据、识别康复模式、评估康复进展，并提供个性化康复建议
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\huifer__Claude-Ally-Health\skills\rehabilitation-analyzer\SKILL.md`
+- **relation-creation**: Guides you through defining a relationship between two Honeydew entities — cover
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\honeydew-ai__honeydew-ai-coding-agents-plugins\skills\relation-creation\SKILL.md`
+- **remediating-s3-bucket-misconfiguration**: This skill provides step-by-step procedures for identifying and remediating Amaz
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\remediating-s3-bucket-misconfiguration\SKILL.md`
+- **request-refactor-plan**: Create a detailed refactor plan with tiny commits via user interview, then file 
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mattpocock__skills\skills\deprecated\request-refactor-plan\SKILL.md`
+- **requete-cph-licenciement-faute-grave-selim-brihi**: Rédaction de requêtes devant le Conseil de prud
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\lawvable__awesome-legal-skills\skills\requete-cph-licenciement-faute-grave-selim-brihi\SKILL.md`
+- **resend-cli**: >
+  - `37-Resend\resend-resend-cli\SKILL.md`
+- **resubmit-pipeline**: Workflow 5: orchestrate a text-only resubmit of a polished paper to a different 
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\wanshuiyin__Auto-claude-code-research-in-sleep\skills\resubmit-pipeline\SKILL.md`
+- **resubmit-pipeline**: Workflow 5: orchestrate a text-only resubmit of a polished paper to a different 
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\wanshuiyin__Auto-claude-code-research-in-sleep\skills\skills-codex\resubmit-pipeline\SKILL.md`
+- **result-to-claim**: Use when experiments complete to judge what claims the results support, what the
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\wanshuiyin__Auto-claude-code-research-in-sleep\skills\result-to-claim\SKILL.md`
+- **result-to-claim**: Use when experiments complete to judge what claims the results support, what the
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\wanshuiyin__Auto-claude-code-research-in-sleep\skills\skills-codex\result-to-claim\SKILL.md`
+- **retention-optimization**: When the user wants to reduce churn, improve user engagement, or increase lifeti
+  - `44-Cong-Dong-Tiep-Thi-Mang-Xa-Hoi\Eronred__aso-skills\skills\retention-optimization\SKILL.md`
+- **retro**: Facilitate a structured sprint retrospective — what went well, what didn
+  - `05-Quan-Ly-San-Pham-Pawel-Huryn\pm-execution\skills\retro\SKILL.md`
+- **reverse-engineering-malware-with-ghidra**: Reverse engineers malware binaries using NSA
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\reverse-engineering-malware-with-ghidra\SKILL.md`
+- **reverse-engineering-ransomware-encryption-routine**: Reverse engineer ransomware encryption routines to identify cryptographic algori
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\reverse-engineering-ransomware-encryption-routine\SKILL.md`
+- **reverse-engineering-rust-malware**: Reverse engineer Rust-compiled malware using IDA Pro and Ghidra with techniques 
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\reverse-engineering-rust-malware\SKILL.md`
+- **review-management**: When the user wants to analyze, respond to, or improve their app reviews and rat
+  - `44-Cong-Dong-Tiep-Thi-Mang-Xa-Hoi\Eronred__aso-skills\skills\review-management\SKILL.md`
+- **rover**: >
+  - `17-Apollo-GraphQL\rover\SKILL.md`
+- **rover**: >
+  - `17-Apollo-GraphQL\_repo\skills\rover\SKILL.md`
+- **ru-text**: >
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\talkstream__ru-text\SKILL.md`
+- **ru-text**: >
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\talkstream__ru-text\skills\ru-text\SKILL.md`
+- **run-acceptance-tests**: Guide for running acceptance tests for a Terraform provider. Use this when asked
+  - `01-Claude-Chinh-Thuc\hashicorp-run-acceptance-tests\SKILL.md`
+- **run-acceptance-tests**: Guide for running acceptance tests for a Terraform provider. Use this when asked
+  - `01-Claude-Chinh-Thuc\hashicorp-terraform-test\skills\run-acceptance-tests\SKILL.md`
+- **run-acceptance-tests**: Guide for running acceptance tests for a Terraform provider. Use this when asked
+  - `01-Claude-Chinh-Thuc\hashicorp-run-acceptance-tests\skills\run-acceptance-tests\SKILL.md`
+- **run-acceptance-tests**: Guide for running acceptance tests for a Terraform provider. Use this when asked
+  - `01-Claude-Chinh-Thuc\hashicorp-provider-test-patterns\skills\run-acceptance-tests\SKILL.md`
+- **run-acceptance-tests**: Guide for running acceptance tests for a Terraform provider. Use this when asked
+  - `01-Claude-Chinh-Thuc\hashicorp-provider-resources\skills\run-acceptance-tests\SKILL.md`
+- **run-acceptance-tests**: Guide for running acceptance tests for a Terraform provider. Use this when asked
+  - `01-Claude-Chinh-Thuc\hashicorp-provider-actions\skills\run-acceptance-tests\SKILL.md`
+- **run-acceptance-tests**: Guide for running acceptance tests for a Terraform provider. Use this when asked
+  - `01-Claude-Chinh-Thuc\hashicorp-new-terraform-provider\skills\run-acceptance-tests\SKILL.md`
+- **rust-best-practices**: >
+  - `17-Apollo-GraphQL\rust-best-practices\SKILL.md`
+- **rust-best-practices**: >
+  - `17-Apollo-GraphQL\_repo\skills\rust-best-practices\SKILL.md`
+- **ruzzy**: >
+  - `10-Bao-Mat-Trail-of-Bits\plugins\testing-handbook-skills\skills\ruzzy\SKILL.md`
+- **rwkv-architecture**: RNN+Transformer hybrid with O(n) inference. Linear time, infinite context, no KV
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\zechenzhangAGI__AI-research-SKILLs\01-model-architecture\rwkv\SKILL.md`
+- **rwkv-architecture**: RNN+Transformer hybrid with O(n) inference. Linear time, infinite context, no KV
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\Orchestra-Research__AI-research-SKILLs\01-model-architecture\rwkv\SKILL.md`
+- **sarif-parsing**: -
+  - `10-Bao-Mat-Trail-of-Bits\plugins\static-analysis\skills\sarif-parsing\SKILL.md`
+- **scaffold-exercises**: Create exercise directory structures with sections, problems, solutions, and exp
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mattpocock__skills\skills\misc\scaffold-exercises\SKILL.md`
+- **scanpy**: Standard single-cell RNA-seq analysis pipeline. Use for QC, normalization, dimen
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\K-Dense-AI__claude-scientific-skills\scientific-skills\scanpy\SKILL.md`
+- **schwartz-awareness-mapper**: Use when you need to determine audience awareness level and the correct messagin
+  - `21-Quang-Cao-Kim-Barrett\schwartz-awareness-mapper\SKILL.md`
+- **schwartz-awareness-mapper**: Use when you need to determine audience awareness level and the correct messagin
+  - `21-Quang-Cao-Kim-Barrett\_repo\skills\copy-chief\schwartz-awareness-mapper\SKILL.md`
+- **scientific-schematics**: Create publication-quality scientific diagrams using Nano Banana 2 AI with smart
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\K-Dense-AI__claude-scientific-skills\scientific-skills\scientific-schematics\SKILL.md`
+- **screenshot**: Use when the user explicitly asks for a desktop or system screenshot (full scree
+  - `03-OpenAI\openai-screenshot\SKILL.md`
+- **scvelo**: RNA velocity analysis with scVelo. Estimate cell state transitions from unsplice
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\K-Dense-AI__claude-scientific-skills\scientific-skills\scvelo\SKILL.md`
+- **scvi-tools**: Deep generative models for single-cell omics. Use when you need probabilistic ba
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\K-Dense-AI__claude-scientific-skills\scientific-skills\scvi-tools\SKILL.md`
+- **seaborn**: Statistical visualization with pandas integration. Use for quick exploration of 
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\K-Dense-AI__claude-scientific-skills\scientific-skills\seaborn\SKILL.md`
+- **seasonal-aso**: When the user wants to optimize their App Store listing for seasonal events, hol
+  - `44-Cong-Dong-Tiep-Thi-Mang-Xa-Hoi\Eronred__aso-skills\skills\seasonal-aso\SKILL.md`
+- **seatbelt-sandboxer**: Generates minimal macOS Seatbelt sandbox configurations. Use when sandboxing, is
+  - `10-Bao-Mat-Trail-of-Bits\plugins\seatbelt-sandboxer\skills\seatbelt-sandboxer\SKILL.md`
+- **secure-workflow-guide**: Guides through Trail of Bits
+  - `10-Bao-Mat-Trail-of-Bits\plugins\building-secure-contracts\skills\secure-workflow-guide\SKILL.md`
+- **securing-aws-iam-permissions**: This skill guides practitioners through hardening AWS Identity and Access Manage
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\securing-aws-iam-permissions\SKILL.md`
+- **securing-aws-lambda-execution-roles**: Securing AWS Lambda execution roles by implementing least-privilege IAM policies
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\securing-aws-lambda-execution-roles\SKILL.md`
+- **securing-github-actions-workflows**: This skill covers hardening GitHub Actions workflows against supply chain attack
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\securing-github-actions-workflows\SKILL.md`
+- **securing-historian-server-in-ot-environment**: This skill covers hardening and securing process historian servers (OSIsoft PI, 
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\securing-historian-server-in-ot-environment\SKILL.md`
+- **securing-remote-access-to-ot-environment**: This skill covers implementing secure remote access to OT/ICS environments for o
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\securing-remote-access-to-ot-environment\SKILL.md`
+- **segment-anything-model**: Foundation model for image segmentation with zero-shot transfer. Use when you ne
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\zechenzhangAGI__AI-research-SKILLs\18-multimodal\segment-anything\SKILL.md`
+- **segment-anything-model**: Foundation model for image segmentation with zero-shot transfer. Use when you ne
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\Orchestra-Research__AI-research-SKILLs\18-multimodal\segment-anything\SKILL.md`
+- **semgrep**: -
+  - `10-Bao-Mat-Trail-of-Bits\plugins\static-analysis\skills\semgrep\SKILL.md`
+- **semgrep-rule-variant-creator**: Creates language variants of existing Semgrep rules. Use when porting a Semgrep 
+  - `10-Bao-Mat-Trail-of-Bits\plugins\semgrep-rule-variant-creator\skills\semgrep-rule-variant-creator\SKILL.md`
+- **service-remapping**: Create and manage APM service remapping rules — rewrite service names at ingesti
+  - `28-Datadog\dd-apm\dd-apm\service-remapping\SKILL.md`
+- **serving-llms-vllm**: Serves LLMs with high throughput using vLLM
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\zechenzhangAGI__AI-research-SKILLs\12-inference-serving\vllm\SKILL.md`
+- **serving-llms-vllm**: Serves LLMs with high throughput using vLLM
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\Orchestra-Research__AI-research-SKILLs\12-inference-serving\vllm\SKILL.md`
+- **session-management**: Context preservation, tiered summarization, resumability
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\alinaqi__claude-bootstrap\skills\session-management\SKILL.md`
+- **setup-pre-commit**: Set up Husky pre-commit hooks with lint-staged (Prettier), type checking, and te
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mattpocock__skills\skills\misc\setup-pre-commit\SKILL.md`
+- **signup-flow-cro**: When the user wants to optimize signup, registration, account creation, or trial
+  - `06-Tiep-Thi-Corey-Haines\skills\signup-flow-cro\SKILL.md`
+- **simpo-training**: Simple Preference Optimization for LLM alignment. Reference-free alternative to 
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\zechenzhangAGI__AI-research-SKILLs\06-post-training\simpo\SKILL.md`
+- **simpo-training**: Simple Preference Optimization for LLM alignment. Reference-free alternative to 
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\Orchestra-Research__AI-research-SKILLs\06-post-training\simpo\SKILL.md`
+- **simulation-orchestrator**: >
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\materials-simulation-skills\skills\simulation-workflow\simulation-orchestrator\SKILL.md`
+- **simulation-validator**: >
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\materials-simulation-skills\skills\simulation-workflow\simulation-validator\SKILL.md`
+- **site-architecture**: When the user wants to plan, map, or restructure their website
+  - `06-Tiep-Thi-Corey-Haines\skills\site-architecture\SKILL.md`
+- **skill-builder**: Automatically detect source types and build AI skills using Skill Seekers. Use w
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\Skill_Seekers\skills\skill-seekers\SKILL.md`
+- **skill-builder**: Automatically detect source types and build AI skills using Skill Seekers. Use w
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\Skill_Seekers\distribution\claude-plugin\skills\skill-builder\SKILL.md`
+- **skill-creator**: Create new skills, modify and improve existing skills, and measure skill perform
+  - `01-Claude-Chinh-Thuc\anthropics-skill-creator\SKILL.md`
+- **skill-creator**: >
+  - `17-Apollo-GraphQL\skill-creator\SKILL.md`
+- **skill-creator**: >
+  - `17-Apollo-GraphQL\_repo\skills\skill-creator\SKILL.md`
+- **skill-creator**: Create new skills, modify and improve existing skills, and measure skill perform
+  - `19-Netlify\_repo\.claude\skills\skill-creator\SKILL.md`
+- **skill-creator-anthropic**: Guide for creating effective skills. This skill should be used when users want t
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\lawvable__awesome-legal-skills\skills\skill-creator-anthropic\SKILL.md`
+- **skill-creator-openai**: Guide for creating effective skills. Use when users want to create a new skill (
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\lawvable__awesome-legal-skills\skills\skill-creator-openai\SKILL.md`
+- **skill-optimizer-lawvable**: Guide to analyze a current work session and propose improvements to skills. Use 
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\lawvable__awesome-legal-skills\skills\skill-optimizer-lawvable\SKILL.md`
+- **skin-health-analyzer**: 分析皮肤健康数据、识别皮肤问题模式、评估皮肤健康状况、提供个性化皮肤健康建议。支持与营养、慢性病、用药等其他健康数据的关联分析。
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\huifer__Claude-Ally-Health\skills\skin-health-analyzer\SKILL.md`
+- **sleep-analyzer**: 分析睡眠数据、识别睡眠模式、评估睡眠质量，并提供个性化睡眠改善建议。支持与其他健康数据的关联分析。
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\huifer__Claude-Ally-Health\skills\sleep-analyzer\SKILL.md`
+- **slime-rl-training**: Provides guidance for LLM post-training with RL using slime, a Megatron+SGLang f
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\zechenzhangAGI__AI-research-SKILLs\06-post-training\slime\SKILL.md`
+- **slime-rl-training**: Provides guidance for LLM post-training with RL using slime, a Megatron+SGLang f
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\Orchestra-Research__AI-research-SKILLs\06-post-training\slime\SKILL.md`
+- **slurm-job-script-generator**: >
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\materials-simulation-skills\skills\hpc-deployment\slurm-job-script-generator\SKILL.md`
+- **sound-fx**: Use this skill whenever the user wants to generate sound effects, ambient audio,
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\NoizAI__skills\skills\sound-fx\SKILL.md`
+- **specification-writing**: Write the full patent specification from claims and invention disclosure. Use wh
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\wanshuiyin__Auto-claude-code-research-in-sleep\skills\specification-writing\SKILL.md`
+- **specification-writing**: Write the full patent specification from claims and invention disclosure. Use wh
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\wanshuiyin__Auto-claude-code-research-in-sleep\skills\skills-codex\specification-writing\SKILL.md`
+- **speech-to-text**: Use this skill whenever the user wants to transcribe audio to text, convert spee
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\NoizAI__skills\skills\speech-to-text\SKILL.md`
+- **spice**: -
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\aklofas__kicad-happy\skills\spice\SKILL.md`
+- **sprint-plan**: Plan a sprint with capacity estimation, story selection, dependency mapping, and
+  - `05-Quan-Ly-San-Pham-Pawel-Huryn\pm-execution\skills\sprint-plan\SKILL.md`
+- **statistical-analysis**: Guided statistical analysis with test selection and reporting. Use when you need
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\K-Dense-AI__claude-scientific-skills\scientific-skills\statistical-analysis\SKILL.md`
+- **storyboard**: Create a six-frame storyboard that shows a user
+  - `04-Quan-Ly-San-Pham-Dean-Peters\skills\storyboard\SKILL.md`
+- **storytelling**: >
+  - `14-fal-ai\skills\storytelling\SKILL.md`
+- **strategic-planning**: Analyzes the founder
+  - `42-Cong-Dong-Nang-Suat-Cong-Tac\ognjengt__founder-skills\skills\strategic-planning\SKILL.md`
+- **subagent-driven-development**: Use when executing implementation plans with independent tasks in the current se
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\obra__subagent-driven-development\SKILL.md`
+- **subagent-driven-development**: Use when executing implementation plans with independent tasks in the current se
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\NeoLabHQ__sadd\skills\subagent-driven-development\SKILL.md`
+- **suggest**: USE FOR query autocomplete/suggestions. Fast (<100ms). Returns suggested queries
+  - `24-Brave\suggest\skills\suggest\SKILL.md`
+- **summarize-interview**: Summarize a customer interview transcript into a structured template with JTBD, 
+  - `05-Quan-Ly-San-Pham-Pawel-Huryn\pm-product-discovery\skills\summarize-interview\SKILL.md`
+- **summarize-meeting**: Summarize a meeting transcript into structured notes with date, participants, to
+  - `05-Quan-Ly-San-Pham-Pawel-Huryn\pm-execution\skills\summarize-meeting\SKILL.md`
+- **supabase**: Core Supabase CLI, migrations, RLS, Edge Functions
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\alinaqi__claude-bootstrap\skills\supabase\SKILL.md`
+- **supabase-nextjs**: Next.js with Supabase and Drizzle ORM
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\alinaqi__claude-bootstrap\skills\supabase-nextjs\SKILL.md`
+- **supabase-postgres-best-practices**: Postgres performance optimization and best practices from Supabase. Use this ski
+  - `01-Claude-Chinh-Thuc\supabase-postgres-best-practices\SKILL.md`
+- **svm**: Explore Solana
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\helius-labs__helius-skills\svm\SKILL.md`
+- **systematic-debugging**: Use when encountering any bug, test failure, or unexpected behavior, before prop
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\obra__systematic-debugging\SKILL.md`
+- **systems-paper-writing**: Comprehensive guide for writing systems papers targeting OSDI, SOSP, ASPLOS, NSD
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\zechenzhangAGI__AI-research-SKILLs\20-ml-paper-writing\systems-paper-writing\SKILL.md`
+- **systems-paper-writing**: Comprehensive guide for writing systems papers targeting OSDI, SOSP, ASPLOS, NSD
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\Orchestra-Research__AI-research-SKILLs\20-ml-paper-writing\systems-paper-writing\SKILL.md`
+- **tax-workflow-base**: Workflow-only base skill for regulated-domain classification. Defines the three-
+  - `42-Cong-Dong-Nang-Suat-Cong-Tac\openaccountants__openaccountants\cookbook-contribution\custom_skills\tax-workflow-base\SKILL.md`
+- **tcm-constitution-analyzer**: 分析中医体质数据、识别体质类型、评估体质特征,并提供个性化养生建议。支持与营养、运动、睡眠等健康数据的关联分析。
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\huifer__Claude-Ally-Health\skills\tcm-constitution-analyzer\SKILL.md`
+- **tdd**: Test-driven development with red-green-refactor loop. Use when user wants to bui
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mattpocock__skills\skills\engineering\tdd\SKILL.md`
+- **team-coordination**: Multi-person projects - shared state, todo claiming, handoffs
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\alinaqi__claude-bootstrap\skills\team-coordination\SKILL.md`
+- **template-skill**: Replace with description of the skill and when Claude should use it.
+  - `01-Claude-Chinh-Thuc\anthropics-template\SKILL.md`
+- **template-skill**: Reusable template for authoring new Agent Skills with clear triggers, workflow, 
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\NoizAI__skills\skills\template-skill\SKILL.md`
+- **terraform-stacks**: Comprehensive guide for working with HashiCorp Terraform Stacks. Use when creati
+  - `01-Claude-Chinh-Thuc\hashicorp-terraform-stacks\SKILL.md`
+- **terraform-test**: Comprehensive guide for writing and running Terraform tests. Use when creating t
+  - `01-Claude-Chinh-Thuc\hashicorp-terraform-test\SKILL.md`
+- **terraform-test**: Comprehensive guide for writing and running Terraform tests. Use when creating t
+  - `01-Claude-Chinh-Thuc\hashicorp-terraform-style-guide\skills\terraform-test\SKILL.md`
+- **terraform-test**: Comprehensive guide for writing and running Terraform tests. Use when creating t
+  - `01-Claude-Chinh-Thuc\hashicorp-terraform-stacks\skills\terraform-test\SKILL.md`
+- **terraform-test**: Comprehensive guide for writing and running Terraform tests. Use when creating t
+  - `01-Claude-Chinh-Thuc\hashicorp-terraform-search-import\skills\terraform-test\SKILL.md`
+- **terraform-test**: Comprehensive guide for writing and running Terraform tests. Use when creating t
+  - `01-Claude-Chinh-Thuc\hashicorp-refactor-module\skills\terraform-test\SKILL.md`
+- **terraform-test**: Comprehensive guide for writing and running Terraform tests. Use when creating t
+  - `01-Claude-Chinh-Thuc\hashicorp-azure-verified-modules\skills\terraform-test\SKILL.md`
+- **test-scenarios**: Create comprehensive test scenarios from user stories with test objectives, star
+  - `05-Quan-Ly-San-Pham-Pawel-Huryn\pm-execution\skills\test-scenarios\SKILL.md`
+- **testing-cors-misconfiguration**: Identifying and exploiting Cross-Origin Resource Sharing misconfigurations that 
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\testing-cors-misconfiguration\SKILL.md`
+- **testing-handbook-generator**: >
+  - `10-Bao-Mat-Trail-of-Bits\plugins\testing-handbook-skills\skills\testing-handbook-generator\SKILL.md`
+- **testing-ransomware-recovery-procedures**: Test and validate ransomware recovery procedures including backup restore operat
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\testing-ransomware-recovery-procedures\SKILL.md`
+- **threejs-animation**: Three.js animation - keyframe animation, skeletal animation, morph targets, anim
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\CloudAI-X__threejs-skills\skills\threejs-animation\SKILL.md`
+- **threejs-fundamentals**: Three.js scene setup, cameras, renderer, Object3D hierarchy, coordinate systems.
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\CloudAI-X__threejs-skills\skills\threejs-fundamentals\SKILL.md`
+- **threejs-geometry**: Three.js geometry creation - built-in shapes, BufferGeometry, custom geometry, i
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\CloudAI-X__threejs-skills\skills\threejs-geometry\SKILL.md`
+- **threejs-interaction**: Three.js interaction - raycasting, controls, mouse/touch input, object selection
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\CloudAI-X__threejs-skills\skills\threejs-interaction\SKILL.md`
+- **threejs-textures**: Three.js textures - texture types, UV mapping, environment maps, texture setting
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\CloudAI-X__threejs-skills\skills\threejs-textures\SKILL.md`
+- **time-stepping**: >
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\materials-simulation-skills\skills\core-numerical\time-stepping\SKILL.md`
+- **timesfm-forecasting**: Zero-shot time series forecasting with Google
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\K-Dense-AI__claude-scientific-skills\scientific-skills\timesfm-forecasting\SKILL.md`
+- **tinybird**: Tinybird file formats, SQL rules, optimization patterns, and best practices for 
+  - `01-Claude-Chinh-Thuc\tinybirdco-tinybird-best-practices\SKILL.md`
+- **to-issues**: Break a plan, spec, or PRD into independently-grabbable issues on the project is
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mattpocock__skills\skills\engineering\to-issues\SKILL.md`
+- **to-prd**: Turn the current conversation context into a PRD and publish it to the project i
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mattpocock__skills\skills\engineering\to-prd\SKILL.md`
+- **token-integration-analyzer**: Token integration and implementation analyzer based on Trail of Bits
+  - `10-Bao-Mat-Trail-of-Bits\plugins\building-secure-contracts\skills\token-integration-analyzer\SKILL.md`
+- **torchdrug**: PyTorch-native graph neural networks for molecules and proteins. Use when buildi
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\K-Dense-AI__claude-scientific-skills\scientific-skills\torchdrug\SKILL.md`
+- **torchforge-rl-training**: Provides guidance for PyTorch-native agentic RL using torchforge, Meta
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\zechenzhangAGI__AI-research-SKILLs\06-post-training\torchforge\SKILL.md`
+- **torchforge-rl-training**: Provides guidance for PyTorch-native agentic RL using torchforge, Meta
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\Orchestra-Research__AI-research-SKILLs\06-post-training\torchforge\SKILL.md`
+- **tour**: Interactive walkthrough of the Memory Kit system using the user
+  - `45-Cong-Dong-Ky-Thuat-Ngu-Canh\awrshift__claude-memory-kit\.claude\skills\tour\SKILL.md`
+- **trailmark-structural**: Runs full Trailmark structural analysis on Trailmark 0.2.x by building a graph, 
+  - `10-Bao-Mat-Trail-of-Bits\plugins\trailmark\skills\trailmark-structural\SKILL.md`
+- **transcribe**: Transcribe audio files to text with optional diarization and known-speaker hints
+  - `03-OpenAI\openai-transcribe\SKILL.md`
+- **transcribe-video**: Generate subtitles (SRT/VTT) and plain text transcripts from video or audio file
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\rameerez__claude-code-startup-skills\skills\transcribe-video\SKILL.md`
+- **transformers**: This skill should be used when working with pre-trained transformer models for n
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\K-Dense-AI__claude-scientific-skills\scientific-skills\transformers\SKILL.md`
+- **travel-health-analyzer**: 分析旅行健康数据、评估目的地健康风险、提供疫苗接种建议、生成多语言紧急医疗信息卡片。支持WHO/CDC数据集成的专业级旅行健康风险评估。
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\huifer__Claude-Ally-Health\skills\travel-health-analyzer\SKILL.md`
+- **triage**: Triage issues through a state machine driven by triage roles. Use when user want
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mattpocock__skills\skills\engineering\triage\SKILL.md`
+- **troubleshoot-ssi**: Diagnose and fix Single Step Instrumentation (SSI) issues on Kubernetes — SSI au
+  - `28-Datadog\dd-apm\dd-apm\k8s-ssi\troubleshoot-ssi\SKILL.md`
+- **tts**: Use this skill whenever the user wants to convert text into speech, generate aud
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\NoizAI__skills\skills\tts\SKILL.md`
+- **tutor**: >
+  - `42-Cong-Dong-Nang-Suat-Cong-Tac\RoundTable02__tutor-skills\skills\tutor\SKILL.md`
+- **tutor-setup**: >
+  - `42-Cong-Dong-Nang-Suat-Cong-Tac\RoundTable02__tutor-skills\skills\tutor-setup\SKILL.md`
+- **tweetclaw**: Safety-reviewed guide for @xquik/tweetclaw, the Xquik OpenClaw plugin for struct
+  - `44-Cong-Dong-Tiep-Thi-Mang-Xa-Hoi\Xquik-dev__tweetclaw\skills\tweetclaw\SKILL.md`
+- **typefully**: >
+  - `01-Claude-Chinh-Thuc\typefully-typefully\SKILL.md`
+- **ubiquitous-language**: Extract a DDD-style ubiquitous language glossary from the current conversation, 
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mattpocock__skills\skills\deprecated\ubiquitous-language\SKILL.md`
+- **ugc**: >
+  - `14-fal-ai\skills\ugc\SKILL.md`
+- **ui-testing**: Visual testing - catch invisible buttons, broken layouts, contrast
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\alinaqi__claude-bootstrap\skills\ui-testing\SKILL.md`
+- **ui-web**: Web UI - glassmorphism, Tailwind, dark mode, accessibility
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\alinaqi__claude-bootstrap\skills\ui-web\SKILL.md`
+- **umap-learn**: UMAP dimensionality reduction. Fast nonlinear manifold learning for 2D/3D visual
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\K-Dense-AI__claude-scientific-skills\scientific-skills\umap-learn\SKILL.md`
+- **unslop**: >
+  - `44-Cong-Dong-Tiep-Thi-Mang-Xa-Hoi\MohamedAbdallah-14__unslop\skills\unslop\SKILL.md`
+- **unslop**: >
+  - `44-Cong-Dong-Tiep-Thi-Mang-Xa-Hoi\MohamedAbdallah-14__unslop\plugins\unslop\skills\unslop\SKILL.md`
+- **unslop**: >
+  - `44-Cong-Dong-Tiep-Thi-Mang-Xa-Hoi\MohamedAbdallah-14__unslop\.windsurf\skills\unslop\SKILL.md`
+- **unslop**: >
+  - `44-Cong-Dong-Tiep-Thi-Mang-Xa-Hoi\MohamedAbdallah-14__unslop\.cursor\skills\unslop\SKILL.md`
+- **unslop-commit**: >
+  - `44-Cong-Dong-Tiep-Thi-Mang-Xa-Hoi\MohamedAbdallah-14__unslop\skills\unslop-commit\SKILL.md`
+- **unslop-commit**: >
+  - `44-Cong-Dong-Tiep-Thi-Mang-Xa-Hoi\MohamedAbdallah-14__unslop\plugins\unslop\skills\unslop-commit\SKILL.md`
+- **unslop-file**: >
+  - `44-Cong-Dong-Tiep-Thi-Mang-Xa-Hoi\MohamedAbdallah-14__unslop\unslop\SKILL.md`
+- **unslop-file**: >
+  - `44-Cong-Dong-Tiep-Thi-Mang-Xa-Hoi\MohamedAbdallah-14__unslop\skills\unslop-file\SKILL.md`
+- **unslop-file**: >
+  - `44-Cong-Dong-Tiep-Thi-Mang-Xa-Hoi\MohamedAbdallah-14__unslop\plugins\unslop\skills\unslop-file\SKILL.md`
+- **unslop-help**: >
+  - `44-Cong-Dong-Tiep-Thi-Mang-Xa-Hoi\MohamedAbdallah-14__unslop\skills\unslop-help\SKILL.md`
+- **unslop-help**: >
+  - `44-Cong-Dong-Tiep-Thi-Mang-Xa-Hoi\MohamedAbdallah-14__unslop\plugins\unslop\skills\unslop-help\SKILL.md`
+- **unslop-reasoning**: >
+  - `44-Cong-Dong-Tiep-Thi-Mang-Xa-Hoi\MohamedAbdallah-14__unslop\skills\unslop-reasoning\SKILL.md`
+- **unslop-reasoning**: >
+  - `44-Cong-Dong-Tiep-Thi-Mang-Xa-Hoi\MohamedAbdallah-14__unslop\plugins\unslop\skills\unslop-reasoning\SKILL.md`
+- **unslop-review**: >
+  - `44-Cong-Dong-Tiep-Thi-Mang-Xa-Hoi\MohamedAbdallah-14__unslop\skills\unslop-review\SKILL.md`
+- **unslop-review**: >
+  - `44-Cong-Dong-Tiep-Thi-Mang-Xa-Hoi\MohamedAbdallah-14__unslop\plugins\unslop\skills\unslop-review\SKILL.md`
+- **unsloth**: Expert guidance for fast fine-tuning with Unsloth - 2-5x faster training, 50-80%
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\zechenzhangAGI__AI-research-SKILLs\03-fine-tuning\unsloth\SKILL.md`
+- **unsloth**: Expert guidance for fast fine-tuning with Unsloth - 2-5x faster training, 50-80%
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\Orchestra-Research__AI-research-SKILLs\03-fine-tuning\unsloth\SKILL.md`
+- **user-segmentation**: Segment users from feedback data based on behavior, JTBD, and needs. Identifies 
+  - `05-Quan-Ly-San-Pham-Pawel-Huryn\pm-market-research\skills\user-segmentation\SKILL.md`
+- **user-stories**: Create user stories following the 3 C
+  - `05-Quan-Ly-San-Pham-Pawel-Huryn\pm-execution\skills\user-stories\SKILL.md`
+- **user-story**: Create user stories with Mike Cohn format and Gherkin acceptance criteria. Use w
+  - `04-Quan-Ly-San-Pham-Dean-Peters\skills\user-story\SKILL.md`
+- **user-story-mapping**: Create a user story map that lays out activities, steps, tasks, and release slic
+  - `04-Quan-Ly-San-Pham-Dean-Peters\skills\user-story-mapping\SKILL.md`
+- **using-git-worktrees**: Use when starting feature work that needs isolation from current workspace or be
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\obra__using-git-worktrees\SKILL.md`
+- **using-superpowers**: Use when starting any conversation - establishes how to find and use skills, req
+  - `42-Cong-Dong-Nang-Suat-Cong-Tac\obra__using-superpowers\SKILL.md`
+- **vaex**: Use this skill for processing and analyzing large tabular datasets (billions of 
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\K-Dense-AI__claude-scientific-skills\scientific-skills\vaex\SKILL.md`
+- **validating-backup-integrity-for-recovery**: Validate backup integrity through cryptographic hash verification, automated res
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\validating-backup-integrity-for-recovery\SKILL.md`
+- **vast-gpu**: Rent, manage, and destroy GPU instances on vast.ai. Use when user says \
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\wanshuiyin__Auto-claude-code-research-in-sleep\skills\vast-gpu\SKILL.md`
+- **vast-gpu**: Rent, manage, and destroy GPU instances on vast.ai. Use when user says \
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\wanshuiyin__Auto-claude-code-research-in-sleep\skills\skills-codex\vast-gpu\SKILL.md`
+- **venice-audio-music**: Async music / audio-track generation via Venice. Covers the /audio/quote + /audi
+  - `11-Venice-AI\skills\venice-audio-music\SKILL.md`
+- **venice-audio-speech**: Generate speech from text via POST /audio/speech. Covers TTS models (Kokoro, Qwe
+  - `11-Venice-AI\skills\venice-audio-speech\SKILL.md`
+- **venice-audio-transcription**: Transcribe audio files to text via POST /audio/transcriptions. Covers supported 
+  - `11-Venice-AI\skills\venice-audio-transcription\SKILL.md`
+- **venice-billing**: Venice billing and usage analytics - GET /billing/balance, GET /billing/usage (p
+  - `11-Venice-AI\skills\venice-billing\SKILL.md`
+- **venice-characters**: Discover and use Venice public characters (persona-driven system prompts with a 
+  - `11-Venice-AI\skills\venice-characters\SKILL.md`
+- **venice-chat**: Call POST /chat/completions on Venice. Covers the OpenAI-compatible request shap
+  - `11-Venice-AI\skills\venice-chat\SKILL.md`
+- **venice-crypto-rpc**: Use Venice as a pay-per-call JSON-RPC proxy to 20+ EVM and Starknet networks. Co
+  - `11-Venice-AI\skills\venice-crypto-rpc\SKILL.md`
+- **venice-image-edit**: Transform existing images with Venice. Covers POST /image/edit (prompt-driven si
+  - `11-Venice-AI\skills\venice-image-edit\SKILL.md`
+- **venice-image-generate**: Generate images with Venice. Covers POST /image/generate (Venice-native), POST /
+  - `11-Venice-AI\skills\venice-image-generate\SKILL.md`
+- **venice-models**: Discover Venice models, their capabilities, constraints, and pricing. Covers GET
+  - `11-Venice-AI\skills\venice-models\SKILL.md`
+- **venice-responses**: Use Venice
+  - `11-Venice-AI\skills\venice-responses\SKILL.md`
+- **venice-video**: Generate and transcribe videos via Venice. Covers the async /video/quote + /vide
+  - `11-Venice-AI\skills\venice-video\SKILL.md`
+- **venice-x402**: Manage Venice x402 wallet credits. Covers POST /x402/top-up (payment discovery +
+  - `11-Venice-AI\skills\venice-x402\SKILL.md`
+- **venue-templates**: Access comprehensive LaTeX templates, formatting requirements, and submission gu
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\K-Dense-AI__claude-scientific-skills\scientific-skills\venue-templates\SKILL.md`
+- **verification-before-completion**: Use when about to claim work is complete, fixed, or passing, before committing o
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\obra__verification-before-completion\SKILL.md`
+- **verify-ssi**: Verify Single Step Instrumentation (SSI) is working end-to-end on Kubernetes — S
+  - `28-Datadog\dd-apm\dd-apm\k8s-ssi\verify-ssi\SKILL.md`
+- **verl-rl-training**: Provides guidance for training LLMs with reinforcement learning using verl (Volc
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\zechenzhangAGI__AI-research-SKILLs\06-post-training\verl\SKILL.md`
+- **verl-rl-training**: Provides guidance for training LLMs with reinforcement learning using verl (Volc
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\Orchestra-Research__AI-research-SKILLs\06-post-training\verl\SKILL.md`
+- **video-translation**: Translate and dub videos from one language to another, replacing the original au
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\NoizAI__skills\skills\video-translation\SKILL.md`
+- **videodb**: See, Understand, Act on video and audio. See- ingest from local files, URLs, RTS
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\video-db__skills\python\SKILL.md`
+- **vision-analysis**: >
+  - `23-MiniMax\_repo\skills\vision-analysis\SKILL.md`
+- **voltagent-best-practices**: VoltAgent architectural patterns and conventions. Covers agents vs workflows, pr
+  - `01-Claude-Chinh-Thuc\voltagent-voltagent-best-practices\SKILL.md`
+- **voltagent-core-reference**: Reference for the VoltAgent class: constructor options, lifecycle methods, and r
+  - `01-Claude-Chinh-Thuc\voltagent-voltagent-core-reference\SKILL.md`
+- **webapp-testing**: Toolkit for interacting with and testing local web applications using Playwright
+  - `01-Claude-Chinh-Thuc\anthropics-webapp-testing\SKILL.md`
+- **weightloss-analyzer**: 分析减肥数据、计算代谢率、追踪能量缺口、管理减肥阶段
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\huifer__Claude-Ally-Health\skills\weightloss-analyzer\SKILL.md`
+- **wendy-contributing**: Expert guidance on contributing to WendyOS: Yocto builds, agent internals, E2E t
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\Joannis__claude-skills\wendy-contributing\SKILL.md`
+- **wendy-lite**: Expert guidance on building WASM apps for Wendy Lite MCU firmware on ESP32-C6. U
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\Joannis__claude-skills\wendy-lite\SKILL.md`
+- **what-if-oracle**: Run structured What-If scenario analysis with multi-branch possibility explorati
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\K-Dense-AI__claude-scientific-skills\scientific-skills\what-if-oracle\SKILL.md`
+- **whisper**: OpenAI
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\zechenzhangAGI__AI-research-SKILLs\18-multimodal\whisper\SKILL.md`
+- **whisper**: OpenAI
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\Orchestra-Research__AI-research-SKILLs\18-multimodal\whisper\SKILL.md`
+- **why**: Iterative Five Whys root cause analysis drilling from symptoms to fundamentals
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\NeoLabHQ__kaizen\skills\why\SKILL.md`
+- **wonda-cli**: Using the Wonda CLI to generate images, videos, music, and audio from the termin
+  - `44-Cong-Dong-Tiep-Thi-Mang-Xa-Hoi\degausai__wonda\skills\wonda-cli\SKILL.md`
+- **workshop-facilitation**: Facilitate workshop sessions in a one-step, multi-turn flow. Use when an interac
+  - `04-Quan-Ly-San-Pham-Dean-Peters\skills\workshop-facilitation\SKILL.md`
+- **workspace-branch**: Use when setting up workspace and branch context, switching workspaces or branch
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\honeydew-ai__honeydew-ai-coding-agents-plugins\skills\workspace-branch\SKILL.md`
+- **world-builder**: Create and manage generative game zones for Dorothy
+  - `42-Cong-Dong-Nang-Suat-Cong-Tac\Charlie85270__Dorothy\skills\world-builder\SKILL.md`
+- **write-a-skill**: Create new agent skills with proper structure, progressive disclosure, and bundl
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mattpocock__skills\skills\productivity\write-a-skill\SKILL.md`
+- **writing-fragments**: Grilling session that mines the user for fragments — heterogeneous nuggets of wr
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mattpocock__skills\skills\in-progress\writing-fragments\SKILL.md`
+- **writing-shape**: Take a markdown file of raw material and shape it into an article through a conv
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mattpocock__skills\skills\in-progress\writing-shape\SKILL.md`
+- **writing-systems-papers**: Paragraph-level structural blueprint for 10-12 page systems papers targeting OSD
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\wanshuiyin__Auto-claude-code-research-in-sleep\skills\writing-systems-papers\SKILL.md`
+- **writing-systems-papers**: Paragraph-level structural blueprint for 10-12 page systems papers targeting OSD
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\wanshuiyin__Auto-claude-code-research-in-sleep\skills\skills-codex\writing-systems-papers\SKILL.md`
+- **wycheproof**: >
+  - `10-Bao-Mat-Trail-of-Bits\plugins\testing-handbook-skills\skills\wycheproof\SKILL.md`
+- **x-article-publisher**: |
+  - `44-Cong-Dong-Tiep-Thi-Mang-Xa-Hoi\wshuyi__x-article-publisher-skill\skills\x-article-publisher\SKILL.md`
+- **x-post**: Post to X (Twitter) from the command line. Text, images, and video.
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\rameerez__claude-code-startup-skills\skills\x-post\SKILL.md`
+- **x-writer**: Creates viral X (Twitter) posts using proven formats, post templates, and creato
+  - `42-Cong-Dong-Nang-Suat-Cong-Tac\ognjengt__founder-skills\skills\x-writer\SKILL.md`
+- **yara-rule-authoring**: >
+  - `10-Bao-Mat-Trail-of-Bits\plugins\yara-authoring\skills\yara-rule-authoring\SKILL.md`
+- **yeet**: Use only when the user explicitly asks to stage, commit, push, and open a GitHub
+  - `03-OpenAI\openai-yeet\SKILL.md`
+- **youtube-summarizer**: Automatically fetch YouTube video transcripts, generate structured summaries, an
+  - `44-Cong-Dong-Tiep-Thi-Mang-Xa-Hoi\BrianRWagner__ai-marketing-skills\youtube-summarizer\SKILL.md`
+
+## Knowledge & AI (27 skill)
+
+- **comm-lit-review**: Communications-domain literature review with Claude-style knowledge-base-first r
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\wanshuiyin__Auto-claude-code-research-in-sleep\skills\skills-codex\comm-lit-review\SKILL.md`
+- **comm-lit-review-claude-single**: Communications-domain literature review with Claude-style knowledge-base-first r
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\wanshuiyin__Auto-claude-code-research-in-sleep\skills\comm-lit-review\SKILL.md`
+- **context-item-creation**: Guides you through creating context items — instructions, skills, knowledge poin
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\honeydew-ai__honeydew-ai-coding-agents-plugins\skills\context-item-creation\SKILL.md`
+- **detecting-supply-chain-attacks-in-ci-cd**: Scans GitHub Actions workflows and CI/CD pipeline configurations for supply chai
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\detecting-supply-chain-attacks-in-ci-cd\SKILL.md`
+- **huggingface-best**: >
+  - `18-Hugging-Face\_repo\skills\huggingface-best\SKILL.md`
+- **huggingface-community-evals**: Run evaluations for Hugging Face Hub models using inspect-ai and lighteval on lo
+  - `18-Hugging-Face\hugging-face-evaluation\SKILL.md`
+- **huggingface-community-evals**: Run evaluations for Hugging Face Hub models using inspect-ai and lighteval on lo
+  - `18-Hugging-Face\_repo\skills\huggingface-community-evals\SKILL.md`
+- **huggingface-llm-trainer**: Train or fine-tune language and vision models using TRL (Transformer Reinforceme
+  - `18-Hugging-Face\hugging-face-jobs\SKILL.md`
+- **huggingface-llm-trainer**: Train or fine-tune language and vision models using TRL (Transformer Reinforceme
+  - `18-Hugging-Face\hugging-face-model-trainer\SKILL.md`
+- **huggingface-llm-trainer**: Train or fine-tune language and vision models using TRL (Transformer Reinforceme
+  - `18-Hugging-Face\_repo\skills\huggingface-llm-trainer\SKILL.md`
+- **huggingface-local-models**: Use to select models to run locally with llama.cpp and GGUF on CPU, Mac Metal, C
+  - `18-Hugging-Face\_repo\skills\huggingface-local-models\SKILL.md`
+- **huggingface-vision-trainer**: Trains and fine-tunes vision models for object detection (D-FINE, RT-DETR v2, DE
+  - `18-Hugging-Face\hugging-face-vision-trainer\SKILL.md`
+- **huggingface-vision-trainer**: Trains and fine-tunes vision models for object detection (D-FINE, RT-DETR v2, DE
+  - `18-Hugging-Face\_repo\skills\huggingface-vision-trainer\SKILL.md`
+- **investigating-ransomware-attack-artifacts**: Identify, collect, and analyze ransomware attack artifacts to determine the vari
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\investigating-ransomware-attack-artifacts\SKILL.md`
+- **moe-training**: Train Mixture of Experts (MoE) models using DeepSpeed or HuggingFace. Use when t
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\zechenzhangAGI__AI-research-SKILLs\19-emerging-techniques\moe-training\SKILL.md`
+- **moe-training**: Train Mixture of Experts (MoE) models using DeepSpeed or HuggingFace. Use when t
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\Orchestra-Research__AI-research-SKILLs\19-emerging-techniques\moe-training\SKILL.md`
+- **notion-knowledge-capture**: Capture conversations and decisions into structured Notion pages; use when turni
+  - `03-OpenAI\openai-notion-knowledge-capture\SKILL.md`
+- **notion-spec-to-implementation**: Turn Notion specs into implementation plans, tasks, and progress tracking; use w
+  - `03-OpenAI\openai-notion-spec-to-implementation\SKILL.md`
+- **qdrant-model-migration**: Guides embedding model migration in Qdrant without downtime. Use when someone as
+  - `40-Vector-Databases\qdrant-model-migration\SKILL.md`
+- **sentence-transformers**: Framework for state-of-the-art sentence, text, and image embeddings. Provides 50
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\zechenzhangAGI__AI-research-SKILLs\15-rag\sentence-transformers\SKILL.md`
+- **sentence-transformers**: Framework for state-of-the-art sentence, text, and image embeddings. Provides 50
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\Orchestra-Research__AI-research-SKILLs\15-rag\sentence-transformers\SKILL.md`
+- **slack-gif-creator**: Knowledge and utilities for creating animated GIFs optimized for Slack. Provides
+  - `01-Claude-Chinh-Thuc\anthropics-slack-gif-creator\SKILL.md`
+- **stable-diffusion-image-generation**: State-of-the-art text-to-image generation with Stable Diffusion models via Huggi
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\zechenzhangAGI__AI-research-SKILLs\18-multimodal\stable-diffusion\SKILL.md`
+- **stable-diffusion-image-generation**: State-of-the-art text-to-image generation with Stable Diffusion models via Huggi
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\Orchestra-Research__AI-research-SKILLs\18-multimodal\stable-diffusion\SKILL.md`
+- **vector-forge**: Mutation-driven test vector generation. Finds implementations of a cryptographic
+  - `10-Bao-Mat-Trail-of-Bits\plugins\trailmark\skills\vector-forge\SKILL.md`
+- **venice-embeddings**: Call POST /embeddings on Venice. Covers request shape (input, model, encoding_fo
+  - `11-Venice-AI\skills\venice-embeddings\SKILL.md`
+- **wellally-tech**: Integrate digital health data sources (Apple Health, Fitbit, Oura Ring) and conn
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\huifer__Claude-Ally-Health\skills\wellally-tech\SKILL.md`
+
+## Marketing (430 skill)
+
+- **Academic CV Builder**: Format CVs for academic positions with publications, grants, and teaching
+  - `42-Cong-Dong-Nang-Suat-Cong-Tac\Paramchoudhary__ResumeSkills\skills\academic-cv-builder\SKILL.md`
+- **Executive Resume Writer**: Create C-suite and VP level resumes emphasizing strategic leadership
+  - `42-Cong-Dong-Nang-Suat-Cong-Tac\Paramchoudhary__ResumeSkills\skills\executive-resume-writer\SKILL.md`
+- **Executive Resume Writer**: Create C-suite and VP level resumes emphasizing strategic leadership
+  - `42-Cong-Dong-Nang-Suat-Cong-Tac\Paramchoudhary__ResumeSkills\.agents\skills\executive-resume-writer\SKILL.md`
+- **Resume Quantifier**: Find opportunities to add metrics and estimate numbers when exact data unavailab
+  - `42-Cong-Dong-Nang-Suat-Cong-Tac\Paramchoudhary__ResumeSkills\skills\resume-quantifier\SKILL.md`
+- **Salary Negotiation Prep**: Research market rates, build negotiation strategy, and create counter-offer scri
+  - `42-Cong-Dong-Nang-Suat-Cong-Tac\Paramchoudhary__ResumeSkills\skills\salary-negotiation-prep\SKILL.md`
+- **academic-plotting**: Generates publication-quality figures for ML papers from research context. Given
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\zechenzhangAGI__AI-research-SKILLs\20-ml-paper-writing\academic-plotting\SKILL.md`
+- **academic-plotting**: Generates publication-quality figures for ML papers from research context. Given
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\Orchestra-Research__AI-research-SKILLs\20-ml-paper-writing\academic-plotting\SKILL.md`
+- **acquisition-channel-advisor**: Evaluate acquisition channels using unit economics, customer quality, and scalab
+  - `04-Quan-Ly-San-Pham-Dean-Peters\skills\acquisition-channel-advisor\SKILL.md`
+- **ad-angle-multiplier**: Expand a core idea into multiple distinct ad angles. Trigger on
+  - `21-Quang-Cao-Kim-Barrett\ad-angle-multiplier\SKILL.md`
+- **ad-angle-multiplier**: Expand a core idea into multiple distinct ad angles. Trigger on
+  - `21-Quang-Cao-Kim-Barrett\_repo\skills\operator-os\ad-angle-multiplier\SKILL.md`
+- **ad-creative**: When the user wants to generate, iterate, or scale ad creative — headlines, desc
+  - `06-Tiep-Thi-Corey-Haines\skills\ad-creative\SKILL.md`
+- **add-dart-lint-validation-rule**: Instructions for adding a new validation rule and CLI flag to dart_skills_lint.
+  - `09-Flutter\tool\dart_skills_lint\.agents\skills\add-dart-lint-validation-rule\SKILL.md`
+- **add-new-opc-skill**: Checklist and automation guide for adding a new skill to the OPC Skills project.
+  - `42-Cong-Dong-Nang-Suat-Cong-Tac\ReScienceLab__opc-skills\.factory\skills\add-new-opc-skill\SKILL.md`
+- **add-task**: creates draft task file in .specs/tasks/draft/ with original user intent
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\NeoLabHQ__sdd\skills\add-task\SKILL.md`
+- **address-sanitizer**: >
+  - `10-Bao-Mat-Trail-of-Bits\plugins\testing-handbook-skills\skills\address-sanitizer\SKILL.md`
+- **aeo-optimization**: AI Engine Optimization - semantic triples, page templates, content clusters for 
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\alinaqi__claude-bootstrap\skills\aeo-optimization\SKILL.md`
+- **agent-email-inbox**: Use when building any system where email content triggers actions — AI agent inb
+  - `37-Resend\resend-agent-email-inbox\SKILL.md`
+- **agent-install**: Install the Datadog Agent on Linux hosts via SSH with Single Step Instrumentatio
+  - `28-Datadog\dd-apm\dd-apm\linux-ssi\agent-install\SKILL.md`
+- **agent-install**: Install the Datadog Agent on Kubernetes using the Datadog Operator — required be
+  - `28-Datadog\dd-apm\dd-apm\k8s-ssi\agent-install\SKILL.md`
+- **agent-skills**: Datadog skills for AI agents. Essential monitoring, logging, tracing and observa
+  - `28-Datadog\dd-apm\SKILL.md`
+- **agent-skills**: Datadog skills for AI agents. Essential monitoring, logging, tracing and observa
+  - `28-Datadog\dd-docs\SKILL.md`
+- **agent-skills**: Datadog skills for AI agents. Essential monitoring, logging, tracing and observa
+  - `28-Datadog\dd-llmo-eval-bootstrap\SKILL.md`
+- **agent-skills**: Datadog skills for AI agents. Essential monitoring, logging, tracing and observa
+  - `28-Datadog\dd-llmo-eval-trace-rca\SKILL.md`
+- **agent-skills**: Datadog skills for AI agents. Essential monitoring, logging, tracing and observa
+  - `28-Datadog\dd-llmo-experiment-analyzer\SKILL.md`
+- **agent-skills**: Datadog skills for AI agents. Essential monitoring, logging, tracing and observa
+  - `28-Datadog\dd-logs\SKILL.md`
+- **agent-skills**: Datadog skills for AI agents. Essential monitoring, logging, tracing and observa
+  - `28-Datadog\dd-monitors\SKILL.md`
+- **agent-skills**: Datadog skills for AI agents. Essential monitoring, logging, tracing and observa
+  - `28-Datadog\dd-pup\SKILL.md`
+- **ai-seo**: When the user wants to optimize content for AI search engines, get cited by LLMs
+  - `06-Tiep-Thi-Corey-Haines\skills\ai-seo\SKILL.md`
+- **ai-shaped-readiness-advisor**: Assess whether your product work is AI-first or AI-shaped. Use when evaluating A
+  - `04-Quan-Ly-San-Pham-Dean-Peters\skills\ai-shaped-readiness-advisor\SKILL.md`
+- **analyzing-apt-group-with-mitre-navigator**: Analyze advanced persistent threat (APT) group techniques using MITRE ATT&CK Nav
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\analyzing-apt-group-with-mitre-navigator\SKILL.md`
+- **analyzing-bootkit-and-rootkit-samples**: Analyzes bootkit and advanced rootkit malware that infects the Master Boot Recor
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\analyzing-bootkit-and-rootkit-samples\SKILL.md`
+- **analyzing-browser-forensics-with-hindsight**: Analyze Chromium-based browser artifacts using Hindsight to extract browsing his
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\analyzing-browser-forensics-with-hindsight\SKILL.md`
+- **analyzing-campaign-attribution-evidence**: Campaign attribution analysis involves systematically evaluating evidence to det
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\analyzing-campaign-attribution-evidence\SKILL.md`
+- **analyzing-email-headers-for-phishing-investigation**: Parse and analyze email headers to trace the origin of phishing emails, verify s
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\analyzing-email-headers-for-phishing-investigation\SKILL.md`
+- **analyzing-indicators-of-compromise**: Analyzes indicators of compromise (IOCs) including IP addresses, domains, file h
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\analyzing-indicators-of-compromise\SKILL.md`
+- **analyzing-malicious-url-with-urlscan**: URLScan.io is a free service for scanning and analyzing suspicious URLs. It capt
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\analyzing-malicious-url-with-urlscan\SKILL.md`
+- **analyzing-mft-for-deleted-file-recovery**: Analyze the NTFS Master File Table ($MFT) to recover metadata and content of del
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\analyzing-mft-for-deleted-file-recovery\SKILL.md`
+- **analyzing-network-traffic-for-incidents**: Analyzes network traffic captures and flow data to identify adversary activity d
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\analyzing-network-traffic-for-incidents\SKILL.md`
+- **analyzing-persistence-mechanisms-in-linux**: Detect and analyze Linux persistence mechanisms including crontab entries, syste
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\analyzing-persistence-mechanisms-in-linux\SKILL.md`
+- **analyzing-threat-actor-ttps-with-mitre-attack**: MITRE ATT&CK is a globally-accessible knowledge base of adversary tactics, techn
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\analyzing-threat-actor-ttps-with-mitre-attack\SKILL.md`
+- **analyzing-threat-actor-ttps-with-mitre-navigator**: Map advanced persistent threat (APT) group tactics, techniques, and procedures (
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\analyzing-threat-actor-ttps-with-mitre-navigator\SKILL.md`
+- **analyzing-threat-intelligence-feeds**: Analyzes structured and unstructured threat intelligence feeds to extract action
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\analyzing-threat-intelligence-feeds\SKILL.md`
+- **anndata**: Data structure for annotated matrices in single-cell analysis. Use when working 
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\K-Dense-AI__claude-scientific-skills\scientific-skills\anndata\SKILL.md`
+- **ansoff-matrix**: Generate an Ansoff Matrix analysis mapping growth strategies across market penet
+  - `05-Quan-Ly-San-Pham-Pawel-Huryn\pm-product-strategy\skills\ansoff-matrix\SKILL.md`
+- **arxiv**: Search, download, and summarize academic papers from arXiv. Use when user says
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\wanshuiyin__Auto-claude-code-research-in-sleep\skills\arxiv\SKILL.md`
+- **arxiv**: Search, download, and summarize academic papers from arXiv. Use when user says \
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\wanshuiyin__Auto-claude-code-research-in-sleep\skills\skills-codex\arxiv\SKILL.md`
+- **asc-metadata-sync**: Sync, validate, and apply App Store metadata with the current asc canonical meta
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\rudrankriyam__app-store-connect-cli-skills\skills\asc-metadata-sync\SKILL.md`
+- **asc-release-flow**: Determine whether an app is ready to submit, then drive the current App Store re
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\rudrankriyam__app-store-connect-cli-skills\skills\asc-release-flow\SKILL.md`
+- **asc-submission-health**: Validate App Store submission readiness, submit prepared versions, and monitor r
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\rudrankriyam__app-store-connect-cli-skills\skills\asc-submission-health\SKILL.md`
+- **aso-router**: Single entry point that routes any ASO, App Store, Google Play, app marketing, p
+  - `44-Cong-Dong-Tiep-Thi-Mang-Xa-Hoi\Eronred__aso-skills\skills\aso-router\SKILL.md`
+- **attribution-setup**: When the user wants to set up, debug, or interpret app install attribution — inc
+  - `44-Cong-Dong-Tiep-Thi-Mang-Xa-Hoi\Eronred__aso-skills\skills\attribution-setup\SKILL.md`
+- **beachhead-segment**: Identify the first beachhead market segment for a product launch. Evaluates segm
+  - `05-Quan-Ly-San-Pham-Pawel-Huryn\pm-go-to-market\skills\beachhead-segment\SKILL.md`
+- **better-auth-best-practices**: Configure Better Auth server and client, set up database adapters, manage sessio
+  - `01-Claude-Chinh-Thuc\better-auth-best-practices\SKILL.md`
+- **brainstorming**: You MUST use this before any creative work - creating features, building compone
+  - `42-Cong-Dong-Nang-Suat-Cong-Tac\obra__brainstorming\SKILL.md`
+- **building-adversary-infrastructure-tracking-system**: Build an automated system to track adversary infrastructure using passive DNS, c
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\building-adversary-infrastructure-tracking-system\SKILL.md`
+- **building-incident-response-dashboard**: Builds real-time incident response dashboards in Splunk, Elastic, or Grafana to 
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\building-incident-response-dashboard\SKILL.md`
+- **building-soc-playbook-for-ransomware**: Builds a structured SOC incident response playbook for ransomware attacks coveri
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\building-soc-playbook-for-ransomware\SKILL.md`
+- **burpsuite-project-parser**: Searches and explores Burp Suite project files (.burp) from the command line. Us
+  - `10-Bao-Mat-Trail-of-Bits\plugins\burpsuite-project-parser\skills\burpsuite-project-parser\SKILL.md`
+- **case-study-builder**: Turn client wins into formatted case studies for proposals, social proof, and sa
+  - `44-Cong-Dong-Tiep-Thi-Mang-Xa-Hoi\BrianRWagner__ai-marketing-skills\case-study-builder\SKILL.md`
+- **chroma**: Open-source embedding database for AI applications. Store embeddings and metadat
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\zechenzhangAGI__AI-research-SKILLs\15-rag\chroma\SKILL.md`
+- **chroma**: Open-source embedding database for AI applications. Store embeddings and metadat
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\Orchestra-Research__AI-research-SKILLs\15-rag\chroma\SKILL.md`
+- **citation-management**: Comprehensive citation management for academic research. Search Google Scholar a
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\K-Dense-AI__claude-scientific-skills\scientific-skills\citation-management\SKILL.md`
+- **classifying-tax-transactions**: Content skill for classifying business bank transactions into US federal Schedul
+  - `42-Cong-Dong-Nang-Suat-Cong-Tac\openaccountants__openaccountants\cookbook-contribution\custom_skills\classifying-tax-transactions\SKILL.md`
+- **clawsec-clawhub-checker**: ClawHub reputation checker for clawsec-suite. Adds a standalone reputation gate 
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\prompt-security__clawsec\skills\clawsec-clawhub-checker\SKILL.md`
+- **clawsec-feed**: Security advisory feed package for OpenClaw-related threats and vulnerabilities.
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\prompt-security__clawsec\skills\clawsec-feed\SKILL.md`
+- **clawsec-suite**: ClawSec suite manager with embedded advisory-feed monitoring, cryptographic sign
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\prompt-security__clawsec\skills\clawsec-suite\SKILL.md`
+- **clinical-reports**: Write comprehensive clinical reports including case reports (CARE guidelines), d
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\K-Dense-AI__claude-scientific-skills\scientific-skills\clinical-reports\SKILL.md`
+- **co-marketing**: When the user wants to find co-marketing partners, plan joint campaigns, or brai
+  - `06-Tiep-Thi-Corey-Haines\skills\co-marketing\SKILL.md`
+- **cohort-analysis**: Perform cohort analysis on user engagement data — retention curves, feature adop
+  - `05-Quan-Ly-San-Pham-Pawel-Huryn\pm-data-analytics\skills\cohort-analysis\SKILL.md`
+- **competitive-battlecard**: Create sales-ready competitive battlecards comparing your product against a spec
+  - `05-Quan-Ly-San-Pham-Pawel-Huryn\pm-go-to-market\skills\competitive-battlecard\SKILL.md`
+- **competitor-alternatives**: When the user wants to create competitor comparison or alternative pages for SEO
+  - `06-Tiep-Thi-Corey-Haines\skills\competitor-alternatives\SKILL.md`
+- **compress-images**: Compress images for web/SEO performance using cwebp. Use when optimizing images 
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\rameerez__claude-code-startup-skills\skills\compress-images\SKILL.md`
+- **conducting-social-engineering-pretext-call**: Plan and execute authorized vishing (voice phishing) pretext calls to assess emp
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\conducting-social-engineering-pretext-call\SKILL.md`
+- **conducting-spearphishing-simulation-campaign**: Spearphishing simulation is a targeted social engineering attack vector used by 
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\conducting-spearphishing-simulation-campaign\SKILL.md`
+- **configuring-microsegmentation-for-zero-trust**: Configure microsegmentation policies to enforce least-privilege workload-to-work
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\configuring-microsegmentation-for-zero-trust\SKILL.md`
+- **configuring-windows-event-logging-for-detection**: Configures Windows Event Logging with advanced audit policies to generate high-f
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\configuring-windows-event-logging-for-detection\SKILL.md`
+- **configuring-zscaler-private-access-for-ztna**: Configuring Zscaler Private Access (ZPA) to replace traditional VPN with zero tr
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\configuring-zscaler-private-access-for-ztna\SKILL.md`
+- **containing-active-breach**: Executes containment strategies to stop active adversary operations and prevent 
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\containing-active-breach\SKILL.md`
+- **content-idea-generator**: Generate content ideas rooted in positioning. Use when someone needs
+  - `44-Cong-Dong-Tiep-Thi-Mang-Xa-Hoi\BrianRWagner__ai-marketing-skills\content-idea-generator\SKILL.md`
+- **content-strategy**: When the user wants to plan a content strategy, decide what content to create, o
+  - `06-Tiep-Thi-Corey-Haines\skills\content-strategy\SKILL.md`
+- **context-degradation**: This skill should be used when the user asks to
+  - `45-Cong-Dong-Ky-Thuat-Ngu-Canh\muratcankoylan__context-degradation\SKILL.md`
+- **context-engineering-advisor**: Diagnose context stuffing vs. context engineering. Use when an AI workflow feels
+  - `04-Quan-Ly-San-Pham-Dean-Peters\skills\context-engineering-advisor\SKILL.md`
+- **copy-editing**: When the user wants to edit, review, or improve existing marketing copy, or refr
+  - `06-Tiep-Thi-Corey-Haines\skills\copy-editing\SKILL.md`
+- **copywriting**: When the user wants to write, rewrite, or improve marketing copy for any page — 
+  - `06-Tiep-Thi-Corey-Haines\skills\copywriting\SKILL.md`
+- **correlating-security-events-in-qradar**: Correlates security events in IBM QRadar SIEM using AQL (Ariel Query Language), 
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\correlating-security-events-in-qradar\SKILL.md`
+- **correlating-threat-campaigns**: Correlates disparate security incidents, IOCs, and adversary behaviors across ti
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\correlating-threat-campaigns\SKILL.md`
+- **creator-ugc-marketing**: When the user wants to plan, brief, source, or measure organic creator / influen
+  - `44-Cong-Dong-Tiep-Thi-Mang-Xa-Hoi\Eronred__aso-skills\skills\creator-ugc-marketing\SKILL.md`
+- **crypto-market-rank**: |
+  - `30-Binance\crypto-market-rank\skills\binance-web3\crypto-market-rank\SKILL.md`
+- **customer-journey-mapping-workshop**: Run a customer journey mapping workshop with adaptive questions and outputs. Use
+  - `04-Quan-Ly-San-Pham-Dean-Peters\skills\customer-journey-mapping-workshop\SKILL.md`
+- **database-schema**: Schema awareness - read before coding, type generation, prevent column errors
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\alinaqi__claude-bootstrap\skills\database-schema\SKILL.md`
+- **dd-pup**: Datadog CLI (Rust). OAuth2 auth with token refresh.
+  - `28-Datadog\dd-pup\dd-pup\SKILL.md`
+- **de-ai-ify**: Remove AI-generated jargon and restore human voice to text. Built from analyzing
+  - `44-Cong-Dong-Tiep-Thi-Mang-Xa-Hoi\BrianRWagner__ai-marketing-skills\de-ai-ify\SKILL.md`
+- **deep-research**: Execute autonomous multi-step research using Google Gemini Deep Research Agent. 
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\sanjay3290__deep-research\SKILL.md`
+- **deepchem**: Molecular ML with diverse featurizers and pre-built datasets. Use for property p
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\K-Dense-AI__claude-scientific-skills\scientific-skills\deepchem\SKILL.md`
+- **deepxiv**: Search and progressively read open-access academic papers through DeepXiv. Use w
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\wanshuiyin__Auto-claude-code-research-in-sleep\skills\deepxiv\SKILL.md`
+- **deepxiv**: Search and progressively read open-access academic papers through DeepXiv. Use w
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\wanshuiyin__Auto-claude-code-research-in-sleep\skills\skills-codex\deepxiv\SKILL.md`
+- **deploying-active-directory-honeytokens**: Deploys deception-based honeytokens in Active Directory including fake privilege
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\deploying-active-directory-honeytokens\SKILL.md`
+- **detecting-attacks-on-scada-systems**: This skill covers detecting cyber attacks targeting Supervisory Control and Data
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\detecting-attacks-on-scada-systems\SKILL.md`
+- **detecting-container-escape-attempts**: Container escape is a critical attack technique where an adversary breaks out of
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\detecting-container-escape-attempts\SKILL.md`
+- **detecting-dll-sideloading-attacks**: Detect DLL side-loading attacks where adversaries place malicious DLLs alongside
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\detecting-dll-sideloading-attacks\SKILL.md`
+- **detecting-dnp3-protocol-anomalies**: Detect anomalies in DNP3 (Distributed Network Protocol 3) communications used in
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\detecting-dnp3-protocol-anomalies\SKILL.md`
+- **detecting-email-forwarding-rules-attack**: Detect malicious email forwarding rules created by adversaries to maintain persi
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\detecting-email-forwarding-rules-attack\SKILL.md`
+- **detecting-evasion-techniques-in-endpoint-logs**: Detects defense evasion techniques used by adversaries in endpoint logs includin
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\detecting-evasion-techniques-in-endpoint-logs\SKILL.md`
+- **detecting-golden-ticket-forgery**: Detect Kerberos Golden Ticket forgery by analyzing Windows Event ID 4769 for RC4
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\detecting-golden-ticket-forgery\SKILL.md`
+- **detecting-insider-data-exfiltration-via-dlp**: Detects insider data exfiltration by analyzing DLP policy violations, file acces
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\detecting-insider-data-exfiltration-via-dlp\SKILL.md`
+- **detecting-insider-threat-behaviors**: Detect insider threat behavioral indicators including unusual data access, off-h
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\detecting-insider-threat-behaviors\SKILL.md`
+- **detecting-lateral-movement-with-splunk**: Detect adversary lateral movement across networks using Splunk SPL queries again
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\detecting-lateral-movement-with-splunk\SKILL.md`
+- **detecting-shadow-it-cloud-usage**: Detect unauthorized SaaS and cloud service usage (shadow IT) by analyzing proxy 
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\detecting-shadow-it-cloud-usage\SKILL.md`
+- **detecting-spearphishing-with-email-gateway**: Spearphishing targets specific individuals using personalized, researched conten
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\detecting-spearphishing-with-email-gateway\SKILL.md`
+- **detecting-sql-injection-via-waf-logs**: Analyze WAF (ModSecurity/AWS WAF/Cloudflare) logs to detect SQL injection attack
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\detecting-sql-injection-via-waf-logs\SKILL.md`
+- **director-readiness-advisor**: Guide the PM-to-Director transition across preparing, interviewing, landing, and
+  - `04-Quan-Ly-San-Pham-Dean-Peters\skills\director-readiness-advisor\SKILL.md`
+- **download-video**: Download videos from social media URLs (X/Twitter, YouTube, Instagram, TikTok, e
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\rameerez__claude-code-startup-skills\skills\download-video\SKILL.md`
+- **eas-update-insights**: Check the health of published EAS Updates: crash rates, install/launch counts, u
+  - `22-Expo\_repo\plugins\expo\skills\eas-update-insights\SKILL.md`
+- **email-marketing-bible**: >
+  - `44-Cong-Dong-Tiep-Thi-Mang-Xa-Hoi\CosmoBlk__email-marketing-bible\SKILL.md`
+- **email-sequence**: When the user wants to create or optimize an email sequence, drip campaign, auto
+  - `06-Tiep-Thi-Corey-Haines\skills\email-sequence\SKILL.md`
+- **epic-breakdown-advisor**: Break down epics into user stories with Humanizing Work split patterns. Use when
+  - `04-Quan-Ly-San-Pham-Dean-Peters\skills\epic-breakdown-advisor\SKILL.md`
+- **eradicating-malware-from-infected-systems**: Systematically remove malware, backdoors, and attacker persistence mechanisms fr
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\eradicating-malware-from-infected-systems\SKILL.md`
+- **evaluating-llms-harness**: Evaluates LLMs across 60+ academic benchmarks (MMLU, HumanEval, GSM8K, TruthfulQ
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\zechenzhangAGI__AI-research-SKILLs\11-evaluation\lm-evaluation-harness\SKILL.md`
+- **evaluating-llms-harness**: Evaluates LLMs across 60+ academic benchmarks (MMLU, HumanEval, GSM8K, TruthfulQ
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\Orchestra-Research__AI-research-SKILLs\11-evaluation\lm-evaluation-harness\SKILL.md`
+- **exa-search**: AI-powered web search via Exa with content extraction. Use when user says
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\wanshuiyin__Auto-claude-code-research-in-sleep\skills\exa-search\SKILL.md`
+- **exa-search**: AI-powered web search via Exa with content extraction. Use when user says
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\wanshuiyin__Auto-claude-code-research-in-sleep\skills\skills-codex\exa-search\SKILL.md`
+- **exa-search**: Web toolkit powered by Exa, tuned for scientific and technical content. Use this
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\K-Dense-AI__claude-scientific-skills\scientific-skills\exa-search\SKILL.md`
+- **executing-phishing-simulation-campaign**: Executes authorized phishing simulation campaigns to assess an organization
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\executing-phishing-simulation-campaign\SKILL.md`
+- **executing-red-team-exercise**: Executes comprehensive red team exercises that simulate real-world adversary ope
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\executing-red-team-exercise\SKILL.md`
+- **experiment-plan**: Turn a refined research proposal or method idea into a detailed, claim-driven ex
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\wanshuiyin__Auto-claude-code-research-in-sleep\skills\experiment-plan\SKILL.md`
+- **experiment-plan**: Turn a refined research proposal or method idea into a detailed, claim-driven ex
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\wanshuiyin__Auto-claude-code-research-in-sleep\skills\skills-codex\experiment-plan\SKILL.md`
+- **exploiting-active-directory-certificate-services-esc1**: Exploit misconfigured Active Directory Certificate Services (AD CS) ESC1 vulnera
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\exploiting-active-directory-certificate-services-esc1\SKILL.md`
+- **exploiting-http-request-smuggling**: Detecting and exploiting HTTP request smuggling vulnerabilities caused by Conten
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\exploiting-http-request-smuggling\SKILL.md`
+- **exploiting-ipv6-vulnerabilities**: Identifies and exploits IPv6-specific vulnerabilities including SLAAC spoofing, 
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\exploiting-ipv6-vulnerabilities\SKILL.md`
+- **exploiting-server-side-request-forgery**: Identifying and exploiting SSRF vulnerabilities to access internal services, clo
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\exploiting-server-side-request-forgery\SKILL.md`
+- **exploiting-sql-injection-with-sqlmap**: Detecting and exploiting SQL injection vulnerabilities using sqlmap to extract d
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\exploiting-sql-injection-with-sqlmap\SKILL.md`
+- **extracting-browser-history-artifacts**: Extract and analyze browser history, cookies, cache, downloads, and bookmarks fr
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\extracting-browser-history-artifacts\SKILL.md`
+- **feature-investment-advisor**: Evaluate feature investments using revenue impact, cost structure, ROI, and stra
+  - `04-Quan-Ly-San-Pham-Dean-Peters\skills\feature-investment-advisor\SKILL.md`
+- **finance-based-pricing-advisor**: Evaluate pricing changes using ARPU, conversion, churn risk, NRR, and payback. U
+  - `04-Quan-Ly-San-Pham-Dean-Peters\skills\finance-based-pricing-advisor\SKILL.md`
+- **fine-tuning-openvla-oft**: Fine-tunes and evaluates OpenVLA-OFT and OpenVLA-OFT+ policies for robot action 
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\zechenzhangAGI__AI-research-SKILLs\18-multimodal\openvla-oft\SKILL.md`
+- **fine-tuning-openvla-oft**: Fine-tunes and evaluates OpenVLA-OFT and OpenVLA-OFT+ policies for robot action 
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\Orchestra-Research__AI-research-SKILLs\18-multimodal\openvla-oft\SKILL.md`
+- **fixing-metadata**: >
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\ibelick__ui-skills\skills\fixing-metadata\SKILL.md`
+- **flowio**: Parse FCS (Flow Cytometry Standard) files v2.0-3.1. Extract events as NumPy arra
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\K-Dense-AI__claude-scientific-skills\scientific-skills\flowio\SKILL.md`
+- **form-cro**: When the user wants to optimize any form that is NOT signup/registration — inclu
+  - `06-Tiep-Thi-Corey-Haines\skills\form-cro\SKILL.md`
+- **free-tool-strategy**: When the user wants to plan, evaluate, or build a free tool for marketing purpos
+  - `06-Tiep-Thi-Corey-Haines\skills\free-tool-strategy\SKILL.md`
+- **full-funnel-campaign-orchestrator**: Coordinate all skills to build a complete advertising campaign. Trigger on
+  - `21-Quang-Cao-Kim-Barrett\full-funnel-campaign-orchestrator\SKILL.md`
+- **full-funnel-campaign-orchestrator**: Coordinate all skills to build a complete advertising campaign. Trigger on
+  - `21-Quang-Cao-Kim-Barrett\_repo\skills\orchestrators\full-funnel-campaign-orchestrator\SKILL.md`
+- **fund**: Add money to the wallet. Use when you or the user want to fund, deposit, top up,
+  - `25-Coinbase\fund\skills\fund\SKILL.md`
+- **gemini-search**: Search research papers via Gemini for broad literature discovery. Use when user 
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\wanshuiyin__Auto-claude-code-research-in-sleep\skills\gemini-search\SKILL.md`
+- **gh-address-comments**: Help address review/issue comments on the open GitHub PR for the current branch 
+  - `03-OpenAI\openai-gh-address-comments\SKILL.md`
+- **go-to-market-plan**: Analyzes the founder
+  - `42-Cong-Dong-Nang-Suat-Cong-Tac\ognjengt__founder-skills\skills\go-to-market-plan\SKILL.md`
+- **gtm-strategy**: Create a go-to-market strategy covering marketing channels, messaging, success m
+  - `05-Quan-Ly-San-Pham-Pawel-Huryn\pm-go-to-market\skills\gtm-strategy\SKILL.md`
+- **guidelines-advisor**: Smart contract development advisor based on Trail of Bits
+  - `10-Bao-Mat-Trail-of-Bits\plugins\building-secure-contracts\skills\guidelines-advisor\SKILL.md`
+- **gws-drive-upload**: Google Drive: Upload a file with automatic metadata.
+  - `12-Google-Workspace\skills\gws-drive-upload\SKILL.md`
+- **gws-forms**: Read and write Google Forms.
+  - `12-Google-Workspace\skills\gws-forms\SKILL.md`
+- **gws-gmail**: Gmail: Send, read, and manage email.
+  - `12-Google-Workspace\skills\gws-gmail\SKILL.md`
+- **gws-gmail-read**: Gmail: Read a message and extract its body or headers.
+  - `12-Google-Workspace\skills\gws-gmail-read\SKILL.md`
+- **gws-gmail-reply**: Gmail: Reply to a message (handles threading automatically).
+  - `12-Google-Workspace\skills\gws-gmail-reply\SKILL.md`
+- **gws-gmail-reply-all**: Gmail: Reply-all to a message (handles threading automatically).
+  - `12-Google-Workspace\skills\gws-gmail-reply-all\SKILL.md`
+- **gws-gmail-triage**: Gmail: Show unread inbox summary (sender, subject, date).
+  - `12-Google-Workspace\skills\gws-gmail-triage\SKILL.md`
+- **gws-modelarmor**: Google Model Armor: Filter user-generated content for safety.
+  - `12-Google-Workspace\skills\gws-modelarmor\SKILL.md`
+- **gws-script-push**: Google Apps Script: Upload local files to an Apps Script project.
+  - `12-Google-Workspace\skills\gws-script-push\SKILL.md`
+- **headline-matrix**: Generate high-performing headline variations across different angles. Trigger on
+  - `21-Quang-Cao-Kim-Barrett\headline-matrix\SKILL.md`
+- **headline-matrix**: Generate high-performing headline variations across different angles. Trigger on
+  - `21-Quang-Cao-Kim-Barrett\_repo\skills\copy-chief\headline-matrix\SKILL.md`
+- **helius-okx**: Build Solana trading and intelligence applications combining OKX DEX aggregation
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\helius-labs__helius-skills\helius-okx\SKILL.md`
+- **hf-cli**: Hugging Face Hub CLI (`hf`) for downloading, uploading, and managing models, dat
+  - `18-Hugging-Face\hf-cli\SKILL.md`
+- **hf-cli**: Hugging Face Hub CLI (`hf`) for downloading, uploading, and managing models, dat
+  - `18-Hugging-Face\_repo\skills\hf-cli\SKILL.md`
+- **hig-components-content**: -
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\raintree-technology__apple-hig-skills\skills\hig-components-content\SKILL.md`
+- **hqq-quantization**: Half-Quadratic Quantization for LLMs without calibration data. Use when quantizi
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\zechenzhangAGI__AI-research-SKILLs\10-optimization\hqq\SKILL.md`
+- **hqq-quantization**: Half-Quadratic Quantization for LLMs without calibration data. Use when quantizi
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\Orchestra-Research__AI-research-SKILLs\10-optimization\hqq\SKILL.md`
+- **hunting-advanced-persistent-threats**: Proactively hunts for Advanced Persistent Threat (APT) activity within enterpris
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\hunting-advanced-persistent-threats\SKILL.md`
+- **hunting-for-domain-fronting-c2-traffic**: Detect domain fronting C2 traffic by analyzing SNI vs HTTP Host header mismatche
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\hunting-for-domain-fronting-c2-traffic\SKILL.md`
+- **hunting-for-living-off-the-cloud-techniques**: Hunt for adversary abuse of legitimate cloud services for C2, data staging, and 
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\hunting-for-living-off-the-cloud-techniques\SKILL.md`
+- **hunting-for-living-off-the-land-binaries**: Proactively hunt for adversary abuse of legitimate system binaries (LOLBins) to 
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\hunting-for-living-off-the-land-binaries\SKILL.md`
+- **hunting-for-lolbins-execution-in-endpoint-logs**: Hunt for adversary abuse of Living Off the Land Binaries (LOLBins) by analyzing 
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\hunting-for-lolbins-execution-in-endpoint-logs\SKILL.md`
+- **hunting-for-persistence-mechanisms-in-windows**: Systematically hunt for adversary persistence mechanisms across Windows endpoint
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\hunting-for-persistence-mechanisms-in-windows\SKILL.md`
+- **hunting-for-process-injection-techniques**: Detect process injection techniques (T1055) including CreateRemoteThread, proces
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\hunting-for-process-injection-techniques\SKILL.md`
+- **hunting-for-scheduled-task-persistence**: Hunt for adversary persistence via Windows Scheduled Tasks by analyzing task cre
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\hunting-for-scheduled-task-persistence\SKILL.md`
+- **hunting-for-shadow-copy-deletion**: Hunt for Volume Shadow Copy deletion activity that indicates ransomware preparat
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\hunting-for-shadow-copy-deletion\SKILL.md`
+- **hunting-for-spearphishing-indicators**: Hunt for spearphishing campaign indicators across email logs, endpoint telemetry
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\hunting-for-spearphishing-indicators\SKILL.md`
+- **hunting-for-suspicious-scheduled-tasks**: Hunt for adversary persistence and execution via Windows scheduled tasks by anal
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\hunting-for-suspicious-scheduled-tasks\SKILL.md`
+- **hunting-for-t1098-account-manipulation**: Hunt for MITRE ATT&CK T1098 account manipulation including shadow admin creation
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\hunting-for-t1098-account-manipulation\SKILL.md`
+- **idea-creator**: Generate and rank research ideas given a broad direction. Use when user says
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\wanshuiyin__Auto-claude-code-research-in-sleep\skills\idea-creator\SKILL.md`
+- **idea-creator**: Generate and rank research ideas given a broad direction. Use when user says \
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\wanshuiyin__Auto-claude-code-research-in-sleep\skills\skills-codex-gemini-review\idea-creator\SKILL.md`
+- **idea-creator**: Generate and rank research ideas given a broad direction. Use when user says \
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\wanshuiyin__Auto-claude-code-research-in-sleep\skills\skills-codex\idea-creator\SKILL.md`
+- **idea-discovery-robot**: Workflow 1 adaptation for robotics and embodied AI. Orchestrates robotics-aware 
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\wanshuiyin__Auto-claude-code-research-in-sleep\skills\idea-discovery-robot\SKILL.md`
+- **idea-discovery-robot**: Workflow 1 adaptation for robotics and embodied AI. Orchestrates robotics-aware 
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\wanshuiyin__Auto-claude-code-research-in-sleep\skills\skills-codex-gemini-review\idea-discovery-robot\SKILL.md`
+- **idea-discovery-robot**: Workflow 1 adaptation for robotics and embodied AI. Orchestrates robotics-aware 
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\wanshuiyin__Auto-claude-code-research-in-sleep\skills\skills-codex\idea-discovery-robot\SKILL.md`
+- **identify-assumptions-new**: Identify risky assumptions for a new product idea across 8 risk categories inclu
+  - `05-Quan-Ly-San-Pham-Pawel-Huryn\pm-product-discovery\skills\identify-assumptions-new\SKILL.md`
+- **image**: When the user wants to create, generate, edit, or optimize images for marketing 
+  - `06-Tiep-Thi-Corey-Haines\skills\image\SKILL.md`
+- **imaging-data-commons**: Query and download public cancer imaging data from NCI Imaging Data Commons usin
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\K-Dense-AI__claude-scientific-skills\scientific-skills\imaging-data-commons\SKILL.md`
+- **implementing-aes-encryption-for-data-at-rest**: AES (Advanced Encryption Standard) is a symmetric block cipher standardized by N
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\implementing-aes-encryption-for-data-at-rest\SKILL.md`
+- **implementing-anti-ransomware-group-policy**: Configures Windows Group Policy Objects (GPO) to prevent ransomware execution an
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\implementing-anti-ransomware-group-policy\SKILL.md`
+- **implementing-end-to-end-encryption-for-messaging**: End-to-end encryption (E2EE) ensures that only the communicating parties can rea
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\implementing-end-to-end-encryption-for-messaging\SKILL.md`
+- **implementing-file-integrity-monitoring-with-aide**: Configure AIDE (Advanced Intrusion Detection Environment) for file integrity mon
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\implementing-file-integrity-monitoring-with-aide\SKILL.md`
+- **implementing-google-workspace-admin-security**: Implements comprehensive Google Workspace security hardening including admin con
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\implementing-google-workspace-admin-security\SKILL.md`
+- **implementing-google-workspace-phishing-protection**: Configure Google Workspace advanced phishing and malware protection settings inc
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\implementing-google-workspace-phishing-protection\SKILL.md`
+- **implementing-ics-firewall-with-tofino**: Deploy and configure Tofino industrial firewalls from Belden/Hirschmann to prote
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\implementing-ics-firewall-with-tofino\SKILL.md`
+- **implementing-identity-governance-with-sailpoint**: Deploy SailPoint IdentityNow or IdentityIQ for identity governance and administr
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\implementing-identity-governance-with-sailpoint\SKILL.md`
+- **implementing-memory-protection-with-dep-aslr**: Implements memory protection mechanisms including DEP (Data Execution Prevention
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\implementing-memory-protection-with-dep-aslr\SKILL.md`
+- **implementing-network-access-control**: Implements 802.1X port-based network access control using RADIUS authentication,
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\implementing-network-access-control\SKILL.md`
+- **implementing-opa-gatekeeper-for-policy-enforcement**: Enforce Kubernetes admission policies using OPA Gatekeeper with ConstraintTempla
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\implementing-opa-gatekeeper-for-policy-enforcement\SKILL.md`
+- **implementing-patch-management-for-ot-systems**: This skill covers implementing a structured patch management program for OT/ICS 
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\implementing-patch-management-for-ot-systems\SKILL.md`
+- **implementing-pod-security-admission-controller**: Implement Kubernetes Pod Security Admission to enforce baseline and restricted s
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\implementing-pod-security-admission-controller\SKILL.md`
+- **implementing-rsa-key-pair-management**: RSA (Rivest-Shamir-Adleman) is the most widely deployed asymmetric cryptographic
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\implementing-rsa-key-pair-management\SKILL.md`
+- **implementing-security-chaos-engineering**: Implements security chaos engineering experiments that deliberately disable or d
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\implementing-security-chaos-engineering\SKILL.md`
+- **implementing-security-monitoring-with-datadog**: Implements security monitoring using Datadog Cloud SIEM, Cloud Security Manageme
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\implementing-security-monitoring-with-datadog\SKILL.md`
+- **implementing-siem-use-case-tuning**: Tune SIEM detection rules to reduce false positives by analyzing alert volumes, 
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\implementing-siem-use-case-tuning\SKILL.md`
+- **implementing-threat-modeling-with-mitre-attack**: Implements threat modeling using the MITRE ATT&CK framework to map adversary TTP
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\implementing-threat-modeling-with-mitre-attack\SKILL.md`
+- **implementing-zero-trust-network-access-with-zscaler**: Implement Zero Trust Network Access using Zscaler Private Access (ZPA) to replac
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\implementing-zero-trust-network-access-with-zscaler\SKILL.md`
+- **integrate-asset-delivery-with-transloadit-smartcdn-in-nextjs**: Add Transloadit Smart CDN URL signing to a Next.js App Router project (server-si
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\transloadit__skills\integrate-asset-delivery-with-transloadit-smartcdn-in-nextjs\SKILL.md`
+- **integrate-uppy-transloadit-s3-uploading-to-nextjs**: Add Uppy Dashboard + Transloadit uploads to a Next.js (App Router) app, with ser
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\transloadit__skills\integrate-uppy-transloadit-s3-uploading-to-nextjs\SKILL.md`
+- **investigating-phishing-email-incident**: Investigates phishing email incidents from initial user report through header an
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\investigating-phishing-email-incident\SKILL.md`
+- **ios-simulator-skill**: 22 production-ready scripts for iOS app testing, building, and automation. Provi
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\conorluddy__ios-simulator-skill\ios-simulator-skill\skills\ios-simulator-skill\SKILL.md`
+- **kicad**: -
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\aklofas__kicad-happy\skills\kicad\SKILL.md`
+- **klaviyo**: Klaviyo email/SMS marketing - profiles, events, flows, segmentation
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\alinaqi__claude-bootstrap\skills\klaviyo\SKILL.md`
+- **lead-magnet-generator**: Creates viral lead magnet posts that drive comments and DMs. Produces 2 versions
+  - `42-Cong-Dong-Nang-Suat-Cong-Tac\ognjengt__founder-skills\skills\lead-magnet-generator\SKILL.md`
+- **lead-magnets**: When the user wants to create, plan, or optimize a lead magnet for email capture
+  - `06-Tiep-Thi-Corey-Haines\skills\lead-magnets\SKILL.md`
+- **linear**: Manage issues, projects & team workflows in Linear. Use when the user wants to r
+  - `03-OpenAI\openai-linear\SKILL.md`
+- **linkedin-authority-builder**: Build a LinkedIn content system for thought leadership. Use when someone needs t
+  - `44-Cong-Dong-Tiep-Thi-Mang-Xa-Hoi\BrianRWagner__ai-marketing-skills\linkedin-authority-builder\SKILL.md`
+- **linkedin-profile-optimizer**: Audit and rewrite your LinkedIn profile to attract the right people. Scores each
+  - `44-Cong-Dong-Tiep-Thi-Mang-Xa-Hoi\BrianRWagner__ai-marketing-skills\linkedin-profile-optimizer\SKILL.md`
+- **literature-review**: Conduct comprehensive, systematic literature reviews using multiple academic dat
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\K-Dense-AI__claude-scientific-skills\scientific-skills\literature-review\SKILL.md`
+- **localization**: When the user wants to localize their App Store listing for international market
+  - `44-Cong-Dong-Tiep-Thi-Mang-Xa-Hoi\Eronred__aso-skills\skills\localization\SKILL.md`
+- **makepad-2.0-animation**: |
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\ZhangHanDong__makepad-skills\skills\makepad-2.0-animation\SKILL.md`
+- **makepad-2.0-app-structure**: |
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\ZhangHanDong__makepad-skills\skills\makepad-2.0-app-structure\SKILL.md`
+- **makepad-2.0-dsl**: |
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\ZhangHanDong__makepad-skills\skills\makepad-2.0-dsl\SKILL.md`
+- **makepad-2.0-events**: |
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\ZhangHanDong__makepad-skills\skills\makepad-2.0-events\SKILL.md`
+- **makepad-2.0-layout**: |
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\ZhangHanDong__makepad-skills\skills\makepad-2.0-layout\SKILL.md`
+- **makepad-2.0-migration**: |
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\ZhangHanDong__makepad-skills\skills\makepad-2.0-migration\SKILL.md`
+- **makepad-2.0-performance**: |
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\ZhangHanDong__makepad-skills\skills\makepad-2.0-performance\SKILL.md`
+- **makepad-2.0-shaders**: |
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\ZhangHanDong__makepad-skills\skills\makepad-2.0-shaders\SKILL.md`
+- **makepad-2.0-splash**: |
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\ZhangHanDong__makepad-skills\skills\makepad-2.0-splash\SKILL.md`
+- **makepad-2.0-theme**: |
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\ZhangHanDong__makepad-skills\skills\makepad-2.0-theme\SKILL.md`
+- **makepad-2.0-troubleshooting**: |
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\ZhangHanDong__makepad-skills\skills\makepad-2.0-troubleshooting\SKILL.md`
+- **makepad-2.0-vector**: |
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\ZhangHanDong__makepad-skills\skills\makepad-2.0-vector\SKILL.md`
+- **makepad-2.0-widgets**: |
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\ZhangHanDong__makepad-skills\skills\makepad-2.0-widgets\SKILL.md`
+- **mapping-mitre-attack-techniques**: Maps observed adversary behaviors, security alerts, and detection rules to MITRE
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\mapping-mitre-attack-techniques\SKILL.md`
+- **market-movers**: When the user wants to track App Store chart rank changes, find top gainers and 
+  - `44-Cong-Dong-Tiep-Thi-Mang-Xa-Hoi\Eronred__aso-skills\skills\market-movers\SKILL.md`
+- **market-pulse**: When the user wants a comprehensive App Store market overview, daily/weekly mark
+  - `44-Cong-Dong-Tiep-Thi-Mang-Xa-Hoi\Eronred__aso-skills\skills\market-pulse\SKILL.md`
+- **market-research-reports**: Generate comprehensive market research reports (50+ pages) in the style of top c
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\K-Dense-AI__claude-scientific-skills\scientific-skills\market-research-reports\SKILL.md`
+- **market-segments**: Identify 3-5 potential customer segments with demographics, JTBD, and product fi
+  - `05-Quan-Ly-San-Pham-Pawel-Huryn\pm-market-research\skills\market-segments\SKILL.md`
+- **market-sizing**: Estimate market size using TAM, SAM, and SOM with top-down and bottom-up approac
+  - `05-Quan-Ly-San-Pham-Pawel-Huryn\pm-market-research\skills\market-sizing\SKILL.md`
+- **marketing**: >
+  - `14-fal-ai\skills\marketing\SKILL.md`
+- **marketing-ideas**: Generate 5 creative, cost-effective marketing ideas with channels, messaging, an
+  - `05-Quan-Ly-San-Pham-Pawel-Huryn\pm-marketing-growth\skills\marketing-ideas\SKILL.md`
+- **marketing-ideas**: When the user needs marketing ideas, inspiration, or strategies for their SaaS o
+  - `06-Tiep-Thi-Corey-Haines\skills\marketing-ideas\SKILL.md`
+- **marketing-ideas**: Produces the best marketing ideas for your business by analyzing your FOUNDER_CO
+  - `42-Cong-Dong-Nang-Suat-Cong-Tac\ognjengt__founder-skills\skills\marketing-ideas\SKILL.md`
+- **marketing-principles**: Apply timeless marketing and business principles to any problem. Use when someon
+  - `44-Cong-Dong-Tiep-Thi-Mang-Xa-Hoi\BrianRWagner__ai-marketing-skills\marketing-principles\SKILL.md`
+- **marketing-psychology**: When the user wants to apply psychological principles, mental models, or behavio
+  - `06-Tiep-Thi-Corey-Haines\skills\marketing-psychology\SKILL.md`
+- **miles-rl-training**: Provides guidance for enterprise-grade RL training using miles, a production-rea
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\zechenzhangAGI__AI-research-SKILLs\06-post-training\miles\SKILL.md`
+- **miles-rl-training**: Provides guidance for enterprise-grade RL training using miles, a production-rea
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\Orchestra-Research__AI-research-SKILLs\06-post-training\miles\SKILL.md`
+- **ml-paper-writing**: Write publication-ready ML/AI papers for NeurIPS, ICML, ICLR, ACL, AAAI, COLM. U
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\zechenzhangAGI__AI-research-SKILLs\20-ml-paper-writing\ml-paper-writing\SKILL.md`
+- **ml-paper-writing**: Write publication-ready ML/AI papers for NeurIPS, ICML, ICLR, ACL, AAAI, COLM. U
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\Orchestra-Research__AI-research-SKILLs\20-ml-paper-writing\ml-paper-writing\SKILL.md`
+- **modal-serverless-gpu**: Serverless GPU cloud platform for running ML workloads. Use when you need on-dem
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\zechenzhangAGI__AI-research-SKILLs\09-infrastructure\modal\SKILL.md`
+- **modal-serverless-gpu**: Serverless GPU cloud platform for running ML workloads. Use when you need on-dem
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\Orchestra-Research__AI-research-SKILLs\09-infrastructure\modal\SKILL.md`
+- **mongodb-natural-language-querying**: Generate read-only MongoDB queries (find) or aggregation pipelines using natural
+  - `31-MongoDB\mongodb-natural-language-querying\skills\mongodb-natural-language-querying\SKILL.md`
+- **monitoring-darkweb-sources**: Monitors dark web forums, marketplaces, paste sites, and ransomware leak sites f
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\monitoring-darkweb-sources\SKILL.md`
+- **mutation-testing**: Configures mewt or muton mutation testing campaigns — scopes targets, tunes time
+  - `10-Bao-Mat-Trail-of-Bits\plugins\mutation-testing\skills\mutation-testing\SKILL.md`
+- **my-venice-skill**: One or two sentences describing exactly when an agent should load this skill and
+  - `11-Venice-AI\template\SKILL.md`
+- **natural-writing**: Contains well-defined rules for creating natural, accurate, and readable writing
+  - `09-Flutter\.agents\agents\reidbaker-agent\skills\natural-writing\SKILL.md`
+- **netlify-config**: Reference for netlify.toml configuration. Use when configuring build settings, r
+  - `19-Netlify\netlify-config\SKILL.md`
+- **netlify-config**: Reference for netlify.toml configuration. Use when configuring build settings, r
+  - `19-Netlify\_repo\skills\netlify-config\SKILL.md`
+- **netlify-config**: Reference for netlify.toml configuration. Use when configuring build settings, r
+  - `19-Netlify\_repo\codex\skills\netlify-config\SKILL.md`
+- **neuropixels-analysis**: Neuropixels neural recording analysis. Load SpikeGLX/OpenEphys data, preprocess,
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\K-Dense-AI__claude-scientific-skills\scientific-skills\neuropixels-analysis\SKILL.md`
+- **newsletter-creation-curation**: Industry-adaptive B2B newsletter creation with stage, role, and geography-aware 
+  - `44-Cong-Dong-Tiep-Thi-Mang-Xa-Hoi\BrianRWagner__ai-marketing-skills\newsletter-creation-curation\SKILL.md`
+- **outcome-roadmap**: Transform an output-focused roadmap into an outcome-focused one that communicate
+  - `05-Quan-Ly-San-Pham-Pawel-Huryn\pm-execution\skills\outcome-roadmap\SKILL.md`
+- **page-cro**: When the user wants to optimize, improve, or increase conversions on any marketi
+  - `06-Tiep-Thi-Corey-Haines\skills\page-cro\SKILL.md`
+- **paid-ads**: When the user wants help with paid advertising campaigns on Google Ads, Meta (Fa
+  - `06-Tiep-Thi-Corey-Haines\skills\paid-ads\SKILL.md`
+- **paper-illustration**: Generate publication-quality AI illustrations for academic papers using Gemini i
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\wanshuiyin__Auto-claude-code-research-in-sleep\skills\paper-illustration\SKILL.md`
+- **paper-illustration**: Generate publication-quality AI illustrations for academic papers using Gemini i
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\wanshuiyin__Auto-claude-code-research-in-sleep\skills\skills-codex\paper-illustration\SKILL.md`
+- **parallel-web**: All-in-one web toolkit powered by parallel-cli, with a strong emphasis on academ
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\K-Dense-AI__claude-scientific-skills\scientific-skills\parallel-web\SKILL.md`
+- **pathml**: Full-featured computational pathology toolkit. Use for advanced WSI analysis inc
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\K-Dense-AI__claude-scientific-skills\scientific-skills\pathml\SKILL.md`
+- **paywall-upgrade-cro**: When the user wants to create or optimize in-app paywalls, upgrade screens, upse
+  - `06-Tiep-Thi-Corey-Haines\skills\paywall-upgrade-cro\SKILL.md`
+- **pennylane**: Hardware-agnostic quantum ML framework with automatic differentiation. Use when 
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\K-Dense-AI__claude-scientific-skills\scientific-skills\pennylane\SKILL.md`
+- **performance**: Optimize web performance for faster loading and better user experience. Use when
+  - `36-Chat-Luong-Web-Addy-Osmani\addyosmani-performance\SKILL.md`
+- **performance-diagnosis**: Diagnose why campaigns are underperforming. Trigger on
+  - `21-Quang-Cao-Kim-Barrett\performance-diagnosis\SKILL.md`
+- **performance-diagnosis**: Diagnose why campaigns are underperforming. Trigger on
+  - `21-Quang-Cao-Kim-Barrett\_repo\skills\operator-os\performance-diagnosis\SKILL.md`
+- **performing-access-recertification-with-saviynt**: Configure and execute access recertification campaigns in Saviynt Enterprise Ide
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-access-recertification-with-saviynt\SKILL.md`
+- **performing-active-directory-compromise-investigation**: Investigate Active Directory compromise by analyzing authentication logs, replic
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-active-directory-compromise-investigation\SKILL.md`
+- **performing-adversary-in-the-middle-phishing-detection**: Detect and respond to Adversary-in-the-Middle (AiTM) phishing attacks that use r
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-adversary-in-the-middle-phishing-detection\SKILL.md`
+- **performing-automated-malware-analysis-with-cape**: Deploy and operate CAPEv2 sandbox for automated malware analysis with behavioral
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-automated-malware-analysis-with-cape\SKILL.md`
+- **performing-bandwidth-throttling-attack-simulation**: Simulates bandwidth throttling and network degradation attacks using tc, iperf3,
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-bandwidth-throttling-attack-simulation\SKILL.md`
+- **performing-cloud-forensics-investigation**: Conduct forensic investigations in cloud environments by collecting and analyzin
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-cloud-forensics-investigation\SKILL.md`
+- **performing-content-security-policy-bypass**: Analyze and bypass Content Security Policy implementations to achieve cross-site
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-content-security-policy-bypass\SKILL.md`
+- **performing-directory-traversal-testing**: Testing web applications for path traversal vulnerabilities that allow reading o
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-directory-traversal-testing\SKILL.md`
+- **performing-entitlement-review-with-sailpoint-iiq**: Performs entitlement review and access certification campaigns using SailPoint I
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-entitlement-review-with-sailpoint-iiq\SKILL.md`
+- **performing-false-positive-reduction-in-siem**: Perform systematic SIEM false positive reduction through rule tuning, threshold 
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-false-positive-reduction-in-siem\SKILL.md`
+- **performing-initial-access-with-evilginx3**: Perform authorized initial access using EvilGinx3 adversary-in-the-middle phishi
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-initial-access-with-evilginx3\SKILL.md`
+- **performing-jwt-none-algorithm-attack**: Execute and test the JWT none algorithm attack to bypass signature verification 
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-jwt-none-algorithm-attack\SKILL.md`
+- **performing-memory-forensics-with-volatility3**: Analyze volatile memory dumps using Volatility 3 to extract running processes, n
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-memory-forensics-with-volatility3\SKILL.md`
+- **performing-network-traffic-analysis-with-zeek**: Deploy Zeek network security monitor to capture, parse, and analyze network traf
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-network-traffic-analysis-with-zeek\SKILL.md`
+- **performing-physical-intrusion-assessment**: Conduct authorized physical penetration testing using tailgating, badge cloning,
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-physical-intrusion-assessment\SKILL.md`
+- **performing-post-quantum-cryptography-migration**: Assesses organizational readiness for post-quantum cryptography migration per NI
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-post-quantum-cryptography-migration\SKILL.md`
+- **performing-privileged-account-discovery**: Discover and inventory all privileged accounts across enterprise infrastructure 
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-privileged-account-discovery\SKILL.md`
+- **performing-purple-team-exercise**: Performs purple team exercises by coordinating red team adversary emulation with
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-purple-team-exercise\SKILL.md`
+- **performing-ransomware-tabletop-exercise**: Plans and facilitates tabletop exercises simulating ransomware incidents to test
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-ransomware-tabletop-exercise\SKILL.md`
+- **performing-red-team-with-covenant**: Conduct red team operations using the Covenant C2 framework for authorized adver
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-red-team-with-covenant\SKILL.md`
+- **performing-scada-hmi-security-assessment**: Perform security assessments of SCADA Human-Machine Interface (HMI) systems to i
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-scada-hmi-security-assessment\SKILL.md`
+- **performing-security-headers-audit**: Auditing HTTP security headers including CSP, HSTS, X-Frame-Options, and cookie 
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-security-headers-audit\SKILL.md`
+- **performing-ssrf-vulnerability-exploitation**: Test for Server-Side Request Forgery vulnerabilities by probing cloud metadata e
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-ssrf-vulnerability-exploitation\SKILL.md`
+- **performing-web-cache-poisoning-attack**: Exploiting web cache mechanisms to serve malicious content to other users by poi
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-web-cache-poisoning-attack\SKILL.md`
+- **persona-content-creator**: Create, organize, and distribute content across Workspace.
+  - `12-Google-Workspace\skills\persona-content-creator\SKILL.md`
+- **persona-it-admin**: Administer IT — monitor security and configure Workspace.
+  - `12-Google-Workspace\skills\persona-it-admin\SKILL.md`
+- **persona-team-lead**: Lead a team — run standups, coordinate tasks, and communicate.
+  - `12-Google-Workspace\skills\persona-team-lead\SKILL.md`
+- **pestel-analysis**: Analyze political, economic, social, technological, environmental, and legal for
+  - `04-Quan-Ly-San-Pham-Dean-Peters\skills\pestel-analysis\SKILL.md`
+- **pestle-analysis**: Perform a PESTLE analysis covering Political, Economic, Social, Technological, L
+  - `05-Quan-Ly-San-Pham-Pawel-Huryn\pm-product-strategy\skills\pestle-analysis\SKILL.md`
+- **picoclaw-security-guardian**: Picoclaw security posture skill with advisory awareness, configuration drift det
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\prompt-security__clawsec\skills\picoclaw-security-guardian\SKILL.md`
+- **picoclaw-self-pen-testing**: Picoclaw-only local posture-review skill focused on read-only findings and safe 
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\prompt-security__clawsec\skills\picoclaw-self-pen-testing\SKILL.md`
+- **plan-my-day**: Generate an energy-optimized, time-blocked daily plan based on circadian rhythm 
+  - `44-Cong-Dong-Tiep-Thi-Mang-Xa-Hoi\BrianRWagner__ai-marketing-skills\plan-my-day\SKILL.md`
+- **plan-task**: Refine, parallelize, and verify a draft task specification into a fully planned 
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\NeoLabHQ__sdd\skills\plan-task\SKILL.md`
+- **pol-probe-advisor**: Select the right Proof of Life (PoL) probe based on hypothesis, risk, and resour
+  - `04-Quan-Ly-San-Pham-Dean-Peters\skills\pol-probe-advisor\SKILL.md`
+- **positioning-basics**: Help founders and marketers nail their positioning. Use when someone mentions
+  - `44-Cong-Dong-Tiep-Thi-Mang-Xa-Hoi\BrianRWagner__ai-marketing-skills\positioning-basics\SKILL.md`
+- **postgres**: Execute read-only SQL queries against multiple PostgreSQL databases. Use when: (
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\sanjay3290__postgres\SKILL.md`
+- **postiz**: Postiz is a tool to schedule social media and chat posts to 28+ channels X, Link
+  - `44-Cong-Dong-Tiep-Thi-Mang-Xa-Hoi\gitroomhq__postiz-agent\SKILL.md`
+- **pricing-strategist**: Builds comprehensive pricing strategies by reading business context and asking t
+  - `42-Cong-Dong-Nang-Suat-Cong-Tac\ognjengt__founder-skills\skills\pricing-strategist\SKILL.md`
+- **prior-art-search**: Search patent databases and academic literature for prior art relevant to an inv
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\wanshuiyin__Auto-claude-code-research-in-sleep\skills\prior-art-search\SKILL.md`
+- **prior-art-search**: Search patent databases and academic literature for prior art relevant to an inv
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\wanshuiyin__Auto-claude-code-research-in-sleep\skills\skills-codex\prior-art-search\SKILL.md`
+- **prioritization-advisor**: Choose a prioritization framework based on stage, team context, and stakeholder 
+  - `04-Quan-Ly-San-Pham-Dean-Peters\skills\prioritization-advisor\SKILL.md`
+- **product-sense-interview-answer**: Structure a spoken PM product-sense answer with assumptions, segmentation, pain-
+  - `04-Quan-Ly-San-Pham-Dean-Peters\skills\product-sense-interview-answer\SKILL.md`
+- **product-strategy-session**: Run an end-to-end product strategy session across positioning, discovery, and ro
+  - `04-Quan-Ly-San-Pham-Dean-Peters\skills\product-strategy-session\SKILL.md`
+- **programmatic-seo**: When the user wants to create SEO-driven pages at scale using templates and data
+  - `06-Tiep-Thi-Corey-Haines\skills\programmatic-seo\SKILL.md`
+- **proof-checker**: Rigorous mathematical proof verification and fixing workflow. Reads a LaTeX proo
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\wanshuiyin__Auto-claude-code-research-in-sleep\skills\proof-checker\SKILL.md`
+- **proof-checker**: Rigorous mathematical proof verification and fixing workflow. Reads a LaTeX proo
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\wanshuiyin__Auto-claude-code-research-in-sleep\skills\skills-codex\proof-checker\SKILL.md`
+- **proto-persona**: Create a proto-persona from current research, market signals, and team knowledge
+  - `04-Quan-Ly-San-Pham-Dean-Peters\skills\proto-persona\SKILL.md`
+- **pyhealth**: Build clinical/healthcare deep-learning pipelines with PyHealth — loading EHR/si
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\K-Dense-AI__claude-scientific-skills\scientific-skills\pyhealth\SKILL.md`
+- **pysam**: Genomic file toolkit. Read/write SAM/BAM/CRAM alignments, VCF/BCF variants, FAST
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\K-Dense-AI__claude-scientific-skills\scientific-skills\pysam\SKILL.md`
+- **pytdc**: Therapeutics Data Commons. AI-ready drug discovery datasets (ADME, toxicity, DTI
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\K-Dense-AI__claude-scientific-skills\scientific-skills\pytdc\SKILL.md`
+- **pytorch-fsdp2**: Adds PyTorch FSDP2 (fully_shard) to training scripts with correct init, sharding
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\zechenzhangAGI__AI-research-SKILLs\08-distributed-training\pytorch-fsdp2\SKILL.md`
+- **pytorch-fsdp2**: Adds PyTorch FSDP2 (fully_shard) to training scripts with correct init, sharding
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\Orchestra-Research__AI-research-SKILLs\08-distributed-training\pytorch-fsdp2\SKILL.md`
+- **qdrant-version-upgrade**: Guidance on how to upgrade your Qdrant version without interrupting the availabi
+  - `40-Vector-Databases\qdrant-version-upgrade\SKILL.md`
+- **query-address-info**: |
+  - `30-Binance\query-address-info\skills\binance-web3\query-address-info\SKILL.md`
+- **qutip**: Quantum physics simulation library for open quantum systems. Use when studying m
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\K-Dense-AI__claude-scientific-skills\scientific-skills\qutip\SKILL.md`
+- **rails-upgrade**: Analyze Rails application upgrade path. Checks current version, finds latest rel
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\robzolkos__skill-rails-upgrade\SKILL.md`
+- **ray-data**: Scalable data processing for ML workloads. Streaming execution across CPU/GPU, s
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\zechenzhangAGI__AI-research-SKILLs\05-data-processing\ray-data\SKILL.md`
+- **ray-data**: Scalable data processing for ML workloads. Streaming execution across CPU/GPU, s
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\Orchestra-Research__AI-research-SKILLs\05-data-processing\ray-data\SKILL.md`
+- **read-file**: >
+  - `35-DuckDB\duckdb-read-file\SKILL.md`
+- **read-memories**: >
+  - `35-DuckDB\duckdb-read-memories\SKILL.md`
+- **recipe-batch-invite-to-event**: Add a list of attendees to an existing Google Calendar event and send notificati
+  - `12-Google-Workspace\skills\recipe-batch-invite-to-event\SKILL.md`
+- **recipe-bulk-download-folder**: List and download all files from a Google Drive folder.
+  - `12-Google-Workspace\skills\recipe-bulk-download-folder\SKILL.md`
+- **recipe-compare-sheet-tabs**: Read data from two tabs in a Google Sheet to compare and identify differences.
+  - `12-Google-Workspace\skills\recipe-compare-sheet-tabs\SKILL.md`
+- **recipe-create-shared-drive**: Create a Google Shared Drive and add members with appropriate roles.
+  - `12-Google-Workspace\skills\recipe-create-shared-drive\SKILL.md`
+- **recipe-forward-labeled-emails**: Find Gmail messages with a specific label and forward them to another address.
+  - `12-Google-Workspace\skills\recipe-forward-labeled-emails\SKILL.md`
+- **recipe-plan-weekly-schedule**: Review your Google Calendar week, identify gaps, and add events to fill them.
+  - `12-Google-Workspace\skills\recipe-plan-weekly-schedule\SKILL.md`
+- **recipe-share-folder-with-team**: Share a Google Drive folder and all its contents with a list of collaborators.
+  - `12-Google-Workspace\skills\recipe-share-folder-with-team\SKILL.md`
+- **red-team-verifier-patrick-munro**: Adversarial verification for AI-generated legal content with systematic fact-che
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\lawvable__awesome-legal-skills\skills\red-team-verifier-patrick-munro\SKILL.md`
+- **revops**: When the user wants help with revenue operations, lead lifecycle management, or 
+  - `06-Tiep-Thi-Corey-Haines\skills\revops\SKILL.md`
+- **roadmap-planning**: Plan a strategic roadmap across prioritization, epic definition, stakeholder ali
+  - `04-Quan-Ly-San-Pham-Dean-Peters\skills\roadmap-planning\SKILL.md`
+- **saas-revenue-growth-metrics**: Calculate SaaS revenue, retention, and growth metrics. Use when diagnosing momen
+  - `04-Quan-Ly-San-Pham-Dean-Peters\skills\saas-revenue-growth-metrics\SKILL.md`
+- **scanning-infrastructure-with-nessus**: Tenable Nessus is the industry-leading vulnerability scanner used to identify se
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\scanning-infrastructure-with-nessus\SKILL.md`
+- **scanning-network-with-nmap-advanced**: Performs advanced network reconnaissance using Nmap
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\scanning-network-with-nmap-advanced\SKILL.md`
+- **schema-markup**: When the user wants to add, fix, or optimize schema markup and structured data o
+  - `06-Tiep-Thi-Corey-Haines\skills\schema-markup\SKILL.md`
+- **scientific-visualization**: Meta-skill for publication-ready figures. Use when creating journal submission f
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\K-Dense-AI__claude-scientific-skills\scientific-skills\scientific-visualization\SKILL.md`
+- **scroll-stopping-creative**: Create ad concepts that stop attention in the first 3 seconds. Trigger on
+  - `21-Quang-Cao-Kim-Barrett\scroll-stopping-creative\SKILL.md`
+- **scroll-stopping-creative**: Create ad concepts that stop attention in the first 3 seconds. Trigger on
+  - `21-Quang-Cao-Kim-Barrett\_repo\skills\operator-os\scroll-stopping-creative\SKILL.md`
+- **search**: Use this skill when the user wants to search the web without a full browser sess
+  - `33-Browserbase\browserbase-search\SKILL.md`
+- **send-usdc**: Send tokens (USDC, ETH, POL, or SOL) to an address or ENS name on Base, Polygon,
+  - `25-Coinbase\send-usdc\skills\send-usdc\SKILL.md`
+- **seo**: Optimize for search engine visibility and ranking. Use when asked to
+  - `36-Chat-Luong-Web-Addy-Osmani\addyosmani-seo\SKILL.md`
+- **seo**: Comprehensive SEO analysis for any website or business type. Full site audits, s
+  - `44-Cong-Dong-Tiep-Thi-Mang-Xa-Hoi\AgriciDaniel__claude-seo\skills\seo\SKILL.md`
+- **seo-aeo-best-practices**: SEO and AEO best practices for metadata, Open Graph, sitemaps, robots.txt, hrefl
+  - `01-Claude-Chinh-Thuc\sanity-io-seo-aeo-best-practices\SKILL.md`
+- **seo-audit**: When the user wants to audit, review, or diagnose SEO issues on their site. Also
+  - `06-Tiep-Thi-Corey-Haines\skills\seo-audit\SKILL.md`
+- **seo-audit**: Full website SEO audit with parallel subagent delegation. Crawls up to 500 pages
+  - `44-Cong-Dong-Tiep-Thi-Mang-Xa-Hoi\AgriciDaniel__claude-seo\skills\seo-audit\SKILL.md`
+- **seo-backlinks**: Backlink profile analysis: referring domains, anchor text distribution, toxic li
+  - `44-Cong-Dong-Tiep-Thi-Mang-Xa-Hoi\AgriciDaniel__claude-seo\skills\seo-backlinks\SKILL.md`
+- **seo-cluster**: >
+  - `44-Cong-Dong-Tiep-Thi-Mang-Xa-Hoi\AgriciDaniel__claude-seo\skills\seo-cluster\SKILL.md`
+- **seo-competitor-pages**: >
+  - `44-Cong-Dong-Tiep-Thi-Mang-Xa-Hoi\AgriciDaniel__claude-seo\skills\seo-competitor-pages\SKILL.md`
+- **seo-content**: >
+  - `44-Cong-Dong-Tiep-Thi-Mang-Xa-Hoi\AgriciDaniel__claude-seo\skills\seo-content\SKILL.md`
+- **seo-content-brief**: >
+  - `44-Cong-Dong-Tiep-Thi-Mang-Xa-Hoi\AgriciDaniel__claude-seo\skills\seo-content-brief\SKILL.md`
+- **seo-dataforseo**: >
+  - `44-Cong-Dong-Tiep-Thi-Mang-Xa-Hoi\AgriciDaniel__claude-seo\skills\seo-dataforseo\SKILL.md`
+- **seo-dataforseo**: >
+  - `44-Cong-Dong-Tiep-Thi-Mang-Xa-Hoi\AgriciDaniel__claude-seo\extensions\dataforseo\skills\seo-dataforseo\SKILL.md`
+- **seo-drift**: >
+  - `44-Cong-Dong-Tiep-Thi-Mang-Xa-Hoi\AgriciDaniel__claude-seo\skills\seo-drift\SKILL.md`
+- **seo-ecommerce**: >
+  - `44-Cong-Dong-Tiep-Thi-Mang-Xa-Hoi\AgriciDaniel__claude-seo\skills\seo-ecommerce\SKILL.md`
+- **seo-firecrawl**: >
+  - `44-Cong-Dong-Tiep-Thi-Mang-Xa-Hoi\AgriciDaniel__claude-seo\extensions\firecrawl\skills\seo-firecrawl\SKILL.md`
+- **seo-flow**: >
+  - `44-Cong-Dong-Tiep-Thi-Mang-Xa-Hoi\AgriciDaniel__claude-seo\skills\seo-flow\SKILL.md`
+- **seo-geo**: |
+  - `42-Cong-Dong-Nang-Suat-Cong-Tac\ReScienceLab__opc-skills\.agents\skills\seo-geo\SKILL.md`
+- **seo-geo**: >
+  - `44-Cong-Dong-Tiep-Thi-Mang-Xa-Hoi\AgriciDaniel__claude-seo\skills\seo-geo\SKILL.md`
+- **seo-google**: >
+  - `44-Cong-Dong-Tiep-Thi-Mang-Xa-Hoi\AgriciDaniel__claude-seo\skills\seo-google\SKILL.md`
+- **seo-hreflang**: >
+  - `44-Cong-Dong-Tiep-Thi-Mang-Xa-Hoi\AgriciDaniel__claude-seo\skills\seo-hreflang\SKILL.md`
+- **seo-image-gen**: AI image generation for SEO assets: OG/social preview images, blog hero images, 
+  - `44-Cong-Dong-Tiep-Thi-Mang-Xa-Hoi\AgriciDaniel__claude-seo\skills\seo-image-gen\SKILL.md`
+- **seo-image-gen**: AI image generation for SEO assets: OG/social preview images, blog hero images, 
+  - `44-Cong-Dong-Tiep-Thi-Mang-Xa-Hoi\AgriciDaniel__claude-seo\extensions\banana\skills\seo-image-gen\SKILL.md`
+- **seo-images**: >
+  - `44-Cong-Dong-Tiep-Thi-Mang-Xa-Hoi\AgriciDaniel__claude-seo\skills\seo-images\SKILL.md`
+- **seo-local**: >
+  - `44-Cong-Dong-Tiep-Thi-Mang-Xa-Hoi\AgriciDaniel__claude-seo\skills\seo-local\SKILL.md`
+- **seo-maps**: >
+  - `44-Cong-Dong-Tiep-Thi-Mang-Xa-Hoi\AgriciDaniel__claude-seo\skills\seo-maps\SKILL.md`
+- **seo-page**: >
+  - `44-Cong-Dong-Tiep-Thi-Mang-Xa-Hoi\AgriciDaniel__claude-seo\skills\seo-page\SKILL.md`
+- **seo-plan**: >
+  - `44-Cong-Dong-Tiep-Thi-Mang-Xa-Hoi\AgriciDaniel__claude-seo\skills\seo-plan\SKILL.md`
+- **seo-programmatic**: >
+  - `44-Cong-Dong-Tiep-Thi-Mang-Xa-Hoi\AgriciDaniel__claude-seo\skills\seo-programmatic\SKILL.md`
+- **seo-schema**: >
+  - `44-Cong-Dong-Tiep-Thi-Mang-Xa-Hoi\AgriciDaniel__claude-seo\skills\seo-schema\SKILL.md`
+- **seo-sitemap**: >
+  - `44-Cong-Dong-Tiep-Thi-Mang-Xa-Hoi\AgriciDaniel__claude-seo\skills\seo-sitemap\SKILL.md`
+- **seo-sxo**: >
+  - `44-Cong-Dong-Tiep-Thi-Mang-Xa-Hoi\AgriciDaniel__claude-seo\skills\seo-sxo\SKILL.md`
+- **seo-technical**: >
+  - `44-Cong-Dong-Tiep-Thi-Mang-Xa-Hoi\AgriciDaniel__claude-seo\skills\seo-technical\SKILL.md`
+- **sglang**: Fast structured generation and serving for LLMs with RadixAttention prefix cachi
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\zechenzhangAGI__AI-research-SKILLs\12-inference-serving\sglang\SKILL.md`
+- **sglang**: Fast structured generation and serving for LLMs with RadixAttention prefix cachi
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\Orchestra-Research__AI-research-SKILLs\12-inference-serving\sglang\SKILL.md`
+- **shader-dev**: Comprehensive GLSL shader techniques for creating stunning visual effects — ray 
+  - `23-MiniMax\shader-dev\SKILL.md`
+- **shader-dev**: Comprehensive GLSL shader techniques for creating stunning visual effects — ray 
+  - `23-MiniMax\_repo\skills\shader-dev\SKILL.md`
+- **shap**: Model interpretability and explainability using SHAP (SHapley Additive exPlanati
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\K-Dense-AI__claude-scientific-skills\scientific-skills\shap\SKILL.md`
+- **site-architecture**: Technical SEO - robots.txt, sitemap, meta tags, Core Web Vitals
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\alinaqi__claude-bootstrap\skills\site-architecture\SKILL.md`
+- **skill-authoring-workflow**: Turn raw PM content into a compliant, publish-ready skill. Use when creating or 
+  - `04-Quan-Ly-San-Pham-Dean-Peters\skills\skill-authoring-workflow\SKILL.md`
+- **skypilot-multi-cloud-orchestration**: Multi-cloud orchestration for ML workloads with automatic cost optimization. Use
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\zechenzhangAGI__AI-research-SKILLs\09-infrastructure\skypilot\SKILL.md`
+- **skypilot-multi-cloud-orchestration**: Multi-cloud orchestration for ML workloads with automatic cost optimization. Use
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\Orchestra-Research__AI-research-SKILLs\09-infrastructure\skypilot\SKILL.md`
+- **slack-messaging**: Use when asked to send or read Slack messages, check Slack channels, test Slack 
+  - `42-Cong-Dong-Nang-Suat-Cong-Tac\obra__superpowers-lab\skills\slack-messaging\SKILL.md`
+- **social-card-gen**: Generate platform-specific social post variants (Twitter/X, LinkedIn, Reddit) fr
+  - `44-Cong-Dong-Tiep-Thi-Mang-Xa-Hoi\BrianRWagner__ai-marketing-skills\social-card-gen\SKILL.md`
+- **social-content**: When the user wants help creating, scheduling, or optimizing social media conten
+  - `06-Tiep-Thi-Corey-Haines\skills\social-content\SKILL.md`
+- **speculative-decoding**: Accelerate LLM inference using speculative decoding, Medusa multiple heads, and 
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\zechenzhangAGI__AI-research-SKILLs\19-emerging-techniques\speculative-decoding\SKILL.md`
+- **speculative-decoding**: Accelerate LLM inference using speculative decoding, Medusa multiple heads, and 
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\Orchestra-Research__AI-research-SKILLs\19-emerging-techniques\speculative-decoding\SKILL.md`
+- **speech**: Use when the user asks for text-to-speech narration or voiceover, accessibility 
+  - `03-OpenAI\openai-speech\SKILL.md`
+- **speed**: Launch RSVP speed reader for text
+  - `42-Cong-Dong-Nang-Suat-Cong-Tac\SeanZoR__claude-speed-reader\.claude\skills\speed\SKILL.md`
+- **sql-queries**: Generate SQL queries from natural language descriptions. Supports BigQuery, Post
+  - `05-Quan-Ly-San-Pham-Pawel-Huryn\pm-data-analytics\skills\sql-queries\SKILL.md`
+- **stakeholder-map**: Build a stakeholder map using a power/interest grid, identify communication stra
+  - `05-Quan-Ly-San-Pham-Pawel-Huryn\pm-execution\skills\stakeholder-map\SKILL.md`
+- **statute-analysis-rafal-fryc**: Guide for reading, interpreting, and applying statutes, regulations, and rules i
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\lawvable__awesome-legal-skills\skills\statute-analysis-rafal-fryc\SKILL.md`
+- **substrate-vulnerability-scanner**: Scans Substrate/Polkadot pallets for 7 critical vulnerabilities including arithm
+  - `10-Bao-Mat-Trail-of-Bits\plugins\building-secure-contracts\skills\substrate-vulnerability-scanner\SKILL.md`
+- **tam-sam-som-calculator**: Calculate TAM, SAM, and SOM with explicit assumptions, methods, and caveats. Use
+  - `04-Quan-Ly-San-Pham-Dean-Peters\skills\tam-sam-som-calculator\SKILL.md`
+- **testimonial-collector**: Systematically gather, score, and format client testimonials. Use when someone n
+  - `44-Cong-Dong-Tiep-Thi-Mang-Xa-Hoi\BrianRWagner__ai-marketing-skills\testimonial-collector\SKILL.md`
+- **testing-for-email-header-injection**: Test web application email functionality for SMTP header injection vulnerabiliti
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\testing-for-email-header-injection\SKILL.md`
+- **testing-for-xxe-injection-vulnerabilities**: Discovering and exploiting XML External Entity injection vulnerabilities to read
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\testing-for-xxe-injection-vulnerabilities\SKILL.md`
+- **threejs-lighting**: Three.js lighting - light types, shadows, environment lighting. Use when adding 
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\CloudAI-X__threejs-skills\skills\threejs-lighting\SKILL.md`
+- **threejs-loaders**: Three.js asset loading - GLTF, textures, images, models, async patterns. Use whe
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\CloudAI-X__threejs-skills\skills\threejs-loaders\SKILL.md`
+- **threejs-materials**: Three.js materials - PBR, basic, phong, shader materials, material properties. U
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\CloudAI-X__threejs-skills\skills\threejs-materials\SKILL.md`
+- **threejs-shaders**: Three.js shaders - GLSL, ShaderMaterial, uniforms, custom effects. Use when crea
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\CloudAI-X__threejs-skills\skills\threejs-shaders\SKILL.md`
+- **tiledbvcf**: Efficient storage and retrieval of genomic variant data using TileDB. Scalable V
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\K-Dense-AI__claude-scientific-skills\scientific-skills\tiledbvcf\SKILL.md`
+- **tracking-threat-actor-infrastructure**: Threat actor infrastructure tracking involves monitoring and mapping adversary-c
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\tracking-threat-actor-infrastructure\SKILL.md`
+- **trade**: Swap or trade tokens on Base or Polygon. Use when you or the user want to trade,
+  - `25-Coinbase\trade\skills\trade\SKILL.md`
+- **trading-signal**: |
+  - `30-Binance\trading-signal\skills\binance-web3\trading-signal\SKILL.md`
+- **training-llms-megatron**: Trains large language models (2B-462B parameters) using NVIDIA Megatron-Core wit
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\zechenzhangAGI__AI-research-SKILLs\08-distributed-training\megatron-core\SKILL.md`
+- **training-llms-megatron**: Trains large language models (2B-462B parameters) using NVIDIA Megatron-Core wit
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\Orchestra-Research__AI-research-SKILLs\08-distributed-training\megatron-core\SKILL.md`
+- **transform-generate-image-with-transloadit**: One-off image generation (prompt -> image file) using Transloadit via the `trans
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\transloadit__skills\transform-generate-image-with-transloadit\SKILL.md`
+- **transform-upscale-image-with-transloadit**: One-off AI image upscaling (local image -> upscaled image) using Transloadit via
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\transloadit__skills\transform-upscale-image-with-transloadit\SKILL.md`
+- **twitter**: Search and retrieve content from Twitter/X. Get user info, tweets, replies, foll
+  - `42-Cong-Dong-Nang-Suat-Cong-Tac\ReScienceLab__opc-skills\skills\twitter\SKILL.md`
+- **ua-campaign**: When the user wants to plan or optimize paid user acquisition campaigns. Also us
+  - `44-Cong-Dong-Tiep-Thi-Mang-Xa-Hoi\Eronred__aso-skills\skills\ua-campaign\SKILL.md`
+- **ui-test**: AI-powered adversarial UI testing via the browse CLI. Analyzes git diffs to test
+  - `33-Browserbase\browserbase-ui-test\SKILL.md`
+- **user-story-mapping-workshop**: Run a user story mapping workshop with adaptive questions and a structured map o
+  - `04-Quan-Ly-San-Pham-Dean-Peters\skills\user-story-mapping-workshop\SKILL.md`
+- **value-prop-statements**: Generate value proposition statements for marketing, sales, and onboarding from 
+  - `05-Quan-Ly-San-Pham-Pawel-Huryn\pm-marketing-growth\skills\value-prop-statements\SKILL.md`
+- **vexor-cli**: Semantic file discovery via `vexor`. Use whenever locating where something is im
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\scarletkc__vexor\plugins\vexor\skills\vexor-cli\SKILL.md`
+- **video**: When the user wants to create, generate, or produce video content using AI tools
+  - `06-Tiep-Thi-Corey-Haines\skills\video\SKILL.md`
+- **vp-cpo-readiness-advisor**: Guide the transition to VP or CPO across preparing, interviewing, landing, and r
+  - `04-Quan-Ly-San-Pham-Dean-Peters\skills\vp-cpo-readiness-advisor\SKILL.md`
+- **web-content**: SEO and AI discovery (GEO) - schema, ChatGPT/Perplexity optimization
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\alinaqi__claude-bootstrap\skills\web-content\SKILL.md`
+- **web-quality-audit**: Comprehensive web quality audit covering performance, accessibility, SEO, and be
+  - `36-Chat-Luong-Web-Addy-Osmani\addyosmani-web-quality-audit\SKILL.md`
+- **writing-beats**: Shape an article as a journey of beats, choose-your-own-adventure style. The use
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mattpocock__skills\skills\in-progress\writing-beats\SKILL.md`
+- **zoom-out**: Tell the agent to zoom out and give broader context or a higher-level perspectiv
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mattpocock__skills\skills\engineering\zoom-out\SKILL.md`
+
+## Microsoft Azure (85 skill)
+
+- **analyzing-azure-activity-logs-for-threats**: Queries Azure Monitor activity logs and sign-in logs via azure-monitor-query to 
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\analyzing-azure-activity-logs-for-threats\SKILL.md`
+- **analyzing-cloud-storage-access-patterns**: Detect abnormal access patterns in AWS S3, GCS, and Azure Blob Storage by analyz
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\analyzing-cloud-storage-access-patterns\SKILL.md`
+- **analyzing-macro-malware-in-office-documents**: Analyzes malicious VBA macros embedded in Microsoft Office documents (Word, Exce
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\analyzing-macro-malware-in-office-documents\SKILL.md`
+- **analyzing-outlook-pst-for-email-forensics**: Analyze Microsoft Outlook PST and OST files for email forensic evidence includin
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\analyzing-outlook-pst-for-email-forensics\SKILL.md`
+- **auditing-azure-active-directory-configuration**: Auditing Microsoft Entra ID (Azure Active Directory) configuration to identify r
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\auditing-azure-active-directory-configuration\SKILL.md`
+- **azure-ai-contentsafety-py**: |
+  - `02-Microsoft-Azure\microsoft-azure-ai-contentsafety-py\SKILL.md`
+- **azure-ai-contentsafety-ts**: Analyze text and images for harmful content using Azure AI Content Safety (@azur
+  - `02-Microsoft-Azure\microsoft-azure-ai-contentsafety-ts\SKILL.md`
+- **azure-ai-contentunderstanding-py**: |
+  - `02-Microsoft-Azure\microsoft-azure-ai-contentunderstanding-py\SKILL.md`
+- **azure-ai-document-intelligence-ts**: Extract text, tables, and structured data from documents using Azure Document In
+  - `02-Microsoft-Azure\microsoft-azure-ai-document-intelligence-ts\SKILL.md`
+- **azure-ai-ml-py**: |
+  - `02-Microsoft-Azure\microsoft-azure-ai-ml-py\SKILL.md`
+- **azure-ai-textanalytics-py**: |
+  - `02-Microsoft-Azure\microsoft-azure-ai-textanalytics-py\SKILL.md`
+- **azure-ai-transcription-py**: |
+  - `02-Microsoft-Azure\microsoft-azure-ai-transcription-py\SKILL.md`
+- **azure-ai-translation-document-py**: |
+  - `02-Microsoft-Azure\microsoft-azure-ai-translation-document-py\SKILL.md`
+- **azure-ai-translation-text-py**: |
+  - `02-Microsoft-Azure\microsoft-azure-ai-translation-text-py\SKILL.md`
+- **azure-ai-vision-imageanalysis-py**: |
+  - `02-Microsoft-Azure\microsoft-azure-ai-vision-imageanalysis-py\SKILL.md`
+- **azure-ai-voicelive-ts**: |
+  - `02-Microsoft-Azure\microsoft-azure-ai-voicelive-ts\SKILL.md`
+- **azure-appconfiguration-py**: |
+  - `02-Microsoft-Azure\microsoft-azure-appconfiguration-py\SKILL.md`
+- **azure-containerregistry-py**: |
+  - `02-Microsoft-Azure\microsoft-azure-containerregistry-py\SKILL.md`
+- **azure-cosmos-py**: |
+  - `02-Microsoft-Azure\microsoft-azure-cosmos-py\SKILL.md`
+- **azure-cosmos-rust**: |
+  - `02-Microsoft-Azure\microsoft-azure-cosmos-rust\SKILL.md`
+- **azure-cosmos-ts**: |
+  - `02-Microsoft-Azure\microsoft-azure-cosmos-ts\SKILL.md`
+- **azure-data-tables-py**: |
+  - `02-Microsoft-Azure\microsoft-azure-data-tables-py\SKILL.md`
+- **azure-eventgrid-py**: |
+  - `02-Microsoft-Azure\microsoft-azure-eventgrid-py\SKILL.md`
+- **azure-eventhub-py**: |
+  - `02-Microsoft-Azure\microsoft-azure-eventhub-py\SKILL.md`
+- **azure-eventhub-rust**: |
+  - `02-Microsoft-Azure\microsoft-azure-eventhub-rust\SKILL.md`
+- **azure-identity-py**: |
+  - `02-Microsoft-Azure\microsoft-azure-identity-py\SKILL.md`
+- **azure-identity-rust**: |
+  - `02-Microsoft-Azure\microsoft-azure-identity-rust\SKILL.md`
+- **azure-keyvault-certificates-rust**: |
+  - `02-Microsoft-Azure\microsoft-azure-keyvault-certificates-rust\SKILL.md`
+- **azure-keyvault-keys-rust**: |
+  - `02-Microsoft-Azure\microsoft-azure-keyvault-keys-rust\SKILL.md`
+- **azure-keyvault-py**: |
+  - `02-Microsoft-Azure\microsoft-azure-keyvault-py\SKILL.md`
+- **azure-keyvault-secrets-rust**: |
+  - `02-Microsoft-Azure\microsoft-azure-keyvault-secrets-rust\SKILL.md`
+- **azure-messaging-webpubsubservice-py**: |
+  - `02-Microsoft-Azure\microsoft-azure-messaging-webpubsubservice-py\SKILL.md`
+- **azure-mgmt-botservice-py**: -
+  - `02-Microsoft-Azure\microsoft-azure-mgmt-botservice-py\SKILL.md`
+- **azure-mgmt-fabric-py**: -
+  - `02-Microsoft-Azure\microsoft-azure-mgmt-fabric-py\SKILL.md`
+- **azure-microsoft-playwright-testing-ts**: Run Playwright tests at scale using Azure Playwright Workspaces (formerly Micros
+  - `02-Microsoft-Azure\microsoft-azure-microsoft-playwright-testing-ts\SKILL.md`
+- **azure-monitor-ingestion-py**: |
+  - `02-Microsoft-Azure\microsoft-azure-monitor-ingestion-py\SKILL.md`
+- **azure-monitor-opentelemetry-exporter-py**: |
+  - `02-Microsoft-Azure\microsoft-azure-monitor-opentelemetry-exporter-py\SKILL.md`
+- **azure-monitor-opentelemetry-py**: |
+  - `02-Microsoft-Azure\microsoft-azure-monitor-opentelemetry-py\SKILL.md`
+- **azure-monitor-query-py**: |
+  - `02-Microsoft-Azure\microsoft-azure-monitor-query-py\SKILL.md`
+- **azure-postgres-ts**: |
+  - `02-Microsoft-Azure\microsoft-azure-postgres-ts\SKILL.md`
+- **azure-search-documents-py**: |
+  - `02-Microsoft-Azure\microsoft-azure-search-documents-py\SKILL.md`
+- **azure-servicebus-py**: |
+  - `02-Microsoft-Azure\microsoft-azure-servicebus-py\SKILL.md`
+- **azure-speech-to-text-rest-py**: -
+  - `02-Microsoft-Azure\microsoft-azure-speech-to-text-rest-py\SKILL.md`
+- **azure-storage-blob-py**: |
+  - `02-Microsoft-Azure\microsoft-azure-storage-blob-py\SKILL.md`
+- **azure-storage-blob-rust**: |
+  - `02-Microsoft-Azure\microsoft-azure-storage-blob-rust\SKILL.md`
+- **azure-storage-blob-ts**: |
+  - `02-Microsoft-Azure\microsoft-azure-storage-blob-ts\SKILL.md`
+- **azure-storage-file-datalake-py**: |
+  - `02-Microsoft-Azure\microsoft-azure-storage-file-datalake-py\SKILL.md`
+- **azure-storage-file-share-py**: -
+  - `02-Microsoft-Azure\microsoft-azure-storage-file-share-py\SKILL.md`
+- **azure-storage-file-share-ts**: |
+  - `02-Microsoft-Azure\microsoft-azure-storage-file-share-ts\SKILL.md`
+- **azure-storage-queue-py**: |
+  - `02-Microsoft-Azure\microsoft-azure-storage-queue-py\SKILL.md`
+- **azure-storage-queue-ts**: |
+  - `02-Microsoft-Azure\microsoft-azure-storage-queue-ts\SKILL.md`
+- **azure-verified-modules**: Azure Verified Modules (AVM) requirements and best practices for developing cert
+  - `01-Claude-Chinh-Thuc\hashicorp-azure-verified-modules\SKILL.md`
+- **azure-verified-modules**: Azure Verified Modules (AVM) requirements and best practices for developing cert
+  - `01-Claude-Chinh-Thuc\hashicorp-terraform-style-guide\skills\azure-verified-modules\SKILL.md`
+- **azure-verified-modules**: Azure Verified Modules (AVM) requirements and best practices for developing cert
+  - `01-Claude-Chinh-Thuc\hashicorp-terraform-stacks\skills\azure-verified-modules\SKILL.md`
+- **azure-verified-modules**: Azure Verified Modules (AVM) requirements and best practices for developing cert
+  - `01-Claude-Chinh-Thuc\hashicorp-terraform-search-import\skills\azure-verified-modules\SKILL.md`
+- **azure-verified-modules**: Azure Verified Modules (AVM) requirements and best practices for developing cert
+  - `01-Claude-Chinh-Thuc\hashicorp-refactor-module\skills\azure-verified-modules\SKILL.md`
+- **azure-verified-modules**: Azure Verified Modules (AVM) requirements and best practices for developing cert
+  - `01-Claude-Chinh-Thuc\hashicorp-azure-verified-modules\skills\azure-verified-modules\SKILL.md`
+- **building-cloud-siem-with-sentinel**: This skill covers deploying Microsoft Sentinel as a cloud-native SIEM and SOAR p
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\building-cloud-siem-with-sentinel\SKILL.md`
+- **building-identity-federation-with-saml-azure-ad**: Establish SAML 2.0 identity federation between on-premises Active Directory and 
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\building-identity-federation-with-saml-azure-ad\SKILL.md`
+- **building-patch-tuesday-response-process**: Establish a structured operational process to triage, test, and deploy Microsoft
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\building-patch-tuesday-response-process\SKILL.md`
+- **conducting-cloud-incident-response**: Responds to security incidents in cloud environments (AWS, Azure, GCP) by perfor
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\conducting-cloud-incident-response\SKILL.md`
+- **conducting-cloud-penetration-testing**: This skill outlines methodologies for performing authorized penetration testing 
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\conducting-cloud-penetration-testing\SKILL.md`
+- **configuring-active-directory-tiered-model**: Implement Microsoft
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\configuring-active-directory-tiered-model\SKILL.md`
+- **configuring-windows-defender-advanced-settings**: Configures Microsoft Defender for Endpoint (MDE) advanced protection settings in
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\configuring-windows-defender-advanced-settings\SKILL.md`
+- **detecting-azure-service-principal-abuse**: Detect and investigate Azure service principal abuse including privilege escalat
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\detecting-azure-service-principal-abuse\SKILL.md`
+- **detecting-azure-storage-account-misconfigurations**: Audit Azure Blob and ADLS storage accounts for public access exposure, weak or l
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\detecting-azure-storage-account-misconfigurations\SKILL.md`
+- **detecting-misconfigured-azure-storage**: Detecting misconfigured Azure Storage accounts including publicly accessible blo
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\detecting-misconfigured-azure-storage\SKILL.md`
+- **detecting-oauth-token-theft**: Detects and responds to OAuth token theft and replay attacks in cloud environmen
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\detecting-oauth-token-theft\SKILL.md`
+- **exploiting-ms17-010-eternalblue-vulnerability**: MS17-010 (EternalBlue) is a critical vulnerability in Microsoft
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\exploiting-ms17-010-eternalblue-vulnerability\SKILL.md`
+- **implementing-azure-ad-privileged-identity-management**: Configure Microsoft Entra Privileged Identity Management to enforce just-in-time
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\implementing-azure-ad-privileged-identity-management\SKILL.md`
+- **implementing-azure-defender-for-cloud**: Implementing Microsoft Defender for Cloud to enable cloud security posture manag
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\implementing-azure-defender-for-cloud\SKILL.md`
+- **implementing-cloud-dlp-for-data-protection**: Implementing Cloud Data Loss Prevention (DLP) using Amazon Macie, Azure Informat
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\implementing-cloud-dlp-for-data-protection\SKILL.md`
+- **implementing-cloud-vulnerability-posture-management**: Implement Cloud Security Posture Management using AWS Security Hub, Azure Defend
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\implementing-cloud-vulnerability-posture-management\SKILL.md`
+- **implementing-cloud-waf-rules**: This skill covers deploying and tuning Web Application Firewall rules on AWS WAF
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\implementing-cloud-waf-rules\SKILL.md`
+- **implementing-conditional-access-policies-azure-ad**: Configure Microsoft Entra ID (Azure AD) Conditional Access policies for zero tru
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\implementing-conditional-access-policies-azure-ad\SKILL.md`
+- **implementing-data-loss-prevention-with-microsoft-purview**: Implements data loss prevention policies using Microsoft Purview to protect sens
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\implementing-data-loss-prevention-with-microsoft-purview\SKILL.md`
+- **implementing-disk-encryption-with-bitlocker**: Implements full disk encryption using Microsoft BitLocker on Windows endpoints t
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\implementing-disk-encryption-with-bitlocker\SKILL.md`
+- **implementing-passwordless-auth-with-microsoft-entra**: Implements passwordless authentication using Microsoft Entra ID with FIDO2 secur
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\implementing-passwordless-auth-with-microsoft-entra\SKILL.md`
+- **outlook-emails-lawvable**: Read, search, and download emails and attachments from Microsoft Outlook via OAu
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\lawvable__awesome-legal-skills\skills\outlook-emails-lawvable\SKILL.md`
+- **performing-cloud-incident-containment-procedures**: Execute cloud-native incident containment across AWS, Azure, and GCP by isolatin
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-cloud-incident-containment-procedures\SKILL.md`
+- **performing-serverless-function-security-review**: Performing security reviews of serverless functions across AWS Lambda, Azure Fun
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-serverless-function-security-review\SKILL.md`
+- **playwright-ci**: Production-ready CI/CD configurations for Playwright — GitHub Actions, GitLab CI
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\testdino-hq__playwright-skill\ci\SKILL.md`
+- **podcast-generation**: Generate AI-powered podcast-style audio narratives using Azure OpenAI
+  - `02-Microsoft-Azure\microsoft-podcast-generation\SKILL.md`
+- **securing-azure-with-microsoft-defender**: This skill instructs security practitioners on deploying Microsoft Defender for 
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\securing-azure-with-microsoft-defender\SKILL.md`
+- **securing-serverless-functions**: This skill covers security hardening for serverless compute platforms including 
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\securing-serverless-functions\SKILL.md`
+
+## Monitoring (120 skill)
+
+- **Resume Bullet Writer**: Transform weak resume bullets into achievement-focused statements with metrics a
+  - `42-Cong-Dong-Nang-Suat-Cong-Tac\Paramchoudhary__ResumeSkills\skills\resume-bullet-writer\SKILL.md`
+- **analyzing-certificate-transparency-for-phishing**: Monitor Certificate Transparency logs using crt.sh and Certstream to detect phis
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\analyzing-certificate-transparency-for-phishing\SKILL.md`
+- **analyzing-dns-logs-for-exfiltration**: Analyzes DNS query logs to detect data exfiltration via DNS tunneling, DGA domai
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\analyzing-dns-logs-for-exfiltration\SKILL.md`
+- **analyzing-linux-system-artifacts**: Examine Linux system artifacts including auth logs, cron jobs, shell history, an
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\analyzing-linux-system-artifacts\SKILL.md`
+- **analyzing-network-flow-data-with-netflow**: Parse NetFlow v9 and IPFIX records to detect volumetric anomalies, port scanning
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\analyzing-network-flow-data-with-netflow\SKILL.md`
+- **analyzing-tls-certificate-transparency-logs**: Queries Certificate Transparency logs via crt.sh and pycrtsh to detect phishing 
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\analyzing-tls-certificate-transparency-logs\SKILL.md`
+- **analyzing-web-server-logs-for-intrusion**: Parse Apache and Nginx access logs to detect SQL injection attempts, local file 
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\analyzing-web-server-logs-for-intrusion\SKILL.md`
+- **ara-research-manager**: Records research provenance as a post-task epilogue, scanning conversation histo
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\zechenzhangAGI__AI-research-SKILLs\22-agent-native-research-artifact\research-manager\SKILL.md`
+- **ara-research-manager**: Records research provenance as a post-task epilogue, scanning conversation histo
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\Orchestra-Research__AI-research-SKILLs\22-agent-native-research-artifact\research-manager\SKILL.md`
+- **archive**: Archive session learnings, debugging solutions, and deployment logs to .archive/
+  - `42-Cong-Dong-Nang-Suat-Cong-Tac\ReScienceLab__opc-skills\skills\archive\SKILL.md`
+- **asc-metrics**: When the user wants to analyze their own app
+  - `44-Cong-Dong-Tiep-Thi-Mang-Xa-Hoi\Eronred__aso-skills\skills\asc-metrics\SKILL.md`
+- **authenticate-wallet**: Sign in to the wallet. Use when you or the user want to log in, sign in, connect
+  - `25-Coinbase\authenticate-wallet\skills\authenticate-wallet\SKILL.md`
+- **building-soc-metrics-and-kpi-tracking**: Builds SOC performance metrics and KPI tracking dashboards measuring Mean Time t
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\building-soc-metrics-and-kpi-tracking\SKILL.md`
+- **cobrapy**: Constraint-based metabolic modeling (COBRA). FBA, FVA, gene knockouts, flux samp
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\K-Dense-AI__claude-scientific-skills\scientific-skills\cobrapy\SKILL.md`
+- **configuring-host-based-intrusion-detection**: Configures host-based intrusion detection systems (HIDS) to monitor endpoint fil
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\configuring-host-based-intrusion-detection\SKILL.md`
+- **configuring-snort-ids-for-intrusion-detection**: Installs, configures, and tunes Snort 3 intrusion detection system to monitor ne
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\configuring-snort-ids-for-intrusion-detection\SKILL.md`
+- **crash-analytics**: When the user wants to monitor, triage, or reduce their app
+  - `44-Cong-Dong-Tiep-Thi-Mang-Xa-Hoi\Eronred__aso-skills\skills\crash-analytics\SKILL.md`
+- **customer-journey-map**: Create a customer journey map across stages, touchpoints, actions, emotions, and
+  - `04-Quan-Ly-San-Pham-Dean-Peters\skills\customer-journey-map\SKILL.md`
+- **dd-logs**: Log management - search, archives, metrics, and cost control.
+  - `28-Datadog\dd-logs\dd-logs\SKILL.md`
+- **dd-monitors**: Monitor management - list, search, file-based create, and alerting best practice
+  - `28-Datadog\dd-monitors\dd-monitors\SKILL.md`
+- **deploying-osquery-for-endpoint-monitoring**: Deploys and configures osquery for real-time endpoint monitoring using SQL-based
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\deploying-osquery-for-endpoint-monitoring\SKILL.md`
+- **detecting-beaconing-patterns-with-zeek**: Performs statistical analysis of Zeek conn.log connection intervals to detect C2
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\detecting-beaconing-patterns-with-zeek\SKILL.md`
+- **detecting-container-drift-at-runtime**: Detect unauthorized modifications to running containers by monitoring for binary
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\detecting-container-drift-at-runtime\SKILL.md`
+- **detecting-exfiltration-over-dns-with-zeek**: Detect DNS-based data exfiltration by analyzing Zeek dns.log for high-entropy su
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\detecting-exfiltration-over-dns-with-zeek\SKILL.md`
+- **detecting-golden-ticket-attacks-in-kerberos-logs**: Detect Golden Ticket attacks in Active Directory by analyzing Kerberos TGT anoma
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\detecting-golden-ticket-attacks-in-kerberos-logs\SKILL.md`
+- **detecting-kerberoasting-attacks**: Detect Kerberoasting attacks by monitoring for anomalous Kerberos TGS requests t
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\detecting-kerberoasting-attacks\SKILL.md`
+- **detecting-lateral-movement-in-network**: Identifies lateral movement techniques in enterprise networks by analyzing authe
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\detecting-lateral-movement-in-network\SKILL.md`
+- **detecting-lateral-movement-with-zeek**: Detect lateral movement in network traffic using Zeek (formerly Bro) log analysi
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\detecting-lateral-movement-with-zeek\SKILL.md`
+- **detecting-living-off-the-land-attacks**: Detect abuse of legitimate Windows binaries (LOLBins) used for living off the la
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\detecting-living-off-the-land-attacks\SKILL.md`
+- **detecting-modbus-command-injection-attacks**: Detect command injection attacks against Modbus TCP/RTU protocol in ICS environm
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\detecting-modbus-command-injection-attacks\SKILL.md`
+- **detecting-pass-the-hash-attacks**: Detect Pass-the-Hash attacks by analyzing NTLM authentication patterns, identify
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\detecting-pass-the-hash-attacks\SKILL.md`
+- **detecting-ransomware-encryption-behavior**: Detects ransomware encryption activity in real time using entropy analysis, file
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\detecting-ransomware-encryption-behavior\SKILL.md`
+- **detecting-s3-data-exfiltration-attempts**: Detecting data exfiltration attempts from AWS S3 buckets by analyzing CloudTrail
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\detecting-s3-data-exfiltration-attempts\SKILL.md`
+- **detecting-service-account-abuse**: Detect abuse of service accounts through anomalous interactive logons, privilege
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\detecting-service-account-abuse\SKILL.md`
+- **etetoolkit**: Phylogenetic tree toolkit (ETE). Tree manipulation (Newick/NHX), evolutionary ev
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\K-Dense-AI__claude-scientific-skills\scientific-skills\etetoolkit\SKILL.md`
+- **extracting-windows-event-logs-artifacts**: Extract, parse, and analyze Windows Event Logs (EVTX) using Chainsaw, Hayabusa, 
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\extracting-windows-event-logs-artifacts\SKILL.md`
+- **fal-models-catalog**: >
+  - `14-fal-ai\skills\fal-models-catalog\SKILL.md`
+- **filtering**: Use when the user needs to filter data — whether in a structured query, a metric
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\honeydew-ai__honeydew-ai-coding-agents-plugins\skills\filtering\SKILL.md`
+- **finance-metrics-quickref**: Look up SaaS finance metrics, formulas, and benchmarks fast. Use when you need a
+  - `04-Quan-Ly-San-Pham-Dean-Peters\skills\finance-metrics-quickref\SKILL.md`
+- **github-issue-creator**: Convert raw notes, error logs, voice dictation, or screenshots into crisp GitHub
+  - `02-Microsoft-Azure\microsoft-github-issue-creator\SKILL.md`
+- **grammar-check**: Identify grammar, logical, and flow errors in text and suggest targeted fixes wi
+  - `05-Quan-Ly-San-Pham-Pawel-Huryn\pm-toolkit\skills\grammar-check\SKILL.md`
+- **gstack-openclaw-investigate**: Use when asked to debug, fix a bug, investigate an error, or do root cause analy
+  - `08-Khoi-Nghiep-Garry-Tan\openclaw\skills\gstack-openclaw-investigate\SKILL.md`
+- **hermes-traffic-guardian**: Hermes runtime traffic monitoring baseline for opt-in proxy inspection, egress d
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\prompt-security__clawsec\skills\hermes-traffic-guardian\SKILL.md`
+- **hig-components-dialogs**: -
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\raintree-technology__apple-hig-skills\skills\hig-components-dialogs\SKILL.md`
+- **hig-technologies**: -
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\raintree-technology__apple-hig-skills\skills\hig-technologies\SKILL.md`
+- **hugging-science**: Use when the user is doing AI/ML work in a scientific domain — biology, chemistr
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\K-Dense-AI__claude-scientific-skills\scientific-skills\hugging-science\SKILL.md`
+- **hunting-credential-stuffing-attacks**: Detects credential stuffing attacks by analyzing authentication logs for login v
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\hunting-credential-stuffing-attacks\SKILL.md`
+- **hunting-for-anomalous-powershell-execution**: Hunt for malicious PowerShell activity by analyzing Script Block Logging (Event 
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\hunting-for-anomalous-powershell-execution\SKILL.md`
+- **hunting-for-data-staging-before-exfiltration**: Detect data staging activity before exfiltration by monitoring for archive creat
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\hunting-for-data-staging-before-exfiltration\SKILL.md`
+- **hunting-for-dns-tunneling-with-zeek**: Detect DNS tunneling and data exfiltration by analyzing Zeek dns.log for high-en
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\hunting-for-dns-tunneling-with-zeek\SKILL.md`
+- **hunting-for-ntlm-relay-attacks**: Detect NTLM relay attacks by analyzing Windows Event 4624 logon type 3 with NTLM
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\hunting-for-ntlm-relay-attacks\SKILL.md`
+- **hunting-for-registry-persistence-mechanisms**: Hunt for registry-based persistence mechanisms including Run keys, Winlogon modi
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\hunting-for-registry-persistence-mechanisms\SKILL.md`
+- **hunting-for-registry-run-key-persistence**: Detect MITRE ATT&CK T1547.001 registry Run key persistence by analyzing Sysmon E
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\hunting-for-registry-run-key-persistence\SKILL.md`
+- **hunting-for-unusual-service-installations**: Detect suspicious Windows service installations (MITRE ATT&CK T1543.003) by pars
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\hunting-for-unusual-service-installations\SKILL.md`
+- **implementing-alert-fatigue-reduction**: Implements strategies to reduce SOC alert fatigue by tuning detection rules, con
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\implementing-alert-fatigue-reduction\SKILL.md`
+- **implementing-aws-config-rules-for-compliance**: Implementing AWS Config rules for continuous compliance monitoring of AWS resour
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\implementing-aws-config-rules-for-compliance\SKILL.md`
+- **implementing-dragos-platform-for-ot-monitoring**: Deploy and configure the Dragos Platform for OT network monitoring, leveraging i
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\implementing-dragos-platform-for-ot-monitoring\SKILL.md`
+- **implementing-log-forwarding-with-fluentd**: Configure Fluentd and Fluent Bit for centralized log aggregation, routing, filte
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\implementing-log-forwarding-with-fluentd\SKILL.md`
+- **implementing-log-integrity-with-blockchain**: Build an append-only log integrity chain using SHA-256 hash chaining for tamper 
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\implementing-log-integrity-with-blockchain\SKILL.md`
+- **implementing-network-segmentation-for-ot**: This skill covers implementing network segmentation in Operational Technology en
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\implementing-network-segmentation-for-ot\SKILL.md`
+- **implementing-privileged-session-monitoring**: Implements privileged session monitoring and recording using Privileged Access M
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\implementing-privileged-session-monitoring\SKILL.md`
+- **implementing-syslog-centralization-with-rsyslog**: Configure rsyslog for centralized log collection with TLS encryption, custom tem
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\implementing-syslog-centralization-with-rsyslog\SKILL.md`
+- **implementing-ticketing-system-for-incidents**: Implements an integrated incident ticketing system connecting SIEM alerts to Ser
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\implementing-ticketing-system-for-incidents\SKILL.md`
+- **lamindb**: This skill should be used when working with LaminDB, an open-source data framewo
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\K-Dense-AI__claude-scientific-skills\scientific-skills\lamindb\SKILL.md`
+- **langsmith-observability**: LLM observability platform for tracing, evaluation, and monitoring. Use when deb
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\zechenzhangAGI__AI-research-SKILLs\17-observability\langsmith\SKILL.md`
+- **langsmith-observability**: LLM observability platform for tracing, evaluation, and monitoring. Use when deb
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\Orchestra-Research__AI-research-SKILLs\17-observability\langsmith\SKILL.md`
+- **logo-creator**: Create logos using AI image generation. Discuss style/ratio, generate variations
+  - `42-Cong-Dong-Nang-Suat-Cong-Tac\ReScienceLab__opc-skills\skills\logo-creator\SKILL.md`
+- **medchem**: Medicinal chemistry filters. Apply drug-likeness rules (Lipinski, Veber), PAINS 
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\K-Dense-AI__claude-scientific-skills\scientific-skills\medchem\SKILL.md`
+- **meta-optimize**: Analyze ARIS usage logs and propose optimizations to SKILL.md files, reviewer pr
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\wanshuiyin__Auto-claude-code-research-in-sleep\skills\meta-optimize\SKILL.md`
+- **meta-optimize**: Analyze ARIS usage logs and propose optimizations to SKILL.md files, reviewer pr
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\wanshuiyin__Auto-claude-code-research-in-sleep\skills\skills-codex\meta-optimize\SKILL.md`
+- **monitor-experiment**: Monitor running experiments, check progress, collect results. Use when user says
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\wanshuiyin__Auto-claude-code-research-in-sleep\skills\monitor-experiment\SKILL.md`
+- **monitor-experiment**: Monitor running experiments, check progress, collect results. Use when user says
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\wanshuiyin__Auto-claude-code-research-in-sleep\skills\skills-codex\monitor-experiment\SKILL.md`
+- **n8n-expression-syntax**: Validate n8n expression syntax and fix common errors. Use when writing n8n expre
+  - `46-Cong-Dong-n8n-Tu-Dong-Hoa\czlonkowski__n8n-expression-syntax\SKILL.md`
+- **n8n-validation-expert**: Interpret validation errors and guide fixing them. Use when encountering validat
+  - `46-Cong-Dong-n8n-Tu-Dong-Hoa\czlonkowski__n8n-validation-expert\SKILL.md`
+- **nanoclaw-traffic-guardian**: NanoClaw runtime traffic monitoring baseline for host-side proxy inspection with
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\prompt-security__clawsec\skills\nanoclaw-traffic-guardian\SKILL.md`
+- **netlify-edge-functions**: Guide for writing Netlify Edge Functions. Use when building middleware, geolocat
+  - `19-Netlify\netlify-edge-functions\SKILL.md`
+- **netlify-edge-functions**: Guide for writing Netlify Edge Functions. Use when building middleware, geolocat
+  - `19-Netlify\_repo\skills\netlify-edge-functions\SKILL.md`
+- **netlify-edge-functions**: Guide for writing Netlify Edge Functions. Use when building middleware, geolocat
+  - `19-Netlify\_repo\codex\skills\netlify-edge-functions\SKILL.md`
+- **neurokit2**: Comprehensive biosignal processing toolkit for analyzing physiological data incl
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\K-Dense-AI__claude-scientific-skills\scientific-skills\neurokit2\SKILL.md`
+- **ontology-explorer**: >
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\materials-simulation-skills\skills\ontology\ontology-explorer\SKILL.md`
+- **ontology-mapper**: >
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\materials-simulation-skills\skills\ontology\ontology-mapper\SKILL.md`
+- **ontology-validator**: >
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\materials-simulation-skills\skills\ontology\ontology-validator\SKILL.md`
+- **openclaw-traffic-guardian**: OpenClaw runtime traffic monitoring baseline for opt-in HTTP/HTTPS proxy inspect
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\prompt-security__clawsec\skills\openclaw-traffic-guardian\SKILL.md`
+- **performing-cloud-forensics-with-aws-cloudtrail**: Perform forensic investigation of AWS environments using CloudTrail logs to reco
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-cloud-forensics-with-aws-cloudtrail\SKILL.md`
+- **performing-cloud-log-forensics-with-athena**: Uses AWS Athena to query CloudTrail, VPC Flow Logs, S3 access logs, and ALB logs
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-cloud-log-forensics-with-athena\SKILL.md`
+- **performing-deception-technology-deployment**: Deploys deception technology including honeypots, honeytokens, and decoy systems
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-deception-technology-deployment\SKILL.md`
+- **performing-dmarc-policy-enforcement-rollout**: Execute a phased DMARC rollout from p=none monitoring through p=quarantine to p=
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-dmarc-policy-enforcement-rollout\SKILL.md`
+- **performing-ics-asset-discovery-with-claroty**: Perform comprehensive ICS/OT asset discovery using Claroty xDome platform, lever
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-ics-asset-discovery-with-claroty\SKILL.md`
+- **performing-linux-log-forensics-investigation**: Perform forensic investigation of Linux system logs including syslog, auth.log, 
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-linux-log-forensics-investigation\SKILL.md`
+- **performing-log-source-onboarding-in-siem**: Perform structured log source onboarding into SIEM platforms by configuring coll
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-log-source-onboarding-in-siem\SKILL.md`
+- **performing-ssl-certificate-lifecycle-management**: SSL/TLS certificate lifecycle management encompasses the full process of request
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-ssl-certificate-lifecycle-management\SKILL.md`
+- **performing-timeline-reconstruction-with-plaso**: Build comprehensive forensic super-timelines using Plaso (log2timeline) to corre
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-timeline-reconstruction-with-plaso\SKILL.md`
+- **persona-event-coordinator**: Plan and manage events — scheduling, invitations, and logistics.
+  - `12-Google-Workspace\skills\persona-event-coordinator\SKILL.md`
+- **phoenix-observability**: Open-source AI observability platform for LLM tracing, evaluation, and monitorin
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\zechenzhangAGI__AI-research-SKILLs\17-observability\phoenix\SKILL.md`
+- **phoenix-observability**: Open-source AI observability platform for LLM tracing, evaluation, and monitorin
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\Orchestra-Research__AI-research-SKILLs\17-observability\phoenix\SKILL.md`
+- **phylogenetics**: Build and analyze phylogenetic trees using MAFFT (multiple alignment), IQ-TREE 2
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\K-Dense-AI__claude-scientific-skills\scientific-skills\phylogenetics\SKILL.md`
+- **picoclaw-traffic-guardian**: Picoclaw runtime traffic monitoring baseline for lightweight AI gateway proxy in
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\prompt-security__clawsec\skills\picoclaw-traffic-guardian\SKILL.md`
+- **primekg**: Query the Precision Medicine Knowledge Graph (PrimeKG) for multiscale biological
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\K-Dense-AI__claude-scientific-skills\scientific-skills\primekg\SKILL.md`
+- **prioritize-features**: Prioritize a backlog of feature ideas based on impact, effort, risk, and strateg
+  - `05-Quan-Ly-San-Pham-Pawel-Huryn\pm-product-discovery\skills\prioritize-features\SKILL.md`
+- **rdkit**: Cheminformatics toolkit for fine-grained molecular control. SMILES/SDF parsing, 
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\K-Dense-AI__claude-scientific-skills\scientific-skills\rdkit\SKILL.md`
+- **release-notes**: Generate user-facing release notes from tickets, PRDs, or changelogs. Creates cl
+  - `05-Quan-Ly-San-Pham-Pawel-Huryn\pm-execution\skills\release-notes\SKILL.md`
+- **reverse-engineering-ios-app-with-frida**: Reverse engineers iOS applications using Frida dynamic instrumentation to unders
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\reverse-engineering-ios-app-with-frida\SKILL.md`
+- **root-cause-tracing**: Use when errors occur deep in execution and you need to trace back to find the o
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\NeoLabHQ__kaizen\skills\root-cause-tracing\SKILL.md`
+- **scikit-bio**: Biological data toolkit. Sequence analysis, alignments, phylogenetic trees, dive
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\K-Dense-AI__claude-scientific-skills\scientific-skills\scikit-bio\SKILL.md`
+- **sentry-otel-exporter-setup**: Configure the OpenTelemetry Collector with Sentry Exporter for multi-project rou
+  - `07-Theo-Doi-Loi-Sentry\skills\sentry-otel-exporter-setup\SKILL.md`
+- **sentry-setup-ai-monitoring**: Setup Sentry AI Agent Monitoring in any project. Use when asked to monitor LLM c
+  - `07-Theo-Doi-Loi-Sentry\skills\sentry-setup-ai-monitoring\SKILL.md`
+- **soul-guardian**: Drift detection + baseline integrity guard for agent workspace files with automa
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\prompt-security__clawsec\skills\soul-guardian\SKILL.md`
+- **tech-contract-negotiation-patrick-munro**: Guide to negotiating technology services agreements, professional services contr
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\lawvable__awesome-legal-skills\skills\tech-contract-negotiation-patrick-munro\SKILL.md`
+- **tensorboard**: Visualize training metrics, debug models with histograms, compare experiments, v
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\zechenzhangAGI__AI-research-SKILLs\13-mlops\tensorboard\SKILL.md`
+- **tensorboard**: Visualize training metrics, debug models with histograms, compare experiments, v
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\Orchestra-Research__AI-research-SKILLs\13-mlops\tensorboard\SKILL.md`
+- **torch-geometric**: Guide for building Graph Neural Networks with PyTorch Geometric (PyG). Use this 
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\K-Dense-AI__claude-scientific-skills\scientific-skills\torch-geometric\SKILL.md`
+- **training-check**: Periodically check WandB metrics during training to catch problems early (NaN, l
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\wanshuiyin__Auto-claude-code-research-in-sleep\skills\training-check\SKILL.md`
+- **tree-of-thoughts**: Execute tasks through systematic exploration, pruning, and expansion using Tree 
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\NeoLabHQ__sadd\skills\tree-of-thoughts\SKILL.md`
+- **user-journeys**: User experience flows - journey mapping, UX validation, error recovery
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\alinaqi__claude-bootstrap\skills\user-journeys\SKILL.md`
+- **user-story-splitting**: Break a large story or epic into smaller deliverable stories using proven split 
+  - `04-Quan-Ly-San-Pham-Dean-Peters\skills\user-story-splitting\SKILL.md`
+- **validation**: Use after creating or modifying ANY Honeydew object (metric, attribute, entity, 
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\honeydew-ai__honeydew-ai-coding-agents-plugins\skills\validation\SKILL.md`
+- **vendor-due-diligence-patrick-munro**: Framework for assessing IT service providers, technology vendors, and third-part
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\lawvable__awesome-legal-skills\skills\vendor-due-diligence-patrick-munro\SKILL.md`
+- **web-perf**: Analyzes web performance using Chrome DevTools MCP. Measures Core Web Vitals (LC
+  - `26-Cloudflare\web-perf\skills\web-perf\SKILL.md`
+- **weights-and-biases**: Track ML experiments with automatic logging, visualize training in real-time, op
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\zechenzhangAGI__AI-research-SKILLs\13-mlops\weights-and-biases\SKILL.md`
+- **weights-and-biases**: Track ML experiments with automatic logging, visualize training in real-time, op
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\Orchestra-Research__AI-research-SKILLs\13-mlops\weights-and-biases\SKILL.md`
+
+## Office & Docs (176 skill)
+
+- **Resume ATS Optimizer**: Optimize resumes for Applicant Tracking Systems, check ATS compatibility, and an
+  - `42-Cong-Dong-Nang-Suat-Cong-Tac\Paramchoudhary__ResumeSkills\skills\resume-ats-optimizer\SKILL.md`
+- **analyzing-docker-container-forensics**: Investigate compromised Docker containers by analyzing images, layers, volumes, 
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\analyzing-docker-container-forensics\SKILL.md`
+- **android-aso**: When the user wants to optimize their Google Play Store listing — title, short d
+  - `44-Cong-Dong-Tiep-Thi-Mang-Xa-Hoi\Eronred__aso-skills\skills\android-aso\SKILL.md`
+- **app-marketing-context**: When the user wants to create or update their app marketing context document. Al
+  - `44-Cong-Dong-Tiep-Thi-Mang-Xa-Hoi\Eronred__aso-skills\skills\app-marketing-context\SKILL.md`
+- **apple-search-ads**: When the user wants to set up, optimize, or scale Apple Search Ads (ASA) campaig
+  - `44-Cong-Dong-Tiep-Thi-Mang-Xa-Hoi\Eronred__aso-skills\skills\apple-search-ads\SKILL.md`
+- **asc-aso-audit**: Run an offline ASO audit on canonical App Store metadata under `./metadata` and 
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\rudrankriyam__app-store-connect-cli-skills\skills\asc-aso-audit\SKILL.md`
+- **asc-localize-metadata**: Automatically translate and sync App Store metadata (description, keywords, what
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\rudrankriyam__app-store-connect-cli-skills\skills\asc-localize-metadata\SKILL.md`
+- **blueprint**: Use when creating, editing, or reviewing WordPress Playground blueprint JSON fil
+  - `16-WordPress\_repo\skills\blueprint\SKILL.md`
+- **building-threat-actor-profile-from-osint**: Build comprehensive threat actor profiles using open-source intelligence (OSINT)
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\building-threat-actor-profile-from-osint\SKILL.md`
+- **bx**: USE FOR web search, research, RAG, grounding, browse, find, lookups, fact-checki
+  - `24-Brave\bx\skills\bx\SKILL.md`
+- **clarity-gate**: Pre-ingestion verification for epistemic quality in RAG systems. Ensures documen
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\frmoretto__clarity-gate\.claude\skills\clarity-gate\SKILL.md`
+- **clinical-decision-support**: Generate professional clinical decision support (CDS) documents for pharmaceutic
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\K-Dense-AI__claude-scientific-skills\scientific-skills\clinical-decision-support\SKILL.md`
+- **competitor-tracking**: When the user wants to monitor competitor apps on an ongoing basis — tracking me
+  - `44-Cong-Dong-Tiep-Thi-Mang-Xa-Hoi\Eronred__aso-skills\skills\competitor-tracking\SKILL.md`
+- **conducting-post-incident-lessons-learned**: Facilitate structured post-incident reviews to identify root causes, document wh
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\conducting-post-incident-lessons-learned\SKILL.md`
+- **create-prd**: Create a Product Requirements Document using a comprehensive 8-section template 
+  - `05-Quan-Ly-San-Pham-Pawel-Huryn\pm-execution\skills\create-prd\SKILL.md`
+- **dart-doc-validation**: -
+  - `09-Flutter\tool\dart_skills_lint\.agents\skills\dart-doc-validation\SKILL.md`
+- **datasheets**: Extract structured specifications from electronic component datasheet PDFs — pin
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\aklofas__kicad-happy\skills\datasheets\SKILL.md`
+- **dd-docs**: Datadog docs lookup using docs.datadoghq.com/llms.txt and linked Markdown pages.
+  - `28-Datadog\dd-docs\dd-docs\SKILL.md`
+- **detecting-dcsync-attack-in-active-directory**: Detect DCSync attacks where adversaries abuse Active Directory replication privi
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\detecting-dcsync-attack-in-active-directory\SKILL.md`
+- **diffdock**: Diffusion-based molecular docking. Predict protein-ligand binding poses from PDB
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\K-Dense-AI__claude-scientific-skills\scientific-skills\diffdock\SKILL.md`
+- **doc-coauthoring**: Guide users through a structured workflow for co-authoring documentation. Use wh
+  - `01-Claude-Chinh-Thuc\anthropics-doc-coauthoring\SKILL.md`
+- **docs-transloadit-robots**: Offline lookup for Transloadit Robots and their parameter docs/examples via the 
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\transloadit__skills\docs-transloadit-robots\SKILL.md`
+- **docx**: Use this skill whenever the user wants to create, read, edit, or manipulate Word
+  - `01-Claude-Chinh-Thuc\anthropics-docx\SKILL.md`
+- **docx**: Use this skill whenever the user wants to create, read, edit, or manipulate Word
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\K-Dense-AI__claude-scientific-skills\scientific-skills\docx\SKILL.md`
+- **docx-processing-anthropic**: Use this skill whenever the user wants to create, read, edit, or manipulate Word
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\lawvable__awesome-legal-skills\skills\docx-processing-anthropic\SKILL.md`
+- **docx-processing-openai**: Toolkit for comprehensive document reading, editing, and creation with visual qu
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\lawvable__awesome-legal-skills\skills\docx-processing-openai\SKILL.md`
+- **docx-processing-superdoc**: Searches, replaces, and reads text in Word documents. Use when the user asks to 
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\lawvable__awesome-legal-skills\skills\docx-processing-superdoc\SKILL.md`
+- **duckdb-docs**: >
+  - `35-DuckDB\duckdb-duckdb-docs\SKILL.md`
+- **email-and-password-best-practices**: Configure email verification, implement password reset flows, set password polic
+  - `01-Claude-Chinh-Thuc\better-auth-emailAndPassword\SKILL.md`
+- **extracting-credentials-from-memory-dump**: Extract cached credentials, password hashes, Kerberos tickets, and authenticatio
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\extracting-credentials-from-memory-dump\SKILL.md`
+- **genealogy-research**: Guide a genealogy research agent through the full lifecycle — interviews, docume
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\peas__genealogy-research\SKILL.md`
+- **generic-language-killer**: Remove vague, corporate, or AI-sounding language and replace it with clear, spec
+  - `21-Quang-Cao-Kim-Barrett\generic-language-killer\SKILL.md`
+- **generic-language-killer**: Remove vague, corporate, or AI-sounding language and replace it with clear, spec
+  - `21-Quang-Cao-Kim-Barrett\_repo\skills\qa\generic-language-killer\SKILL.md`
+- **genre-creator**: Create new genre documentation files for the bitwize-music genre library. Use wh
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\bitwize-music-studio__claude-ai-music-skills\skills\genre-creator\SKILL.md`
+- **grill-with-docs**: Grilling session that challenges your plan against the existing domain model, sh
+  - `09-Flutter\.agents\agents\reidbaker-agent\skills\grill-with-docs\SKILL.md`
+- **grill-with-docs**: Grilling session that challenges your plan against the existing domain model, sh
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mattpocock__skills\skills\engineering\grill-with-docs\SKILL.md`
+- **gstack-openclaw-office-hours**: Use when asked to brainstorm, evaluate whether an idea is worth building, run of
+  - `08-Khoi-Nghiep-Garry-Tan\openclaw\skills\gstack-openclaw-office-hours\SKILL.md`
+- **gws-docs**: Read and write Google Docs.
+  - `12-Google-Workspace\skills\gws-docs\SKILL.md`
+- **gws-docs-write**: Google Docs: Append text to a document.
+  - `12-Google-Workspace\skills\gws-docs-write\SKILL.md`
+- **gws-sheets**: Google Sheets: Read and write spreadsheets.
+  - `12-Google-Workspace\skills\gws-sheets\SKILL.md`
+- **gws-sheets-append**: Google Sheets: Append a row to a spreadsheet.
+  - `12-Google-Workspace\skills\gws-sheets-append\SKILL.md`
+- **gws-sheets-read**: Google Sheets: Read values from a spreadsheet.
+  - `12-Google-Workspace\skills\gws-sheets-read\SKILL.md`
+- **gws-slides**: Google Slides: Read and write presentations.
+  - `12-Google-Workspace\skills\gws-slides\SKILL.md`
+- **gws-workflow-meeting-prep**: Google Workflow: Prepare for your next meeting: agenda, attendees, and linked do
+  - `12-Google-Workspace\skills\gws-workflow-meeting-prep\SKILL.md`
+- **handoff**: Compact the current conversation into a handoff document for another agent to pi
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mattpocock__skills\skills\productivity\handoff\SKILL.md`
+- **hardening-docker-containers-for-production**: Hardening Docker containers for production involves applying security best pract
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\hardening-docker-containers-for-production\SKILL.md`
+- **hardening-docker-daemon-configuration**: Harden the Docker daemon by configuring daemon.json with user namespace remappin
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\hardening-docker-daemon-configuration\SKILL.md`
+- **hf-mcp**: Use Hugging Face Hub via MCP server tools. Search models, datasets, Spaces, pape
+  - `18-Hugging-Face\_repo\hf-mcp\skills\hf-mcp\SKILL.md`
+- **histolab**: Lightweight WSI tile extraction and preprocessing. Use for basic slide processin
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\K-Dense-AI__claude-scientific-skills\scientific-skills\histolab\SKILL.md`
+- **implementing-honeytokens-for-breach-detection**: Deploys canary tokens and honeytokens (fake AWS credentials, DNS canaries, docum
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\implementing-honeytokens-for-breach-detection\SKILL.md`
+- **implementing-passwordless-authentication-with-fido2**: Deploy FIDO2/WebAuthn passwordless authentication using security keys and platfo
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\implementing-passwordless-authentication-with-fido2\SKILL.md`
+- **implementing-zero-knowledge-proof-for-authentication**: Zero-Knowledge Proofs (ZKPs) allow a prover to demonstrate knowledge of a secret
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\implementing-zero-knowledge-proof-for-authentication\SKILL.md`
+- **iso-13485-certification**: Comprehensive toolkit for preparing ISO 13485 certification documentation for me
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\K-Dense-AI__claude-scientific-skills\scientific-skills\iso-13485-certification\SKILL.md`
+- **keyword-research**: When the user wants to discover, evaluate, or prioritize App Store keywords. Als
+  - `44-Cong-Dong-Tiep-Thi-Mang-Xa-Hoi\Eronred__aso-skills\skills\keyword-research\SKILL.md`
+- **kidoc**: -
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\aklofas__kicad-happy\skills\kidoc\SKILL.md`
+- **kill-argument**: Two-thread adversarial review: a fresh reviewer constructs the strongest 200-wor
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\wanshuiyin__Auto-claude-code-research-in-sleep\skills\kill-argument\SKILL.md`
+- **llamaindex**: Data framework for building LLM applications with RAG. Specializes in document i
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\zechenzhangAGI__AI-research-SKILLs\14-agents\llamaindex\SKILL.md`
+- **llamaindex**: Data framework for building LLM applications with RAG. Specializes in document i
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\Orchestra-Research__AI-research-SKILLs\14-agents\llamaindex\SKILL.md`
+- **markdown-mermaid-writing**: Comprehensive markdown and Mermaid diagram writing skill. Use when creating any 
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\K-Dense-AI__claude-scientific-skills\scientific-skills\markdown-mermaid-writing\SKILL.md`
+- **markitdown**: Convert files and office documents to Markdown. Supports PDF, DOCX, PPTX, XLSX, 
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\K-Dense-AI__claude-scientific-skills\scientific-skills\markitdown\SKILL.md`
+- **metadata-optimization**: When the user wants to optimize App Store metadata — title, subtitle, keyword fi
+  - `44-Cong-Dong-Tiep-Thi-Mang-Xa-Hoi\Eronred__aso-skills\skills\metadata-optimization\SKILL.md`
+- **minimax-docx**: >
+  - `23-MiniMax\minimax-docx\SKILL.md`
+- **minimax-docx**: >
+  - `23-MiniMax\_repo\skills\minimax-docx\SKILL.md`
+- **minimax-pdf**: >
+  - `23-MiniMax\minimax-pdf\SKILL.md`
+- **minimax-pdf**: >
+  - `23-MiniMax\_repo\skills\minimax-pdf\SKILL.md`
+- **minimax-xlsx**: Open, create, read, analyze, edit, or validate Excel/spreadsheet files (.xlsx, .
+  - `23-MiniMax\minimax-xlsx\SKILL.md`
+- **minimax-xlsx**: Open, create, read, analyze, edit, or validate Excel/spreadsheet files (.xlsx, .
+  - `23-MiniMax\_repo\skills\minimax-xlsx\SKILL.md`
+- **netlify-blobs**: Guide for using Netlify Blobs for file and asset storage — images, documents, up
+  - `19-Netlify\netlify-blobs\SKILL.md`
+- **netlify-blobs**: Guide for using Netlify Blobs for file and asset storage — images, documents, up
+  - `19-Netlify\_repo\skills\netlify-blobs\SKILL.md`
+- **netlify-blobs**: Guide for using Netlify Blobs for file and asset storage — images, documents, up
+  - `19-Netlify\_repo\codex\skills\netlify-blobs\SKILL.md`
+- **netlify-identity**: Use when the task involves authentication, user signups, logins, password recove
+  - `19-Netlify\_repo\skills\netlify-identity\SKILL.md`
+- **netlify-identity**: Use when the task involves authentication, user signups, logins, password recove
+  - `19-Netlify\_repo\codex\skills\netlify-identity\SKILL.md`
+- **notion-knowledge-capture**: Transforms conversations and discussions into structured documentation pages in 
+  - `29-Notion\knowledge-capture\skills\claude\knowledge-capture\SKILL.md`
+- **notion-research-documentation**: Research across Notion and synthesize into structured documentation; use when ga
+  - `03-OpenAI\openai-notion-research-documentation\SKILL.md`
+- **notion-research-documentation**: Searches across your Notion workspace, synthesizes findings from multiple pages,
+  - `29-Notion\research-documentation\skills\claude\research-documentation\SKILL.md`
+- **nutrient-document-processing**: -
+  - `42-Cong-Dong-Nang-Suat-Cong-Tac\PSPDFKit-labs__nutrient-agent-skill\nutrient-document-processing\SKILL.md`
+- **open-notebook**: Self-hosted, open-source alternative to Google NotebookLM for AI-powered researc
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\K-Dense-AI__claude-scientific-skills\scientific-skills\open-notebook\SKILL.md`
+- **paper-compile**: Compile LaTeX paper to PDF, fix errors, and verify output. Use when user says \
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\wanshuiyin__Auto-claude-code-research-in-sleep\skills\paper-compile\SKILL.md`
+- **paper-compile**: Compile LaTeX paper to PDF, fix errors, and verify output. Use when user says \\
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\wanshuiyin__Auto-claude-code-research-in-sleep\skills\skills-codex\paper-compile\SKILL.md`
+- **paper-poster**: Generate a conference poster (article + tcbposter LaTeX → A0/A1 PDF + editable P
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\wanshuiyin__Auto-claude-code-research-in-sleep\skills\paper-poster\SKILL.md`
+- **paper-poster**: Generate a conference poster (article + tcbposter LaTeX → A0/A1 PDF + editable P
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\wanshuiyin__Auto-claude-code-research-in-sleep\skills\skills-codex-gemini-review\paper-poster\SKILL.md`
+- **paper-poster**: Generate a conference poster (article + tcbposter LaTeX → A0/A1 PDF + editable P
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\wanshuiyin__Auto-claude-code-research-in-sleep\skills\skills-codex\paper-poster\SKILL.md`
+- **paper-slides**: Generate conference presentation slides (beamer LaTeX → PDF + editable PPTX) fro
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\wanshuiyin__Auto-claude-code-research-in-sleep\skills\paper-slides\SKILL.md`
+- **paper-slides**: Generate conference presentation slides (beamer LaTeX → PDF + editable PPTX) fro
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\wanshuiyin__Auto-claude-code-research-in-sleep\skills\skills-codex-gemini-review\paper-slides\SKILL.md`
+- **paper-slides**: Generate conference presentation slides (beamer LaTeX → PDF + editable PPTX) fro
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\wanshuiyin__Auto-claude-code-research-in-sleep\skills\skills-codex\paper-slides\SKILL.md`
+- **paper-talk**: End-to-end conference talk pipeline: paper → slide outline → Beamer + PPTX → per
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\wanshuiyin__Auto-claude-code-research-in-sleep\skills\paper-talk\SKILL.md`
+- **patent-pipeline**: Full patent drafting pipeline from invention description to jurisdiction-formatt
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\wanshuiyin__Auto-claude-code-research-in-sleep\skills\patent-pipeline\SKILL.md`
+- **patent-pipeline**: Full patent drafting pipeline from invention description to jurisdiction-formatt
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\wanshuiyin__Auto-claude-code-research-in-sleep\skills\skills-codex\patent-pipeline\SKILL.md`
+- **pdf**: Use this skill whenever the user wants to do anything with PDF files. This inclu
+  - `01-Claude-Chinh-Thuc\anthropics-pdf\SKILL.md`
+- **pdf**: Use when tasks involve reading, creating, or reviewing PDF files where rendering
+  - `03-OpenAI\openai-pdf\SKILL.md`
+- **pdf**: Use this skill whenever the user wants to do anything with PDF files. This inclu
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\K-Dense-AI__claude-scientific-skills\scientific-skills\pdf\SKILL.md`
+- **pdf-processing-anthropic**: Use this skill whenever the user wants to do anything with PDF files. This inclu
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\lawvable__awesome-legal-skills\skills\pdf-processing-anthropic\SKILL.md`
+- **pdf-processing-openai**: Toolkit for comprehensive PDF reading, reviwing, and creation with visual qualit
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\lawvable__awesome-legal-skills\skills\pdf-processing-openai\SKILL.md`
+- **performing-credential-access-with-lazagne**: Extract stored credentials from compromised endpoints using the LaZagne post-exp
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-credential-access-with-lazagne\SKILL.md`
+- **performing-docker-bench-security-assessment**: Docker Bench for Security is an open-source script that checks dozens of common 
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-docker-bench-security-assessment\SKILL.md`
+- **performing-hash-cracking-with-hashcat**: Hash cracking is an essential skill for penetration testers and security auditor
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-hash-cracking-with-hashcat\SKILL.md`
+- **performing-wifi-password-cracking-with-aircrack**: Captures WPA/WPA2 handshakes and performs offline password cracking using aircra
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-wifi-password-cracking-with-aircrack\SKILL.md`
+- **persona-project-manager**: Coordinate projects — track tasks, schedule meetings, and share docs.
+  - `12-Google-Workspace\skills\persona-project-manager\SKILL.md`
+- **pixel-art**: Generate pixel art SVG illustrations for READMEs, docs, or slides. Use when user
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\wanshuiyin__Auto-claude-code-research-in-sleep\skills\pixel-art\SKILL.md`
+- **pixel-art**: Generate pixel art SVG illustrations for READMEs, docs, or slides. Use when user
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\wanshuiyin__Auto-claude-code-research-in-sleep\skills\skills-codex\pixel-art\SKILL.md`
+- **polyphony**: Multi-agent orchestration with container-isolated workspaces — each agent sessio
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\alinaqi__claude-bootstrap\skills\polyphony\SKILL.md`
+- **popup-cro**: When the user wants to create or optimize popups, modals, overlays, slide-ins, o
+  - `06-Tiep-Thi-Corey-Haines\skills\popup-cro\SKILL.md`
+- **ppt-editing-skill**: Edit existing PowerPoint files or templates with XML-safe workflows. Use for tem
+  - `23-MiniMax\_repo\plugins\pptx-plugin\skills\ppt-editing-skill\SKILL.md`
+- **ppt-orchestra-skill**: Plan and orchestrate multi-slide PowerPoint creation from scratch. Use before ge
+  - `23-MiniMax\_repo\plugins\pptx-plugin\skills\ppt-orchestra-skill\SKILL.md`
+- **pptx**: Use this skill any time a .pptx file is involved in any way — as input, output, 
+  - `01-Claude-Chinh-Thuc\anthropics-pptx\SKILL.md`
+- **pptx**: Use this skill any time a .pptx file is involved in any way — as input, output, 
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\K-Dense-AI__claude-scientific-skills\scientific-skills\pptx\SKILL.md`
+- **pptx-generator**: Generate, edit, and read PowerPoint presentations. Create from scratch with Pptx
+  - `23-MiniMax\pptx-generator\SKILL.md`
+- **pptx-generator**: Generate, edit, and read PowerPoint presentations. Create from scratch with Pptx
+  - `23-MiniMax\_repo\skills\pptx-generator\SKILL.md`
+- **pptx-processing-anthropic**: Use this skill any time a .pptx file is involved in any way — as input, output, 
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\lawvable__awesome-legal-skills\skills\pptx-processing-anthropic\SKILL.md`
+- **prd-generator**: Generates professional PRD (Product Requirements Document) files optimized for A
+  - `42-Cong-Dong-Nang-Suat-Cong-Tac\ognjengt__founder-skills\skills\prd-generator\SKILL.md`
+- **presenting-conference-talks**: Generates conference presentation slides (Beamer LaTeX PDF and editable PPTX) fr
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\zechenzhangAGI__AI-research-SKILLs\20-ml-paper-writing\presenting-conference-talks\SKILL.md`
+- **presenting-conference-talks**: Generates conference presentation slides (Beamer LaTeX PDF and editable PPTX) fr
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\Orchestra-Research__AI-research-SKILLs\20-ml-paper-writing\presenting-conference-talks\SKILL.md`
+- **product-marketing-context**: When the user wants to create or update their product marketing context document
+  - `06-Tiep-Thi-Corey-Haines\skills\product-marketing-context\SKILL.md`
+- **provider-docs**: Create, update, and review Terraform provider documentation for Terraform Regist
+  - `01-Claude-Chinh-Thuc\hashicorp-terraform-test\skills\provider-docs\SKILL.md`
+- **provider-docs**: Create, update, and review Terraform provider documentation for Terraform Regist
+  - `01-Claude-Chinh-Thuc\hashicorp-run-acceptance-tests\skills\provider-docs\SKILL.md`
+- **provider-docs**: Create, update, and review Terraform provider documentation for Terraform Regist
+  - `01-Claude-Chinh-Thuc\hashicorp-provider-test-patterns\skills\provider-docs\SKILL.md`
+- **provider-docs**: Create, update, and review Terraform provider documentation for Terraform Regist
+  - `01-Claude-Chinh-Thuc\hashicorp-provider-resources\skills\provider-docs\SKILL.md`
+- **provider-docs**: Create, update, and review Terraform provider documentation for Terraform Regist
+  - `01-Claude-Chinh-Thuc\hashicorp-provider-actions\skills\provider-docs\SKILL.md`
+- **provider-docs**: Create, update, and review Terraform provider documentation for Terraform Regist
+  - `01-Claude-Chinh-Thuc\hashicorp-new-terraform-provider\skills\provider-docs\SKILL.md`
+- **recipe-backup-sheet-as-csv**: Export a Google Sheets spreadsheet as a CSV file for local backup or processing.
+  - `12-Google-Workspace\skills\recipe-backup-sheet-as-csv\SKILL.md`
+- **recipe-create-doc-from-template**: Copy a Google Docs template, fill in content, and share with collaborators.
+  - `12-Google-Workspace\skills\recipe-create-doc-from-template\SKILL.md`
+- **recipe-create-events-from-sheet**: Read event data from a Google Sheets spreadsheet and create Google Calendar entr
+  - `12-Google-Workspace\skills\recipe-create-events-from-sheet\SKILL.md`
+- **recipe-create-expense-tracker**: Set up a Google Sheets spreadsheet for tracking expenses with headers and initia
+  - `12-Google-Workspace\skills\recipe-create-expense-tracker\SKILL.md`
+- **recipe-create-presentation**: Create a new Google Slides presentation and add initial slides.
+  - `12-Google-Workspace\skills\recipe-create-presentation\SKILL.md`
+- **recipe-create-vacation-responder**: Enable a Gmail out-of-office auto-reply with a custom message and date range.
+  - `12-Google-Workspace\skills\recipe-create-vacation-responder\SKILL.md`
+- **recipe-draft-email-from-doc**: Read content from a Google Doc and use it as the body of a Gmail message.
+  - `12-Google-Workspace\skills\recipe-draft-email-from-doc\SKILL.md`
+- **recipe-generate-report-from-sheet**: Read data from a Google Sheet and create a formatted Google Docs report.
+  - `12-Google-Workspace\skills\recipe-generate-report-from-sheet\SKILL.md`
+- **recipe-log-deal-update**: Append a deal status update to a Google Sheets sales tracking spreadsheet.
+  - `12-Google-Workspace\skills\recipe-log-deal-update\SKILL.md`
+- **recipe-post-mortem-setup**: Create a Google Docs post-mortem, schedule a Google Calendar review, and notify 
+  - `12-Google-Workspace\skills\recipe-post-mortem-setup\SKILL.md`
+- **recipe-save-email-to-doc**: Save a Gmail message body into a Google Doc for archival or reference.
+  - `12-Google-Workspace\skills\recipe-save-email-to-doc\SKILL.md`
+- **recipe-share-doc-and-notify**: Share a Google Docs document with edit access and email collaborators the link.
+  - `12-Google-Workspace\skills\recipe-share-doc-and-notify\SKILL.md`
+- **recipe-sync-contacts-to-sheet**: Export Google Contacts directory to a Google Sheets spreadsheet.
+  - `12-Google-Workspace\skills\recipe-sync-contacts-to-sheet\SKILL.md`
+- **referral-program**: When the user wants to create, optimize, or analyze a referral program, affiliat
+  - `06-Tiep-Thi-Corey-Haines\skills\referral-program\SKILL.md`
+- **review-resume**: Comprehensive PM resume review and tailoring against 10 best practices including
+  - `05-Quan-Ly-San-Pham-Pawel-Huryn\pm-toolkit\skills\review-resume\SKILL.md`
+- **sales-enablement**: When the user wants to create sales collateral, pitch decks, one-pagers, objecti
+  - `06-Tiep-Thi-Corey-Haines\skills\sales-enablement\SKILL.md`
+- **scanning-docker-images-with-trivy**: Trivy is a comprehensive open-source vulnerability scanner by Aqua Security that
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\scanning-docker-images-with-trivy\SKILL.md`
+- **scientific-slides**: Build slide decks and presentations for research talks. Use this for making Powe
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\K-Dense-AI__claude-scientific-skills\scientific-skills\scientific-slides\SKILL.md`
+- **seo-geo**: SEO & GEO (Generative Engine Optimization) for websites. Analyze keywords, gener
+  - `42-Cong-Dong-Nang-Suat-Cong-Tac\ReScienceLab__opc-skills\skills\seo-geo\SKILL.md`
+- **serverless-modal**: Run GPU workloads on Modal — training, fine-tuning, inference, batch processing.
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\wanshuiyin__Auto-claude-code-research-in-sleep\skills\serverless-modal\SKILL.md`
+- **serverless-modal**: Run GPU workloads on Modal — training, fine-tuning, inference, batch processing.
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\wanshuiyin__Auto-claude-code-research-in-sleep\skills\skills-codex\serverless-modal\SKILL.md`
+- **setup-matt-pocock-skills**: Sets up an `## Agent skills` block in AGENTS.md/CLAUDE.md and `docs/agents/` so 
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mattpocock__skills\skills\engineering\setup-matt-pocock-skills\SKILL.md`
+- **skill-name**: Clear description of what this skill does and when to use it. Include trigger ke
+  - `42-Cong-Dong-Nang-Suat-Cong-Tac\ReScienceLab__opc-skills\template\SKILL.md`
+- **slide-making-skill**: Implement single-slide PowerPoint pages with PptxGenJS. Use when writing or fixi
+  - `23-MiniMax\_repo\plugins\pptx-plugin\skills\slide-making-skill\SKILL.md`
+- **sop-creator**: Creates detailed Standard Operating Procedures (SOPs) for business processes. Us
+  - `42-Cong-Dong-Nang-Suat-Cong-Tac\ognjengt__founder-skills\skills\sop-creator\SKILL.md`
+- **tabular-review-lawvable**: Guide to analyze multiple documents (PDF, DOCX) against user-defined columns and
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\lawvable__awesome-legal-skills\skills\tabular-review-lawvable\SKILL.md`
+- **testing-for-host-header-injection**: Test web applications for HTTP Host header injection vulnerabilities to identify
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\testing-for-host-header-injection\SKILL.md`
+- **translate-book**: Translate books (PDF/DOCX/EPUB) into any language using parallel sub-agents. Con
+  - `42-Cong-Dong-Nang-Suat-Cong-Tac\deusyu__translate-book\SKILL.md`
+- **transloadit**: Main entry-point skill for Transloadit. Route to the right `integrate-*`, `trans
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\transloadit__skills\transloadit\SKILL.md`
+- **treatment-plans**: Generate concise (3-4 page), focused medical treatment plans in LaTeX/PDF format
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\K-Dense-AI__claude-scientific-skills\scientific-skills\treatment-plans\SKILL.md`
+- **venice-augment**: Venice augmentation endpoints for agent pipelines. Covers POST /augment/text-par
+  - `11-Venice-AI\skills\venice-augment\SKILL.md`
+- **viral-hook-creator**: Creates viral social media hooks using proven psychological patterns and trigger
+  - `42-Cong-Dong-Nang-Suat-Cong-Tac\ognjengt__founder-skills\skills\viral-hook-creator\SKILL.md`
+- **voice-extractor**: Extract and document someone
+  - `44-Cong-Dong-Tiep-Thi-Mang-Xa-Hoi\BrianRWagner__ai-marketing-skills\voice-extractor\SKILL.md`
+- **windows-vm**: Create, manage, or connect to a headless Windows 11 VM running in Docker with SS
+  - `42-Cong-Dong-Nang-Suat-Cong-Tac\obra__superpowers-lab\skills\windows-vm\SKILL.md`
+- **wp-block-development**: Use when developing WordPress (Gutenberg) blocks: block.json metadata, register_
+  - `16-WordPress\wp-block-development\SKILL.md`
+- **wp-block-development**: Use when developing WordPress (Gutenberg) blocks: block.json metadata, register_
+  - `16-WordPress\_repo\skills\wp-block-development\SKILL.md`
+- **wp-block-themes**: Use when developing WordPress block themes: theme.json (global settings/styles),
+  - `16-WordPress\wp-block-themes\SKILL.md`
+- **wp-block-themes**: Use when developing WordPress block themes: theme.json (global settings/styles),
+  - `16-WordPress\_repo\skills\wp-block-themes\SKILL.md`
+- **wp-performance**: Use when investigating or improving WordPress performance (backend-only agent): 
+  - `16-WordPress\wp-performance\SKILL.md`
+- **wp-performance**: Use when investigating or improving WordPress performance (backend-only agent): 
+  - `16-WordPress\_repo\skills\wp-performance\SKILL.md`
+- **wp-phpstan**: Use when configuring, running, or fixing PHPStan static analysis in WordPress pr
+  - `16-WordPress\wp-phpstan\SKILL.md`
+- **wp-phpstan**: Use when configuring, running, or fixing PHPStan static analysis in WordPress pr
+  - `16-WordPress\_repo\skills\wp-phpstan\SKILL.md`
+- **wp-playground**: Use for WordPress Playground workflows: fast disposable WP instances in the brow
+  - `16-WordPress\wp-playground\SKILL.md`
+- **wp-playground**: Use for WordPress Playground workflows: fast disposable WP instances in the brow
+  - `16-WordPress\_repo\skills\wp-playground\SKILL.md`
+- **wp-plugin-development**: Use when developing WordPress plugins: architecture and hooks, activation/deacti
+  - `16-WordPress\wp-plugin-development\SKILL.md`
+- **wp-plugin-development**: Use when developing WordPress plugins: architecture and hooks, activation/deacti
+  - `16-WordPress\_repo\skills\wp-plugin-development\SKILL.md`
+- **wp-plugin-directory-guidelines**: Use when reviewing WordPress plugins for GPL compliance, checking license header
+  - `16-WordPress\_repo\skills\wp-plugin-directory-guidelines\SKILL.md`
+- **wp-project-triage**: Use when you need a deterministic inspection of a WordPress repository (plugin/t
+  - `16-WordPress\wp-project-triage\SKILL.md`
+- **wp-project-triage**: Use when you need a deterministic inspection of a WordPress repository (plugin/t
+  - `16-WordPress\_repo\skills\wp-project-triage\SKILL.md`
+- **wp-wpcli-and-ops**: Use when working with WP-CLI (wp) for WordPress operations: safe search-replace,
+  - `16-WordPress\wp-wpcli-and-ops\SKILL.md`
+- **wp-wpcli-and-ops**: Use when working with WP-CLI (wp) for WordPress operations: safe search-replace,
+  - `16-WordPress\_repo\skills\wp-wpcli-and-ops\SKILL.md`
+- **write-concisely**: Apply writing rules to any documentation that humans will read. Makes your writi
+  - `42-Cong-Dong-Nang-Suat-Cong-Tac\NeoLabHQ__write-concisely\SKILL.md`
+- **xlsx**: Use this skill any time a spreadsheet file is the primary input or output. This 
+  - `01-Claude-Chinh-Thuc\anthropics-xlsx\SKILL.md`
+- **xlsx**: Use this skill any time a spreadsheet file is the primary input or output. This 
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\K-Dense-AI__claude-scientific-skills\scientific-skills\xlsx\SKILL.md`
+- **xlsx-processing-anthropic**: Use this skill any time a spreadsheet file is the primary input or output. This 
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\lawvable__awesome-legal-skills\skills\xlsx-processing-anthropic\SKILL.md`
+- **xlsx-processing-manus**: Professional Excel spreadsheet creation with a focus on aesthetics and data anal
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\lawvable__awesome-legal-skills\skills\xlsx-processing-manus\SKILL.md`
+- **xlsx-processing-openai**: Toolkit for comprehensive Spreadsheet reading, creation, editing, and analysis w
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\lawvable__awesome-legal-skills\skills\xlsx-processing-openai\SKILL.md`
+
+## Product & Business (42 skill)
+
+- **ab-test-store-listing**: When the user wants to A/B test App Store product page elements to improve conve
+  - `44-Cong-Dong-Tiep-Thi-Mang-Xa-Hoi\Eronred__aso-skills\skills\ab-test-store-listing\SKILL.md`
+- **clickhousectl-cloud-deploy**: Use when a user wants to deploy ClickHouse to the cloud, go to production, use C
+  - `01-Claude-Chinh-Thuc\clickhouse-clickhousectl-cloud-deploy\SKILL.md`
+- **company-research**: Create a company research brief with executive quotes, product strategy, and org
+  - `04-Quan-Ly-San-Pham-Dean-Peters\skills\company-research\SKILL.md`
+- **competitor-intel**: Analyzes competitors using web research to provide verified business metrics, ac
+  - `42-Cong-Dong-Nang-Suat-Cong-Tac\ognjengt__founder-skills\skills\competitor-intel\SKILL.md`
+- **detecting-business-email-compromise**: Business Email Compromise (BEC) is a sophisticated fraud scheme where attackers 
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\detecting-business-email-compromise\SKILL.md`
+- **detecting-business-email-compromise-with-ai**: Deploy AI and NLP-powered detection systems to identify business email compromis
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\detecting-business-email-compromise-with-ai\SKILL.md`
+- **eol-message**: Write a clear, empathetic EOL announcement with rationale, customer impact, and 
+  - `04-Quan-Ly-San-Pham-Dean-Peters\skills\eol-message\SKILL.md`
+- **executive-onboarding-playbook**: Plan a VP or CPO 30-60-90 day diagnostic onboarding path. Use when entering a ne
+  - `04-Quan-Ly-San-Pham-Dean-Peters\skills\executive-onboarding-playbook\SKILL.md`
+- **gws-workflow**: Google Workflow: Cross-service productivity workflows.
+  - `12-Google-Workspace\skills\gws-workflow\SKILL.md`
+- **huggingface-tokenizers**: Fast tokenizers optimized for research and production. Rust-based implementation
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\zechenzhangAGI__AI-research-SKILLs\02-tokenization\huggingface-tokenizers\SKILL.md`
+- **huggingface-tokenizers**: Fast tokenizers optimized for research and production. Rust-based implementation
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\Orchestra-Research__AI-research-SKILLs\02-tokenization\huggingface-tokenizers\SKILL.md`
+- **hunting-for-startup-folder-persistence**: Detect T1547.001 startup folder persistence by monitoring Windows startup direct
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\hunting-for-startup-folder-persistence\SKILL.md`
+- **identify-assumptions-existing**: Identify risky assumptions for a feature idea in an existing product across Valu
+  - `05-Quan-Ly-San-Pham-Pawel-Huryn\pm-product-discovery\skills\identify-assumptions-existing\SKILL.md`
+- **integrate-whatsapp**: Connect WhatsApp to your product with Kapso: onboard customers with setup links,
+  - `42-Cong-Dong-Nang-Suat-Cong-Tac\gokapso__integrate-whatsapp\SKILL.md`
+- **launch-strategy**: When the user wants to plan a product launch, feature announcement, or release s
+  - `06-Tiep-Thi-Corey-Haines\skills\launch-strategy\SKILL.md`
+- **legal-simulation-patrick-munro**: Framework for demonstrating AI capabilities in legal contexts. Provides detailed
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\lawvable__awesome-legal-skills\skills\legal-simulation-patrick-munro\SKILL.md`
+- **local-pois**: USE FOR getting local business/POI details. Requires POI IDs obtained from web-s
+  - `24-Brave\local-pois\skills\local-pois\SKILL.md`
+- **metric-creation**: Guides you step-by-step through defining a business metric (aggregation) on a Ho
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\honeydew-ai__honeydew-ai-coding-agents-plugins\skills\metric-creation\SKILL.md`
+- **mlflow**: Track ML experiments, manage model registry with versioning, deploy models to pr
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\zechenzhangAGI__AI-research-SKILLs\13-mlops\mlflow\SKILL.md`
+- **mlflow**: Track ML experiments, manage model registry with versioning, deploy models to pr
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\Orchestra-Research__AI-research-SKILLs\13-mlops\mlflow\SKILL.md`
+- **netlify-database**: Guide for using Netlify Database — the GA managed Postgres product built into Ne
+  - `19-Netlify\netlify-db\SKILL.md`
+- **netlify-database**: Guide for using Netlify Database — the GA managed Postgres product built into Ne
+  - `19-Netlify\_repo\skills\netlify-database\SKILL.md`
+- **netlify-database**: Guide for using Netlify Database — the GA managed Postgres product built into Ne
+  - `19-Netlify\_repo\codex\skills\netlify-database\SKILL.md`
+- **north-star-metric**: Define a North Star Metric and 3-5 supporting input metrics that form a metrics 
+  - `05-Quan-Ly-San-Pham-Pawel-Huryn\pm-marketing-growth\skills\north-star-metric\SKILL.md`
+- **offer-extraction**: Use when you need to turn a product or service into a compelling, high-convertin
+  - `21-Quang-Cao-Kim-Barrett\offer-extraction\SKILL.md`
+- **offer-extraction**: Use when you need to turn a product or service into a compelling, high-convertin
+  - `21-Quang-Cao-Kim-Barrett\_repo\skills\foundations\offer-extraction\SKILL.md`
+- **opportunity-solution-tree**: Build an Opportunity Solution Tree (OST) to structure product discovery — map a 
+  - `05-Quan-Ly-San-Pham-Pawel-Huryn\pm-product-discovery\skills\opportunity-solution-tree\SKILL.md`
+- **pinecone**: Managed vector database for production AI applications. Fully managed, auto-scal
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\zechenzhangAGI__AI-research-SKILLs\15-rag\pinecone\SKILL.md`
+- **pinecone**: Managed vector database for production AI applications. Fully managed, auto-scal
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\Orchestra-Research__AI-research-SKILLs\15-rag\pinecone\SKILL.md`
+- **positioning-ideas**: Brainstorm product positioning ideas differentiated from competitors. Identifies
+  - `05-Quan-Ly-San-Pham-Pawel-Huryn\pm-marketing-growth\skills\positioning-ideas\SKILL.md`
+- **product-hunt-launch-plan**: Creates a comprehensive, personalized Product Hunt launch plan to rank #1. Use w
+  - `42-Cong-Dong-Nang-Suat-Cong-Tac\ognjengt__founder-skills\skills\product-hunt-launch-plan\SKILL.md`
+- **product-vision**: Brainstorm an inspiring, achievable, and emotional product vision that motivates
+  - `05-Quan-Ly-San-Pham-Pawel-Huryn\pm-product-strategy\skills\product-vision\SKILL.md`
+- **qdrant-monitoring-debugging**: Diagnoses Qdrant production issues using metrics and observability tools. Use wh
+  - `40-Vector-Databases\qdrant-monitoring\debugging\SKILL.md`
+- **qdrant-vector-search**: High-performance vector similarity search engine for RAG and semantic search. Us
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\zechenzhangAGI__AI-research-SKILLs\15-rag\qdrant\SKILL.md`
+- **qdrant-vector-search**: High-performance vector similarity search engine for RAG and semantic search. Us
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\Orchestra-Research__AI-research-SKILLs\15-rag\qdrant\SKILL.md`
+- **qiskit**: IBM quantum computing framework. Use when targeting IBM Quantum hardware, workin
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\K-Dense-AI__claude-scientific-skills\scientific-skills\qiskit\SKILL.md`
+- **sentiment-analysis**: Analyze user feedback data to identify segments with sentiment scores, JTBD, and
+  - `05-Quan-Ly-San-Pham-Pawel-Huryn\pm-market-research\skills\sentiment-analysis\SKILL.md`
+- **sentry**: Use when the user asks to inspect Sentry issues or events, summarize recent prod
+  - `03-OpenAI\openai-sentry\SKILL.md`
+- **sentry-fix-issues**: Find and fix issues from Sentry using MCP. Use when asked to fix Sentry errors, 
+  - `07-Theo-Doi-Loi-Sentry\skills\sentry-fix-issues\SKILL.md`
+- **tensorrt-llm**: Optimizes LLM inference with NVIDIA TensorRT for maximum throughput and lowest l
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\zechenzhangAGI__AI-research-SKILLs\12-inference-serving\tensorrt-llm\SKILL.md`
+- **tensorrt-llm**: Optimizes LLM inference with NVIDIA TensorRT for maximum throughput and lowest l
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\Orchestra-Research__AI-research-SKILLs\12-inference-serving\tensorrt-llm\SKILL.md`
+- **wwas**: Create product backlog items in Why-What-Acceptance format — independent, valuab
+  - `05-Quan-Ly-San-Pham-Pawel-Huryn\pm-execution\skills\wwas\SKILL.md`
+
+## Search (83 skill)
+
+- **LinkedIn Profile Optimizer**: Optimize LinkedIn profile for searchability, recruiter visibility, and engagemen
+  - `42-Cong-Dong-Nang-Suat-Cong-Tac\Paramchoudhary__ResumeSkills\skills\linkedin-profile-optimizer\SKILL.md`
+- **LinkedIn Profile Optimizer**: Optimize LinkedIn profile for searchability, recruiter visibility, and engagemen
+  - `42-Cong-Dong-Nang-Suat-Cong-Tac\Paramchoudhary__ResumeSkills\.agents\skills\linkedin-profile-optimizer\SKILL.md`
+- **answers**: USE FOR AI-grounded answers via OpenAI-compatible /chat/completions. Two modes: 
+  - `24-Brave\answers\skills\answers\SKILL.md`
+- **ara-rigor-reviewer**: Performs ARA Seal Level 2 semantic epistemic review on Agent-Native Research Art
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\zechenzhangAGI__AI-research-SKILLs\22-agent-native-research-artifact\rigor-reviewer\SKILL.md`
+- **ara-rigor-reviewer**: Performs ARA Seal Level 2 semantic epistemic review on Agent-Native Research Art
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\Orchestra-Research__AI-research-SKILLs\22-agent-native-research-artifact\rigor-reviewer\SKILL.md`
+- **auto-review-loop**: Autonomous multi-round research review loop. Repeatedly reviews using Gemini via
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\wanshuiyin__Auto-claude-code-research-in-sleep\skills\skills-codex-gemini-review\auto-review-loop\SKILL.md`
+- **bgpt-paper-search**: Search scientific papers and retrieve structured experimental data extracted fro
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\K-Dense-AI__claude-scientific-skills\scientific-skills\bgpt-paper-search\SKILL.md`
+- **brainstorming-research-ideas**: Guides researchers through structured ideation frameworks to discover high-impac
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\zechenzhangAGI__AI-research-SKILLs\21-research-ideation\brainstorming-research-ideas\SKILL.md`
+- **brainstorming-research-ideas**: Guides researchers through structured ideation frameworks to discover high-impac
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\Orchestra-Research__AI-research-SKILLs\21-research-ideation\brainstorming-research-ideas\SKILL.md`
+- **building-detection-rule-with-splunk-spl**: Build effective detection rules using Splunk Search Processing Language (SPL) co
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\building-detection-rule-with-splunk-spl\SKILL.md`
+- **competitor-profiling**: When the user wants to research, profile, or analyze competitors from their URLs
+  - `06-Tiep-Thi-Corey-Haines\skills\competitor-profiling\SKILL.md`
+- **core-web-vitals**: Optimize Core Web Vitals (LCP, INP, CLS) for better page experience and search r
+  - `36-Chat-Luong-Web-Addy-Osmani\addyosmani-core-web-vitals\SKILL.md`
+- **creative-thinking-for-research**: Applies cognitive science frameworks for creative thinking to CS and AI research
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\zechenzhangAGI__AI-research-SKILLs\21-research-ideation\creative-thinking-for-research\SKILL.md`
+- **creative-thinking-for-research**: Applies cognitive science frameworks for creative thinking to CS and AI research
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\Orchestra-Research__AI-research-SKILLs\21-research-ideation\creative-thinking-for-research\SKILL.md`
+- **customer-research**: When the user wants to conduct, analyze, or synthesize customer research. Use wh
+  - `06-Tiep-Thi-Corey-Haines\skills\customer-research\SKILL.md`
+- **element14**: Search Newark, Farnell, and element14 for electronic components — find parts by 
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\aklofas__kicad-happy\skills\element14\SKILL.md`
+- **formula-derivation**: Structures and derives research formulas when the user wants to 推导公式, build a th
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\wanshuiyin__Auto-claude-code-research-in-sleep\skills\formula-derivation\SKILL.md`
+- **formula-derivation**: Structures and derives research formulas when the user wants to 推导公式, build a th
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\wanshuiyin__Auto-claude-code-research-in-sleep\skills\skills-codex\formula-derivation\SKILL.md`
+- **grant-proposal**: Draft a structured grant proposal from research ideas and literature. Supports K
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\wanshuiyin__Auto-claude-code-research-in-sleep\skills\grant-proposal\SKILL.md`
+- **grant-proposal**: Draft a structured grant proposal from research ideas and literature. Supports K
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\wanshuiyin__Auto-claude-code-research-in-sleep\skills\skills-codex-gemini-review\grant-proposal\SKILL.md`
+- **grant-proposal**: Draft a structured grant proposal from research ideas and literature. Supports K
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\wanshuiyin__Auto-claude-code-research-in-sleep\skills\skills-codex\grant-proposal\SKILL.md`
+- **hackernews-frontpage**: Scrape the Hacker News front page (titles, points, comment counts).
+  - `08-Khoi-Nghiep-Garry-Tan\browser-skills\hackernews-frontpage\SKILL.md`
+- **hig-components-search**: -
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\raintree-technology__apple-hig-skills\skills\hig-components-search\SKILL.md`
+- **huggingface-paper-publisher**: Publish and manage research papers on Hugging Face Hub. Supports creating paper 
+  - `18-Hugging-Face\hugging-face-paper-publisher\SKILL.md`
+- **huggingface-paper-publisher**: Publish and manage research papers on Hugging Face Hub. Supports creating paper 
+  - `18-Hugging-Face\_repo\skills\huggingface-paper-publisher\SKILL.md`
+- **idea-discovery**: Workflow 1: Full idea discovery pipeline. Orchestrates research-lit → idea-creat
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\wanshuiyin__Auto-claude-code-research-in-sleep\skills\idea-discovery\SKILL.md`
+- **idea-discovery**: Workflow 1: Full idea discovery pipeline. Orchestrates research-lit \u2192 idea-
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\wanshuiyin__Auto-claude-code-research-in-sleep\skills\skills-codex-gemini-review\idea-discovery\SKILL.md`
+- **idea-discovery**: Workflow 1: Full idea discovery pipeline. Orchestrates research-lit \u2192 idea-
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\wanshuiyin__Auto-claude-code-research-in-sleep\skills\skills-codex\idea-discovery\SKILL.md`
+- **ideal-customer-profile**: Identify the Ideal Customer Profile (ICP) from research data with demographics, 
+  - `05-Quan-Ly-San-Pham-Pawel-Huryn\pm-go-to-market\skills\ideal-customer-profile\SKILL.md`
+- **images-search**: USE FOR image search. Returns images with title, source URL, thumbnail. Supports
+  - `24-Brave\images-search\skills\images-search\SKILL.md`
+- **last30days**: Research what people actually say about any topic in the last 30 days. Pulls pos
+  - `42-Cong-Dong-Nang-Suat-Cong-Tac\mvanhorn__last30days-skill\skills\last30days\SKILL.md`
+- **last30days**: Research any topic across Reddit, X, and web from the last 30 days. Get current 
+  - `44-Cong-Dong-Tiep-Thi-Mang-Xa-Hoi\BrianRWagner__ai-marketing-skills\last30days\SKILL.md`
+- **latex-posters**: Create professional research posters in LaTeX using beamerposter, tikzposter, or
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\K-Dense-AI__claude-scientific-skills\scientific-skills\latex-posters\SKILL.md`
+- **lcsc**: Search LCSC Electronics for electronic components — find parts by LCSC number (C
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\aklofas__kicad-happy\skills\lcsc\SKILL.md`
+- **legal-risk-assessment-zacharie-laik**: Conduct legal research and risk analysis using GoodLegal MCP tools. Use this ski
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\lawvable__awesome-legal-skills\skills\legal-risk-assessment-zacharie-laik\SKILL.md`
+- **local-descriptions**: USE FOR getting AI-generated POI text descriptions. Requires POI IDs obtained fr
+  - `24-Brave\local-descriptions\skills\local-descriptions\SKILL.md`
+- **mongodb-search-and-ai**: |
+  - `31-MongoDB\mongodb-search-and-ai\skills\mongodb-search-and-ai\SKILL.md`
+- **mouser**: Search Mouser Electronics for electronic components — secondary source for proto
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\aklofas__kicad-happy\skills\mouser\SKILL.md`
+- **news-search**: USE FOR news search. Returns news articles with title, URL, description, age, th
+  - `24-Brave\news-search\skills\news-search\SKILL.md`
+- **notion-meeting-intelligence**: Prepares meeting materials by gathering context from Notion, enriching with Clau
+  - `29-Notion\meeting-intelligence\skills\claude\meeting-intelligence\SKILL.md`
+- **novelty-check**: Verify research idea novelty against recent literature. Use when user says
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\wanshuiyin__Auto-claude-code-research-in-sleep\skills\novelty-check\SKILL.md`
+- **novelty-check**: Verify research idea novelty against recent literature. Use when user says \
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\wanshuiyin__Auto-claude-code-research-in-sleep\skills\skills-codex-gemini-review\novelty-check\SKILL.md`
+- **novelty-check**: Verify research idea novelty against recent literature. Use when user says \
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\wanshuiyin__Auto-claude-code-research-in-sleep\skills\skills-codex-claude-review\novelty-check\SKILL.md`
+- **novelty-check**: Verify research idea novelty against recent literature. Use when user says \
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\wanshuiyin__Auto-claude-code-research-in-sleep\skills\skills-codex\novelty-check\SKILL.md`
+- **obsidian-vault**: Search, create, and manage notes in the Obsidian vault with wikilinks and index 
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mattpocock__skills\skills\personal\obsidian-vault\SKILL.md`
+- **persona-researcher**: Organize research — manage references, notes, and collaboration.
+  - `12-Google-Workspace\skills\persona-researcher\SKILL.md`
+- **qdrant-hybrid-search-combining**: Use when someone asks
+  - `40-Vector-Databases\qdrant-search-quality\search-strategies\hybrid-search\combining-searches\SKILL.md`
+- **qdrant-hybrid-search-prefetches**: Use when someone asks
+  - `40-Vector-Databases\qdrant-search-quality\search-strategies\hybrid-search\search-types\SKILL.md`
+- **qdrant-search-quality-diagnosis**: Diagnoses Qdrant search quality issues. Use when someone reports
+  - `40-Vector-Databases\qdrant-search-quality\diagnosis\SKILL.md`
+- **qdrant-search-speed-optimization**: Diagnoses and fixes slow Qdrant search. Use when someone reports
+  - `40-Vector-Databases\qdrant-performance-optimization\search-speed-optimization\SKILL.md`
+- **recursive-decomposition**: Based on the Recursive Language Models (RLM) research by Zhang, Kraska, and Khat
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\massimodeluisa__recursive-decomposition-skill\plugins\recursive-decomposition\skills\recursive-decomposition\SKILL.md`
+- **requesthunt**: Generate user demand research reports from real user feedback. Scrape and analyz
+  - `42-Cong-Dong-Nang-Suat-Cong-Tac\ReScienceLab__opc-skills\skills\requesthunt\SKILL.md`
+- **research-grants**: Write competitive research proposals for NSF, NIH, DOE, DARPA, and Taiwan NSTC. 
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\K-Dense-AI__claude-scientific-skills\scientific-skills\research-grants\SKILL.md`
+- **research-lit**: Search and analyze research papers, find related work, summarize key ideas. Use 
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\wanshuiyin__Auto-claude-code-research-in-sleep\skills\research-lit\SKILL.md`
+- **research-lit**: Search and analyze research papers, find related work, summarize key ideas. Use 
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\wanshuiyin__Auto-claude-code-research-in-sleep\skills\skills-codex\research-lit\SKILL.md`
+- **research-pipeline**: Full research pipeline: Workflow 1 (idea discovery) → implementation → Workflow 
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\wanshuiyin__Auto-claude-code-research-in-sleep\skills\research-pipeline\SKILL.md`
+- **research-pipeline**: Full research pipeline: Workflow 1 (idea discovery) \u2192 implementation \u2192
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\wanshuiyin__Auto-claude-code-research-in-sleep\skills\skills-codex\research-pipeline\SKILL.md`
+- **research-refine**: Turn a vague research direction into a problem-anchored, elegant, frontier-aware
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\wanshuiyin__Auto-claude-code-research-in-sleep\skills\research-refine\SKILL.md`
+- **research-refine**: Turn a vague research direction into a problem-anchored, elegant, frontier-aware
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\wanshuiyin__Auto-claude-code-research-in-sleep\skills\skills-codex-gemini-review\research-refine\SKILL.md`
+- **research-refine**: Turn a vague research direction into a problem-anchored, elegant, frontier-aware
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\wanshuiyin__Auto-claude-code-research-in-sleep\skills\skills-codex-claude-review\research-refine\SKILL.md`
+- **research-refine**: Turn a vague research direction into a problem-anchored, elegant, frontier-aware
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\wanshuiyin__Auto-claude-code-research-in-sleep\skills\skills-codex\research-refine\SKILL.md`
+- **research-refine-pipeline**: Run an end-to-end workflow that chains `research-refine` and `experiment-plan`. 
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\wanshuiyin__Auto-claude-code-research-in-sleep\skills\research-refine-pipeline\SKILL.md`
+- **research-refine-pipeline**: Run an end-to-end workflow that chains `research-refine` and `experiment-plan`. 
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\wanshuiyin__Auto-claude-code-research-in-sleep\skills\skills-codex\research-refine-pipeline\SKILL.md`
+- **research-review**: Get a deep critical review of research from Gemini via gemini-review MCP. Use wh
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\wanshuiyin__Auto-claude-code-research-in-sleep\skills\skills-codex-gemini-review\research-review\SKILL.md`
+- **research-review**: Get a deep critical review of research from Claude via claude-review MCP. Use wh
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\wanshuiyin__Auto-claude-code-research-in-sleep\skills\skills-codex-claude-review\research-review\SKILL.md`
+- **research-wiki**: Persistent research knowledge base that accumulates papers, ideas, experiments, 
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\wanshuiyin__Auto-claude-code-research-in-sleep\skills\research-wiki\SKILL.md`
+- **research-wiki**: Persistent research knowledge base that accumulates papers, ideas, experiments, 
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\wanshuiyin__Auto-claude-code-research-in-sleep\skills\skills-codex\research-wiki\SKILL.md`
+- **scholar-evaluation**: Systematically evaluate scholarly work using the ScholarEval framework, providin
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\K-Dense-AI__claude-scientific-skills\scientific-skills\scholar-evaluation\SKILL.md`
+- **scientific-brainstorming**: Creative research ideation and exploration. Use for open-ended brainstorming ses
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\K-Dense-AI__claude-scientific-skills\scientific-skills\scientific-brainstorming\SKILL.md`
+- **scientific-writing**: Core skill for the deep research and writing tool. Write scientific manuscripts 
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\K-Dense-AI__claude-scientific-skills\scientific-skills\scientific-writing\SKILL.md`
+- **spellcheck**: USE FOR spell correction. Returns corrected query if misspelled. Most search end
+  - `24-Brave\spellcheck\skills\spellcheck\SKILL.md`
+- **terraform-search-import**: Discover existing cloud resources using Terraform Search queries and bulk import
+  - `01-Claude-Chinh-Thuc\hashicorp-terraform-search-import\SKILL.md`
+- **terraform-search-import**: Discover existing cloud resources using Terraform Search queries and bulk import
+  - `01-Claude-Chinh-Thuc\hashicorp-terraform-style-guide\skills\terraform-search-import\SKILL.md`
+- **terraform-search-import**: Discover existing cloud resources using Terraform Search queries and bulk import
+  - `01-Claude-Chinh-Thuc\hashicorp-terraform-stacks\skills\terraform-search-import\SKILL.md`
+- **terraform-search-import**: Discover existing cloud resources using Terraform Search queries and bulk import
+  - `01-Claude-Chinh-Thuc\hashicorp-terraform-search-import\skills\terraform-search-import\SKILL.md`
+- **terraform-search-import**: Discover existing cloud resources using Terraform Search queries and bulk import
+  - `01-Claude-Chinh-Thuc\hashicorp-refactor-module\skills\terraform-search-import\SKILL.md`
+- **terraform-search-import**: Discover existing cloud resources using Terraform Search queries and bulk import
+  - `01-Claude-Chinh-Thuc\hashicorp-azure-verified-modules\skills\terraform-search-import\SKILL.md`
+- **transformer-lens-interpretability**: Provides guidance for mechanistic interpretability research using TransformerLen
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\zechenzhangAGI__AI-research-SKILLs\04-mechanistic-interpretability\transformer-lens\SKILL.md`
+- **transformer-lens-interpretability**: Provides guidance for mechanistic interpretability research using TransformerLen
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\Orchestra-Research__AI-research-SKILLs\04-mechanistic-interpretability\transformer-lens\SKILL.md`
+- **user-personas**: Create refined user personas from research data — 3 personas with JTBD, pains, g
+  - `05-Quan-Ly-San-Pham-Pawel-Huryn\pm-market-research\skills\user-personas\SKILL.md`
+- **videos-search**: USE FOR video search. Returns videos with title, URL, thumbnail, duration, view 
+  - `24-Brave\videos-search\skills\videos-search\SKILL.md`
+- **web-search**: USE FOR web search. Returns ranked results with snippets, URLs, thumbnails. Supp
+  - `24-Brave\web-search\skills\web-search\SKILL.md`
+- **x-twitter-scraper**: Use when the user needs X (Twitter) data or confirmation-gated X actions through
+  - `44-Cong-Dong-Tiep-Thi-Mang-Xa-Hoi\Xquik-dev__x-twitter-scraper\skills\x-twitter-scraper\SKILL.md`
+
+## Security (230 skill)
+
+- **accessibility**: Audit and improve web accessibility following WCAG 2.2 guidelines. Use when aske
+  - `36-Chat-Luong-Web-Addy-Osmani\addyosmani-accessibility\SKILL.md`
+- **algorand-vulnerability-scanner**: Scans Algorand smart contracts for 11 common vulnerabilities including rekeying 
+  - `10-Bao-Mat-Trail-of-Bits\plugins\building-secure-contracts\skills\algorand-vulnerability-scanner\SKILL.md`
+- **analytics-tracking**: When the user wants to set up, improve, or audit analytics tracking and measurem
+  - `06-Tiep-Thi-Corey-Haines\skills\analytics-tracking\SKILL.md`
+- **analyzing-cyber-kill-chain**: Analyzes intrusion activity against the Lockheed Martin Cyber Kill Chain framewo
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\analyzing-cyber-kill-chain\SKILL.md`
+- **analyzing-ethereum-smart-contract-vulnerabilities**: Perform static and symbolic analysis of Solidity smart contracts using Slither a
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\analyzing-ethereum-smart-contract-vulnerabilities\SKILL.md`
+- **analyzing-ios-app-security-with-objection**: Performs runtime mobile security exploration of iOS applications using Objection
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\analyzing-ios-app-security-with-objection\SKILL.md`
+- **analyzing-linux-audit-logs-for-intrusion**: Uses the Linux Audit framework (auditd) with ausearch and aureport utilities to 
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\analyzing-linux-audit-logs-for-intrusion\SKILL.md`
+- **analyzing-ransomware-leak-site-intelligence**: Monitor and analyze ransomware group data leak sites (DLS) to track victim posti
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\analyzing-ransomware-leak-site-intelligence\SKILL.md`
+- **analyzing-sbom-for-supply-chain-vulnerabilities**: Parses Software Bill of Materials (SBOM) in CycloneDX and SPDX JSON formats to i
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\analyzing-sbom-for-supply-chain-vulnerabilities\SKILL.md`
+- **analyzing-security-logs-with-splunk**: Leverages Splunk Enterprise Security and SPL (Search Processing Language) to inv
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\analyzing-security-logs-with-splunk\SKILL.md`
+- **analyzing-threat-landscape-with-misp**: Analyze the threat landscape using MISP (Malware Information Sharing Platform) b
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\analyzing-threat-landscape-with-misp\SKILL.md`
+- **analyzing-windows-event-logs-in-splunk**: Analyzes Windows Security, System, and Sysmon event logs in Splunk to detect aut
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\analyzing-windows-event-logs-in-splunk\SKILL.md`
+- **asc-workflow**: Define, validate, run, resume, and audit repo-local multi-step automations with 
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\rudrankriyam__app-store-connect-cli-skills\skills\asc-workflow\SKILL.md`
+- **aso-audit**: When the user wants to audit or optimize an App Store or Google Play listing. Al
+  - `06-Tiep-Thi-Corey-Haines\skills\aso-audit\SKILL.md`
+- **aso-audit**: When the user wants a full ASO health audit, review their App Store listing qual
+  - `44-Cong-Dong-Tiep-Thi-Mang-Xa-Hoi\Eronred__aso-skills\skills\aso-audit\SKILL.md`
+- **audit-augmentation**: >
+  - `10-Bao-Mat-Trail-of-Bits\plugins\trailmark\skills\audit-augmentation\SKILL.md`
+- **auditing-aws-s3-bucket-permissions**: Systematically audit AWS S3 bucket permissions to identify publicly accessible b
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\auditing-aws-s3-bucket-permissions\SKILL.md`
+- **auditing-cloud-with-cis-benchmarks**: This skill details how to conduct cloud security audits using Center for Interne
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\auditing-cloud-with-cis-benchmarks\SKILL.md`
+- **auditing-gcp-iam-permissions**: Auditing Google Cloud Platform IAM permissions to identify overly permissive bin
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\auditing-gcp-iam-permissions\SKILL.md`
+- **auditing-kubernetes-cluster-rbac**: Auditing Kubernetes cluster RBAC configurations to identify overly permissive ro
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\auditing-kubernetes-cluster-rbac\SKILL.md`
+- **auditing-tls-certificate-transparency-logs**: Monitors Certificate Transparency (CT) logs to detect unauthorized certificate i
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\auditing-tls-certificate-transparency-logs\SKILL.md`
+- **automating-ioc-enrichment**: Automates the enrichment of raw indicators of compromise with multi-source threa
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\automating-ioc-enrichment\SKILL.md`
+- **building-attack-pattern-library-from-cti-reports**: Extract and catalog attack patterns from cyber threat intelligence reports into 
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\building-attack-pattern-library-from-cti-reports\SKILL.md`
+- **building-detection-rules-with-sigma**: Builds vendor-agnostic detection rules using the Sigma rule format for threat de
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\building-detection-rules-with-sigma\SKILL.md`
+- **building-ioc-enrichment-pipeline-with-opencti**: OpenCTI is an open-source platform for managing cyber threat intelligence knowle
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\building-ioc-enrichment-pipeline-with-opencti\SKILL.md`
+- **building-threat-feed-aggregation-with-misp**: Deploy MISP (Malware Information Sharing Platform) to aggregate, correlate, and 
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\building-threat-feed-aggregation-with-misp\SKILL.md`
+- **building-threat-hunt-hypothesis-framework**: Build a systematic threat hunt hypothesis framework that transforms threat intel
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\building-threat-hunt-hypothesis-framework\SKILL.md`
+- **building-threat-intelligence-enrichment-in-splunk**: Build automated threat intelligence enrichment pipelines in Splunk Enterprise Se
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\building-threat-intelligence-enrichment-in-splunk\SKILL.md`
+- **building-threat-intelligence-feed-integration**: Builds automated threat intelligence feed integration pipelines connecting STIX/
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\building-threat-intelligence-feed-integration\SKILL.md`
+- **building-threat-intelligence-platform**: Building a Threat Intelligence Platform (TIP) involves deploying and integrating
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\building-threat-intelligence-platform\SKILL.md`
+- **building-vulnerability-aging-and-sla-tracking**: Implement a vulnerability aging dashboard and SLA tracking system to measure rem
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\building-vulnerability-aging-and-sla-tracking\SKILL.md`
+- **building-vulnerability-dashboard-with-defectdojo**: Deploy DefectDojo as a centralized vulnerability management dashboard with scann
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\building-vulnerability-dashboard-with-defectdojo\SKILL.md`
+- **building-vulnerability-exception-tracking-system**: Build a vulnerability exception and risk acceptance tracking system with approva
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\building-vulnerability-exception-tracking-system\SKILL.md`
+- **building-vulnerability-scanning-workflow**: Builds a structured vulnerability scanning workflow using tools like Nessus, Qua
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\building-vulnerability-scanning-workflow\SKILL.md`
+- **c-review**: Performs comprehensive C/C++ security review for memory corruption, integer over
+  - `10-Bao-Mat-Trail-of-Bits\plugins\c-review\skills\c-review\SKILL.md`
+- **cairo-vulnerability-scanner**: Scans Cairo/StarkNet smart contracts for 6 critical vulnerabilities including fe
+  - `10-Bao-Mat-Trail-of-Bits\plugins\building-secure-contracts\skills\cairo-vulnerability-scanner\SKILL.md`
+- **citation-audit**: Zero-context verification that every bibliographic entry in the paper is real, c
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\wanshuiyin__Auto-claude-code-research-in-sleep\skills\citation-audit\SKILL.md`
+- **citation-audit**: Zero-context verification that every bibliographic entry in the paper is real, c
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\wanshuiyin__Auto-claude-code-research-in-sleep\skills\skills-codex\citation-audit\SKILL.md`
+- **clawsec-nanoclaw**: Use when checking for security vulnerabilities in NanoClaw skills, before instal
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\prompt-security__clawsec\skills\clawsec-nanoclaw\SKILL.md`
+- **clawsec-scanner**: Automated vulnerability scanner for agent platforms. Performs dependency scannin
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\prompt-security__clawsec\skills\clawsec-scanner\SKILL.md`
+- **clawtributor**: Community incident reporting for AI agents. Contribute to collective security by
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\prompt-security__clawsec\skills\clawtributor\SKILL.md`
+- **close-day**: End-of-day audit ritual — synthesize sessions into daily log, audit patterns aga
+  - `45-Cong-Dong-Ky-Thuat-Ngu-Canh\awrshift__claude-memory-kit\.claude\skills\close-day\SKILL.md`
+- **collecting-indicators-of-compromise**: Systematically collects, categorizes, and distributes indicators of compromise (
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\collecting-indicators-of-compromise\SKILL.md`
+- **collecting-open-source-intelligence**: Collects and synthesizes open-source intelligence (OSINT) about threat actors, m
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\collecting-open-source-intelligence\SKILL.md`
+- **collecting-threat-intelligence-with-misp**: MISP (Malware Information Sharing Platform) is an open-source threat intelligenc
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\collecting-threat-intelligence-with-misp\SKILL.md`
+- **conducting-internal-network-penetration-test**: Execute an internal network penetration test simulating an insider threat or pos
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\conducting-internal-network-penetration-test\SKILL.md`
+- **conducting-mobile-app-penetration-test**: Conducts penetration testing of iOS and Android mobile applications following th
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\conducting-mobile-app-penetration-test\SKILL.md`
+- **conducting-wireless-network-penetration-test**: Conducts authorized wireless network penetration tests to assess the security of
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\conducting-wireless-network-penetration-test\SKILL.md`
+- **configuring-hsm-for-key-storage**: Hardware Security Modules (HSMs) are tamper-resistant physical devices that safe
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\configuring-hsm-for-key-storage\SKILL.md`
+- **configuring-ldap-security-hardening**: Harden LDAP directory services against common attacks including credential harve
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\configuring-ldap-security-hardening\SKILL.md`
+- **configuring-suricata-for-network-monitoring**: Deploys and configures Suricata IDS/IPS with Emerging Threats rulesets, EVE JSON
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\configuring-suricata-for-network-monitoring\SKILL.md`
+- **configuring-tls-1-3-for-secure-communications**: TLS 1.3 (RFC 8446) is the latest version of the Transport Layer Security protoco
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\configuring-tls-1-3-for-secure-communications\SKILL.md`
+- **deploying-edr-agent-with-crowdstrike**: Deploys and configures CrowdStrike Falcon EDR agents across enterprise endpoints
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\deploying-edr-agent-with-crowdstrike\SKILL.md`
+- **detecting-attacks-on-historian-servers**: Detect cyber attacks targeting OT historian servers (OSIsoft PI, Ignition, Wonde
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\detecting-attacks-on-historian-servers\SKILL.md`
+- **detecting-aws-guardduty-findings-automation**: Automate AWS GuardDuty threat detection findings processing using EventBridge an
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\detecting-aws-guardduty-findings-automation\SKILL.md`
+- **detecting-bluetooth-low-energy-attacks**: Detects and analyzes Bluetooth Low Energy (BLE) security attacks including sniff
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\detecting-bluetooth-low-energy-attacks\SKILL.md`
+- **detecting-cloud-threats-with-guardduty**: This skill teaches security teams how to deploy and operationalize Amazon GuardD
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\detecting-cloud-threats-with-guardduty\SKILL.md`
+- **detecting-container-escape-with-falco-rules**: Detect container escape attempts in real-time using Falco runtime security rules
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\detecting-container-escape-with-falco-rules\SKILL.md`
+- **detecting-cryptomining-in-cloud**: This skill teaches security teams how to detect and respond to unauthorized cryp
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\detecting-cryptomining-in-cloud\SKILL.md`
+- **detecting-insider-threat-with-ueba**: Implement User and Entity Behavior Analytics using Elasticsearch/OpenSearch to b
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\detecting-insider-threat-with-ueba\SKILL.md`
+- **detecting-network-anomalies-with-zeek**: Deploys and configures Zeek (formerly Bro) network security monitor to passively
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\detecting-network-anomalies-with-zeek\SKILL.md`
+- **detecting-ntlm-relay-with-event-correlation**: Detect NTLM relay attacks through Windows Security Event correlation by analyzin
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\detecting-ntlm-relay-with-event-correlation\SKILL.md`
+- **detecting-privilege-escalation-in-kubernetes-pods**: Detect and prevent privilege escalation in Kubernetes pods by monitoring securit
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\detecting-privilege-escalation-in-kubernetes-pods\SKILL.md`
+- **detecting-rdp-brute-force-attacks**: Detect RDP brute force attacks by analyzing Windows Security Event Logs for fail
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\detecting-rdp-brute-force-attacks\SKILL.md`
+- **detecting-stuxnet-style-attacks**: This skill covers detecting sophisticated cyber-physical attacks that follow the
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\detecting-stuxnet-style-attacks\SKILL.md`
+- **evaluating-threat-intelligence-platforms**: Evaluates and selects Threat Intelligence Platform (TIP) products based on organ
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\evaluating-threat-intelligence-platforms\SKILL.md`
+- **experiment-audit**: Audit experiment integrity before claiming results. Uses cross-model review (GPT
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\wanshuiyin__Auto-claude-code-research-in-sleep\skills\experiment-audit\SKILL.md`
+- **experiment-audit**: Audit experiment integrity before claiming results. Uses cross-model review (GPT
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\wanshuiyin__Auto-claude-code-research-in-sleep\skills\skills-codex\experiment-audit\SKILL.md`
+- **exploiting-bgp-hijacking-vulnerabilities**: Analyzes and simulates BGP hijacking scenarios in authorized lab environments to
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\exploiting-bgp-hijacking-vulnerabilities\SKILL.md`
+- **exploiting-broken-link-hijacking**: Discover and exploit broken link hijacking vulnerabilities by identifying refere
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\exploiting-broken-link-hijacking\SKILL.md`
+- **exploiting-deeplink-vulnerabilities**: Tests and exploits deep link (URL scheme and App Link) vulnerabilities in Androi
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\exploiting-deeplink-vulnerabilities\SKILL.md`
+- **exploiting-idor-vulnerabilities**: Identifying and exploiting Insecure Direct Object Reference vulnerabilities to a
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\exploiting-idor-vulnerabilities\SKILL.md`
+- **exploiting-insecure-data-storage-in-mobile**: Identifies and exploits insecure local data storage vulnerabilities in Android a
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\exploiting-insecure-data-storage-in-mobile\SKILL.md`
+- **exploiting-jwt-algorithm-confusion-attack**: Exploits JWT algorithm confusion vulnerabilities where the server
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\exploiting-jwt-algorithm-confusion-attack\SKILL.md`
+- **exploiting-nopac-cve-2021-42278-42287**: Exploit the noPac vulnerability chain (CVE-2021-42278 sAMAccountName spoofing an
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\exploiting-nopac-cve-2021-42278-42287\SKILL.md`
+- **exploiting-nosql-injection-vulnerabilities**: Detect and exploit NoSQL injection vulnerabilities in MongoDB, CouchDB, and othe
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\exploiting-nosql-injection-vulnerabilities\SKILL.md`
+- **exploiting-race-condition-vulnerabilities**: Detect and exploit race condition vulnerabilities in web applications using Turb
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\exploiting-race-condition-vulnerabilities\SKILL.md`
+- **exploiting-smb-vulnerabilities-with-metasploit**: Identifies and exploits SMB protocol vulnerabilities using Metasploit Framework 
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\exploiting-smb-vulnerabilities-with-metasploit\SKILL.md`
+- **exploiting-sql-injection-vulnerabilities**: Identifies and exploits SQL injection vulnerabilities in web applications during
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\exploiting-sql-injection-vulnerabilities\SKILL.md`
+- **exploiting-template-injection-vulnerabilities**: Detecting and exploiting Server-Side Template Injection (SSTI) vulnerabilities a
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\exploiting-template-injection-vulnerabilities\SKILL.md`
+- **exploiting-type-juggling-vulnerabilities**: Exploit PHP type juggling vulnerabilities caused by loose comparison operators t
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\exploiting-type-juggling-vulnerabilities\SKILL.md`
+- **exploiting-vulnerabilities-with-metasploit-framework**: The Metasploit Framework is the world
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\exploiting-vulnerabilities-with-metasploit-framework\SKILL.md`
+- **exploiting-websocket-vulnerabilities**: Testing WebSocket implementations for authentication bypass, cross-site hijackin
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\exploiting-websocket-vulnerabilities\SKILL.md`
+- **exploiting-zerologon-vulnerability-cve-2020-1472**: Exploit the Zerologon vulnerability (CVE-2020-1472) in the Netlogon Remote Proto
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\exploiting-zerologon-vulnerability-cve-2020-1472\SKILL.md`
+- **firebase**: Firebase Firestore, Auth, Storage, real-time listeners, security rules
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\alinaqi__claude-bootstrap\skills\firebase\SKILL.md`
+- **firebase-apk-scanner**: Scans Android APKs for Firebase security misconfigurations including open databa
+  - `10-Bao-Mat-Trail-of-Bits\plugins\firebase-apk-scanner\skills\firebase-apk-scanner\SKILL.md`
+- **firebase-security-rules-auditor**: A skill to evaluate how secure Firestore security rules are. Use this when Fires
+  - `20-Firebase\firebase-security-rules-auditor\SKILL.md`
+- **firebase-security-rules-auditor**: A skill to evaluate how secure Firestore security rules are. Use this when Fires
+  - `20-Firebase\_repo\skills\firebase-security-rules-auditor\SKILL.md`
+- **fixing-motion-performance**: Audit and fix animation performance issues including layout thrashing, composito
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\ibelick__ui-skills\skills\fixing-motion-performance\SKILL.md`
+- **fp-check**: Systematically verifies suspected security bugs to eliminate false positives. Pr
+  - `10-Bao-Mat-Trail-of-Bits\plugins\fp-check\skills\fp-check\SKILL.md`
+- **generating-threat-intelligence-reports**: Generates structured cyber threat intelligence reports at strategic, operational
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\generating-threat-intelligence-reports\SKILL.md`
+- **hardening-windows-endpoint-with-cis-benchmark**: Hardens Windows endpoints using CIS (Center for Internet Security) Benchmark rec
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\hardening-windows-endpoint-with-cis-benchmark\SKILL.md`
+- **hermes-attestation-guardian**: Hermes-only runtime security attestation and drift detection skill for operator-
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\prompt-security__clawsec\skills\hermes-attestation-guardian\SKILL.md`
+- **homepage-audit**: Full conversion audit for any homepage or landing page. Use when someone asks to
+  - `44-Cong-Dong-Tiep-Thi-Mang-Xa-Hoi\BrianRWagner__ai-marketing-skills\homepage-audit\SKILL.md`
+- **implementing-anti-phishing-training-program**: Security awareness training is the human layer of phishing defense. An effective
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\implementing-anti-phishing-training-program\SKILL.md`
+- **implementing-aqua-security-for-container-scanning**: Deploy Aqua Security
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\implementing-aqua-security-for-container-scanning\SKILL.md`
+- **implementing-attack-path-analysis-with-xm-cyber**: Deploy XM Cyber
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\implementing-attack-path-analysis-with-xm-cyber\SKILL.md`
+- **implementing-aws-nitro-enclave-security**: Implements AWS Nitro Enclave-based confidential computing environments with cryp
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\implementing-aws-nitro-enclave-security\SKILL.md`
+- **implementing-aws-security-hub**: This skill covers deploying AWS Security Hub as a centralized cloud security pos
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\implementing-aws-security-hub\SKILL.md`
+- **implementing-aws-security-hub-compliance**: Implementing AWS Security Hub to aggregate security findings across AWS accounts
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\implementing-aws-security-hub-compliance\SKILL.md`
+- **implementing-bgp-security-with-rpki**: Implement BGP route origin validation using RPKI with Route Origin Authorization
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\implementing-bgp-security-with-rpki\SKILL.md`
+- **implementing-cloud-security-posture-management**: Implementing Cloud Security Posture Management (CSPM) to continuously monitor mu
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\implementing-cloud-security-posture-management\SKILL.md`
+- **implementing-cloud-trail-log-analysis**: Implementing AWS CloudTrail log analysis for security monitoring, threat detecti
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\implementing-cloud-trail-log-analysis\SKILL.md`
+- **implementing-conduit-security-for-ot-remote-access**: Implement secure conduit architecture for OT remote access following IEC 62443 z
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\implementing-conduit-security-for-ot-remote-access\SKILL.md`
+- **implementing-continuous-security-validation-with-bas**: Deploy Breach and Attack Simulation tools to continuously validate security cont
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\implementing-continuous-security-validation-with-bas\SKILL.md`
+- **implementing-devsecops-security-scanning**: Integrates Static Application Security Testing (SAST), Dynamic Application Secur
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\implementing-devsecops-security-scanning\SKILL.md`
+- **implementing-diamond-model-analysis**: The Diamond Model of Intrusion Analysis provides a structured framework for anal
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\implementing-diamond-model-analysis\SKILL.md`
+- **implementing-dmarc-dkim-spf-email-security**: SPF, DKIM, and DMARC form the three pillars of email authentication. Together th
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\implementing-dmarc-dkim-spf-email-security\SKILL.md`
+- **implementing-ebpf-security-monitoring**: Implements eBPF-based security monitoring using Cilium Tetragon for real-time pr
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\implementing-ebpf-security-monitoring\SKILL.md`
+- **implementing-epss-score-for-vulnerability-prioritization**: Integrate FIRST
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\implementing-epss-score-for-vulnerability-prioritization\SKILL.md`
+- **implementing-gcp-binary-authorization**: Implement GCP Binary Authorization to enforce deploy-time security controls that
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\implementing-gcp-binary-authorization\SKILL.md`
+- **implementing-gcp-organization-policy-constraints**: Implement GCP Organization Policy constraints to enforce security guardrails acr
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\implementing-gcp-organization-policy-constraints\SKILL.md`
+- **implementing-gcp-vpc-firewall-rules**: Implementing and auditing GCP VPC firewall rules to enforce network segmentation
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\implementing-gcp-vpc-firewall-rules\SKILL.md`
+- **implementing-hardware-security-key-authentication**: Implements FIDO2/WebAuthn hardware security key authentication including registr
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\implementing-hardware-security-key-authentication\SKILL.md`
+- **implementing-iso-27001-information-security-management**: ISO/IEC 27001:2022 is the international standard for establishing, implementing,
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\implementing-iso-27001-information-security-management\SKILL.md`
+- **implementing-kubernetes-pod-security-standards**: Pod Security Standards (PSS) define three levels of security policies -- Privile
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\implementing-kubernetes-pod-security-standards\SKILL.md`
+- **implementing-llm-guardrails-for-security**: Implements input and output validation guardrails for LLM-powered applications t
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\implementing-llm-guardrails-for-security\SKILL.md`
+- **implementing-mimecast-targeted-attack-protection**: Deploy Mimecast Targeted Threat Protection including URL Protect, Attachment Pro
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\implementing-mimecast-targeted-attack-protection\SKILL.md`
+- **implementing-network-intrusion-prevention-with-suricata**: Deploy and configure Suricata as a network intrusion prevention system with cust
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\implementing-network-intrusion-prevention-with-suricata\SKILL.md`
+- **implementing-privileged-access-management-with-cyberark**: Deploy CyberArk Privileged Access Management to discover, vault, rotate, and mon
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\implementing-privileged-access-management-with-cyberark\SKILL.md`
+- **implementing-proofpoint-email-security-gateway**: Deploy and configure Proofpoint Email Protection as a secure email gateway to de
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\implementing-proofpoint-email-security-gateway\SKILL.md`
+- **implementing-rbac-hardening-for-kubernetes**: Harden Kubernetes Role-Based Access Control by implementing least-privilege poli
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\implementing-rbac-hardening-for-kubernetes\SKILL.md`
+- **implementing-runtime-security-with-tetragon**: Implement eBPF-based runtime security observability and enforcement in Kubernete
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\implementing-runtime-security-with-tetragon\SKILL.md`
+- **implementing-semgrep-for-custom-sast-rules**: Write custom Semgrep SAST rules in YAML to detect application-specific vulnerabi
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\implementing-semgrep-for-custom-sast-rules\SKILL.md`
+- **implementing-soar-automation-with-phantom**: Implements Security Orchestration, Automation, and Response (SOAR) workflows usi
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\implementing-soar-automation-with-phantom\SKILL.md`
+- **implementing-soar-playbook-with-palo-alto-xsoar**: Implement automated incident response playbooks in Cortex XSOAR to orchestrate s
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\implementing-soar-playbook-with-palo-alto-xsoar\SKILL.md`
+- **implementing-stix-taxii-feed-integration**: STIX (Structured Threat Information eXpression) and TAXII (Trusted Automated eXc
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\implementing-stix-taxii-feed-integration\SKILL.md`
+- **implementing-supply-chain-security-with-in-toto**: Implement software supply chain integrity verification for container builds usin
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\implementing-supply-chain-security-with-in-toto\SKILL.md`
+- **implementing-taxii-server-with-opentaxii**: Deploy and configure an OpenTAXII server to share and consume STIX-formatted cyb
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\implementing-taxii-server-with-opentaxii\SKILL.md`
+- **implementing-threat-intelligence-lifecycle-management**: Implement a structured threat intelligence lifecycle encompassing planning, coll
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\implementing-threat-intelligence-lifecycle-management\SKILL.md`
+- **implementing-vulnerability-remediation-sla**: Vulnerability remediation SLAs define mandatory timeframes for patching or mitig
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\implementing-vulnerability-remediation-sla\SKILL.md`
+- **implementing-vulnerability-sla-breach-alerting**: Build automated alerting for vulnerability remediation SLA breaches with severit
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\implementing-vulnerability-sla-breach-alerting\SKILL.md`
+- **implementing-web-application-logging-with-modsecurity**: Configure ModSecurity WAF with OWASP Core Rule Set (CRS) for web application log
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\implementing-web-application-logging-with-modsecurity\SKILL.md`
+- **implementing-zero-standing-privilege-with-cyberark**: Deploy CyberArk Secure Cloud Access to eliminate standing privileges in hybrid a
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\implementing-zero-standing-privilege-with-cyberark\SKILL.md`
+- **implementing-zero-trust-dns-with-nextdns**: Implement NextDNS as a zero trust DNS filtering layer with encrypted resolution,
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\implementing-zero-trust-dns-with-nextdns\SKILL.md`
+- **integrating-dast-with-owasp-zap-in-pipeline**: This skill covers integrating OWASP ZAP (Zed Attack Proxy) for Dynamic Applicati
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\integrating-dast-with-owasp-zap-in-pipeline\SKILL.md`
+- **investigating-insider-threat-indicators**: Investigates insider threat indicators including data exfiltration attempts, una
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\investigating-insider-threat-indicators\SKILL.md`
+- **managing-intelligence-lifecycle**: Manages the end-to-end cyber threat intelligence lifecycle from planning and dir
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\managing-intelligence-lifecycle\SKILL.md`
+- **openclaw-audit-watchdog**: Automated daily security audits for OpenClaw agents with DM delivery and optiona
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\prompt-security__clawsec\skills\openclaw-audit-watchdog\SKILL.md`
+- **paper-claim-audit**: Zero-context verification that every number, comparison, and scope claim in the 
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\wanshuiyin__Auto-claude-code-research-in-sleep\skills\paper-claim-audit\SKILL.md`
+- **paper-claim-audit**: Zero-context verification that every number, comparison, and scope claim in the 
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\wanshuiyin__Auto-claude-code-research-in-sleep\skills\skills-codex\paper-claim-audit\SKILL.md`
+- **performing-active-directory-forest-trust-attack**: Enumerate and audit Active Directory forest trust relationships using impacket f
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-active-directory-forest-trust-attack\SKILL.md`
+- **performing-active-directory-vulnerability-assessment**: Assess Active Directory security posture using PingCastle, BloodHound, and Purpl
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-active-directory-vulnerability-assessment\SKILL.md`
+- **performing-agentless-vulnerability-scanning**: Configure and execute agentless vulnerability scanning using network protocols, 
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-agentless-vulnerability-scanning\SKILL.md`
+- **performing-android-app-static-analysis-with-mobsf**: Performs automated static analysis of Android applications using Mobile Security
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-android-app-static-analysis-with-mobsf\SKILL.md`
+- **performing-asset-criticality-scoring-for-vulns**: Develop and apply a multi-factor asset criticality scoring model to weight vulne
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-asset-criticality-scoring-for-vulns\SKILL.md`
+- **performing-authenticated-scan-with-openvas**: Configure and execute authenticated vulnerability scans using OpenVAS/Greenbone 
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-authenticated-scan-with-openvas\SKILL.md`
+- **performing-authenticated-vulnerability-scan**: Authenticated (credentialed) vulnerability scanning uses valid system credential
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-authenticated-vulnerability-scan\SKILL.md`
+- **performing-aws-account-enumeration-with-scout-suite**: Perform comprehensive security posture assessment of AWS accounts using ScoutSui
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-aws-account-enumeration-with-scout-suite\SKILL.md`
+- **performing-blind-ssrf-exploitation**: Detect and exploit blind Server-Side Request Forgery vulnerabilities using out-o
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-blind-ssrf-exploitation\SKILL.md`
+- **performing-bluetooth-security-assessment**: Assess Bluetooth Low Energy device security by scanning, enumerating GATT servic
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-bluetooth-security-assessment\SKILL.md`
+- **performing-clickjacking-attack-test**: Testing web applications for clickjacking vulnerabilities by assessing frame emb
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-clickjacking-attack-test\SKILL.md`
+- **performing-cloud-asset-inventory-with-cartography**: Perform comprehensive cloud asset inventory and relationship mapping using Carto
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-cloud-asset-inventory-with-cartography\SKILL.md`
+- **performing-cloud-native-forensics-with-falco**: Uses Falco YAML rules for runtime threat detection in containers and Kubernetes,
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-cloud-native-forensics-with-falco\SKILL.md`
+- **performing-cloud-native-threat-hunting-with-aws-detective**: Hunt for threats in AWS environments using Detective behavior graphs, entity inv
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-cloud-native-threat-hunting-with-aws-detective\SKILL.md`
+- **performing-container-security-scanning-with-trivy**: Scan container images, filesystems, and Kubernetes manifests for vulnerabilities
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-container-security-scanning-with-trivy\SKILL.md`
+- **performing-cryptographic-audit-of-application**: A cryptographic audit systematically reviews an application
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-cryptographic-audit-of-application\SKILL.md`
+- **performing-csrf-attack-simulation**: Testing web applications for Cross-Site Request Forgery vulnerabilities by craft
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-csrf-attack-simulation\SKILL.md`
+- **performing-cve-prioritization-with-kev-catalog**: Leverage the CISA Known Exploited Vulnerabilities catalog alongside EPSS and CVS
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-cve-prioritization-with-kev-catalog\SKILL.md`
+- **performing-dark-web-monitoring-for-threats**: Dark web monitoring involves systematically scanning Tor hidden services, underg
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-dark-web-monitoring-for-threats\SKILL.md`
+- **performing-endpoint-vulnerability-remediation**: Performs vulnerability remediation on endpoints by prioritizing CVEs based on ri
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-endpoint-vulnerability-remediation\SKILL.md`
+- **performing-external-network-penetration-test**: Conduct a comprehensive external network penetration test to identify vulnerabil
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-external-network-penetration-test\SKILL.md`
+- **performing-gcp-penetration-testing-with-gcpbucketbrute**: Perform GCP security testing using GCPBucketBrute for storage bucket enumeration
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-gcp-penetration-testing-with-gcpbucketbrute\SKILL.md`
+- **performing-gcp-security-assessment-with-forseti**: Performing comprehensive security assessments of Google Cloud Platform environme
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-gcp-security-assessment-with-forseti\SKILL.md`
+- **performing-hardware-security-module-integration**: Integrate Hardware Security Modules (HSMs) using PKCS#11 interface for cryptogra
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-hardware-security-module-integration\SKILL.md`
+- **performing-http-parameter-pollution-attack**: Execute HTTP Parameter Pollution attacks to bypass input validation, WAF rules, 
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-http-parameter-pollution-attack\SKILL.md`
+- **performing-insider-threat-investigation**: Investigates insider threat incidents involving employees, contractors, or trust
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-insider-threat-investigation\SKILL.md`
+- **performing-ios-app-security-assessment**: Performs comprehensive iOS application security assessments using Frida for dyna
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-ios-app-security-assessment\SKILL.md`
+- **performing-iot-security-assessment**: Performs comprehensive security assessments of IoT devices and their ecosystems 
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-iot-security-assessment\SKILL.md`
+- **performing-kubernetes-cis-benchmark-with-kube-bench**: Audit Kubernetes cluster security posture against CIS benchmarks using kube-benc
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-kubernetes-cis-benchmark-with-kube-bench\SKILL.md`
+- **performing-kubernetes-etcd-security-assessment**: Assess the security posture of Kubernetes etcd clusters by evaluating encryption
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-kubernetes-etcd-security-assessment\SKILL.md`
+- **performing-kubernetes-penetration-testing**: Kubernetes penetration testing systematically evaluates cluster security by simu
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-kubernetes-penetration-testing\SKILL.md`
+- **performing-log-analysis-for-forensic-investigation**: Collect, parse, and correlate system, application, and security logs to reconstr
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-log-analysis-for-forensic-investigation\SKILL.md`
+- **performing-oil-gas-cybersecurity-assessment**: This skill covers conducting cybersecurity assessments specific to oil and gas f
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-oil-gas-cybersecurity-assessment\SKILL.md`
+- **performing-ot-network-security-assessment**: This skill covers conducting comprehensive security assessments of Operational T
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-ot-network-security-assessment\SKILL.md`
+- **performing-ot-vulnerability-assessment-with-claroty**: This skill covers performing vulnerability assessments in OT environments using 
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-ot-vulnerability-assessment-with-claroty\SKILL.md`
+- **performing-ot-vulnerability-scanning-safely**: Perform vulnerability scanning in OT/ICS environments safely using passive monit
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-ot-vulnerability-scanning-safely\SKILL.md`
+- **performing-packet-injection-attack**: Crafts and injects custom network packets using Scapy, hping3, and Nemesis durin
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-packet-injection-attack\SKILL.md`
+- **performing-phishing-simulation-with-gophish**: GoPhish is an open-source phishing simulation framework used by security teams t
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-phishing-simulation-with-gophish\SKILL.md`
+- **performing-plc-firmware-security-analysis**: This skill covers analyzing Programmable Logic Controller (PLC) firmware for sec
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-plc-firmware-security-analysis\SKILL.md`
+- **performing-power-grid-cybersecurity-assessment**: This skill covers conducting cybersecurity assessments of electric power grid in
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-power-grid-cybersecurity-assessment\SKILL.md`
+- **performing-s7comm-protocol-security-analysis**: Perform security analysis of Siemens S7comm and S7CommPlus protocols used by SIM
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-s7comm-protocol-security-analysis\SKILL.md`
+- **performing-sca-dependency-scanning-with-snyk**: This skill covers implementing Software Composition Analysis (SCA) using Snyk to
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-sca-dependency-scanning-with-snyk\SKILL.md`
+- **performing-second-order-sql-injection**: Detect and exploit second-order SQL injection vulnerabilities where malicious in
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-second-order-sql-injection\SKILL.md`
+- **performing-service-account-audit**: Audit service accounts across enterprise infrastructure to identify orphaned, ov
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-service-account-audit\SKILL.md`
+- **performing-soap-web-service-security-testing**: Perform security testing of SOAP web services by analyzing WSDL definitions and 
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-soap-web-service-security-testing\SKILL.md`
+- **performing-soc-tabletop-exercise**: Performs tabletop exercises for SOC teams simulating security incidents through 
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-soc-tabletop-exercise\SKILL.md`
+- **performing-soc2-type2-audit-preparation**: Automates SOC 2 Type II audit preparation including gap assessment against AICPA
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-soc2-type2-audit-preparation\SKILL.md`
+- **performing-ssl-tls-inspection-configuration**: Configure SSL/TLS inspection on network security devices to decrypt, inspect, an
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-ssl-tls-inspection-configuration\SKILL.md`
+- **performing-threat-hunting-with-elastic-siem**: Performs proactive threat hunting in Elastic Security SIEM using KQL/EQL queries
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-threat-hunting-with-elastic-siem\SKILL.md`
+- **performing-threat-hunting-with-yara-rules**: Use YARA pattern-matching rules to hunt for malware, suspicious files, and indic
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-threat-hunting-with-yara-rules\SKILL.md`
+- **performing-threat-intelligence-sharing-with-misp**: Use PyMISP to create, enrich, and share threat intelligence events on a MISP pla
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-threat-intelligence-sharing-with-misp\SKILL.md`
+- **performing-threat-landscape-assessment-for-sector**: Conduct a sector-specific threat landscape assessment by analyzing threat actor 
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-threat-landscape-assessment-for-sector\SKILL.md`
+- **performing-threat-modeling-with-owasp-threat-dragon**: Use OWASP Threat Dragon to create data flow diagrams, identify threats using STR
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-threat-modeling-with-owasp-threat-dragon\SKILL.md`
+- **performing-vulnerability-scanning-with-nessus**: Performs authenticated and unauthenticated vulnerability scanning using Tenable 
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-vulnerability-scanning-with-nessus\SKILL.md`
+- **performing-web-application-penetration-test**: Performs systematic security testing of web applications following the OWASP Web
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-web-application-penetration-test\SKILL.md`
+- **performing-web-application-vulnerability-triage**: Triage web application vulnerability findings from DAST/SAST scanners using OWAS
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-web-application-vulnerability-triage\SKILL.md`
+- **performing-wireless-network-penetration-test**: Execute a wireless network penetration test to assess WiFi security by capturing
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-wireless-network-penetration-test\SKILL.md`
+- **performing-wireless-security-assessment-with-kismet**: Conduct wireless network security assessments using Kismet to detect rogue acces
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\performing-wireless-security-assessment-with-kismet\SKILL.md`
+- **prioritizing-vulnerabilities-with-cvss-scoring**: The Common Vulnerability Scoring System (CVSS) is the industry standard framewor
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\prioritizing-vulnerabilities-with-cvss-scoring\SKILL.md`
+- **processing-stix-taxii-feeds**: Processes STIX 2.1 threat intelligence bundles delivered via TAXII 2.1 servers, 
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\processing-stix-taxii-feeds\SKILL.md`
+- **profiling-threat-actor-groups**: Develops comprehensive threat actor profiles for APT groups, criminal organizati
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\profiling-threat-actor-groups\SKILL.md`
+- **query-token-audit**: |
+  - `30-Binance\query-token-audit\skills\binance-web3\query-token-audit\SKILL.md`
+- **scanning-container-images-with-grype**: Scan container images for known vulnerabilities using Anchore Grype with SBOM-ba
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\scanning-container-images-with-grype\SKILL.md`
+- **scanning-containers-with-trivy-in-cicd**: This skill covers integrating Aqua Security
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\scanning-containers-with-trivy-in-cicd\SKILL.md`
+- **scanning-kubernetes-manifests-with-kubesec**: Perform security risk analysis on Kubernetes resource manifests using Kubesec to
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\scanning-kubernetes-manifests-with-kubesec\SKILL.md`
+- **securing-container-registry-images**: Securing container registry images by implementing vulnerability scanning with T
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\securing-container-registry-images\SKILL.md`
+- **securing-container-registry-with-harbor**: Harbor is an open-source container registry that provides security features incl
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\securing-container-registry-with-harbor\SKILL.md`
+- **securing-kubernetes-on-cloud**: This skill covers hardening managed Kubernetes clusters on EKS, AKS, and GKE by 
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\securing-kubernetes-on-cloud\SKILL.md`
+- **security**: OWASP security patterns, secrets management, security testing
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\alinaqi__claude-bootstrap\skills\security\SKILL.md`
+- **security-best-practices**: Perform language and framework specific security best-practice reviews and sugge
+  - `03-OpenAI\openai-security-best-practices\SKILL.md`
+- **security-review-openai**: Perform language and framework specific security best-practice reviews and sugge
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\lawvable__awesome-legal-skills\skills\security-review-openai\SKILL.md`
+- **security-threat-model**: Repository-grounded threat modeling that enumerates trust boundaries, assets, at
+  - `03-OpenAI\openai-security-threat-model\SKILL.md`
+- **solana-vulnerability-scanner**: Scans Solana programs for 6 critical vulnerabilities including arbitrary CPI, im
+  - `10-Bao-Mat-Trail-of-Bits\plugins\building-secure-contracts\skills\solana-vulnerability-scanner\SKILL.md`
+- **supply-chain-risk-auditor**: Identifies dependencies at heightened risk of exploitation or takeover. Use when
+  - `10-Bao-Mat-Trail-of-Bits\plugins\supply-chain-risk-auditor\skills\supply-chain-risk-auditor\SKILL.md`
+- **swot-analysis**: Perform a detailed SWOT analysis — strengths, weaknesses, opportunities, and thr
+  - `05-Quan-Ly-San-Pham-Pawel-Huryn\pm-product-strategy\skills\swot-analysis\SKILL.md`
+- **testing-android-intents-for-vulnerabilities**: Tests Android inter-process communication (IPC) through intents for vulnerabilit
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\testing-android-intents-for-vulnerabilities\SKILL.md`
+- **testing-for-broken-access-control**: Systematically testing web applications for broken access control vulnerabilitie
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\testing-for-broken-access-control\SKILL.md`
+- **testing-for-business-logic-vulnerabilities**: Identifying flaws in application business logic that allow price manipulation, w
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\testing-for-business-logic-vulnerabilities\SKILL.md`
+- **testing-for-json-web-token-vulnerabilities**: Test JWT implementations for critical vulnerabilities including algorithm confus
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\testing-for-json-web-token-vulnerabilities\SKILL.md`
+- **testing-for-open-redirect-vulnerabilities**: Identify and test open redirect vulnerabilities in web applications by analyzing
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\testing-for-open-redirect-vulnerabilities\SKILL.md`
+- **testing-for-xml-injection-vulnerabilities**: Test web applications for XML injection vulnerabilities including XXE, XPath inj
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\testing-for-xml-injection-vulnerabilities\SKILL.md`
+- **testing-for-xss-vulnerabilities-with-burpsuite**: Identifying and validating cross-site scripting vulnerabilities using Burp Suite
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\testing-for-xss-vulnerabilities-with-burpsuite\SKILL.md`
+- **testing-jwt-token-security**: Assessing JSON Web Token implementations for cryptographic weaknesses, algorithm
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\testing-jwt-token-security\SKILL.md`
+- **ton-vulnerability-scanner**: Scans TON (The Open Network) smart contracts for 3 critical vulnerabilities incl
+  - `10-Bao-Mat-Trail-of-Bits\plugins\building-secure-contracts\skills\ton-vulnerability-scanner\SKILL.md`
+- **triaging-security-alerts-in-splunk**: Triages security alerts in Splunk Enterprise Security by classifying severity, i
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\triaging-security-alerts-in-splunk\SKILL.md`
+- **triaging-security-incident**: Performs initial triage of security incidents to determine severity, scope, and 
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\triaging-security-incident\SKILL.md`
+- **triaging-security-incident-with-ir-playbook**: Classify and prioritize security incidents using structured IR playbooks to dete
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\triaging-security-incident-with-ir-playbook\SKILL.md`
+- **triaging-vulnerabilities-with-ssvc-framework**: Triage and prioritize vulnerabilities using CISA
+  - `41-Cong-Dong-Phat-Trien-Kiem-Thu\mukul975__Anthropic-Cybersecurity-Skills\skills\triaging-vulnerabilities-with-ssvc-framework\SKILL.md`
+- **whistleblower-policy-malik-taiar**: Guide for (a) auditing an existing whistleblower system or (b) drafting a compli
+  - `43-Cong-Dong-Chuyen-Nganh-Dac-Thu\lawvable__awesome-legal-skills\skills\politique-lanceur-alerte-malik-taiar\SKILL.md`
